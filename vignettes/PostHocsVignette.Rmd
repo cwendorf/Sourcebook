@@ -1,0 +1,43 @@
+---
+title: "Statistics for Social Science"
+author: "Craig A. Wendorf"
+date: "`r Sys.Date()`"
+output: 
+  rmarkdown::html_vignette:
+    keep_md: TRUE
+vignette: >
+  %\VignetteIndexEntry{Post Hoc Tests}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r,include=FALSE}
+#suppress the warnings and other messages from showing in the knitted file.
+knitr::opts_chunk$set(fig.width=7, fig.height=5,fig.path='figures/',echo=TRUE,warning=FALSE,message=FALSE)
+```
+
+## Post Hoc Tests
+
+### Enter Data
+
+```{r}
+Factor <- c(rep(1,4),rep(2,4),rep(3,4))
+Outcome <- c(0,0,3,5,4,7,4,9,9,6,4,9)
+Factor <- factor(Factor,levels=c(1,2,3))
+PostHocsData <- data.frame(Factor,Outcome)
+PostHocsData
+```
+
+### Calculate One Way ANOVA
+
+```{r}
+Results <- aov(Outcome~Factor)
+model.tables(Results,"means")
+summary(Results)
+```
+
+### Calculate Post Hoc Tests
+
+```{r}
+TukeyHSD(Results)
+```
