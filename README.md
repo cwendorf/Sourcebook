@@ -1,5 +1,8 @@
 # Statistics for Social Science
-## A Sourcebook of Basic Statistical Methods
+
+**A Sourcebook of Basic Statistical Methods**
+
+---
 
 ### Overview of the Sourcebook
 
@@ -11,4 +14,4 @@ This repository offers the calculations in R. Data sets and vignettes are includ
 
 ### References
 
-Wendorf, C. A. (2019). Statistics for social science: A sourcebook of basic statistical methods. https://www4.uwsp.edu/psych/cw/statistics/sourcebook.htm
+Wendorf, C. A. (2019). _Statistics for social science: A sourcebook of basic statistical methods._ https://www4.uwsp.edu/psych/cw/statistics/sourcebook.htm
