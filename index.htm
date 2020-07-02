@@ -1,0 +1,258 @@
+<!DOCTYPE html PUBLIC>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<!--Begin Meta Section-->
+
+<head>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="description" content="An online sourcebook that integrates: statistics concepts and calculations; SPSS, jamovi, and JASP usage and output; and APA styles results presentations."> 
+	<title>Statistics: A Sourcebook</title>
+
+	<style type="text/css">
+
+		html {
+			min-width: 440px;
+		}
+		body {
+			background: #444; 
+			margin: 0px;
+			font-family: Calibri, Verdana, Arial;
+		}
+		#LocationContainer {
+			position: absolute; 
+			background: #ddd; 
+			height: 50px; 
+			width: 100%; 
+			margin: 0px; 
+			min-width: 460px;
+			border-bottom: 1px solid gray;
+			border-top: 1px solid gray;
+		}
+		#LocationContent {
+			margin: auto;
+			font-size: 24px;
+			font-weight: bold;
+			font-variant: small-caps;
+			font-weight: bold;
+		}
+		#LocationContent UL {
+			margin: 0px auto;
+			padding: 0px;
+		}
+		#LocationContent LI {
+			list-style: none;
+			float: left;
+			text-align: center;
+			border-right: 1px solid silver;
+		}
+		#LocationContent A {
+			display: block;
+			text-decoration: none; 
+			padding: 10px 10px;
+			color: black;
+			height: 30px;
+		}
+		#LocationContent A:hover {
+			background: rgba(160,160,160,.1);
+			color: black;
+		}
+		#SidebarContainer {
+			position: absolute; 
+			top: 51px; 
+			width: 100%; 
+			display: none;
+		}
+		#SidebarContent {
+			float: left;
+			width: 100%;
+			padding: 0px;
+			text-align: left;
+		}
+		#SidebarContent UL {
+			display: block;
+			margin: 0px;
+			padding-left: 0px;
+			font-weight: bold;
+			font-variant: small-caps;
+			font-size: 20px;
+		}
+		#SidebarContent LI {
+			list-style: none;
+			padding: 0px 0px;
+			background: #ddd;
+			color: ;
+			text-align: center;
+		}
+		.menuSub {
+			border: 1px solid #ddd;
+		}
+		#SidebarContent A {
+			display: block;
+			text-decoration: none; 
+			padding: 8px 4px;
+		}
+		.LinkContainer DIV {
+			border-bottom: 1px solid silver;
+		}
+		#SidebarContent LI UL {
+			font-weight: normal;
+			font-variant: normal;
+			display: none;
+		}
+		#SidebarContent LI UL LI {
+			background: #f1f1f1;
+			border-bottom: 1px solid silver;
+		}
+		#SidebarContent LI A {
+			color: black;
+			font-size: 22px;
+		}
+		#SidebarContent LI A:hover {
+			background: rgba(160,160,160,.1);
+			color: black;
+		}
+		#SidebarContent LI LI A {
+			padding-left: 10px;
+			color: red;
+			font-size: 20px;
+		}
+		#SidebarContent LI LI A:hover {
+			background: rgba(160,160,160,.1);
+			color: red;
+		}
+		iframe {
+			box-sizing: border-box;
+			height: 100%;
+			margin: 0px;
+			padding: 50px 0px 0px 0px;
+			min-width: 440px;
+		}
+		@media all and (min-width: 50px) and (max-width: 749px) {
+			#SoftLinks {display: none;}
+			#SideDown {display: block;}
+		}
+		@media all and (min-width: 750px) {
+			#SoftLinks {display: block;}
+			#SideDown {display: none;}
+			.dropdown {display: none;}
+		}
+
+	</style>
+	
+	<script language="javascript">
+		function toggleDiv(divone){
+		if(document.getElementById(divone).style.display == 'block'){
+		  document.getElementById(divone).style.display = 'none';
+		}else{
+		  document.getElementById(divone).style.display = 'block';
+		}
+		}
+		function closeDiv(divtwo) {
+		document.getElementById(divtwo).style.display = 'none';
+		}
+		function openDiv(divthree) {
+		document.getElementById(divthree).style.display = 'block';
+		}
+	</script>
+
+</head>
+
+<!--End Meta Section-->
+
+<body>
+
+<!--Begin Title Section-->
+
+<div id=LocationContainer>
+<div id=LocationContent>
+	
+	<ul id=TitleLink>
+		<li><a style="padding: 0px;"><img src="Textbook.jpg" style="border-left: 10px solid red; height: 50px; width: 75px;"></a></li>
+		<li><a href="https://cwendorf.github.io/Sourcebook/" target="_parent" style="background: white; color: red;">STATISTICS: SOURCEBOOK</a></li>
+	</ul>
+
+	<ul id=SoftLinks>
+		<li><a href="javascript:void(0);" title="Methods" onmousedown="openDiv('SidebarContainer');toggleDiv('MethodsLinks');closeDiv('SPSSLinks');closeDiv('JASPLinks');closeDiv('JAMOVILinks');">Methods</a></li>
+		<li><a href="javascript:void(0);" title="SPSS" onmousedown="openDiv('SidebarContainer');toggleDiv('SPSSLinks');closeDiv('MethodsLinks');closeDiv('JASPLinks');closeDiv('JAMOVILinks');">SPSS</a></li>	
+		<li><a href="javascript:void(0);" title="jamovi" onmousedown="openDiv('SidebarContainer');toggleDiv('JAMOVILinks');closeDiv('MethodsLinks');closeDiv('SPSSLinks');closeDiv('JASPLinks');">jamovi</a></li>
+		<li><a href="javascript:void(0);" title="JASP" onmousedown="openDiv('SidebarContainer');toggleDiv('JASPLinks');closeDiv('MethodsLinks');closeDiv('SPSSLinks');closeDiv('JAMOVILinks');">JASP</a></li>
+	</ul>
+
+	<ul id=SideDown style="float: right;">
+		<li><a href="javascript:void(0);" onmousedown="toggleDiv('SidebarContainer');"><img id=MenuButton src="../assets/siteNav-black.png" style="height: 30px; width: 30px;"></a></li>
+	</ul>
+	
+</div>
+</div>
+
+<!--End Title Section-->
+
+<!--Begin Sidebar Section-->
+	  
+<div id=SidebarContainer>
+<div id=SidebarContent>
+	
+	<ul>
+		
+	<li class=LinkContainer>
+	<div class=dropdown><a href="javascript:void();" onmousedown="toggleDiv('MethodsLinks');closeDiv('SPSSLinks');closeDiv('JASPLinks');closeDiv('JAMOVILinks');">Methods</a></div>
+	<ul id=MethodsLinks>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/v72er/?action=download%26mode=render" target="content" onclick="closeDiv('MethodsLinks');closeDiv('SidebarContainer');">Methods: Statistical Analyses</a></li>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/su8bj/?action=download%26mode=render" target="content" onclick="closeDiv('MethodsLinks');closeDiv('SidebarContainer');">Methods: Statistical Tables</a></li>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/34yxa/?action=download%26mode=render" target="content" onclick="closeDiv('MethodsLinks');closeDiv('SidebarContainer');">Methods: Reporting Statistics</a></li>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/hzwt6/?action=download%26mode=render" target="content" onclick="closeDiv('MethodsLinks');closeDiv('SidebarContainer');">Methods: Worked Examples</a></li>
+	</ul>
+	</li>
+	
+	<li class=LinkContainer>
+	<div class=dropdown><a href="javascript:void();" onmousedown="toggleDiv('SPSSLinks');closeDiv('MethodsLinks');closeDiv('JASPLinks');closeDiv('JAMOVILinks');">SPSS</a></div>
+	<ul id=SPSSLinks>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/k7ev3/?action=download%26mode=render" target="content" onclick="closeDiv('SPSSLinks');closeDiv('SidebarContainer');">SPSS: Using the Software</a></li>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/8kvwa/?action=download%26mode=render" target="content" onclick="closeDiv('SPSSLinks');closeDiv('SidebarContainer');">SPSS: Annotated Output</a></li>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/qm6rk/?action=download%26mode=render" target="content" onclick="closeDiv('SPSSLinks');closeDiv('SidebarContainer');">SPSS: Blank Output</a></li>
+	</ul>
+	</li>
+	
+	<li class=LinkContainer>
+	<div class=dropdown><a href="javascript:void();" onmousedown="toggleDiv('JAMOVILinks');closeDiv('SPSSLinks');closeDiv('JASPLinks');closeDiv('MethodsLinks');">jamovi</a></div>
+	<ul id=JAMOVILinks>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/9khr3/?action=download%26mode=render" target="content" onclick="closeDiv('JAMOVILinks');closeDiv('SidebarContainer');">jamovi: Using the Software</a></li>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/pmveb/?action=download%26mode=render" target="content" onclick="closeDiv('JAMOVILinks');closeDiv('SidebarContainer');">jamovi: Annotated Output</a></li>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/knm3t/?action=download%26mode=render" target="content" onclick="closeDiv('JAMOVILinks');closeDiv('SidebarContainer');">jamovi: Blank Output</a></li>
+	</ul>
+	</li>	 
+
+	<li class=LinkContainer>
+	<div class=dropdown><a href="javascript:void();" onmousedown="toggleDiv('JASPLinks');closeDiv('SPSSLinks');closeDiv('MethodsLinks');closeDiv('JAMOVILinks');">JASP</a></div>
+	<ul id=JASPLinks>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/mxfk5/?action=download%26mode=render" target="content" onclick="closeDiv('JASPLinks');closeDiv('SidebarContainer');">JASP: Using the Software</a></li>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/mqf72/?action=download%26mode=render" target="content" onclick="closeDiv('JASPLinks');closeDiv('SidebarContainer');">JASP: Annotated Output</a></li>
+		<li><a href="https://mfr.osf.io/render?url=https://osf.io/a9xh6/?action=download%26mode=render" target="content" onclick="closeDiv('JASPLinks');closeDiv('SidebarContainer');">JASP: Blank Output</a></li>
+	</ul>
+	</li>	 
+			 
+	</ul>
+			
+</div>
+</div>
+	
+<!--End Sidebar Section-->
+
+
+<!--Start iFrame Section-->
+
+<div>
+	<iframe style="display: none;"></iframe>
+</div>
+
+<div style="overflow:hidden;" onmouseover="closeDiv('SPSSLinks');closeDiv('MethodsLinks');closeDiv('JAMOVILinks');closeDiv('JASPLinks');">
+    <iframe name=content src="https://mfr.osf.io/render?url=https://osf.io/h942s/?action=download%26mode=render" frameborder="0" width="100%"></iframe>
+</div>
+
+<!--End iFrame Section-->
+
+</body>
+</html>
