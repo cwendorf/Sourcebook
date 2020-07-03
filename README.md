@@ -20,8 +20,6 @@ The materials in this online textbook are intended to facilitate the connection 
 
 > Wendorf, C. A. (2019). _Statistics for social science: A sourcebook of basic statistical methods._ [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
 
-(This link provides a browser-friendly viewing platform.)
-
 ### Contact Me
 
 If you have any questions, contact me at [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu)
