@@ -23,3 +23,5 @@ The materials in this online textbook are intended to facilitate the connection 
 ### Contact Me
 
 If you have any questions, contact me at [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu).
+
+Learn more about my other work at [https://cwendorf.github.io](https://cwendorf.github.io)
