@@ -1,3 +1,5 @@
+<img src="assets/sourcebook.jpg" height="60px;" align="left;">
+
 # Statistics for Social Science
 
 **A Sourcebook of Basic Statistical Methods**
@@ -10,6 +12,8 @@ The materials in this online textbook are intended to facilitate the connection 
 
 View the Sourcebook in a browser-friendly viewing platform:  
 [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
+
+<p align="center"><kbd><img src="assets/AnnotatedOutput.jpg"></kbd></p>
 
 ### References
 
