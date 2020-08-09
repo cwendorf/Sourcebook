@@ -1,5 +1,3 @@
----
-
 # **Statistics for Social Science**
 
 ## **Volume: jamovi**  
