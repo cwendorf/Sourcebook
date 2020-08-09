@@ -1,3 +1,5 @@
+---
+
 # **Statistics for Social Science**
 
 ## **Volume: jamovi**  
@@ -21,7 +23,7 @@ This document is part of an online statistics sourcebook.
 
 ## **Table of Contents for This Chapter**
 
-- [Entering One Sample Data](##enteringonesampledata)  
+- [Entering One Sample Data](#entering-one-sample-data)  
 - [Entering Repeated Measures Data](#enteringrepeatedmeasuresdata)
 - [Entering Multiple Sample Data](#enteringmultiplesampledata)
 - [Entering Factorial Data](#enteringfactorialdata)
