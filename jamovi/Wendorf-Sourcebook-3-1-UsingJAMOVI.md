@@ -22,18 +22,18 @@ This document is part of an online statistics sourcebook.
 ## **Table of Contents for This Chapter**
 
 - [Entering One Sample Data](#entering-one-sample-data)  
-- [Entering Repeated Measures Data](#enteringrepeatedmeasuresdata)
-- [Entering Multiple Sample Data](#enteringmultiplesampledata)
-- [Entering Factorial Data](#enteringfactorialdata)
-- [Descriptives (Frequencies and Descriptives)](#descriptivesfrequenciesanddescriptives)
-- [Correlations (Bivariate)](#correlationsbivariate)
-- [T Test (One Sample)](#ttestonesample)
-- [T Test (Paired Samples)](#ttestpairedsamples)
-- [T Test (Independent Samples)](#ttestindependentsamples)
-- [ANOVA (OneWay ANOVA)](#anovaonewayanova)
-- [Post Hoc Tests (OneWay ANOVA)](#posthoctestsonewayanova)
-- [Repeated Measures ANOVA](#repeatedmeasuresanova)
-- [ANOVA (Factorial ANOVA)](#anovafactorialanova)
+- [Entering Repeated Measures Data](#entering-repeated-measures-data)
+- [Entering Multiple Sample Data](#entering-multiple-sample-data)
+- [Entering Factorial Data](#entering-factorial-data)
+- [Descriptives (Frequencies and Descriptives)](#descriptives-frequencies-and-descriptives)
+- [Correlations (Bivariate)](#correlations-bivariate)
+- [T Test (One Sample)](#t-test-one-sample)
+- [T Test (Paired Samples)](#t-test-paired-samples)
+- [T Test (Independent Samples)](#t-test-independent-samples)
+- [ANOVA (OneWay ANOVA)](#anova-oneway-anova)
+- [Post Hoc Tests (OneWay ANOVA)](#post-hoc-tests-oneway-anova)
+- [Repeated Measures ANOVA](#repeated-measures-anova)
+- [ANOVA (Factorial ANOVA)](#anova-factorial-anova)
 
 ---
 
