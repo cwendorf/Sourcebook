@@ -14,7 +14,7 @@
 	<style type="text/css">
 
 		html {
-			min-width: 440px;
+			min-width: 370px;
 		}
 		body {
 			background: #444; 
@@ -27,7 +27,7 @@
 			height: 50px; 
 			width: 100%; 
 			margin: 0px; 
-			min-width: 460px;
+			min-width: 370px;
 			border-bottom: 1px solid gray;
 			border-top: 1px solid gray;
 		}
@@ -128,11 +128,12 @@
 			height: 100%;
 			margin: 0px;
 			padding: 50px 0px 0px 0px;
-			min-width: 440px;
+			min-width: 370px;
 		}
 		@media all and (min-width: 50px) and (max-width: 749px) {
 			#SoftLinks {display: none;}
-			#SideDown {display: block;}
+			#SideDown {display: block; float: right;}
+			#stats {display: none;}
 		}
 		@media all and (min-width: 750px) {
 			#SoftLinks {display: block;}
@@ -170,8 +171,8 @@
 <div id=LocationContent>
 	
 	<ul id=TitleLink>
-		<li><a style="padding: 0px;"><img src="assets/Textbook.jpg" style="border-left: 10px solid red; height: 50px; width: 75px;"></a></li>
-		<li><a href="https://cwendorf.github.io/Sourcebook/" target="_parent" title="Title Page" style="background: white; color: red;">STATISTICS: SOURCEBOOK</a></li>
+		<li id=textbook><a style="padding: 0px;"><img src="assets/Textbook.jpg" style="border-left: 10px solid red; height: 50px; width: 75px;"></a></li>
+		<li><a href="https://cwendorf.github.io/Sourcebook/" target="_parent" title="Title Page" style="background: white; color: red;"><span id=stats>STATISTICS:</span> SOURCEBOOK</a></li>
 	</ul>
 
 	<ul id=SoftLinks>
@@ -181,7 +182,7 @@
 		<li><a href="javascript:void(0);" title="JASP" onmousedown="openDiv('SidebarContainer');toggleDiv('JASPLinks');closeDiv('MethodsLinks');closeDiv('SPSSLinks');closeDiv('JAMOVILinks');">JASP</a></li>
 	</ul>
 
-	<ul id=SideDown style="float: right;">
+	<ul id=SideDown>
 		<li><a href="javascript:void(0);" onmousedown="toggleDiv('SidebarContainer');"><img id=MenuButton src="assets/siteNav-black.png" style="height: 30px; width: 30px;"></a></li>
 	</ul>
 	
