@@ -2383,3 +2383,8 @@ html[dir='rtl'] #documentPropertiesOverlay .row > * {
     display: none;
   }
 }
+
+#toolbarContainer {
+background-color: rgb(100, 100, 100);
+background-image: none;
+}
