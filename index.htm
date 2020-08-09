@@ -247,7 +247,12 @@
 <div>
 	<iframe style="display: none;"></iframe>
 </div>
-
+<script>
+    $(document).ready(function () {
+        $("#myiframe").load(function () { setTimeout(function () { $(".inputforfocus").focus(); }, 100); });
+    });
+</script>
+<input type="hidden" class="inputforfocus">
 <div style="overflow:hidden;" onmouseover="closeDiv('SPSSLinks');closeDiv('MethodsLinks');closeDiv('JAMOVILinks');closeDiv('JASPLinks');">
     <iframe name=content src="https://cwendorf.github.io/Sourcebook/Wendorf-Sourcebook-0-1-TitleLicense.pdf" frameborder="0" width="100%"></iframe>
 </div>
