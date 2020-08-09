@@ -30,7 +30,7 @@
       <div id=site>
       {% if site.title and site.title != page.title %}
         <a href="{{ "/" | absolute_url }}" style="text-decoration: none;">
-          <img id=logo src="{{ "/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}">
+          <img id=logo src="{{ "assets/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}">
         </a> 
       {% endif %}
       </div>
