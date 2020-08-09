@@ -3,8 +3,6 @@
 ## **Volume: jamovi**  
 ## **Chapter: Using the Software**
 
----
-
 **Abstract:** This section provides stepbystep instructions on how to obtain basic statistical output using jamovi, both visually with screenshots and via written instructions. Simple examples for most undergraduatelevel betweensubjects and withinsubjects research designs are provided.
 
 **Keywords:** jamovi, screenshots, directions for use  
@@ -23,7 +21,7 @@ This document is part of an online statistics sourcebook.
 
 ## **Table of Contents for This Chapter**
 
-- [Entering One Sample Data](#enteringonesampledata)  
+- [Entering One Sample Data](##enteringonesampledata)  
 - [Entering Repeated Measures Data](#enteringrepeatedmeasuresdata)
 - [Entering Multiple Sample Data](#enteringmultiplesampledata)
 - [Entering Factorial Data](#enteringfactorialdata)
