@@ -1,7 +1,7 @@
 # **Statistics for Social Science**
 
-## **Volume: jamovi**  
-## **Chapter: Using the Software**
+### **Volume: jamovi**  
+### Chapter: Using the Software
 
 **Abstract:** This section provides stepbystep instructions on how to obtain basic statistical output using jamovi, both visually with screenshots and via written instructions. Simple examples for most undergraduatelevel betweensubjects and withinsubjects research designs are provided.
 
