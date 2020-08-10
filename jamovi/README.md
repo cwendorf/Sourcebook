@@ -2,10 +2,7 @@
 
 ## Volume: jamovi  
 
-**Original:** July 2017  
-**Section Updated:** July 2020
-
-> This portion of the sourcebook uses the jamovi software:
+> This portion of the sourcebook uses the jamovi software:  
 > <https://www.jamovi.org>
 
 ---
