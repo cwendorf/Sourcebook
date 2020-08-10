@@ -45,7 +45,7 @@ This document is part of an online statistics sourcebook.
 
 2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options.
 
-<p align="center"><kbd><img src="usingjamovi/image1.jpg"></kbd></p>
+<p align="center"><kbd><img src="image1.jpg"></kbd></p>
 
 ### **Steps for Setting Variable Properties**
 
@@ -55,14 +55,14 @@ This document is part of an online statistics sourcebook.
 
 5. To hide the setup menu, click on the large UP arrow button to the right of the variable name.
 
-<p align="center"><kbd><img src="usingjamovi/image2.jpg"></kbd></p>
+<p align="center"><kbd><img src="image2.jpg"></kbd></p>
 
 ### **Steps for Entering Data**
 
 6. Enter the data in the individual cells of the
 column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
 
-<p align="center"><kbd><img src="usingjamovi/image3.jpg"></kbd></p>
+<p align="center"><kbd><img src="image3.jpg"></kbd></p>
 
 ---
 
@@ -74,7 +74,7 @@ column for the variable. Note that each cell should contain a single score for a
 
 2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options. 
 
-<p align="center"><kbd><img src="usingjamovi/image1.jpg"></kbd></p>
+<p align="center"><kbd><img src="image1.jpg"></kbd></p>
 
 ### **Steps for Setting Variable Properties**
 
@@ -84,7 +84,7 @@ column for the variable. Note that each cell should contain a single score for a
 
 5. To hide the setup menu, click on the large UP arrow button to the right of the variable name. 
 
-<p align="center"><kbd><img src="usingjamovi/image4.jpg"></kbd></p>
+<p align="center"><kbd><img src="image4.jpg"></kbd></p>
 
 ### **Steps for Entering Data**
 
@@ -94,7 +94,7 @@ people.
 7. Notice that each individual (i.e., the rows) have values 
 for each instance of the within-subjects variable (i.e., the columns). 
 
-<p align="center"><kbd><img src="usingjamovi/image5.jpg"></kbd></p>
+<p align="center"><kbd><img src="image5.jpg"></kbd></p>
 
 ---
 
@@ -116,7 +116,7 @@ you wish to define. Click on
 will bring up a new set of 
 options. 
 
-<p align="center"><kbd><img src="usingjamovi/image6.jpg"></kbd></p>
+<p align="center"><kbd><img src="image6.jpg"></kbd></p>
 
 ### **Steps for Setting Variable Properties**
 
@@ -143,7 +143,7 @@ click on the large UP arrow
 button next to the variable
 name.
 
-<p align="center"><kbd><img src="usingjamovi/image7.jpg"></kbd></p>
+<p align="center"><kbd><img src="image7.jpg"></kbd></p>
 
 ### **Steps for Entering Data**
 
@@ -169,7 +169,7 @@ indicator (a value on the
 "Outcome" for each 
 additional person. 
 
-<p align="center"><kbd><img src="usingjamovi/image8.jpg"></kbd></p>
+<p align="center"><kbd><img src="image8.jpg"></kbd></p>
 
 ---
 
@@ -191,7 +191,7 @@ you wish to define. Click on
 will bring up a new set of 
 options. 
 
-<p align="center"><kbd><img src="usingjamovi/image6.jpg"></kbd></p>
+<p align="center"><kbd><img src="image6.jpg"></kbd></p>
 
 ### **Steps for Setting Variable Properties**
 
@@ -217,7 +217,7 @@ click on the large UP arrow
 button next to the variable
 name.
 
-<p align="center"><kbd><img src="usingjamovi/image9.jpg"></kbd></p>
+<p align="center"><kbd><img src="image9.jpg"></kbd></p>
 
 ### **Steps for Entering Data**
  
@@ -246,7 +246,7 @@ indicator and an outcome
 value for each additional
 person.
 
-<p align="center"><kbd><img src="usingjamovi/image10.jpg"></kbd></p>
+<p align="center"><kbd><img src="image10.jpg"></kbd></p>
 
 ---
 
@@ -261,7 +261,7 @@ person.
 select the "Exploration
 Descriptives" option.
 
-<p align="center"><kbd><img src="usingjamovi/image11.jpg"></kbd></p>
+<p align="center"><kbd><img src="image11.jpg"></kbd></p>
 
 ### **Steps for Obtaining a Frequency Distribution**
 
@@ -287,7 +287,7 @@ distribution.
 appear on the right side 
 of the window. 
 
-<p align="center"><kbd><img src="usingjamovi/image12.jpg"></kbd></p>
+<p align="center"><kbd><img src="image12.jpg"></kbd></p>
 
 ### **Steps for Obtaining Summary Statistics**
 
@@ -314,7 +314,7 @@ other word processing
 software for printing
 purposes.
 
-<p align="center"><kbd><img src="usingjamovi/image13.jpg"></kbd></p>
+<p align="center"><kbd><img src="image13.jpg"></kbd></p>
 
 ---
 
@@ -329,7 +329,7 @@ purposes.
 select the "Regression 
 Correlation Matrix" option.
 
-<p align="center"><kbd><img src="usingjamovi/image14.jpg"></kbd></p>
+<p align="center"><kbd><img src="image14.jpg"></kbd></p>
 
 ### **Steps for Obtaining Correlations (and Significance Tests)**
 
@@ -361,7 +361,7 @@ each variable, follow the
 described earlier in this
 manual.
 
-<p align="center"><kbd><img src="usingjamovi/image15.jpg"></kbd></p>
+<p align="center"><kbd><img src="image15.jpg"></kbd></p>
 
 ---
 
@@ -376,7 +376,7 @@ manual.
 select the "T-Tests → One
 Sample T-Test" option. 
 
-<p align="center"><kbd><img src="usingjamovi/image16.jpg"></kbd></p>
+<p align="center"><kbd><img src="image16.jpg"></kbd></p>
 
 ### **Steps for Obtaining Significance Tests**
 
@@ -399,7 +399,7 @@ be copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="usingjamovi/image17.jpg"></kbd></p>
+<p align="center"><kbd><img src="image17.jpg"></kbd></p>
 
 ### **Steps for Obtaining Additional Statistics**
 
@@ -436,7 +436,7 @@ copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="usingjamovi/image18.jpg"></kbd></p>
+<p align="center"><kbd><img src="image18.jpg"></kbd></p>
 
 ---
 
@@ -453,7 +453,7 @@ Select the "T-Tests →
 Paired Samples T-Test" 
 option.
 
-<p align="center"><kbd><img src="usingjamovi/image19.jpg"></kbd></p>
+<p align="center"><kbd><img src="image19.jpg"></kbd></p>
 
 ### **Steps for Obtaining the Significance Test**
 
@@ -478,7 +478,7 @@ be copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="usingjamovi/image20.jpg"></kbd></p>
+<p align="center"><kbd><img src="image20.jpg"></kbd></p>
 
 ### **Steps for Obtaining Additional Statistics** 
 
@@ -508,7 +508,7 @@ copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="usingjamovi/image21.jpg"></kbd></p>
+<p align="center"><kbd><img src="image21.jpg"></kbd></p>
 
 ---
 
@@ -524,7 +524,7 @@ select the "T-Tests →
 Independent Samples T-Test"
 option.
 
-<p align="center"><kbd><img src="usingjamovi/image22.jpg"></kbd></p>
+<p align="center"><kbd><img src="image22.jpg"></kbd></p>
 
 ### **Steps for Obtaining the Significance Test**
 
@@ -548,7 +548,7 @@ the window. Output can be
 copied and pasted into other 
 documents for printing.
 
-<p align="center"><kbd><img src="usingjamovi/image23.jpg"></kbd></p>
+<p align="center"><kbd><img src="image23.jpg"></kbd></p>
 
  ### **Steps for Obtaining Additional Statistics**
 
@@ -576,7 +576,7 @@ Output can be copied and
 pasted into other documents
 for printing.
 
-<p align="center"><kbd><img src="usingjamovi/image24.jpg"></kbd></p>
+<p align="center"><kbd><img src="image24.jpg"></kbd></p>
 
 ---
 
@@ -591,7 +591,7 @@ data (described elsewhere).
 select the "ANOVA → ANOVA" 
 option.
 
-<p align="center"><kbd><img src="usingjamovi/image25.jpg"></kbd></p>
+<p align="center"><kbd><img src="image25.jpg"></kbd></p>
 
 ### **Steps for Obtaining the Significance Test**
 
@@ -615,7 +615,7 @@ the window. Output can be
 copied and pasted into other 
 documents for printing.
 
-<p align="center"><kbd><img src="usingjamovi/image26.jpg"></kbd></p>
+<p align="center"><kbd><img src="image26.jpg"></kbd></p>
 
 ### **Steps for Obtaining Additional Statistics**
 
@@ -636,7 +636,7 @@ Output can be copied and
 pasted into other documents
 for printing.
 
-<p align="center"><kbd><img src="usingjamovi/image26.jpg"></kbd></p>
+<p align="center"><kbd><img src="image26.jpg"></kbd></p>
 
 ---
 
@@ -651,7 +651,7 @@ data (described elsewhere).
 select the "ANOVA → ANOVA" 
 option.
 
-<p align="center"><kbd><img src="usingjamovi/image25.jpg"></kbd></p>
+<p align="center"><kbd><img src="image25.jpg"></kbd></p>
 
 ### **Steps for Obtaining the Significance Test**
 
@@ -675,7 +675,7 @@ the window. Output can be
 copied and pasted into other 
 documents for printing.
 
-<p align="center"><kbd><img src="usingjamovi/image26.jpg"></kbd></p>
+<p align="center"><kbd><img src="image26.jpg"></kbd></p>
 
 ### **Steps for Obtaining Additional Statistics**
 
@@ -696,7 +696,7 @@ Output can be copied and
 pasted into other documents
 for printing.
 
-<p align="center"><kbd><img src="usingjamovi/image26.jpg"></kbd></p>
+<p align="center"><kbd><img src="image26.jpg"></kbd></p>
 
  ### **Steps for Obtaining Post Hoc Tests**
 
@@ -722,7 +722,7 @@ Output can be copied and
 pasted into other documents
 for printing.
 
-<p align="center"><kbd><img src="usingjamovi/image27.jpg"></kbd></p>
+<p align="center"><kbd><img src="image27.jpg"></kbd></p>
 
 ---
 
@@ -738,7 +738,7 @@ elsewhere).
 select the "ANOVA → Repeated 
 Measures ANOVA" option.
 
-<p align="center"><kbd><img src="usingjamovi/image28.jpg"></kbd></p>
+<p align="center"><kbd><img src="image28.jpg"></kbd></p>
 
 ### **Steps for Labeling the Within Subjects Variable/Factor**
 
@@ -771,7 +771,7 @@ level. In this example,
 there were only 2 levels of
 the factor.
 
-<p align="center"><kbd><img src="usingjamovi/image29.jpg"></kbd></p>
+<p align="center"><kbd><img src="image29.jpg"></kbd></p>
 
 ### **Steps for Obtaining the Significance Test**
 
@@ -806,7 +806,7 @@ the window. Output can be
 copied and pasted into other 
 documents for printing.
 
-<p align="center"><kbd><img src="usingjamovi/image30.jpg"></kbd></p>
+<p align="center"><kbd><img src="image30.jpg"></kbd></p>
 
 ### **Steps for Obtaining Additional Statistics**
 
@@ -828,7 +828,7 @@ Output can be copied and
 pasted into other documents
 for printing.
 
-<p align="center"><kbd><img src="usingjamovi/image31.jpg"></kbd></p>
+<p align="center"><kbd><img src="image31.jpg"></kbd></p>
 
 ---
 
@@ -843,7 +843,7 @@ for printing.
 select the "ANOVA → ANOVA" 
 option.
 
-<p align="center"><kbd><img src="usingjamovi/image32.jpg"></kbd></p>
+<p align="center"><kbd><img src="image32.jpg"></kbd></p>
 
 ### **Steps for Obtaining the Significance Test** 
 
@@ -870,7 +870,7 @@ the window. Output can be
 copied and pasted into other 
 documents for printing.
 
-<p align="center"><kbd><img src="usingjamovi/image33.jpg"></kbd></p>
+<p align="center"><kbd><img src="image33.jpg"></kbd></p>
 
 ### **Steps for Obtaining Additional Statistics**
 
@@ -892,4 +892,4 @@ Output can be copied and
 pasted into other documents
 for printing.
 
-<p align="center"><kbd><img src="usingjamovi/image34.jpg"></kbd></p>
+<p align="center"><kbd><img src="image34.jpg"></kbd></p>
