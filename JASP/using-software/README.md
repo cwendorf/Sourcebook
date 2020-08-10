@@ -1,7 +1,8 @@
-**[[Statistics for Social Science]{.ul}]{.smallcaps}**
+# Statistics for Social Science
 
-**[Volume: JASP\
-Chapter: Using the Software]{.smallcaps}**
+### JASP: Using the Software
+
+---
 
 **Abstract:** This section provides step-by-step instructions on how to
 obtain basic statistical output using JASP, both visually with
@@ -9,21 +10,7 @@ screenshots and via written instructions. Simple examples for most
 undergraduate-level between-subjects and within-subjects research
 designs are provided.
 
-**Keywords:** JASP, screenshots, directions for use
-
-**Original:** July 2017
-
-**Updated:** July 2020
-
-This document is part of an online statistics sourcebook.
-
-A browser-friendly viewing platform for the sourcebook is available:
-
-<https://cwendorf.github.io/Sourcebook>
-
-All data, syntax, and output files are available:
-
-<https://github.com/cwendorf/Sourcebook>
+---
 
 **[Table of Contents for This Chapter]{.smallcaps}**
 

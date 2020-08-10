@@ -1,7 +1,8 @@
-**[[Statistics for Social Science]{.ul}]{.smallcaps}**
+# Statistics for Social Science
 
-**[Volume: SPSS\
-Chapter: Using the Software]{.smallcaps}**
+### SPSS: Using the Software
+
+---
 
 **Abstract:** This chapter provides step-by-step instructions on how to
 obtain basic statistical output using SPSS, both visually with
@@ -9,21 +10,7 @@ screenshots and via written instructions. Simple examples for most
 undergraduate-level between-subjects and within-subjects research
 designs are provided.
 
-**Keywords:** SPSS, screenshots, directions for use
-
-**Original:** July 2009
-
-**Updated:** July 2020
-
-This document is part of an online statistics sourcebook.
-
-A browser-friendly viewing platform for the sourcebook is available:
-
-<https://cwendorf.github.io/Sourcebook>
-
-All data, syntax, and output files are available:
-
-<https://github.com/cwendorf/Sourcebook>
+---
 
 **[Table of Contents for This Chapter]{.smallcaps}**
 

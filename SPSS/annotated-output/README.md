@@ -1,7 +1,6 @@
 # **Statistics for Social Science**
 
-## **Volume: jamovi**  
-## **Chapter: Annotated Output**
+### 
 
 ---
 > This is not updated!
