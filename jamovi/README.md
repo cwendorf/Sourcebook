@@ -1,8 +1,12 @@
-# **Statistics for Social Science**
+# Statistics for Social Science
 
-## **Volume: jamovi**  
+## Volume: jamovi  
 
-**Abstract:** This 
+**Original:** July 2017  
+**Section Updated:** July 2020
+
+> This portion of the sourcebook uses the jamovi software:
+> <https://www.jamovi.org>
 
 ---
 
