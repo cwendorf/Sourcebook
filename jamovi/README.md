@@ -1,6 +1,6 @@
 # **Statistics for Social Science**
 
-**Volume: jamovi**  
+### **Volume: jamovi**  
 
 ---
 
