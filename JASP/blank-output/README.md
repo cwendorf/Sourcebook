@@ -1,25 +1,9 @@
 # **Statistics for Social Science**
 
-## **Volume: jamovi**  
-## **Chapter: Blank Ouput**
+### JASP: Blank Ouput
 
 ---
-> This is not updated!
----
 
-
-**Abstract:** This section provides stepbystep instructions on how to obtain basic statistical output using jamovi, both visually with screenshots and via written instructions. Simple examples for most undergraduatelevel betweensubjects and withinsubjects research designs are provided.
-
-**Keywords:** jamovi, screenshots, directions for use  
-**Original:** July 2017  
-**Section Updated:** July 2020
-
-This document is part of an online statistics sourcebook.
-
-> A browser-friendly viewing platform for the sourcebook is available:
-> <https://cwendorf.github.io/Sourcebook>
-
-> All data, syntax, and output files are available:
-> <https://github.com/cwendorf/Sourcebook>
+**Abstract:** This chapter is used as worksheets for class problems. Students fill in their answers on these sheets, thus making clear the links between non-computer (“hand”) calculations and the JASP output.
 
 ---
