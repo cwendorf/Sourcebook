@@ -8,19 +8,31 @@
 
 ---
 
+**Craig A. Wendorf**  
+**Department of Psychology**  
+**University of Wisconsin - Stevens Point**
+
+---
+
 ### Overview
 
-The materials in this [online sourcebook](https://cwendorf.github.io/Sourcebook/) are intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. The textbook currently includes: a summary of basic statistical methods; instructions on obtaining basic statistical output using SPSS, jamovi, and JASP; annotated output showing how to calculate and interpret the output; and summaries of how the results should be reported in APA style.
+The materials in this online sourcebook are intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. The textbook currently includes: a summary of basic statistical methods; instructions on obtaining basic statistical output using SPSS, jamovi, and JASP; annotated output showing how to calculate and interpret the output; and summaries of how the results should be reported in APA style.
 
-<a href="https://cwendorf.github.io/Sourcebook/">
-<p align="center"><kbd><img src="assets/AnnotatedOutput.jpg"></kbd></p>
-</a>
 
-### Contact Me
+### Viewing the Sourcebook
 
-- If you have any questions, contact me at [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu)
-- Learn more about my other work at [https://cwendorf.github.io](https://cwendorf.github.io)
+A browser-friendly viewing platform for the sourcebook is available:  
+[https://cwendorf.github.io/Sourcebook](https://cwendorf.github.io/Sourcebook/)
+
+All data, syntax, and output files are available:  
+[https://github.com/cwendorf/Sourcebook](https://github.com/cwendorf/Sourcebook)
+
 
 ### Citation
 
 > Wendorf, C. A. (2019). _Statistics for social science: A sourcebook of basic statistical methods._ [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
+
+### Contact Me
+
+- Author Email: [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu)
+- Author Homepage: [https://cwendorf.github.io](https://cwendorf.github.io)
