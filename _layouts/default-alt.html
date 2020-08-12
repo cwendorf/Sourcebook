@@ -5,9 +5,23 @@
 
   <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <link rel="stylesheet" href="{{ "/style.css" }}">
+
 	<script src="https://kit.fontawesome.com/277c075f99.js" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
+  <style>
+    .markdown-body h1 {color: red; margin: 0px;}
+    .markdown-body h3 {}
+    .markdown-body hr {background-color: black;}
+    div.custom {background: #ccc; width: 100%; height: 100%; }
+    div#header {padding: 10px 0px; height: auto; }
+    div#footer {padding: 10px 0px;}
+    div#site {float:left; margin-right: 20px}
+    div#nav {display: inline-block; font-weight: bold; font-size: 1.1em; margin: 10px 0px;}
+    div#nav a {text-decoration: none; margin: 10px 0px; padding: 10px 10px; color: black;}
+    div#nav a:hover {background: #ddd; color: red; }
+    img#logo {display: inline-block; height: 50px; padding: 0px; background: none; }
+  </style>
 
 </head>
 
@@ -31,29 +45,34 @@
  
     </ul>
     </div>
+
   </nav>
+
   <div class="top-margin"></div>
 
-  {{ content }}
+  <main class="container-lg px-3 my-5 markdown-body" >
+  
+    {{ content }}
+  
+  </main>
+
+  <footer class="dark-grey main-footer text-center">
+
+    <div id=footer class="container-lg px-3 markdown-body">
+      Contact: 
+      <a href="mailto:cwendorf@uwsp.edu">cwendorf@uwsp.edu</a>
+      <br />
+      Repository: 
+      {% if site.github.is_project_page %}
+      <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> /  
+      {% endif %}
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}">Sourcebook</a>
+      {% endif %}    
+    </div>
+  
+  </footer>
 
 </body>
 
-<footer class="dark-grey main-footer text-center">
-
-  <div id=footer class="container-lg px-3 markdown-body">
-    Contact: 
-    <a href="mailto:cwendorf@uwsp.edu">cwendorf@uwsp.edu</a>
-    <br />
-    Repository: 
-    {% if site.github.is_project_page %}
-    <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> /  
-    {% endif %}
-    {% if site.github.is_project_page %}
-      <a href="{{ site.github.repository_url }}">Sourcebook</a>
-    {% endif %}    
-  </div>
-
-</footer>
-
-</div>
 </html>
