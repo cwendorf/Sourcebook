@@ -1,6 +1,6 @@
 # Statistics for Social Science
 
-## Using and Understanding SPSS
+### Using and Understanding SPSS
 
 ---
 
