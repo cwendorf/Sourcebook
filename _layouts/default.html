@@ -4,12 +4,9 @@
         {% include head.html %}
         <body id="Page-Top" class="index">
             {% include navbar.html %}
-            <section id="Projects">
-                {% include projects.html %}
-            </section>
-            <section id="About">
-                {% include about.html %}
-            </section>
+
+            {{ content }}
+
         </body>
         {% include footer.html %}
     </div>

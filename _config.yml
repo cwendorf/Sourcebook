@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bennett Wendorf
-email: bennettwendorf@gmail.com
+title: Sourcebook
+email: cwendorf@uwsp.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
-github_username:  bennett-Wendorf
+github_username:  cwendorf
 
 # Color settings
 color:
@@ -41,9 +41,7 @@ color:
 # Social network information
 social:
   - title: github
-    url: http://github.com/Bennett-Wendorf
-  - title: stack-overflow
-    url: https://stackoverflow.com/users/13887741/bennett-wendorf
+    url: http://github.com/cwendorf
 
 # Footer settings
 footer:
