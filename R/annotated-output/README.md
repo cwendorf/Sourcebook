@@ -1,6 +1,6 @@
 # Statistics for Social Science
 
-## R: Annotated Output
+### R: Annotated Output
 
 ---
 
