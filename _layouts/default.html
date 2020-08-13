@@ -5,6 +5,8 @@
 
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <script src="https://kit.fontawesome.com/277c075f99.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -14,12 +16,17 @@
       .markdown-body hr {background-color: black;}
       div.custom {background: #ccc; width: 100%; height: 100%; }
       div#header {padding: 10px 0px; height: auto; }
-      div#footer {padding: 10px 0px;}
-      div#site {float:left; margin-right: 20px}
+
+      div#header ul{list-style-type: none; margin: 0; padding: 0 10px; overflow: hidden; position: relative; height: 100%;}
+      img#logo {display: inline-block; height: 50px; padding: 0px; background: none; }
+      li#site {float:left; margin-right: 20px}
+
       div#nav {display: inline-block; font-weight: bold; font-size: 1.1em; margin: 10px 0px;}
       div#nav a {text-decoration: none; margin: 10px 0px; padding: 10px 10px; color: black;}
       div#nav a:hover {background: #ddd; color: red; }
-      img#logo {display: inline-block; height: 50px; padding: 0px; background: none; }
+
+      div#footer {padding: 10px 0px;}
+
     </style>
 	
     <script language="javascript">
