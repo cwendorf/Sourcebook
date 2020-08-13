@@ -21,27 +21,41 @@
       div#nav a:hover {background: #ddd; color: red; }
       img#logo {display: inline-block; height: 50px; padding: 0px; background: none; }
     </style>
-    
+	
+    <script language="javascript">
+      function toggleDropdown() {
+        var menu = document.getElementById('menuDiv');
+        if (menu.style.display === "none") {
+          menu.style.display = "block";
+        } else {
+        menu.style.display = "none";
+        }
+      }
+	  </script>
+
   </head>
   
   <body>
 
     <div class="custom">
     <div id=header class="container-lg px-3 markdown-body">
-            
-      <div id=site>
-      {% if site.title and site.title != page.title %}
-        <a href="{{ "/" | absolute_url }}" style="text-decoration: none;">
-          <img id=logo src="{{ "/assets/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}">
-        </a> 
-      {% endif %}
-      </div>
       
+      <ul>
+        <li class="site"><a href="{{ "/" | absolute_url }}" class="btn-nav"><img id=logo src="{{ "/assets/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}"></a></li>
+        <li class=""><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods" class="btn-nav">Methods</a></li>  
+        <li class=""><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS" class="btn-nav">SPSS</a></li>  
+        <li class=""><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi" class="btn-nav">jamovi</a></li>
+        <li class=""><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP" class="btn-nav">JASP</a></li>
+        <li class="" onclick="toggleDropdown()"><i id=MenuButton class="fas fa-bars fa-2x"></i></li>
+      </ul>
+
       <div id=nav>
-        <a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="{{ site.title }}">Methods</a>  
-        <a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="{{ site.title }}">SPSS</a>  
-        <a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="{{ site.title }}">jamovi</a>
-        <a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="{{ site.title }}">JASP</a>
+        <ul>
+          <li class=""><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods" class="">Methods</a></li>  
+          <li class=""><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS" class="">SPSS</a></li>  
+          <li class=""><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi" class="">jamovi</a></li>
+          <li class=""><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP" class="">JASP</a></li>
+        </ul>
       </div>
         
     </div>
