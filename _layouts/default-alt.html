@@ -3,76 +3,110 @@
 
 <head>
 
-  <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <script src="https://kit.fontawesome.com/277c075f99.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
-	<script src="https://kit.fontawesome.com/277c075f99.js" crossorigin="anonymous"></script>
-	<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <style>
 
-  <style>
-    .markdown-body h1 {color: red; margin: 0px;}
-    .markdown-body h3 {}
-    .markdown-body hr {background-color: black;}
-    div.custom {background: #ccc; width: 100%; height: 100%; }
-    div#header {padding: 10px 0px; height: auto; }
-    div#footer {padding: 10px 0px;}
-    div#site {float:left; margin-right: 20px}
-    div#nav {display: inline-block; font-weight: bold; font-size: 1.1em; margin: 10px 0px;}
-    div#nav a {text-decoration: none; margin: 10px 0px; padding: 10px 10px; color: black;}
-    div#nav a:hover {background: #ddd; color: red; }
-    img#logo {display: inline-block; height: 50px; padding: 0px; background: none; }
-  </style>
+      .custom {background: #ccc; width: 100%; height: 100%; }
+      #header {padding: 10px 0px; height: auto; }
+      #header ul {list-style: none; margin: 0px auto; padding: 0px 0px; overflow: hidden; position: relative; height: 100%; }
+      #header li {float: left; height: 50px;}
+      #site {float: left; margin-right: 20px}
+      #logo {display: inline-block; height: 50px; margin: 0px; padding: 0px; background: none; }
+      .navLink {font-weight: bold; font-size: 18px; }
+      .navLink a {text-decoration: none; margin: 0px 0px; padding: 15px 10px; color: black;}
+      .navLink a:hover {background: #ddd; color: red; }
 
-</head>
+      #menuButton {float: right; padding: 10px;}
+      #menuButton:hover {background: #ddd;}      
+      #dropdown {background: #ccc; padding: 0px 0px; margin: 1px; width: 200px; float: right; display: none;}
 
-<body>
+      .markdown-body h1 {color: red; margin: 0px;}
+      .markdown-body h3 {}
+      .markdown-body hr {background-color: black;}
 
-  <nav class="top-bar dark-grey">
-    <ul>
-      <li class="site-link vertical-center"><a href="{{ "/" | absolute_url }}" class="btn-nav"><img id=logo src="{{ "/assets/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}"></a></li>
-      <li class="nav-buttons vertical-center content-hidden-medium"><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="{{ site.title }}" class="btn-nav">Methods</a></li>  
-      <li class="nav-buttons vertical-center content-hidden-medium"><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="{{ site.title }}" class="btn-nav">SPSS</a></li>  
-      <li class="nav-buttons vertical-center content-hidden-medium"><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="{{ site.title }}" class="btn-nav">jamovi</a></li>
-      <li class="nav-buttons vertical-center content-hidden-medium"><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="{{ site.title }}" class="btn-nav">JASP</a></li>
-      <li class="nav-buttons vertical-center content-shown-medium" onclick="toggleDropdownMenu()"><i class="btn-nav fa fa-bars" aria-hidden="true"></i></li>
-   </ul>
-   <div id="menuDiv" class="dropdown">
-    <ul>
-      <li class="nav-buttons vertical-center content-hidden-medium"><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="{{ site.title }}" class="btn-dropdown">Methods</a></li>  
-      <li class="nav-buttons vertical-center content-hidden-medium"><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="{{ site.title }}" class="btn-dropdown">SPSS</a></li>  
-      <li class="nav-buttons vertical-center content-hidden-medium"><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="{{ site.title }}" class="btn-dropdown">jamovi</a></li>
-      <li class="nav-buttons vertical-center content-hidden-medium"><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="{{ site.title }}" class="btn-dropdown">JASP</a></li>
- 
-    </ul>
+      div#footer {padding: 10px 0px;}
+
+    </style>
+	
+    <script language="javascript">
+      function toggleDropdown() {
+        var menu = document.getElementById('dropdown');
+        if (menu.style.display === "none") {
+          menu.style.display = "block";
+        } else {
+        menu.style.display = "none";
+        }
+      }
+	  </script>
+
+  </head>
+  
+  <body>
+
+    <div class="custom">
+    <div id=header class="container-lg px-3 markdown-body">
+      
+      <ul id=nav>
+        <li id=site><a href="{{ "/" | absolute_url }}"><img id=logo src="{{ "/assets/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}"></a></li>
+        <li class="navLink"><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods">Methods</a></li>  
+        <li class="navLink"><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS">SPSS</a></li>  
+        <li class="navLink"><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi">jamovi</a></li>
+        <li class="navLink"><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP">JASP</a></li>
+        <li id=menuButton onclick="toggleDropdown()"><i class="fas fa-bars fa-2x"></i></li>
+      </ul>
+
+      <div id=dropdown>
+        <ul>
+          <li class=""><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods" class="">Methods</a></li>  
+          <li class=""><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS" class="">SPSS</a></li>  
+          <li class=""><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi" class="">jamovi</a></li>
+          <li class=""><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP" class="">JASP</a></li>
+        </ul>
+      </div>
+        
     </div>
-
-  </nav>
-
-  <div class="top-margin"></div>
-
-  <main class="container-lg px-3 my-5 markdown-body" >
-  
-    {{ content }}
-  
-  </main>
-
-  <footer class="dark-grey main-footer text-center">
-
-    <div id=footer class="container-lg px-3 markdown-body">
-      Contact: 
-      <a href="mailto:cwendorf@uwsp.edu">cwendorf@uwsp.edu</a>
-      <br />
-      Repository: 
-      {% if site.github.is_project_page %}
-      <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> /  
-      {% endif %}
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}">Sourcebook</a>
-      {% endif %}    
     </div>
-  
-  </footer>
+    
+    <div class="container-lg px-3 my-5 markdown-body" >
+           
+      {{ content }}
+   
+    </div>
+    
+    <div class="custom">
+      <div id=footer class="container-lg px-3 markdown-body">
+        Contact: 
+        <a href="mailto:cwendorf@uwsp.edu">cwendorf@uwsp.edu</a>
+        <br />
+        Repository: 
+        {% if site.github.is_project_page %}
+        <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> /  
+        {% endif %}
+        {% if site.github.is_project_page %}
+          <a href="{{ site.github.repository_url }}">Sourcebook</a>
+        {% endif %}    
+      </div>
+      </div>
+   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
 
-</body>
-
+  </body>
 </html>
+

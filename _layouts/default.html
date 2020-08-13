@@ -1,98 +1,69 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<head>
-
-    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <script src="https://kit.fontawesome.com/277c075f99.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
-
-    {% seo %}
+{% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <style>
-
-      .custom {background: #ccc; width: 100%; height: 100%; }
-      #header {padding: 10px 0px; height: auto; }
-      #header ul {list-style: none; margin: 0px auto; padding: 0px 0px; overflow: hidden; position: relative; height: 100%; }
-      #header li {float: left; height: 50px;}
-      #site {float: left; margin-right: 20px}
-      #logo {display: inline-block; height: 50px; margin: 0px; padding: 0px; background: none; }
-      .navLink {font-weight: bold; font-size: 18px; }
-      .navLink a {text-decoration: none; margin: 0px 0px; padding: 15px 10px; color: black;}
-      .navLink a:hover {background: #ddd; color: red; }
-
-      #menuButton {float: right; padding: 10px;}
-      #menuButton:hover {background: #ddd;}      
-      #dropdown {background: #ccc; padding: 0px 0px; margin: 1px; width: 200px; float: right; display: none;}
-
-      .markdown-body h1 {color: red; margin: 0px;}
-      .markdown-body h3 {}
-      .markdown-body hr {background-color: black;}
-
-      div#footer {padding: 10px 0px;}
-
+      .markdown-body h1 {border-bottom: 0px solid #eaecef; color: #006400; margin: 0px;}
+      div.custom {background: #ddd; width: 100%;}
+      div#header {padding: 15px 0px;}
+      div#footer {padding: 15px 0px;}
+      div#site {float: left; }
+      div#nav {float: right; font-weight: bold; font-size: 1.1em; padding: 10px 0px 10px 10px;}
+      img#logo {display: inline-block; vertical-align: middle; background: none; height: 50px; padding: 0px; }
     </style>
-	
-    <script language="javascript">
-      function toggleDropdown() {
-        var menu = document.getElementById('dropdown');
-        if (menu.style.display === "none") {
-          menu.style.display = "block";
-        } else {
-        menu.style.display = "none";
-        }
-      }
-	  </script>
-
+    
   </head>
   
   <body>
 
     <div class="custom">
     <div id=header class="container-lg px-3 markdown-body">
+            
+      <div id=site>
+      {% if site.title and site.title != page.title %}
+        <a href="{{ "/" | absolute_url }}" style="text-decoration: none;">
+          <img id=logo src="{{ "/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}">
+        </a> 
+      {% endif %}
+      </div>
       
-      <ul id=nav>
-        <li id=site><a href="{{ "/" | absolute_url }}"><img id=logo src="{{ "/assets/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}"></a></li>
-        <li class="navLink"><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods">Methods</a></li>  
-        <li class="navLink"><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS">SPSS</a></li>  
-        <li class="navLink"><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi">jamovi</a></li>
-        <li class="navLink"><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP">JASP</a></li>
-        <li id=menuButton onclick="toggleDropdown()"><i class="fas fa-bars fa-2x"></i></li>
-      </ul>
-
-      <div id=dropdown>
-        <ul>
-          <li class=""><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods" class="">Methods</a></li>  
-          <li class=""><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS" class="">SPSS</a></li>  
-          <li class=""><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi" class="">jamovi</a></li>
-          <li class=""><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP" class="">JASP</a></li>
-        </ul>
+      <div id=nav>
+      {% if site.title and site.title != page.title %}
+        <a href="{{ "/" | absolute_url }}">Home Page</a> | 
+      {% endif %}
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}">Repository</a>
+      {% endif %}
       </div>
         
     </div>
     </div>
     
-    <div class="container-lg px-3 my-5 markdown-body" >
+   <div class="container-lg px-3 my-5 markdown-body" >
            
       {{ content }}
-   
+
+      {% if site.github.private != true and site.github.license %}
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. {% github_edit_link "Improve this page" %}.
+      </div>
+      {% endif %}
+      
     </div>
     
     <div class="custom">
-      <div id=footer class="container-lg px-3 markdown-body">
-        Contact: 
-        <a href="mailto:cwendorf@uwsp.edu">cwendorf@uwsp.edu</a>
-        <br />
-        Repository: 
-        {% if site.github.is_project_page %}
-        <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> /  
-        {% endif %}
-        {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}">Sourcebook</a>
-        {% endif %}    
-      </div>
-      </div>
+    <div id=footer class="container-lg px-3 markdown-body">
+      {% if site.github.is_project_page %}
+      Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> | 
+      {% endif %}
+      <a href="mailto:cwendorf@uwsp.edu">cwendorf@uwsp.edu</a>    
+    </div>
+    </div>
    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
@@ -106,7 +77,6 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
-
   </body>
 </html>
 
