@@ -6,7 +6,7 @@
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <script src="https://kit.fontawesome.com/277c075f99.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -52,8 +52,9 @@
     <div class="custom">
     <div id=header class="container-lg px-3 markdown-body">
       
+      <a href="{{ "/" | absolute_url }}"><img id=logo src="{{ "/assets/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}"></a>
+
       <ul id=nav>
-        <li id=site><a href="{{ "/" | absolute_url }}"><img id=logo src="{{ "/assets/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}"></a></li>
         <li class="navLink"><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods">Methods</a></li>  
         <li class="navLink"><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS">SPSS</a></li>  
         <li class="navLink"><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi">jamovi</a></li>
