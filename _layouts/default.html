@@ -18,10 +18,10 @@
       #site {float: left; padding: 0px;}
       #logo {height: 50px; margin: 0px; padding: 0px; background: none; }
 
-      .navLink {display: block; float: left; font-weight: bold; font-size: 18px; text-decoration: none !important; color: black; margin: 0px 5px; padding: 10px 15px; }
+      .navLink {float: left; font-weight: bold; font-size: 18px; text-decoration: none !important; color: black; margin: 1px 5px; padding: 10px 15px; }
       .navLink:hover {background: #ddd; color: red; }
 
-      #menuButton {float: right; padding: 8px 15px; display: none;}
+      #menuButton {float: right; padding: 8px 15px; }
       #menuButton:hover {background: #ddd;}      
       #dropdown {background: #ccc; padding: 0px 0px; margin: 1px; width: 200px; float: right; display: none;}
       .dropdown ul {list-style: none;}
@@ -32,11 +32,15 @@
 
       div#footer {padding: 10px 0px;}
 
-      @media only screen and (max-width: 600px) {
+      @media screen and (max-width: 600px) {
         .navLink (display: none;)
         #menuButton (display: block;)
       }
-   
+      @media screen and (min-width: 601px) {
+        .navLink (display: block;)
+        #menuButton (display: none;)
+      }
+
 }
 
     </style>
