@@ -25,14 +25,9 @@
       #menuButton {float: right; padding: 8px 15px; }
       #menuButton i {text-decoration: none; margin: 0px 0px; padding: 8px 10px; color: black;}      
       #menuButton i:hover {background: #ddd;}      
-      #dropdown {background: #ccc; padding: 0px 0px; margin: 0px; width: 200px; clear: both; float: right; display: none;}
-      #dropdown ul {list-style: none; padding: 5px;}  
+      #dropdown {position: absolute; top: 70px; z-index: 99; background: #ccc; padding: 0px 0px; margin: 0px; width: 200px; clear: both; float: right; display: none;}
+      #dropdown ul {list-style: none; padding: 5px; margin: 0px; width: 100%;}  
       #dropdown a {text-decoration: none; margin: 10px 0px; padding: 12px 10px; color: black;}
-      #dropdown a:hover {background: #ddd; color: red; }
-
-
-      #dropdown {display: none; position: absolute; top: 70px; background: #ccc; z-index: 99;}
-      #dropdown UL {float: right; width: 20px; margin: 0px;}
 
       @media (max-width: 700px) {
         div#nav {display: none;}
