@@ -18,11 +18,26 @@
       div#footer {padding: 10px 0px;}
       div#site {float:left; margin-right: 20px}
       div#nav {display: inline-block; font-weight: bold; font-size: 1.1em; margin: 10px 0px;}
-      div#nav a {text-decoration: none; margin: 10px 0px; padding: 10px 10px; color: black;}
+      div#nav a {text-decoration: none; margin: 10px 0px; padding: 12px 10px; color: black;}
       div#nav a:hover {background: #ddd; color: red; }
       img#logo {display: inline-block; height: 50px; padding: 0px; background: none; }
+      #menuButton {float: right; padding: 8px 15px; }
+      #menuButton a:hover {background: #ddd;}      
+      #dropdown {background: #ccc; padding: 0px 0px; margin: 1px; width: 200px; float: right; display: none;}
+      .dropdown ul {list-style: none;}      
     </style>
-    
+
+    <script language="javascript">
+      function toggleDropdown() {
+        var menu = document.getElementById('dropdown');
+        if (menu.style.display === "none") {
+          menu.style.display = "block";
+      } else {
+        menu.style.display = "none";
+      }
+      }
+    </script>
+
   </head>
   
   <body>
@@ -44,11 +59,26 @@
         <a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi">jamovi</a>
         <a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP">JASP</a>
       </div>
-        
+
+      <div id=menuButton>
+        <a href""><i class="fas fa-bars fa-2x"></i></a>
+      </div>
+
     </div>
     </div>
-    
-   <div class="container-lg px-3 my-5 markdown-body" >
+
+    <div id=dropdown>
+
+      <ul>
+        <li class=""><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods" class="">Methods</a></li>  
+        <li class=""><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS" class="">SPSS</a></li>  
+        <li class=""><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi" class="">jamovi</a></li>
+        <li class=""><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP" class="">JASP</a></li>
+      </ul>
+
+    </div>    
+
+    <div class="container-lg px-3 my-5 markdown-body" >
            
       {{ content }}
    
