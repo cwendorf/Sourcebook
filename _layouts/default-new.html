@@ -18,10 +18,10 @@
       #site {float: left; padding: 0px;}
       #logo {height: 50px; margin: 0px; padding: 0px; background: none; }
 
-      .navLink {display: block; float: left; font-weight: bold; font-size: 18px; text-decoration: none !important; color: black; margin: 0px 5px; padding: 14px 15px; }
+      .navLink {float: left; font-weight: bold; font-size: 18px; text-decoration: none !important; color: black; margin: 1px 5px; padding: 10px 15px; }
       .navLink:hover {background: #ddd; color: red; }
 
-      #menuButton {float: right; padding: 8px 15px;}
+      #menuButton {float: right; padding: 8px 15px; }
       #menuButton:hover {background: #ddd;}      
       #dropdown {background: #ccc; padding: 0px 0px; margin: 1px; width: 200px; float: right; display: none;}
       .dropdown ul {list-style: none;}
@@ -31,6 +31,17 @@
       .markdown-body hr {background-color: black;}
 
       div#footer {padding: 10px 0px;}
+
+      @media screen and (max-width: 600px) {
+        .navLink (display: none;)
+        #menuButton (display: block;)
+      }
+      @media screen and (min-width: 601px) {
+        .navLink (display: block;)
+        #menuButton (display: none;)
+      }
+
+}
 
     </style>
 	
@@ -51,17 +62,17 @@
 
     <div class="custom">
     <div id=header class="container-lg px-3 markdown-body">
-
+  
       <a id=site href="{{ "/" | absolute_url }}"><img id=logo src="../assets/logo.png" alt="{{ site.title }}"></a>      
       <a class=navLink href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods">Methods</a> 
       <a class=navLink href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS">SPSS</a>  
       <a class=navLink href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi">jamovi</a>
       <a class=navLink href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP">JASP</a>
       <a id=menuButton href""><i class="fas fa-bars fa-2x"></i></a>
-
+ 
     </div>
     </div>
-
+  
     <div id=dropdown>
       <ul>
         <li class=""><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods" class="">Methods</a></li>  
@@ -69,7 +80,7 @@
         <li class=""><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi" class="">jamovi</a></li>
         <li class=""><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP" class="">JASP</a></li>
       </ul>
-    </div>    
+    </div>   
 
     <div class="container-lg px-3 my-5 markdown-body" >
            

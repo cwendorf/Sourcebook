@@ -1,88 +1,52 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+  <head>
 
-<head>
-
-    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <script src="https://kit.fontawesome.com/277c075f99.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
     <style>
-
-      .custom {background: #ccc; width: 100%; height: 70px; }
-      #header {padding: 10px 0px; height: 50px;}
-
-      #site {float: left; padding: 0px;}
-      #logo {height: 50px; margin: 0px; padding: 0px; background: none; }
-
-      .navLink {float: left; font-weight: bold; font-size: 18px; text-decoration: none !important; color: black; margin: 1px 5px; padding: 10px 15px; }
-      .navLink:hover {background: #ddd; color: red; }
-
-      #menuButton {float: right; padding: 8px 15px; }
-      #menuButton:hover {background: #ddd;}      
-      #dropdown {background: #ccc; padding: 0px 0px; margin: 1px; width: 200px; float: right; display: none;}
-      .dropdown ul {list-style: none;}
-
       .markdown-body h1 {color: red; margin: 0px;}
-      .markdown-body h3 {}
       .markdown-body hr {background-color: black;}
-
+      div.custom {background: #ccc; width: 100%; height: 100%; }
+      div#header {padding: 10px 0px; height: auto; }
       div#footer {padding: 10px 0px;}
-
-      @media screen and (max-width: 600px) {
-        .navLink (display: none;)
-        #menuButton (display: block;)
-      }
-      @media screen and (min-width: 601px) {
-        .navLink (display: block;)
-        #menuButton (display: none;)
-      }
-
-}
-
+      div#site {float:left; margin-right: 20px}
+      div#nav {display: inline-block; font-weight: bold; font-size: 1.1em; margin: 10px 0px;}
+      div#nav a {text-decoration: none; margin: 10px 0px; padding: 10px 10px; color: black;}
+      div#nav a:hover {background: #ddd; color: red; }
+      img#logo {display: inline-block; height: 50px; padding: 0px; background: none; }
     </style>
-	
-    <script language="javascript">
-      function toggleDropdown() {
-        var menu = document.getElementById('dropdown');
-        if (menu.style.display === "none") {
-          menu.style.display = "block";
-        } else {
-        menu.style.display = "none";
-        }
-      }
-	  </script>
-
+    
   </head>
   
   <body>
 
     <div class="custom">
     <div id=header class="container-lg px-3 markdown-body">
-  
-      <a id=site href="{{ "/" | absolute_url }}"><img id=logo src="../assets/logo.png" alt="{{ site.title }}"></a>      
-      <a class=navLink href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods">Methods</a> 
-      <a class=navLink href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS">SPSS</a>  
-      <a class=navLink href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi">jamovi</a>
-      <a class=navLink href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP">JASP</a>
-      <a id=menuButton href""><i class="fas fa-bars fa-2x"></i></a>
- 
+            
+      <div id=site>
+      {% if site.title and site.title != page.title %}
+        <a href="{{ "/" | absolute_url }}" style="text-decoration: none;">
+          <img id=logo src="{{ "/assets/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}">
+        </a> 
+      {% endif %}
+      </div>
+      
+      <div id=nav>
+        <a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods">Methods</a> 
+        <a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS">SPSS</a>  
+        <a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi">jamovi</a>
+        <a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP">JASP</a>
+      </div>
+        
     </div>
     </div>
-  
-    <div id=dropdown>
-      <ul>
-        <li class=""><a href="{{ "/Methods/" | prepend: site.baseurl }}" alt="Methods" class="">Methods</a></li>  
-        <li class=""><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS" class="">SPSS</a></li>  
-        <li class=""><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi" class="">jamovi</a></li>
-        <li class=""><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP" class="">JASP</a></li>
-      </ul>
-    </div>   
-
-    <div class="container-lg px-3 my-5 markdown-body" >
+    
+   <div class="container-lg px-3 my-5 markdown-body" >
            
       {{ content }}
    
@@ -115,7 +79,6 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
-
   </body>
 </html>
 
