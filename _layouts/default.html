@@ -23,8 +23,8 @@
       img#logo {display: inline-block; height: 50px; padding: 0px; background: none; }
       
       #menuButton {float: right; padding: 8px 15px; }
-      #menuButton a {text-decoration: none; margin: 0px 0px; padding: 14px 10px; color: black;}      
-      #menuButton a:hover {background: #ddd;}      
+      #menuButton i {text-decoration: none; margin: 0px 0px; padding: 14px 10px; color: black;}      
+      #menuButton i:hover {background: #ddd;}      
       #dropdown {background: #ccc; padding: 0px 0px; margin: 1px; width: 200px; float: right; display: none;}
       #dropdown ul {list-style: none;}  
 
@@ -42,7 +42,7 @@
     <script language="javascript">
       function toggleDropdown() {
         var menu = document.getElementById('dropdown');
-        if (menu.style.display === "none") {
+        if (menu.style.display == "none") {
           menu.style.display = "block";
       } else {
         menu.style.display = "none";
@@ -73,7 +73,7 @@
       </div>
 
       <div id=menuButton>
-        <a href""><i class="fas fa-bars fa-2x"></i></a>
+        <i class="fas fa-bars fa-2x" onClick="toggleDropdown"></i>
       </div>
 
     </div>
