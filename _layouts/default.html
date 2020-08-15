@@ -13,14 +13,14 @@
     <style>
       .markdown-body h1 {color: red; margin: 0px;}
       .markdown-body hr {background-color: black;}
-      div.custom {background: #ccc; width: 100%; height: 70px; }
-      div#header {padding: 10px 0px; height: auto; }
-      div#footer {padding: 10px 0px;}
-      div#site {float:left; margin-right: 20px}
-      div#nav {display: inline-block; font-weight: bold; font-size: 18px; margin: 12px 0px;}
-      div#nav a {text-decoration: none; margin: 10px 0px; padding: 12px 10px; color: black;}
-      div#nav a:hover {background: #ddd; color: red; }
-      img#logo {display: inline-block; height: 50px; padding: 0px; background: none; }
+      .custom {background: #ccc; width: 100%; height: 70px; }
+      #header {padding: 10px 0px; height: auto; }
+
+      #site {float:left; margin-right: 20px}
+      #nav {display: inline-block; font-weight: bold; font-size: 18px; margin: 12px 0px;}
+      #nav a {text-decoration: none; margin: 10px 0px; padding: 12px 10px; color: black;}
+      #nav a:hover {background: #ddd; color: red; }
+      #logo {display: inline-block; height: 50px; padding: 0px; background: none; }
       
       #menuButton {float: right; padding: 0px 0px; }
       #menuButton i {text-decoration: none; margin: 0px 0px; padding: 8px 10px; color: black;}      
@@ -30,6 +30,10 @@
       #dropdown li {width: 100%; text-align: center;}
       #dropdown a {display: block; text-decoration: none; margin: 0px 0px; padding: 12px 10px; color: black; font-weight: bold; font-size: 18px;}
       #dropdown a:hover {background: #ddd; color: red;}
+
+      #footer {padding: 10px 0px;}
+      #footer a {color: black; text-decoration: none;}
+      #footer a:hover {color: red;}
 
       @media (max-width: 700px) {
         div#nav {display: none;}
@@ -104,10 +108,10 @@
     
     <div class="custom">
       <div id=footer class="container-lg px-3 markdown-body">
-        <a href="mailto:cwendorf@uwsp.edu"><i class="fas fa-envelope-square"></i> cwendorf@uwsp.edu</a>
+        <a href="mailto:cwendorf@uwsp.edu"><i class="fas fa-envelope-square" style="margin-right: 10px;"></i>cwendorf@uwsp.edu</a>
         <br />
         {% if site.github.is_project_page %}
-        <a href="{{ site.github.owner_url }}"><i class="fab fa-github-square"></i> {{ site.github.owner_name }}</a> /  
+        <a href="{{ site.github.owner_url }}"><i class="fab fa-github-square" style="margin-right: 10px;></i>{{ site.github.owner_name }}</a> /  
         {% endif %}
         {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}">Sourcebook</a>
