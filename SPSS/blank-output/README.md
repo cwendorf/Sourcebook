@@ -10,19 +10,19 @@
 
 ## Table of Contents for This Chapter
 
-- [Descriptives (Frequencies and Descriptives)](#descriptives-frequencies-and-descriptives)
+- [Frequencies (Frequencies and Descriptives)](#frequencies-frequencies-and-descriptives)
 - [Correlations (Bivariate)](#correlations-bivariate)
 - [T Test (One Sample)](#t-test-one-sample)
 - [T Test (Paired Samples)](#t-test-paired-samples)
 - [T Test (Independent Samples)](#t-test-independent-samples)
-- [ANOVA (OneWay ANOVA)](#anova-oneway-anova)
+- [OneWay (OneWay ANOVA)](#oneway-oneway-anova)
 - [Post Hoc Tests (OneWay ANOVA)](#post-hoc-tests-oneway-anova)
-- [Repeated Measures ANOVA](#repeated-measures-anova)
+- [General Linear Model (Repeated Measures ANOVA)](#general-linear-model-repeated-measures-anova)
 - [ANOVA (Factorial ANOVA)](#anova-factorial-anova)
 
 ---
 
-## Descriptives
+## Frequencies (Frequencies and Descriptives)
 
 <p align="center"><kbd><img src="page3.png"></kbd></p>
 
@@ -42,7 +42,7 @@
 
 <p align="center"><kbd><img src="page7.png"></kbd></p>
 
-## ANOVA (OneWay ANOVA)
+## OneWay (OneWay ANOVA)
 
 <p align="center"><kbd><img src="page8.png"></kbd></p>
 
@@ -50,7 +50,7 @@
 
 <p align="center"><kbd><img src="page9.png"></kbd></p>
 
-## Repeated Measures ANOVA
+## General Linear Model (Repeated Measures ANOVA)
 
 <p align="center"><kbd><img src="page10.png"></kbd></p>
 
