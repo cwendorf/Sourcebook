@@ -22,7 +22,7 @@
 
 ---
 
-## Descriptives
+## Descriptives (Frequencies and Descriptives)
 
 <p align="center"><kbd><img src="page3.png"></kbd></p>
 
