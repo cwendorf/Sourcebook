@@ -12,7 +12,16 @@
 
 ## Table of Contents for This Chapter
 
-- [Descriptives (Frequencies and Descriptives)](#descriptives-frequencies-and-descriptives)
+- [Frequencies](#frequencies)
+- [Descriptives](#descriptives)
+- [Correlations](#correlations)
+- [Confidence Intervals](#confidence-intervals)
+- [One Sample t Test](#one-sample-t-test)
+- [Independent Samples t Test](#independent-samples-t-test)
+- [One Way ANOVA](#one-way-anova)
+- [Post Hoc Comparisons](#post-hoc-comparisons)
+- [Repeated Measures ANOVA](#repeated-measures-anova)
+- [Factorial ANOVA](#factorial-anova)
 
 ---
 
