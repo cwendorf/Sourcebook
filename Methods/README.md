@@ -13,7 +13,7 @@ This section provides an overview of the basic types of statistical analyses. Th
 
 ## Statistical Tables
 
-This chapter provides basic statistical tables. Tables included are the Standard Normal, Student's (t) Distribution, F, Tukey's HSD, and power tables for Cohen's d and Eta-Squared. These tables were used in the annotated output sections of this project.
+This chapter provides basic statistical tables. Tables included are the Standard Normal, Student's (t), F, Tukey's HSD, and power tables for Cohen's d and Eta-Squared. These tables were used in the annotated output sections of this project.
 
 - [View the HTML Version](./statistical-tables/)
 - [View the PDF Version](./Sourcebook-Methods-StatisticalTables.pdf)
