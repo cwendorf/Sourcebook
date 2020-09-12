@@ -15,6 +15,7 @@
 - [Entering Multiple Sample Data](#entering-multiple-sample-data)
 - [Entering Factorial Data](#entering-factorial-data)
 - [Descriptives (Frequencies and Descriptives)](#descriptives-frequencies-and-descriptives)
+- [Compute (Transformations and Standardized Scores)](#compute-transformations-and-standardized-scores)
 - [Correlations (Bivariate)](#correlations-bivariate)
 - [T Test (One Sample)](#t-test-one-sample)
 - [T Test (Paired Samples)](#t-test-paired-samples)
@@ -48,8 +49,7 @@
 
 ### Steps for Entering Data
 
-6. Enter the data in the individual cells of the
-column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
+6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
 
 <p align="center"><kbd><img src="image3.jpg"></kbd></p>
 
@@ -77,11 +77,9 @@ column for the variable. Note that each cell should contain a single score for a
 
 ### Steps for Entering Data
 
-6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as
-people.
+6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people.
 
-7. Notice that each individual (i.e., the rows) have values 
-for each instance of the within-subjects variable (i.e., the columns). 
+7. Notice that each individual (i.e., the rows) have values for each instance of the within-subjects variable (i.e., the columns). 
 
 <p align="center"><kbd><img src="image5.jpg"></kbd></p>
 
@@ -91,31 +89,15 @@ for each instance of the within-subjects variable (i.e., the columns).
 
 ### Steps for Defining Variables
 
-1. First, click on the "Data" 
-tab on the top of the
-window. Generally speaking,
-this is where you will enter 
-the data for all of the
-variables in the data set. 
+1. First, click on the "Data" tab on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
 
-2. Click on a cell in the 
-column (i.e., variable) that 
-you wish to define. Click on 
-"Setup" from the menu. This
-will bring up a new set of 
-options. 
+2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options. 
 
 <p align="center"><kbd><img src="image6.jpg"></kbd></p>
 
 ### Steps for Setting Variable Properties
 
-3. You will need to define
-multiple variables. One
-variable will represent the
-Factor (Independent
-Variable) and the other will 
-represent the Outcome
-(Dependent) Variable.
+3. You will need to define multiple variables. One variable will represent the Factor (Independent Variable) and the other will represent the Outcome (Dependent) Variable.
 
 4. Provide a name and define
 the level of measurement for 
@@ -304,6 +286,74 @@ software for printing
 purposes.
 
 <p align="center"><kbd><img src="image13.jpg"></kbd></p>
+
+---
+
+## Compute (Transformations and Standardized Scores)
+
+### Steps for Obtaining the Compute Menu
+
+1. First, enter the data (described elsewhere).
+
+2. After the data are entered, click on the column representing the data you wish to transform.
+
+3. Select the “Compute” option from the menu. This will bring up a new set of options.
+
+<p align="center"><kbd><img src="compute1.png"></kbd></p>
+
+### Steps for Computing Transformations
+
+4. Type in the new you wish to give the new variable (here it is “trOutcome).
+
+5. Click on the “fx” button to obtain the dropdown menu.  
+
+6. Click on the variable you wish to transform (“Outcome”). This will place it in the formula editor. Then add, subtract, multiply, or divide as needed to get the transformation you want.
+
+7. Hit “Enter” on your keyboard to perform the data transformation.
+
+8. To hide the setup menu, click on the large UP arrow button to the right of the variable name.
+
+<p align="center"><kbd><img src="compute2.png"></kbd></p>
+
+### Steps for Viewing the Transformed Scores
+
+9. Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
+
+10.	These variables can be used in subsequent analyses. You can follow the previous tutorials to get descriptive statistics for these variables.
+
+<p align="center"><kbd><img src="compute3.png"></kbd></p>
+
+### Steps for Obtaining Standardized Scores
+
+11.	In addition, you can obtain standardized scores. First, enter the data (described elsewhere).
+
+12.	After the data are entered, click on the column representing the data you wish to transform.
+
+13.	Select the “Compute” option from the menu. This will bring up a new set of options.
+
+<p align="center"><kbd><img src="compute4.png"></kbd></p>
+
+### Steps for Computing Standardized Scores
+
+14.	Type in the new you wish to give the new variable (here it is “zOutcome).
+
+15.	Click on the “fx” button to obtain the dropdown menu.  On the left side under functions, click on “z” to place it in the formula editor.
+
+16.	Click on the variable you wish to transform (“Outcome”). This will place it in the formula editor. 
+
+17.	Hit “Enter” on your keyboard to perform the data transformation.
+
+18.	To hide the setup menu, click on the large UP arrow button to the right of the variable name.
+
+<p align="center"><kbd><img src="compute5.png"></kbd></p>
+
+### Steps for Viewing the Standardized Scores
+
+19.	Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
+
+20.	These variables can be used in subsequent analyses. You can follow the previous tutorials to get descriptive statistics for these variables.
+
+<p align="center"><kbd><img src="compute6.png"></kbd></p>
 
 ---
 
