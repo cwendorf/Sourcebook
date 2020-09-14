@@ -16,7 +16,7 @@ The materials in this online sourcebook are intended to facilitate the connectio
 
 This site includes the primary functions and available extensions, along with numerous example showing how to use them.
 
-- [**Methods**](./Methods): Contains a summary of basic statistical methods, including an overview of statistical analyses, basic statistical tables, APA style for reporting statistics, and worked examples of basic methods
+- [**Methods**](./Methods): Contains an overview, statistical tables, APA style for reporting, and worked examples
 - [**SPSS**](./SPSS): Contains instructions, annotated output, and blank output for SPSS
 - [**jamovi**](./jamovi): Contains instructions, annotated output, and blank output for jamovi
 - [**JASP**](./JASP): Contains instructions, annotated output, and blank output for JASP
