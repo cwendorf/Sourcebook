@@ -12,15 +12,14 @@
 
 The materials in this online sourcebook are intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. The textbook currently includes: a summary of basic statistical methods; instructions on obtaining basic statistical output using SPSS, jamovi, and JASP; annotated output showing how to calculate and interpret the output; and summaries of how the results should be reported in APA style.
 
-
 ### Viewing the Sourcebook
 
-A browser-friendly viewing platform for the sourcebook is available:  
-[https://cwendorf.github.io/Sourcebook](https://cwendorf.github.io/Sourcebook/)
+This site includes the primary functions and available extensions, along with numerous example showing how to use them.
 
-All data, syntax, and output files are available:  
-[https://github.com/cwendorf/Sourcebook](https://github.com/cwendorf/Sourcebook)
-
+- [**Methods**](./Methods): Contains a summary of basic statistical methods, including an overview of statistical analyses, basic statistical tables, APA style for reporting statistics, and worked examples of basic methods
+- [**SPSS**](./SPSS): Contains instructions, annotated output, and blank output for SPSS
+- [**jamovi**](./jamovi): Contains instructions, annotated output, and blank output for jamovi
+- [**JASP**](./JASP): Contains instructions, annotated output, and blank output for JASP
 
 ### Citation
 
