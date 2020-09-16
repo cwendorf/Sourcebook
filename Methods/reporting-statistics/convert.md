@@ -131,7 +131,7 @@ In more complex examples – such as those with multiple outcome variables – i
 **Descriptive Statistics with Confidence Intervals:** This table is useful for removing the basic descriptive statistics (the means and
 standard deviations) and the confidence intervals from the text.
 
-|           | Level 1 |||             | Level 2        ||||
+|           | Level 1 |||             | Level 2        |||
 |-----------|---------|-------------|----------------|-----|-----|-------------|----------------|
 | Variable  | *n*     | *M* (*SD*)  | 95% CI         |     | *n* | *M* (*SD*)  | 95% CI         |
 | Outcome 1 | 4       | 2.00 (2.45) | \[-.73, 4.73\] |     | 4   | 6.00 (2.45) | \[3.27, 8.73\] |
