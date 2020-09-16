@@ -149,32 +149,32 @@ descriptive statistics.
 estimate of the population mean. Here, the mean is determined as the
 average of the scores weighted by their frequencies:
 
-$$M = \\frac{\\sum\_{}^{}\\left( \\text{fY} \\right)}{N} = \\frac{\\left( 2 \\times 0 \\right) + \\left( 1 \\times 3 \\right) + \\left( 2 \\times 4 \\right) + \\left( 1 \\times 5 \\right) + \\left( 1 \\times 7 \\right) + (1\\  \\times 8)}{8} = 4.000$$
+M = (sum/()^()left( (fY) right))(N) = (left( 2 times 0 right) + left( 1 times 3 right) + left( 2 times 4 right) + left( 1 times 5 right) + left( 1 times 7 right) + (1  times 8))(8) = 4.000
 
 **Sum of Squares:** The Sum of Squares is the basic measure of the
 variability of the scores. Formally, it is the sum of the weighted
 deviations of the scores about the mean.
 
-$$SS = \\sum\_{}^{}{f\\left( Y - M \\right)} = 2\\left( 0 - 4.000 \\right)^{2} + 1\\left( 3 - 4.000 \\right)^{2} + 2\\left( 4 - 4.000 \\right)^{2} + 1\\left( 5 - 4.000 \\right)^{2} + 1\\left( 7 - 4.000 \\right)^{2} + 1\\left( 8 - 4.000 \\right)^{2} = 68.000
-$$
+SS = sum/()^()(fleft( Y - M right)) = 2left( 0 - 4.000 right)^(2) + 1left( 3 - 4.000 right)^(2) + 2left( 4 - 4.000 right)^(2) + 1left( 5 - 4.000 right)^(2) + 1left( 7 - 4.000 right)^(2) + 1left( 8 - 4.000 right)^(2) = 68.000
+
 
 **Mean Squares:** Mean Squares (also known as Variance) is a function of the
 Sum of Squares. It is calculated as an unbiased estimate of the
 population variance.
 
-$$MS = \\frac{\\text{SS}}{\\left( N - 1 \\right)} = \\frac{68}{7} = 9.714$$
+MS = ((SS))(left( N - 1 right)) = (68)(7) = 9.714
 
 **Standard Deviation:** Standard Deviation is a function of the Mean
 Squares. It is also calculated as an unbiased estimate of the population
 standard deviation.
 
-$$SD = \\sqrt{\\text{MS}} = \\sqrt{9.714} = 3.117$$
+SD = sqrt((MS)) = sqrt(9.714) = 3.117
 
 ### Summarizing the Descriptive Statistics
 
 The purpose of the descriptive statistics is to provide the reader with
 an idea about the basic elements of the group(s) being studied. Note
-that these also form the basis of the in-text presentation for most
+that these also form the basis of the in- presentation for most
 statistical analyses. Both of the following versions present the
 required information.
 
@@ -231,7 +231,7 @@ of comparison.
 divided by the standard deviation. For the first score in the
 distribution:
 
-$$z = \\frac{(Y - M)}{\\text{SD}} = \\frac{(0 - 4)}{3.117} = \\frac{- 4}{3.117} = - 1.283$$
+z = ((Y - M))((SD)) = ((0 - 4))(3.117) = (- 4)(3.117) = - 1.283
 
 This is repeated for each score in the distribution. In software
 programs, these would be calculated and presented as follows:
@@ -253,26 +253,26 @@ programs, these would be calculated and presented as follows:
 estimate of the population mean. Here, the mean is determined as the
 average of the scores weighted by their frequencies:
 
-$$M = \\frac{\\sum\_{}^{}\\left( \\text{fY} \\right)}{N} = \\frac{\\left( 2 \\times - 1.283 \\right) + \\left( 1 \\times - .321 \\right) + \\left( 2 \\times 0 \\right) + \\left( 1 \\times .321 \\right) + \\left( 1 \\times .963 \\right) + (1\\  \\times 1.604)}{8} = 0.000$$
+M = (sum/()^()left( (fY) right))(N) = (left( 2 times - 1.283 right) + left( 1 times - .321 right) + left( 2 times 0 right) + left( 1 times .321 right) + left( 1 times .963 right) + (1  times 1.604))(8) = 0.000
 
 **Sum of Squares:** The Sum of Squares is the basic measure of the
 variability of the scores. Formally, it is the sum of the weighted
 deviations of the scores about the mean.
 
-$$SS = \\sum\_{}^{}{f\\left( Y - M \\right)} = 2\\left( - 1.283 - 0.000 \\right)^{2} + 1\\left( - .321 - 0.000 \\right)^{2} + 2\\left( 0.000 - 0.000 \\right)^{2} + 1\\left( .321 - 0.000 \\right)^{2} + 1\\left( .963 - 0.000 \\right)^{2} + 1\\left( 1.604 - 0.000 \\right)^{2} = 7.000
-$$
+SS = sum/()^()(fleft( Y - M right)) = 2left( - 1.283 - 0.000 right)^(2) + 1left( - .321 - 0.000 right)^(2) + 2left( 0.000 - 0.000 right)^(2) + 1left( .321 - 0.000 right)^(2) + 1left( .963 - 0.000 right)^(2) + 1left( 1.604 - 0.000 right)^(2) = 7.000
+
 
 **Mean Squares:** Mean Squares (also known as Variance) is a function of the
 Sum of Squares. It is calculated as an unbiased estimate of the
 population variance.
 
-$$MS = \\frac{\\text{SS}}{\\left( N - 1 \\right)} = \\frac{7.000}{7} = 1.000$$
+MS = ((SS))(left( N - 1 right)) = (7.000)(7) = 1.000
 
 **Standard Deviation:** Standard Deviation is a function of the Mean
 Squares. It is also calculated as an unbiased estimate of the population
 standard deviation.
 
-$$SD = \\sqrt{\\text{MS}} = \\sqrt{7.000} = 1.000$$
+SD = sqrt((MS)) = sqrt(7.000) = 1.000
 
 ### Summarizing the Standardized Scores
 
@@ -309,18 +309,18 @@ calculating the correlation.
 determined solely from the summary statistics of the output, but rather
 from the data.
 
-$$SCP = \\sum\_{}^{}{\\left( X - M\_{X} \\right)\\left( Y - M\_{Y} \\right) = \\left( 0 - 2.000 \\right)\\left( 4 - 6.000 \\right) + \\left( 0 - 2.000 \\right)\\left( 7 - 6.000 \\right) + \\left( 3 - 2.000 \\right)\\left( 4 - 6.000 \\right) + (5 - 2.000)(9 - 6.000)} = 9.000$$
+SCP = sum/()^()(left( X - M/(X) right)left( Y - M/(Y) right) = left( 0 - 2.000 right)left( 4 - 6.000 right) + left( 0 - 2.000 right)left( 7 - 6.000 right) + left( 3 - 2.000 right)left( 4 - 6.000 right) + (5 - 2.000)(9 - 6.000)) = 9.000
 
 **Covariance:** The Covariance is a function of the Sum of Cross Products
 and the sample size:
 
-$$COV = \\frac{\\text{SCP}}{\\left( N - 1 \\right)} = \\frac{9.000}{\\left( 4 - 1 \\right)} = 3.000$$
+COV = ((SCP))(left( N - 1 right)) = (9.000)(left( 4 - 1 right)) = 3.000
 
 **Pearson Correlation Coefficient:** The Pearson Correlation Coefficient is
 a function of the Covariance and the Standard Deviations of both
 variables:
 
-$$r = \\frac{\\text{COV}}{\\left( \\text{SD}\_{X} \\right)\\left( \\text{SD}\_{Y} \\right)} = \\frac{3.000}{\\left( 2.449 \\right)\\left( 2.449 \\right)} = .500$$
+r = ((COV))(left( (SD)/(X) right)left( (SD)/(Y) right)) = (3.000)(left( 2.449 right)left( 2.449 right)) = .500
 
 ### Summarizing the Correlation
 
@@ -369,7 +369,7 @@ the inferential statistics for the confidence interval.
 estimate of how spread out the distribution of all possible random
 sample means would be.
 
-$$\\text{SE}\_{M} = \\frac{\\text{SD}}{\\sqrt{N}} = \\frac{3.117}{\\sqrt{8}} = 1.102$$
+(SE)/(M) = ((SD))(sqrt(N)) = (3.117)(sqrt(8)) = 1.102
 
 **Confidence Interval:** For this test, the appropriate confidence interval
 is around (centered on) the mean difference (raw effect).
@@ -431,7 +431,7 @@ mean.
 **Statistical Significance:** The *t* statistic is the ratio of the mean
 difference (raw effect) to the standard error of the mean.
 
-$$t = \\frac{M - \\mu}{\\text{SE}\_{M}} = \\frac{- 3.000}{1.102} = - 2.722$$
+t = (M - mu)((SE)/(M)) = (- 3.000)(1.102) = - 2.722
 
 With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365
 >
@@ -440,7 +440,7 @@ Because *t* &gt; *t<sub>CRITICAL</sub>*, *p* &lt; .05
 **Effect Size:** Cohen’s d Statistic provides a standardized effect size for
 the mean difference (raw effect).
 
-$$d = \\frac{M - \\mu}{\\text{SD}} = \\frac{- 3.000}{3.117} = 0.963$$
+d = (M - mu)((SD)) = (- 3.000)(3.117) = 0.963
 
 **Confidence Interval:** For this test, the appropriate confidence interval
 is around (centered on) the mean difference (raw effect).
@@ -506,25 +506,25 @@ SS<sub>WITHIN</sub> = SS<sub>1</sub> + SS<sub>2</sub> = 18.000 +�
 
 df<sub>WITHIN</sub> = df<sub>1</sub> + df<sub>2</sub> = 3 + 3 = 6
 
-$$\\text{MS}\_{\\text{WITHIN}} = \\frac{\\text{SS}\_{\\text{WITHIN}}}{\\text{df}\_{\\text{WITHIN}}} = \\frac{36.000}{6} = 6.000$$
+(MS)/((WITHIN)) = ((SS)/((WITHIN)))((df)/((WITHIN))) = (36.000)(6) = 6.000
 
-$$\\text{SD}\_{\\text{WITHIN}} = \\sqrt{\\text{MS}\_{\\text{WITHIN}}} = \\sqrt{6.000} = 2.449$$
+(SD)/((WITHIN)) = sqrt((MS)/((WITHIN))) = sqrt(6.000) = 2.449
 
 **Standard Error of the Difference:** The standard error of the difference
 is a function of the two groups’ individual standard errors.
 
 When the two sample sizes are equal:
 
-\\text{SE}\_{\\text{DIFF}} = \\sqrt{\\text{SE}\_{1}^{2} + \\text{SE}\_{2}^{2}} = \\sqrt{{1.225}^{2} + {1.225}^{2}} = 1.732
+(SE)/((DIFF)) = sqrt((SE)/(1)^(2) + (SE)/(2)^(2)) = sqrt((1.225)^(2) + (1.225)^(2)) = 1.732
 
 When the two sample sizes are unequal:
 
-$$\\text{SE}\_{\\text{DIFF}} = \\sqrt{\\frac{\\text{MS}\_{\\text{WITHIN}}}{n\_{1}} + \\frac{\\text{MS}\_{\\text{WITHIN}}}{n\_{2}}} = \\sqrt{\\frac{6.000}{4} + \\frac{6.000}{4}} = 1.732$$
+(SE)/((DIFF)) = sqrt(((MS)/((WITHIN)))(n/(1)) + ((MS)/((WITHIN)))(n/(2))) = sqrt((6.000)(4) + (6.000)(4)) = 1.732
 
 **Statistical Significance:** The *t* statistic is the ratio of the mean
 difference (raw effect) to the standard error of the difference.
 
-$$t = \\frac{M\_{1} - M\_{2}}{\\text{SE}\_{\\text{DIFF}}} = \\frac{- 4.000}{1.732} = - 2.309$$
+t = (M/(1) - M/(2))((SE)/((DIFF))) = (- 4.000)(1.732) = - 2.309
 
 *d**f* = (*n*<sub>1</sub>−1) + (*n*<sub>2</sub>−1) = *N* − 2 = 8 − 2 = 6
 
@@ -535,7 +535,7 @@ Because *t &lt;* *t<sub>CRITICAL</sub>*, *p* &gt; .05
 **Effect Size:** Cohen’s d Statistic provides a standardized effect size for
 the difference between the two means.
 
-$$d = \\frac{M\_{1} - M\_{2}}{\\text{SD}\_{\\text{WITHIN}}} = \\frac{- 4.000}{2.449} = - 1.630$$
+d = (M/(1) - M/(2))((SD)/((WITHIN))) = (- 4.000)(2.449) = - 1.630
 
 **Confidence Interval:** For this test, the appropriate confidence interval
 is around (centered on) the mean difference (raw effect).
@@ -607,22 +607,22 @@ SS<sub>WITHIN</sub> = SS<sub>1</sub> + SS<sub>2</sub> + SS<sub>3</su
 
 df<sub>WITHIN</sub> = df<sub>1</sub> + df<sub>2</sub> + df<sub>3</sub> = 3 + 3 + 3 = 9
 
-$$\\text{MS}\_{\\text{WITHIN}} = \\frac{\\text{SS}\_{\\text{WITHIN}}}{\\text{df}\_{\\text{WITHIN}}} = \\frac{54.000}{9} = 6.000$$
+(MS)/((WITHIN)) = ((SS)/((WITHIN)))((df)/((WITHIN))) = (54.000)(9) = 6.000
 
 **Between Groups Statistics:** The between-groups effect statistics are a
 function of the group (level) means and sample sizes.
 
-$\\text{SS}\_{\\text{BETWEEN}} = \\sum\_{}^{}{n\_{\\text{GROUP}}\\left( M\_{\\text{GROUP}} - M\_{\\text{TOTAL}} \\right)^{2}} = 4\\left( 2.0 - 5.0 \\right)^{2} + 4\\left( 6.0 - 5.0 \\right)^{2} + 4\\left( 7.0 - 5.0 \\right)^{2} = 56.000$
+(SS)/((BETWEEN)) = sum/()^()(n/((GROUP))left( M/((GROUP)) - M/((TOTAL)) right)^(2)) = 4left( 2.0 - 5.0 right)^(2) + 4left( 6.0 - 5.0 right)^(2) + 4left( 7.0 - 5.0 right)^(2) = 56.000$
 
 df<sub>BETWEEN</sub> = \#*g**r**o**u**p**s* − 1 = 3 − 1 = 2
 
-$$\\text{MS}\_{\\text{BETWEEN}} = \\frac{\\text{SS}\_{\\text{BETWEEN}}}{\\text{df}\_{\\text{BETWEEN}}} = \\frac{56.000}{2} = 28.000$$
+(MS)/((BETWEEN)) = ((SS)/((BETWEEN)))((df)/((BETWEEN))) = (56.000)(2) = 28.000
 
 **Statistical Significance:** The F statistic is the ratio of the between-
 and within-group variance estimates. A table of F values or SPSS can be
 used to obtain the probabilities of the F statistic.
 
-$$F = \\frac{\\text{MS}\_{\\text{BETWEEN}}}{\\text{MS}\_{\\text{WITHIN}}} = \\frac{28.000}{6.000} = 4.667$$
+F = ((MS)/((BETWEEN)))((MS)/((WITHIN))) = (28.000)(6.000) = 4.667
 
 With *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9,
 *F<sub>CRITICAL</sub>* = 4.256
@@ -632,7 +632,7 @@ Because *F* &gt; *F<sub>CRITICAL</sub>*, *p* &lt; .05
 **Effect Size:** The Eta-Squared statistic is a ratio of the between group
 and the total group variability (Sum of Squares) estimates.
 
-$$\\eta^{2} = \\frac{\\text{SS}\_{\\text{BETWEEN}}}{\\text{SS}\_{\\text{BETWEEN}} + \\text{SS}\_{\\text{WITHIN}}} = \\frac{56.000}{56.000 + 54.000} = 0.509$$
+eta^(2) = ((SS)/((BETWEEN)))((SS)/((BETWEEN)) + (SS)/((WITHIN))) = (56.000)(56.000 + 54.000) = 0.509
 
 **Confidence Intervals:** For ANOVA, calculate the confidence intervals
 around (centered on) each mean separately.
@@ -649,7 +649,7 @@ CI<sub>*M*<sub>3</sub></sub> = *M* ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M
 
 The ANOVA provides an omnibus test of the differences across multiple
 groups. Because the ANOVA tests the overall differences among the
-groups, the text discusses the differences only in general.
+groups, the  discusses the differences only in general.
 
 > A one way ANOVA showed that the differences in Outcome scores between
 the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group
@@ -713,7 +713,7 @@ are a function of the MS<sub>WITHIN</sub> (from the ANOVA) and the
 sample sizes. \[In this case, because all groups are of the same size,
 the standard error for each comparison is the same.\]
 
-$\\text{SE}\_{\\text{DIFF}} = \\sqrt{\\left( \\frac{\\text{MS}\_{\\text{WITHIN}}}{n\_{\\text{GROUP}}} \\right) + \\left( \\frac{\\text{MS}\_{\\text{WITHIN}}}{n\_{\\text{GROUP}}} \\right)} = \\sqrt{\\left( \\frac{6.000}{4} \\right) + \\left( \\frac{6.000}{4} \\right)} = 1.732$
+(SE)/((DIFF)) = sqrt(left( ((MS)/((WITHIN)))(n/((GROUP))) right) + left( ((MS)/((WITHIN)))(n/((GROUP))) right)) = sqrt(left( (6.000)(4) right) + left( (6.000)(4) right)) = 1.732$
 
 **Statistical Significance:** The HSD statistic is a ratio of the mean
 difference to the standard error of the difference. There is one
@@ -722,15 +722,15 @@ statistic for each of the comparisons.
 Because the ANOVA has *df<sub>BETWEEN</sub>* = 2 and
 *df<sub>WITHIN</sub>* = 9, *HSD<sub>CRITICAL</sub>* = 2.792
 
-$$\\text{HSD}\_{1v2} = \\frac{M\_{1} - M\_{2}}{\\text{SE}\_{\\text{DIFF}}} = \\frac{- 4.000}{1.732} = 2.309$$
+(HSD)/(1v2) = (M/(1) - M/(2))((SE)/((DIFF))) = (- 4.000)(1.732) = 2.309
 
 Because *HSD* &lt; *HSD<sub>CRITICAL</sub>*, *p* &gt; .05
 
-$$\\text{HSD}\_{1v3} = \\frac{M\_{1} - M\_{3}}{\\text{SE}\_{\\text{DIFF}}} = \\frac{- 5.000}{1.732} = 2.887$$
+(HSD)/(1v3) = (M/(1) - M/(3))((SE)/((DIFF))) = (- 5.000)(1.732) = 2.887
 
 Because *HSD* &gt; *HSD<sub>CRITICAL</sub>*, *p &lt;* .05
 
-$$\\text{HSD}\_{2v3} = \\frac{M\_{2} - M\_{3}}{\\text{SE}\_{\\text{DIFF}}} = \\frac{- 1.000}{1.732} = 0.577$$
+(HSD)/(2v3) = (M/(2) - M/(3))((SE)/((DIFF))) = (- 1.000)(1.732) = 0.577
 
 Because *HSD* &lt; *HSD<sub>CRITICAL</sub>*, *p* &gt; .05
 
@@ -790,18 +790,18 @@ the inferential statistics for the Repeated Measures ANOVA.
 **Grand (or Total) Mean:** Because sample sizes are equal, a grand mean can
 be determined by averaging the two level means.
 
-$$M\_{\\text{TOTAL}} = \\frac{\\left( M\_{\\text{LEVEL}} + M\_{\\text{LEVEL}} \\right)}{2} = \\frac{\\left( 2.000 + 6.000 \\right)}{2} = 4.000$$
+M/((TOTAL)) = (left( M/((LEVEL)) + M/((LEVEL)) right))(2) = (left( 2.000 + 6.000 right))(2) = 4.000
 
 **Between-Subjects Error Statistics:** Between-subjects error refers to the
 average differences across the participants of the study. This Sum of
 Squares is not easily determined from the summary statistics output, but
 rather from the data.
 
-$$\\text{SS}\_{\\text{SUBJECTS}} = \\sum\_{}^{}{k\\left( M\_{\\text{SUBJECT}} - M\_{\\text{TOTAL}} \\right)^{2} = 2\\left( 2.0 - 4.0 \\right)^{2} + 2\\left( 3.5 - 4.0 \\right)^{2} + 2\\left( 3.5 - 4.0 \\right)^{2} + 2\\left( 7.0 - 4.0 \\right)^{2} = 27.000}$$
+(SS)/((SUBJECTS)) = sum/()^()(kleft( M/((SUBJECT)) - M/((TOTAL)) right)^(2) = 2left( 2.0 - 4.0 right)^(2) + 2left( 3.5 - 4.0 right)^(2) + 2left( 3.5 - 4.0 right)^(2) + 2left( 7.0 - 4.0 right)^(2) = 27.000)
 
 df<sub>SUBJECTS</sub> = \#*s**u**b**j**e**c**t**s* − 1 = 4 − 1 = 3
 
-$$\\text{MS}\_{\\text{SUBJECTS}} = \\frac{\\text{SS}\_{\\text{SUBJECTS}}}{\\text{df}\_{\\text{SUBJECTS}}} = \\frac{27.000}{3} = 9.000$$
+(MS)/((SUBJECTS)) = ((SS)/((SUBJECTS)))((df)/((SUBJECTS))) = (27.000)(3) = 9.000
 
 **Within-Subjects Error Statistics:** The within-subjects error is a
 function of variabilities of the separate levels or conditions of the
@@ -815,24 +815,24 @@ SS<sub>ERROR</sub> = SS<sub>1</sub> + SS<sub>2</sub> − SS<sub>SUBJ
 
 df<sub>ERROR</sub> = df<sub>1</sub> + df<sub>2</sub> − df<sub>SUBJECTS</sub> = 3 + 3 − 3 = 3.000
 
-$$\\text{MS}\_{\\text{ERROR}} = \\frac{\\text{SS}\_{\\text{ERROR}}}{\\text{df}\_{\\text{ERROR}}} = \\frac{9.000}{3} = 3.000$$
+(MS)/((ERROR)) = ((SS)/((ERROR)))((df)/((ERROR))) = (9.000)(3) = 3.000
 
 **Within-Subjects Effect Statistics:** The statistics for the effect (or
 change) over time are functions of the means of the levels or conditions
 and the sample sizes.
 
-$$\\text{SS}\_{\\text{EFFECT}} = \\sum\_{}^{}{n\_{\\text{LEVEL}}\\left( M\_{\\text{LEVEL}} - M\_{\\text{TOTAL}} \\right)^{2} = 4\\left( 2.0 - 4.0 \\right)^{2} + 4\\left( 6.0 - 4.0 \\right)^{2} = 32.000}$$
+(SS)/((EFFECT)) = sum/()^()(n/((LEVEL))left( M/((LEVEL)) - M/((TOTAL)) right)^(2) = 4left( 2.0 - 4.0 right)^(2) + 4left( 6.0 - 4.0 right)^(2) = 32.000)
 
 df<sub>EFFECT</sub> = \#*l**e**v**e**l**s* − 1 = 2 − 1 = 1
 
-$$\\text{MS}\_{\\text{EFFECT}} = \\frac{\\text{SS}\_{\\text{EFFECT}}}{\\text{df}\_{\\text{EFFECT}}} = \\frac{32.000}{1} = 32.000$$
+(MS)/((EFFECT)) = ((SS)/((EFFECT)))((df)/((EFFECT))) = (32.000)(1) = 32.000
 
 **Statistical Significance:** The F statistic is the ratio of the
 within-subjects effect and the within-subjects error variance estimates.
 A table of F values or SPSS can be used to obtain the probabilities of
 the F statistic.
 
-$$F = \\frac{\\text{MS}\_{\\text{EFFECT}}}{\\text{MS}\_{\\text{ERROR}}} = \\frac{32.000}{3.000} = 10.667$$
+F = ((MS)/((EFFECT)))((MS)/((ERROR))) = (32.000)(3.000) = 10.667
 
 With *df<sub>EFFECT</sub>* = 1 and *df<sub>ERROR</sub>* = 3,
 *F<sub>CRITICAL</sub>* = 10.128
@@ -843,7 +843,7 @@ Effect Size: The partial eta-squared statistic is a ratio of the
 within-subjects effect and the remaining variability (Sum of Squares)
 estimates after between-subjects error has been partialled out.
 
-$$\\text{Partial\\ η}^{2} = \\frac{\\text{SS}\_{\\text{EFFECT}}}{\\text{SS}\_{\\text{EFFECT}} + \\text{SS}\_{\\text{ERROR}}} = \\frac{32.000}{32.000 + 9.000} = 0.780$$
+(Partial η)^(2) = ((SS)/((EFFECT)))((SS)/((EFFECT)) + (SS)/((ERROR))) = (32.000)(32.000 + 9.000) = 0.780
 
 **Confidence Intervals:** For RMD ANOVA, calculate the confidence intervals
 around (centered on) each mean separately.
@@ -927,7 +927,7 @@ SS<sub>ERROR</sub> = SS<sub>1</sub> + SS<sub>2</sub> + SS<sub>3</sub
 
 df<sub>ERROR</sub> = df<sub>1</sub> + df<sub>2</sub> + df<sub>3</sub> + df<sub>4</sub> = 3 + 3 + 3 + 3 = 12
 
-$$\\text{MS}\_{\\text{ERROR}} = \\frac{\\text{SS}\_{\\text{ERROR}}}{\\text{df}\_{\\text{ERROR}}} = \\frac{72.000}{12} = 6.000$$
+(MS)/((ERROR)) = ((SS)/((ERROR)))((df)/((ERROR))) = (72.000)(12) = 6.000
 
 **Effect (Between Groups) Statistics:** The Model statistics represent the
 overall differences among the groups. The Factor A and Factor B
@@ -937,7 +937,7 @@ not accounted for by the factors individually.
 
 For the Model:
 
-$$\\text{SS}\_{\\text{MODEL}} = \\sum\_{}^{}{n\_{\\text{GROUP}}\\left( M\_{\\text{GROUP}} - M\_{\\text{TOTAL}} \\right)^{2}}$$
+(SS)/((MODEL)) = sum/()^()(n/((GROUP))left( M/((GROUP)) - M/((TOTAL)) right)^(2))
 
 SS<sub>MODEL</sub> = 4(2.000−5.000)<sup>2</sup> + 4(7.000−5.000)<sup>2</sup> + 4(6.000−5.000)<sup>2</sup> + 4(5.000−5.000)<sup>2</sup> = 56.000
 
@@ -945,19 +945,19 @@ df<sub>MODEL</sub> = \#*g**r**o**u**p**s* − 1 = 3
 
 For Factor A:
 
-$\\text{SS}\_{\\text{FACTORA}} = \\sum\_{}^{}{n\_{\\text{LEVEL}}\\left( M\_{\\text{LEVEL}} - M\_{\\text{TOTAL}} \\right)^{2}} = 8\\left( 4.500 - 5.000 \\right)^{2} + 8\\left( 5.500 - 5.000 \\right)^{2} = 4.000$
+(SS)/((FACTORA)) = sum/()^()(n/((LEVEL))left( M/((LEVEL)) - M/((TOTAL)) right)^(2)) = 8left( 4.500 - 5.000 right)^(2) + 8left( 5.500 - 5.000 right)^(2) = 4.000$
 
 df<sub>FACTORA</sub> = \#*l**e**v**e**l**s* − 1 = 2 − 1 = 1
 
-$$\\text{MS}\_{\\text{FACTORA}} = \\frac{\\text{SS}\_{\\text{FACTORA}}}{\\text{df}\_{\\text{FACTORA}}} = \\frac{4.000}{1} = 4.000$$
+(MS)/((FACTORA)) = ((SS)/((FACTORA)))((df)/((FACTORA))) = (4.000)(1) = 4.000
 
 For Factor B:
 
-$$\\text{SS}\_{\\text{FACTORB}} = \\sum\_{}^{}{n\_{\\text{LEVEL}}\\left( M\_{\\text{LEVEL}} - M\_{\\text{TOTAL}} \\right)^{2} = 8\\left( 4.000 - 5.000 \\right)^{2} + 8\\left( 6.000 - 5.000 \\right)^{2} = 16.000}$$
+(SS)/((FACTORB)) = sum/()^()(n/((LEVEL))left( M/((LEVEL)) - M/((TOTAL)) right)^(2) = 8left( 4.000 - 5.000 right)^(2) + 8left( 6.000 - 5.000 right)^(2) = 16.000)
 
 df<sub>FACTORB</sub> = \#*l**e**v**e**l**s* − 1 = 2 − 1 = 1
 
-$$\\text{MS}\_{\\text{FACTORB}} = \\frac{\\text{SS}\_{\\text{FACTORB}}}{\\text{df}\_{\\text{FACTORB}}} = \\frac{16.000}{1} = 16.000$$
+(MS)/((FACTORB)) = ((SS)/((FACTORB)))((df)/((FACTORB))) = (16.000)(1) = 16.000
 
 For the Interaction:
 
@@ -965,7 +965,7 @@ SS<sub>INTER</sub> = SS<sub>MODEL</sub> − SS<sub>FACTORA</sub> −�
 
 df<sub>INTER</sub> = df<sub>MODEL</sub>− df<sub>FACTORA</sub> − df<sub>FACTORB</sub> = 3 − 1 − 1 = 1
 
-$$\\text{MS}\_{\\text{INTER}} = \\frac{\\text{SS}\_{\\text{INTER}}}{\\text{df}\_{\\text{INTER}}} = \\frac{36.000}{1} = 36.000$$
+(MS)/((INTER)) = ((SS)/((INTER)))((df)/((INTER))) = (36.000)(1) = 36.000
 
 **Statistical Significance:** The F statistic is the ratio of the between-
 and within-group variance estimates. A table of F values or SPSS can be
@@ -973,7 +973,7 @@ used to obtain the probabilities of the F statistic.
 
 For the Factor A Main Effect:
 
-$$F\_{\\text{FACTORA}} = \\frac{\\text{MS}\_{\\text{FACTORA}}}{\\text{MS}\_{\\text{ERROR}}} = \\frac{4.000}{6.000} = 0.667$$
+F/((FACTORA)) = ((MS)/((FACTORA)))((MS)/((ERROR))) = (4.000)(6.000) = 0.667
 
 With *df<sub>FACTORA</sub>* = 1 and *df<sub>ERROR</sub>* = 12,
 *F<sub>CRITICAL</sub>* = 4.747
@@ -983,7 +983,7 @@ Because *F<sub>FACTORA</sub>* &lt; *F<sub>CRITICAL</sub>*, *p* &gt;
 
 For the Factor B Main Effect:
 
-$$F\_{\\text{FACTORB}} = \\frac{\\text{MS}\_{\\text{FACTORB}}}{\\text{MS}\_{\\text{ERROR}}} = \\frac{16.000}{6.000} = 2.667$$
+F/((FACTORB)) = ((MS)/((FACTORB)))((MS)/((ERROR))) = (16.000)(6.000) = 2.667
 
 With *df<sub>FACTORB</sub>* = 1 and *df<sub>ERROR</sub>* = 12,
 *F<sub>CRITICAL</sub>* = 4.747
@@ -993,7 +993,7 @@ Because *F<sub>FACTORB</sub>* &lt; *F<sub>CRITICAL</sub>*, *p* &gt;
 
 For the Interaction:
 
-$$F\_{\\text{INTER}} = \\frac{\\text{MS}\_{\\text{INTER}}}{\\text{MS}\_{\\text{INTER}}} = \\frac{36.000}{6.000} = 6.000$$
+F/((INTER)) = ((MS)/((INTER)))((MS)/((INTER))) = (36.000)(6.000) = 6.000
 
 With *df<sub>INTER</sub>* = 1 and *df<sub>ERROR</sub>* = 12,
 *F<sub>CRITICAL</sub>* = 4.747
@@ -1006,15 +1006,15 @@ estimates after within-subjects error has been partialled out.
 
 For the Factor A Main Effect:
 
-$$\\text{Partial\\ }\\eta\_{\\text{FACTORA}}^{2} = \\frac{\\text{SS}\_{\\text{FACTORA}}}{\\text{SS}\_{\\text{FACTORA}} + \\text{SS}\_{\\text{ERROR}}} = \\frac{4.000}{4.000 + 72.000} = 0.053$$
+(Partial )eta/((FACTORA))^(2) = ((SS)/((FACTORA)))((SS)/((FACTORA)) + (SS)/((ERROR))) = (4.000)(4.000 + 72.000) = 0.053
 
 For the Factor B Main Effect:
 
-$$\\text{Partial\\ }\\eta\_{\\text{FACTORB}}^{2} = \\frac{\\text{SS}\_{\\text{FACTORB}}}{\\text{SS}\_{\\text{FACTORB}} + \\text{SS}\_{\\text{ERROR}}} = \\frac{16.000}{16.000 + 72.000} = 0.182$$
+(Partial )eta/((FACTORB))^(2) = ((SS)/((FACTORB)))((SS)/((FACTORB)) + (SS)/((ERROR))) = (16.000)(16.000 + 72.000) = 0.182
 
 For the Interaction:
 
-$$\\text{Partial\\ }\\eta\_{\\text{INTER}}^{2} = \\frac{\\text{SS}\_{\\text{INTER}}}{\\text{SS}\_{\\text{INTER}} + \\text{SS}\_{\\text{INTER}}} = \\frac{36.000}{36.000 + 72.000} = 0.333$$
+(Partial )eta/((INTER))^(2) = ((SS)/((INTER)))((SS)/((INTER)) + (SS)/((INTER))) = (36.000)(36.000 + 72.000) = 0.333
 
 **Confidence Intervals:** For Factorial ANOVA, calculate the confidence
 intervals around (centered on) each mean separately (not shown here).
