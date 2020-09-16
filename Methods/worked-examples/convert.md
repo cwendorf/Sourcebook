@@ -515,7 +515,7 @@ is a function of the two groups’ individual standard errors.
 
 When the two sample sizes are equal:
 
-$$\\text{SE}\_{\\text{DIFF}} = \\sqrt{\\text{SE}\_{1}^{2} + \\text{SE}\_{2}^{2}} = \\sqrt{{1.225}^{2} + {1.225}^{2}} = 1.732$$
+    $$\\text{SE}\_{\\text{DIFF}} = \\sqrt{\\text{SE}\_{1}^{2} + \\text{SE}\_{2}^{2}} = \\sqrt{{1.225}^{2} + {1.225}^{2}} = 1.732$$
 
 When the two sample sizes are unequal:
 
