@@ -51,7 +51,7 @@ _Publication manual of the American Psychological Association_ (6th Ed.). Washin
 | **Measures of Effect Size** ||||
 | Cohen's d | To provide a standardized measure of an effect (defined as the difference between two means). | _d_ = \_\_\_\_\_. | Indicates the size of the treatment effect relative to the within-group variability of scores. |
 | Correlation | To provide a measure of the association between two variables measured in a sample. | _r_(df) = \_\_\_\_\_ | Indicates the strength of the relationship between two variables and can range from –1 to +1. |
-| Eta-Squared | To provide a standardized measure of an effect (defined as the relationship between two variables). | η_2_ = \_\_\_\_\_. | Indicates the proportion of variance in the dependent variable accounted for by the independent variable. |
+| Eta-Squared | To provide a standardized measure of an effect (defined as the relationship between two variables). | η<sup>2</sup> = \_\_\_\_\_. | Indicates the proportion of variance in the dependent variable accounted for by the independent variable. |
 | **Confidence Intervals** ||||
 | CI for a Mean | To provide an interval estimate of the population mean. Can be derived from both the z and t distributions. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Indicates that there is the given probability that the interval specified covers the true population mean. |
 | CI for a Mean Difference | To provide an interval estimate of the population mean difference. Can be derived from both the z and t distributions. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Indicates that there is the given probability that the interval specified covers the true population mean difference. |
@@ -59,9 +59,9 @@ _Publication manual of the American Psychological Association_ (6th Ed.). Washin
 | One Sample t Test | To compare a single sample mean to a population mean when the population standard deviation is not known | _t_(df) = \_\_\_\_, _p_ = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
 | Independent Samples t Test | To compare two sample means when the samples are from a single-factor between-subjects design. | _t_(df) = \_\_\_\_, _p_ = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
 | Paired Samples t Test | To compare two sample means when the samples are from a single-factor within-subjects design. |_t_(df) = \_\_\_\_, _p_ = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
-| One-Way ANOVA | To compare two or more sample means when the means are from a single-factor between-subjects design. | _F(df <sub>1</sub>,df<sub>2</sub> ) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
-| Repeated Measures ANOVA | To compare two or more sample means when the means are from a single-factor within-subjects design. | _F(df __1__ ,df __2__ ) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
-| Factorial ANOVA | To compare four or more groups defined by a multiple variables in a factorial research design. | _F(df __1__ ,df __2__ ) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
+| One-Way ANOVA | To compare two or more sample means when the means are from a single-factor between-subjects design. | _F(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
+| Repeated Measures ANOVA | To compare two or more sample means when the means are from a single-factor within-subjects design. | _F(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
+| Factorial ANOVA | To compare four or more groups defined by a multiple variables in a factorial research design. | _F(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
 
 **Note.** Many of the statistics from each of the categories are frequently and perhaps often appropriately presented in tables or figures rather than in the text.
 
@@ -103,19 +103,19 @@ _Publication manual of the American Psychological Association_ (6th Ed.). Washin
 
 **One Way ANOVA:** The ANOVA provides an omnibus test of the differences across multiple groups. Because the ANOVA tests the overall differences among the groups, the text discusses the differences only in general.
 
-> A one way ANOVA showed that the differences in Outcome scores between the first group (_n_ = 3, _M_ = 2.00, _SD_ = 2.45), the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45), and the third group (_n_ = 3, _M_ = 7.00, _SD_ = 2.45) were statistically significant, _F_(2,9) = 4.67, _p_ = .041, η2 = .51.
+> A one way ANOVA showed that the differences in Outcome scores between the first group (_n_ = 3, _M_ = 2.00, _SD_ = 2.45), the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45), and the third group (_n_ = 3, _M_ = 7.00, _SD_ = 2.45) were statistically significant, _F_(2,9) = 4.67, _p_ = .041, η<sup>2</sup> = .51.
 
 **One Way ANOVA with Post Hoc Tests:** Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups. Notice that the post hoc summary duplicates the presentation of the omnibus ANOVA statistics.
 
-> A one way ANOVA showed that the differences in Outcome scores between the first group (_n_ = 3, _M_ = 2.00, _SD_ = 2.45), the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45), and the third group (_n_ = 3, _M_ = 7.00, _SD_ = 2.45) were statistically significant, _F_(2,9) = 4.67, _p_ = .041, η2 = .51. Tukey&#39;s HSD tests showed that only the third group scored statistically significantly different than the first group. However, the other comparisons were not statistically significant.
+> A one way ANOVA showed that the differences in Outcome scores between the first group (_n_ = 3, _M_ = 2.00, _SD_ = 2.45), the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45), and the third group (_n_ = 3, _M_ = 7.00, _SD_ = 2.45) were statistically significant, _F_(2,9) = 4.67, _p_ = .041, η<sup>2</sup> = .51. Tukey's HSD tests showed that only the third group scored statistically significantly different than the first group. However, the other comparisons were not statistically significant.
 
 **Repeated Measures ANOVA:** The RMD ANOVA tests for overall differences across the repeated measures. As such, its summary parallels that of the One Way ANOVA.
 
-> A repeated measures ANOVA showed that the difference in Outcome scores (_N_ = 4) between the first time point (_M_ = 2.00, _SD_ = 2.45) and second time point (_M_ = 6.00, _SD_ = 2.45) was statistically significant, _F_(1,3) = 10.67, _p_ = .047, partial η2 = .78.
+> A repeated measures ANOVA showed that the difference in Outcome scores (_N_ = 4) between the first time point (_M_ = 2.00, _SD_ = 2.45) and second time point (_M_ = 6.00, _SD_ = 2.45) was statistically significant, _F_(1,3) = 10.67, _p_ = .047, partial η<sup>2</sup> = .78.
 
 **Factorial ANOVA:** The factorial ANOVA provides statistics for all of the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One Way ANOVA.
 
-> A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, _F_(1,12) = 0.67, _p_ = .430, partial η2 = .05, nor Factor B, _F_(1,12) = 2.67, _p_ = .128, partial η2 = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, _F_(1,12) = 6.00, _p_ = .031, partial η2 = .33.
+> A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, _F_(1,12) = 0.67, _p_ = .430, partial η2 = .05, nor Factor B, _F_(1,12) = 2.67, _p_ = .128, partial η2 = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, _F_(1,12) = 6.00, _p_ = .031, partial η<sup>2</sup> = .33.
 
 ## Examples of APA Style Results in Tables
 
