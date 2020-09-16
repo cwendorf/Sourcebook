@@ -59,7 +59,7 @@ _Publication manual of the American Psychological Association_ (6th Ed.). Washin
 | One Sample t Test | To compare a single sample mean to a population mean when the population standard deviation is not known | _t_(df) = \_\_\_\_, _p_ = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
 | Independent Samples t Test | To compare two sample means when the samples are from a single-factor between-subjects design. | _t_(df) = \_\_\_\_, _p_ = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
 | Paired Samples t Test | To compare two sample means when the samples are from a single-factor within-subjects design. |_t_(df) = \_\_\_\_, _p_ = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
-| One-Way ANOVA | To compare two or more sample means when the means are from a single-factor between-subjects design. | _F(df __1__ ,df __2__ ) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
+| One-Way ANOVA | To compare two or more sample means when the means are from a single-factor between-subjects design. | _F(df <sub>1</sub>,df<sub>2</sub> ) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
 | Repeated Measures ANOVA | To compare two or more sample means when the means are from a single-factor within-subjects design. | _F(df __1__ ,df __2__ ) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
 | Factorial ANOVA | To compare four or more groups defined by a multiple variables in a factorial research design. | _F(df __1__ ,df __2__ ) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
 
@@ -131,7 +131,7 @@ In more complex examples – such as those with multiple outcome variables – i
 **Descriptive Statistics with Confidence Intervals:** This table is useful for removing the basic descriptive statistics (the means and
 standard deviations) and the confidence intervals from the text.
 
-|           | Level 1 |||             | Level 2        ||||     |     |             |                |
+|           | Level 1 |||             | Level 2        ||||
 |-----------|---------|-------------|----------------|-----|-----|-------------|----------------|
 | Variable  | *n*     | *M* (*SD*)  | 95% CI         |     | *n* | *M* (*SD*)  | 95% CI         |
 | Outcome 1 | 4       | 2.00 (2.45) | \[-.73, 4.73\] |     | 4   | 6.00 (2.45) | \[3.27, 8.73\] |
@@ -139,7 +139,7 @@ standard deviations) and the confidence intervals from the text.
 
 **Independent and Dependent Samples t Tests:** This table is useful removing the basic descriptive statistics and all inferential statistics (the statistical significance tests, confidence intervals, and effect sizes) from the text.
 
-|           |     | Level 1 ||      | Level 2 ||      |      |     |        | 95% CI ||     | Cohen’s *d* |      |     |       |
+|           |     | Level 1 ||      | Level 2 ||      |      |     |        | 95% CI ||     | Cohen’s *d* |
 |-----------|-----|---------|------|---------|------|------|-----|--------|--------|-----|-------------|------|-----|-------|
 | Variable  |     | *M*     | *SD* |         | *M*  | *SD* |     | *t*(6) | *p*    |     | *LL*        | *UL* |     |       |
 | Outcome 1 |     | 2.00    | 2.45 |         | 6.00 | 2.45 |     | -2.31  | .060   |     | -8.24       | 0.24 |     | -1.63 |
@@ -147,7 +147,7 @@ standard deviations) and the confidence intervals from the text.
 
 **One Way and Repeated Measures ANOVAs with Post Hoc Tests:** This table is useful for removing the descriptive and inferential statistics from the text, while also summarizing the post hoc tests.
 
-|           |     | Level 1 ||      | Level 2 ||      | Level 3 ||     |      |      |     |           | Tukey’s HSD |               |     |              |
+|           |     | Level 1 ||      | Level 2 ||      | Level 3 ||     |      |      |     |           | Tukey’s HSD |
 |-----------|-----|---------|------|---------|------|---------|-----|------|------|-----|-----------|-------------|---------------|-----|--------------|
 | Variable  |     | *M*     | *SD* |         | *M*  | *SD*    |     | *M*  | *SD* |     | *F*(2, 6) | *p*         | η<sup>2</sup> |     |              |
 | Outcome 1 |     | 2.00    | 2.45 |         | 6.00 | 2.45    |     | 7.00 | 2.45 |     | 4.67      | .041        | .509          |     | 1 = 2 &lt; 3 |
