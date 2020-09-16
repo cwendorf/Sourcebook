@@ -1,603 +1,1036 @@
-# **Statistics for Social Science**
+# Statistics for Social Science
 
-# **Volume: Statistical Methods**
+### Statistical Methods: Worked Examples
 
-# **Chapter: Worked Examples**
+---
 
-![](RackMultipart20200816-4-1qlcosb_html_596d429d3c2daba6.gif) ![](RackMultipart20200816-4-1qlcosb_html_6171bdeebe9191b.gif)
+**Abstract:** This chapter provides the complete set of worked examples for the sourcebook. All raw data, formulas, calculations, and summaries in APA style are provided for each type of research design.
 
-**A ![](RackMultipart20200816-4-1qlcosb_html_6171bdeebe9191b.gif) ![](RackMultipart20200816-4-1qlcosb_html_596d429d3c2daba6.gif) bstract:** This chapter provides the complete set of worked examples for the sourcebook. All raw data, formulas, calculations, and summaries in APA style are provided for each type of research design.
+---
 
-**Keywords:** Research designs, statistical significance, confidence intervals, effect sizes
+## Table of Contents for This Chapter
 
-**Original:** August 2018
+- [Frequencies](#frequencies)
+- [Descriptives](#descriptives)
+- [Standardized Scores](#standardized-scores)
+- [Correlations](#correlations)
+- [Confidence Intervals](#confidence-intervals)
+- [One Sample t Test](#one-sample-t-test)
+- [Independent Samples t Test](#independent-samples-t-test)
+- [One Way ANOVA](#one-way-anova)
+- [Post Hoc Comparisons](#post-hoc-comparisons)
+- [Repeated Measures ANOVA](#repeated-measures-anova)
+- [Factorial ANOVA](#factorial-anova)
 
-**Updated:** July 2020
-
-This document is part of an online statistics sourcebook.
-
-A browser-friendly viewing platform for the sourcebook is available:
-
-[https://cwendorf.github.io/Sourcebook](https://cwendorf.github.io/Sourcebook)
-
-All data, syntax, and output files are available:
-
-[https://github.com/cwendorf/Sourcebook](https://github.com/cwendorf/Sourcebook)
-
-## **Table of Contents for This Chapter**
-
-**[Frequencies 3](#_Toc25903392)**
-
-**[Descriptives 5](#_Toc25903393)**
-
-**[Correlations 7](#_Toc25903394)**
-
-**[Confidence Intervals 9](#_Toc25903395)**
-
-**[One Sample t Test 11](#_Toc25903396)**
-
-**[Independent Samples t Test 13](#_Toc25903397)**
-
-**[One-Way ANOVA 15](#_Toc25903398)**
-
-**[Post Hoc Comparisons 17](#_Toc25903399)**
-
-**[Repeated Measures ANOVA 19](#_Toc25903400)**
-
-**[Factorial ANOVA 22](#_Toc25903401)**
+---
 
 ## Frequencies
 
-## Data for the Frequencies and Percentiles
+### Data for the Frequencies and Percentiles
 
-The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
+The following data set reflects one sample of eight individuals measured
+on one variable. The data are presented in the format suitable for entry
+into statistical software.
 
-|
- | Outcome |
-| --- | --- |
-| 1 | .00 |
-| 2 | .00 |
-| 3 | 3.00 |
-| 4 | 5.00 |
-| 5 | 4.00 |
-| 6 | 7.00 |
-| 7 | 4.00 |
-| 8 | 9.00 |
+|     | Outcome |
+|-----|---------|
+| 1   | .00     |
+| 2   | .00     |
+| 3   | 3.00    |
+| 4   | 5.00    |
+| 5   | 4.00    |
+| 6   | 7.00    |
+| 7   | 4.00    |
+| 8   | 9.00    |
 
-The following frequency distribution can be used to determine the percentiles and other statistics.
+The following frequency distribution can be used to determine the
+percentiles and other statistics.
 
-|
- | Frequency | Percent | Valid Percent | Cumulative Percent |
-| --- | --- | --- | --- | --- |
-| Valid | 0.00 | 2 | 25.0 | 25.0 | 25.0 |
-| | 3.00 | 1 | 12.5 | 12.5 | 37.5 |
-| | 4.00 | 2 | 25.0 | 25.0 | 62.5 |
-| | 5.00 | 1 | 12.5 | 12.5 | 75.0 |
-| | 7.00 | 1 | 12.5 | 12.5 | 87.5 |
-| 9.00 | 1 | 12.5 | 12.5 | 100.0 |
-| | Total | 8 | 100.0 | 100.0 | |
+|    |   | Frequency | Percent | Valid Percent | Cumulative Percent |       |
+|-------|-----------|---------|---------------|--------------------|-------|
+| Valid | 0.00      | 2       | 25.0          | 25.0               | 25.0  |
+|       | 3.00      | 1       | 12.5          | 12.5               | 37.5  |
+|       | 4.00      | 2       | 25.0          | 25.0               | 62.5  |
+|       | 5.00      | 1       | 12.5          | 12.5               | 75.0  |
+|       | 7.00      | 1       | 12.5          | 12.5               | 87.5  |
+|       | 9.00      | 1       | 12.5          | 12.5               | 100.0 |
+|       | Total     | 8       | 100.0         | 100.0              |       |
 
-## Calculating the Frequencies and Percentiles
+### Calculating the Frequencies and Percentiles
 
-Elements of the Frequency Table: The frequency table provides information about the scores in the data set and the numbers (and percentages) of times those scores occurred.
+**Elements of the Frequency Table:** The frequency table provides
+information about the scores in the data set and the numbers (and
+percentages) of times those scores occurred.
 
-The &quot;Valid&quot; column lists all the actual scores in the entire data set. &quot;Frequency&quot; indicates the number of times that score exists. For example, the score 4 was listed 2 times.
+- The “Valid” column lists all the actual scores in the entire data set.
+“Frequency” indicates the number of times that score exists. For
+example, the score 4 was listed 2 times.
 
-The &quot;Percent&quot; column provides the percentage of cases for each possible score. For example, of the 8 scores in the entire data set, the score of 4 was listed 2 times and 2/8 is 25.0%.
+- The “Percent” column provides the percentage of cases for each
+possible score. For example, of the 8 scores in the entire data set,
+the score of 4 was listed 2 times and 2/8 is 25.0%.
 
-The &quot;Valid Percent&quot; column provides the percentage of cases for each possible score divided by the total number of cases. Here, there were no missing scores, so the percent columns are equal.
+- The “Valid Percent” column provides the percentage of cases for each
+possible score divided by the total number of cases. Here, there were
+no missing scores, so the percent columns are equal.
 
-&quot;Cumulative Percent&quot; is the sum of all percentages up to and including the row in question. For example, 62.5% of scores were a 4 or smaller. Similarly, 37.5% were a 3 or smaller.
+- “Cumulative Percent” is the sum of all percentages up to and including
+the row in question. For example, 62.5% of scores were a 4 or smaller.
+Similarly, 37.5% were a 3 or smaller.
 
-Percentiles: Percentiles provide the scores associated with particular percentile ranks. The 50th percentile (the Median) and the 25th and 75th percentiles (collectively known as the Interquartile Range) are the most commonly calculated.
+**Percentiles:** Percentiles provide the scores associated with particular
+percentile ranks. The 50<sup>th</sup> percentile (the Median) and the
+25<sup>th</sup> and 75<sup>th</sup> percentiles (collectively known as
+the Interquartile Range) are the most commonly calculated.
 
-For example, the 50th percentile is the score in the following position:
+For example, the 50<sup>th</sup> percentile is the score in the
+following position:
 
-Thus, the score at the 50th percentile is the 4.5th score in the frequency distribution – a score of 4.
+*Position* = *P**R*(*N*+1) = .50(8+1) = 4.5
 
-Similarly, a score of .75 is at the 25th percentile and a score of 6.5 is at the 75th percentile. Importantly, in some cases, the score values are non-integer interpolated values.
+Thus, the score at the 50<sup>th</sup> percentile is the
+4.5<sup>th</sup> score in the frequency distribution – a score of 4.
+>
+Similarly, a score of .75 is at the 25<sup>th</sup> percentile and a
+score of 6.5 is at the 75<sup>th</sup> percentile. Importantly, in
+some cases, the score values are non-integer interpolated values.
 
-## Summarizing the Frequencies and Percentiles
+### Summarizing the Frequencies and Percentiles
 
-Though not often reported, simple summary statistics – like the median and quartiles – provide the reader with basic frequency information about the variable under investigation. Both of the following versions present the required information.
+Though not often reported, simple summary statistics like the median
+and quartiles provide the reader with basic frequency information
+about the variable under investigation. Both of the following versions
+present the required information.
 
-For the eight participants, Outcome scores of 0.75, 4.00, and 6.50 represented the 25th, 50th, and 75th percentiles, respectively.
+> For the eight participants, Outcome scores of 0.75, 4.00, and 6.50
+represented the 25th, 50th, and 75th percentiles, respectively.
 
-The participants (_N_ = 8) had a _Mdn_ Outcome score of 4.00 (IQR = 0.75 – 6.50).
+> The participants (*N* = 8) had a *Mdn* Outcome score of 4.00 (IQR =
+0.75 – 6.50).
 
-Alternatively, frequencies and percentiles could be presented in a table or figure associated with this paragraph.
+Alternatively, frequencies and percentiles could be presented in a table
+or figure associated with this paragraph.
 
 ## Descriptives
 
-## Data for the Descriptive Statistics
+### Data for the Descriptive Statistics
 
-The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
+The following data set reflects one sample of eight individuals measured
+on one variable. The data are presented in the format suitable for entry
+into statistical software.
 
-|
- | Outcome |
-| --- | --- |
-| 1 | .00 |
-| 2 | .00 |
-| 3 | 3.00 |
-| 4 | 5.00 |
-| 5 | 4.00 |
-| 6 | 7.00 |
-| 7 | 4.00 |
-| 8 | 9.00 |
+|     | Outcome |
+|-----|---------|
+| 1   | .00     |
+| 2   | .00     |
+| 3   | 3.00    |
+| 4   | 5.00    |
+| 5   | 4.00    |
+| 6   | 7.00    |
+| 7   | 4.00    |
+| 8   | 9.00    |
 
-The following frequency distribution can be used to determine the descriptive statistics.
+The following frequency distribution can be used to determine the
+descriptive statistics.
 
-|
- | Frequency | Percent | Valid Percent | Cumulative Percent |
-| --- | --- | --- | --- | --- |
-| Valid | 0.00 | 2 | 25.0 | 25.0 | 25.0 |
-| | 3.00 | 1 | 12.5 | 12.5 | 37.5 |
-| | 4.00 | 2 | 25.0 | 25.0 | 62.5 |
-| | 5.00 | 1 | 12.5 | 12.5 | 75.0 |
-| | 7.00 | 1 | 12.5 | 12.5 | 87.5 |
-| 9.00 | 1 | 12.5 | 12.5 | 100.0 |
-| | Total | 8 | 100.0 | 100.0 | |
+|     |   | Frequency | Percent | Valid Percent | Cumulative Percent |       |
+|-------|-----------|---------|---------------|--------------------|-------|
+| Valid | 0.00      | 2       | 25.0          | 25.0               | 25.0  |
+|       | 3.00      | 1       | 12.5          | 12.5               | 37.5  |
+|       | 4.00      | 2       | 25.0          | 25.0               | 62.5  |
+|       | 5.00      | 1       | 12.5          | 12.5               | 75.0  |
+|       | 7.00      | 1       | 12.5          | 12.5               | 87.5  |
+|       | 9.00      | 1       | 12.5          | 12.5               | 100.0 |
+|       | Total     | 8       | 100.0         | 100.0              |       |
 
-## Calculating the Descriptive Statistics
+### Calculating the Descriptive Statistics
 
-Mean: The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
+**Mean:** The mean (or arithmetic average) is calculated as an unbiased
+estimate of the population mean. Here, the mean is determined as the
+average of the scores weighted by their frequencies:
 
-Sum of Squares: The Sum of Squares is the basic measure of the variability of the scores. Formally, is the sum of the weighted deviations of the scores about the mean.
+$$M = \\frac{\\sum\_{}^{}\\left( \\text{fY} \\right)}{N} = \\frac{\\left( 2 \\times 0 \\right) + \\left( 1 \\times 3 \\right) + \\left( 2 \\times 4 \\right) + \\left( 1 \\times 5 \\right) + \\left( 1 \\times 7 \\right) + (1\\  \\times 8)}{8} = 4.000$$
 
-Mean Squares: Mean Squares (also known as Variance) is a function of the Sum of Squares. It is calculated as an unbiased estimate of the population variance.
+**Sum of Squares:** The Sum of Squares is the basic measure of the
+variability of the scores. Formally, it is the sum of the weighted
+deviations of the scores about the mean.
 
-Standard Deviation: Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population standard deviation.
+$$SS = \\sum\_{}^{}{f\\left( Y - M \\right)} = 2\\left( 0 - 4.000 \\right)^{2} + 1\\left( 3 - 4.000 \\right)^{2} + 2\\left( 4 - 4.000 \\right)^{2} + 1\\left( 5 - 4.000 \\right)^{2} + 1\\left( 7 - 4.000 \\right)^{2} + 1\\left( 8 - 4.000 \\right)^{2} = 68.000
+$$
 
-## Summarizing the Descriptive Statistics
+**Mean Squares:** Mean Squares (also known as Variance) is a function of the
+Sum of Squares. It is calculated as an unbiased estimate of the
+population variance.
 
-The purpose of the descriptive statistics is to provide the reader with an idea about the basic elements of the group(s) being studied. Note that these also form the basis of the in-text presentation for most statistical analyses. Both of the following versions present the required information.
+$$MS = \\frac{\\text{SS}}{\\left( N - 1 \\right)} = \\frac{68}{7} = 9.714$$
 
-The participants (_N_ = 8) had a low mean Outcome score (_M_ = 4.00, _SD_ = 3.12).
+**Standard Deviation:** Standard Deviation is a function of the Mean
+Squares. It is also calculated as an unbiased estimate of the population
+standard deviation.
 
-The eight participants had a mean Outcome of 4.00 (_SD_ = 3.12).
+$$SD = \\sqrt{\\text{MS}} = \\sqrt{9.714} = 3.117$$
 
-Alternatively, sample sizes, means, and standard deviations could be presented in a table or figure associated with this paragraph.
+### Summarizing the Descriptive Statistics
+
+The purpose of the descriptive statistics is to provide the reader with
+an idea about the basic elements of the group(s) being studied. Note
+that these also form the basis of the in-text presentation for most
+statistical analyses. Both of the following versions present the
+required information.
+
+> The participants (*N* = 8) had a low mean Outcome score (*M* = 4.00,
+*SD* = 3.12).
+
+> The eight participants had a mean Outcome of 4.00 (*SD* = 3.12).
+
+Alternatively, sample sizes, means, and standard deviations could be
+presented in a table or figure associated with this paragraph.
+
+## Standardized Scores
+
+### Data for the Standardized Scores
+
+The following data set reflects one sample of eight individuals measured
+on one variable. The data are presented in the format suitable for entry
+into statistical software.
+
+|     | Outcome |
+|-----|---------|
+| 1   | .00     |
+| 2   | .00     |
+| 3   | 3.00    |
+| 4   | 5.00    |
+| 5   | 4.00    |
+| 6   | 7.00    |
+| 7   | 4.00    |
+| 8   | 9.00    |
+
+The following frequency distribution can be used to determine the
+percentiles and the descriptive statistics.
+
+|  |      | Frequency | Percent | Valid Percent | Cumulative Percent |       |
+|-------|-----------|---------|---------------|--------------------|-------|
+| Valid | 0.00      | 2       | 25.0          | 25.0               | 25.0  |
+|       | 3.00      | 1       | 12.5          | 12.5               | 37.5  |
+|       | 4.00      | 2       | 25.0          | 25.0               | 62.5  |
+|       | 5.00      | 1       | 12.5          | 12.5               | 75.0  |
+|       | 7.00      | 1       | 12.5          | 12.5               | 87.5  |
+|       | 9.00      | 1       | 12.5          | 12.5               | 100.0 |
+|       | Total     | 8       | 100.0         | 100.0              |       |
+
+The following table of descriptive statistics can be used for the sake
+of comparison.
+
+|         | N   | Mean  | Std. Deviation |
+|---------|-----|-------|----------------|
+| Outcome | 8   | 4.000 | 3.117          |
+
+### Calculating the Standardized Scores
+
+**Standardized (z) Score:** A standardized score is a deviation score
+divided by the standard deviation. For the first score in the
+distribution:
+
+$$z = \\frac{(Y - M)}{\\text{SD}} = \\frac{(0 - 4)}{3.117} = \\frac{- 4}{3.117} = - 1.283$$
+
+This is repeated for each score in the distribution. In software
+programs, these would be calculated and presented as follows:
+
+|     | Outcome | zOutcome |
+|-----|---------|----------|
+| 1   | .00     | -1.283   |
+| 2   | .00     | -1.283   |
+| 3   | 3.00    | -0.321   |
+| 4   | 5.00    | 0.321    |
+| 5   | 4.00    | 0        |
+| 6   | 7.00    | 0.963    |
+| 7   | 4.00    | 0        |
+| 8   | 9.00    | 1.604    |
+
+### Calculating the Descriptive Statistics of the Standardized Scores
+
+**Mean:** The mean (or arithmetic average) is calculated as an unbiased
+estimate of the population mean. Here, the mean is determined as the
+average of the scores weighted by their frequencies:
+
+$$M = \\frac{\\sum\_{}^{}\\left( \\text{fY} \\right)}{N} = \\frac{\\left( 2 \\times - 1.283 \\right) + \\left( 1 \\times - .321 \\right) + \\left( 2 \\times 0 \\right) + \\left( 1 \\times .321 \\right) + \\left( 1 \\times .963 \\right) + (1\\  \\times 1.604)}{8} = 0.000$$
+
+**Sum of Squares:** The Sum of Squares is the basic measure of the
+variability of the scores. Formally, it is the sum of the weighted
+deviations of the scores about the mean.
+
+$$SS = \\sum\_{}^{}{f\\left( Y - M \\right)} = 2\\left( - 1.283 - 0.000 \\right)^{2} + 1\\left( - .321 - 0.000 \\right)^{2} + 2\\left( 0.000 - 0.000 \\right)^{2} + 1\\left( .321 - 0.000 \\right)^{2} + 1\\left( .963 - 0.000 \\right)^{2} + 1\\left( 1.604 - 0.000 \\right)^{2} = 7.000
+$$
+
+**Mean Squares:** Mean Squares (also known as Variance) is a function of the
+Sum of Squares. It is calculated as an unbiased estimate of the
+population variance.
+
+$$MS = \\frac{\\text{SS}}{\\left( N - 1 \\right)} = \\frac{7.000}{7} = 1.000$$
+
+**Standard Deviation:** Standard Deviation is a function of the Mean
+Squares. It is also calculated as an unbiased estimate of the population
+standard deviation.
+
+$$SD = \\sqrt{\\text{MS}} = \\sqrt{7.000} = 1.000$$
+
+### Summarizing the Standardized Scores
+
+Standardized scores are typically NOT presented in the summary of the
+data. Rather, they are often a first step in the calculations. As such,
+APA style is not presented here.
 
 ## Correlations
 
-## Data for the Correlation
+### Data for the Correlation
 
-The following data set reflects a within-subjects design with two outcome variables. The data are presented in the format suitable for entry into statistical software.
+The following data set reflects a within-subjects design with two
+outcome variables. The data are presented in the format suitable for
+entry into statistical software.
 
-|
- | Outcome1 | Outcome2 |
-| --- | --- | --- |
-| 1 | .00 | 4.00 |
-| 2 | .00 | 7.00 |
-| 3 | 3.00 | 4.00 |
-| 4 | 5.00 | 9.00 |
+|     | Outcome1 | Outcome2 |
+|-----|----------|----------|
+| 1   | .00      | 4.00     |
+| 2   | .00      | 7.00     |
+| 3   | 3.00     | 4.00     |
+| 4   | 5.00     | 9.00     |
 
-The following table of descriptive statistics can be used to assist in calculating the correlation.
+The following table of descriptive statistics can be used to assist in
+calculating the correlation.
 
-|
- | Mean | Std. Deviation | N |
-| --- | --- | --- | --- |
-| Outcome1 | 2.000 | 2.445 | 4 |
-| Outcome2 | 6.000 | 2.445 | 4 |
-| --- | --- | --- | --- |
+|          | Mean  | Std. Deviation | N   |
+|----------|-------|----------------|-----|
+| Outcome1 | 2.000 | 2.445          | 4   |
+| Outcome2 | 6.000 | 2.445          | 4   |
 
-## Calculating the Correlation
+### Calculating the Correlation
 
-Sum of Cross Products: The Sum of Cross Products (SCP) is not easily determined solely from the summary statistics of the output, but rather from the data.
+**Sum of Cross Products:** The Sum of Cross Products (SCP) is not easily
+determined solely from the summary statistics of the output, but rather
+from the data.
 
-Covariance: The Covariance is a function of the Sum of Cross Products and the sample size:
+$$SCP = \\sum\_{}^{}{\\left( X - M\_{X} \\right)\\left( Y - M\_{Y} \\right) = \\left( 0 - 2.000 \\right)\\left( 4 - 6.000 \\right) + \\left( 0 - 2.000 \\right)\\left( 7 - 6.000 \\right) + \\left( 3 - 2.000 \\right)\\left( 4 - 6.000 \\right) + (5 - 2.000)(9 - 6.000)} = 9.000$$
 
-Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a function of the Covariance and the Standard Deviations of both variables:
+**Covariance:** The Covariance is a function of the Sum of Cross Products
+and the sample size:
 
-## Summarizing the Correlation
+$$COV = \\frac{\\text{SCP}}{\\left( N - 1 \\right)} = \\frac{9.000}{\\left( 4 - 1 \\right)} = 3.000$$
 
-Correlations provide a measure of statistical relationship between two variables. Note that correlations can be tested for statistical significance (and that this information should be summarized if it is available and of interest).
+**Pearson Correlation Coefficient:** The Pearson Correlation Coefficient is
+a function of the Covariance and the Standard Deviations of both
+variables:
 
-For the participants (_N_ = 4), the scores on Outcome 1 (_M_ = 2.00, _SD_ = 2.45) and Outcome 2 (_M_ = 6.00, _SD_ = 2.45) were moderately but not statistically significantly correlated, _r_(2) = .50, _p_ = .500.
+$$r = \\frac{\\text{COV}}{\\left( \\text{SD}\_{X} \\right)\\left( \\text{SD}\_{Y} \\right)} = \\frac{3.000}{\\left( 2.449 \\right)\\left( 2.449 \\right)} = .500$$
 
-Alternatively, means, standard deviations, and correlations could be presented in a table or figure associated with this paragraph.
+### Summarizing the Correlation
+
+Correlations provide a measure of statistical relationship between two
+variables. Note that correlations can be tested for statistical
+significance (and that this information should be summarized if it is
+available and of interest).
+
+> For the participants (*N* = 4), the scores on Outcome 1 (*M* = 2.00,
+*SD* = 2.45) and Outcome 2 (*M* = 6.00, *SD* = 2.45) were moderately
+but not statistically significantly correlated, *r*(2) = .50, *p* =
+.500.
+
+Alternatively, means, standard deviations, and correlations could be
+presented in a table or figure associated with this paragraph.
 
 ## Confidence Intervals
 
-## Data for the Confidence Interval
+### Data for the Confidence Interval
 
-The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
+The following data set reflects one sample of eight individuals measured
+on one variable. The data are presented in the format suitable for entry
+into statistical software.
 
-|
- | Outcome |
-| --- | --- |
-| 1 | .00 |
-| 2 | .00 |
-| 3 | 3.00 |
-| 4 | 5.00 |
-| 5 | 4.00 |
-| 6 | 7.00 |
-| 7 | 4.00 |
-| 8 | 9.00 |
+|     | Outcome |
+|-----|---------|
+| 1   | .00     |
+| 2   | .00     |
+| 3   | 3.00    |
+| 4   | 5.00    |
+| 5   | 4.00    |
+| 6   | 7.00    |
+| 7   | 4.00    |
+| 8   | 9.00    |
 
-The following table of descriptive statistics can be used to determine the inferential statistics for the confidence interval.
+The following table of descriptive statistics can be used to determine
+the inferential statistics for the confidence interval.
 
-| | N | Mean | Std. Deviation | Std. Error Mean |
-| --- | --- | --- | --- | --- |
-| Outcome | 8 | 4.000 | 3.117 | 1.102 |
+|         | N   | Mean  | Std. Deviation | Std. Error Mean |
+|---------|-----|-------|----------------|-----------------|
+| Outcome | 8   | 4.000 | 3.117          | 1.102           |
 
-## Calculating the Confidence Interval
+### Calculating the Confidence Interval
 
-Standard Error of the Mean: The standard error of the mean provides an estimate of how spread out the distribution of all possible random sample means would be.
+**Standard Error of the Mean:** The standard error of the mean provides an
+estimate of how spread out the distribution of all possible random
+sample means would be.
 
-Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+$$\\text{SE}\_{M} = \\frac{\\text{SD}}{\\sqrt{N}} = \\frac{3.117}{\\sqrt{8}} = 1.102$$
 
-With _df_ = 7, _t__CRITICAL_ = 2.365
+**Confidence Interval:** For this test, the appropriate confidence interval
+is around (centered on) the mean difference (raw effect).
 
-## Summarizing the Confidence Interval
+With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365
 
-Confidence intervals provide a range estimate for a population value (e.g., the mean). Note that the width of the interval can be altered to reflect the level of confidence in the estimate. Both of the following versions present the required information.
+CI<sub>*M*</sub> = *M* ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M*</sub>) = 4.000 ± (2.365)(1.102) = \[1.394, 6.606\]
 
-The participants (_N_ = 8) had a mean Outcome score of 4.00 (_SD_ = 3.12), 95% CI [1.39, 6.61].
+### Summarizing the Confidence Interval
 
-The 8 participants scored well on the Outcome (_M_ = 4.00, _SD_ = 3.12), 95% CI [1.39, 6.61].
+Confidence intervals provide a range estimate for a population value
+(e.g., the mean). Note that the width of the interval can be altered to
+reflect the level of confidence in the estimate. Both of the following
+versions present the required information.
 
-Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+> The participants (*N* = 8) had a mean Outcome score of 4.00 (*SD* =
+3.12), 95% CI \[1.39, 6.61\].
+
+> The 8 participants scored well on the Outcome (*M* = 4.00, *SD* =
+3.12), 95% CI \[1.39, 6.61\].
+
+Alternatively, means, standard deviations, and confidence intervals
+could be presented in a table or figure associated with this paragraph.
 
 ## One Sample t Test
 
-## Data for the One Sample t Test
+### Data for the One Sample t Test
 
-The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
+The following data set reflects one sample of eight individuals measured
+on one variable. The data are presented in the format suitable for entry
+into statistical software.
 
-|
- | Outcome |
-| --- | --- |
-| 1 | .00 |
-| 2 | .00 |
-| 3 | 3.00 |
-| 4 | 5.00 |
-| 5 | 4.00 |
-| 6 | 7.00 |
-| 7 | 4.00 |
-| 8 | 9.00 |
+|     | Outcome |
+|-----|---------|
+| 1   | .00     |
+| 2   | .00     |
+| 3   | 3.00    |
+| 4   | 5.00    |
+| 5   | 4.00    |
+| 6   | 7.00    |
+| 7   | 4.00    |
+| 8   | 9.00    |
 
-The following table of descriptive statistics can be used to determine the inferential statistics for the One Sample t Test.
+The following table of descriptive statistics can be used to determine
+the inferential statistics for the One Sample t Test.
 
-| | N | Mean | Std. Deviation | Std. Error Mean |
-| --- | --- | --- | --- | --- |
-| Outcome | 8 | 4.000 | 3.117 | 1.102 |
+|         | N   | Mean  | Std. Deviation | Std. Error Mean |
+|---------|-----|-------|----------------|-----------------|
+| Outcome | 8   | 4.000 | 3.117          | 1.102           |
 
-## Calculating the One Sample t Test
+### Calculating the One Sample t Test
 
-Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
+**Mean Difference (Raw Effect):** The Mean Difference is the difference
+between the sample mean and a user-specified test value or population
+mean.
 
-Statistical Significance: The _t_ statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
+*M* − *μ* = 4.000 − 7.000 =  − 3.000
 
-With _df_ = 7, _t__CRITICAL_ = 2.365
+**Statistical Significance:** The *t* statistic is the ratio of the mean
+difference (raw effect) to the standard error of the mean.
 
-Because _t_ \&gt; _t__CRITICAL_, _p_ \&lt; .05
+$$t = \\frac{M - \\mu}{\\text{SE}\_{M}} = \\frac{- 3.000}{1.102} = - 2.722$$
 
-Effect Size: Cohen&#39;s d Statistic provides a standardized effect size for the mean difference (raw effect).
+With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365
+>
+Because *t* &gt; *t<sub>CRITICAL</sub>*, *p* &lt; .05
 
-Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+**Effect Size:** Cohen’s d Statistic provides a standardized effect size for
+the mean difference (raw effect).
 
-## Summarizing the One Sample t Test
+$$d = \\frac{M - \\mu}{\\text{SD}} = \\frac{- 3.000}{3.117} = 0.963$$
 
-In this case, a sample mean has been compared to a user-specified test value (or a population mean). Thus, the summary and the inferential statistics focus on that difference.
+**Confidence Interval:** For this test, the appropriate confidence interval
+is around (centered on) the mean difference (raw effect).
 
-A one sample _t_ test showed that the difference in Outcome scores between the current sample (_N_ = 8, _M_ = 4.00, _SD_ = 3.12) and the hypothesized value (7.00) was statistically significant, _t_(7) = -2.72, _p_ = .030, 95% CI [-5.61, -.39], _d_ = -0.96.
+CI<sub>DIFF</sub> = (*M*−*μ*) ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M*</sub>) =  − 3.000 ± (2.365)(1.102) = \[−5.606,−0.394\]
 
-Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+### Summarizing the One Sample t Test
+
+In this case, a sample mean has been compared to a user-specified test
+value (or a population mean). Thus, the summary and the inferential
+statistics focus on that difference.
+
+> A one sample *t* test showed that the difference in Outcome scores
+between the current sample (*N* = 8, *M* = 4.00, *SD* = 3.12) and the
+hypothesized value (7.00) was statistically significant, *t*(7) =
+-2.72, *p* = .030, 95% CI \[-5.61, -.39\], *d* = -0.96.
+
+Alternatively, means, standard deviations, and confidence intervals
+could be presented in a table or figure associated with this paragraph.
 
 ## Independent Samples t Test
 
-## Data for the Independent Samples t Test
+### Data for the Independent Samples t Test
 
-The following data set reflects a between-subjects design with one factor (that has two levels). The data are presented in the format suitable for entry into statistical software.
+The following data set reflects a between-subjects design with one
+factor (that has two levels). The data are presented in the format
+suitable for entry into statistical software.
 
-|
- | Factor | Outcome |
-| --- | --- | --- |
-| 1 | 1.00 | .00 |
-| 2 | 1.00 | .00 |
-| 3 | 1.00 | 3.00 |
-| 4 | 1.00 | 5.00 |
-| 5 | 2.00 | 4.00 |
-| 6 | 2.00 | 7.00 |
-| 7 | 2.00 | 4.00 |
-| 8 | 2.00 | 9.00 |
+|     | Factor | Outcome |
+|-----|--------|---------|
+| 1   | 1.00   | .00     |
+| 2   | 1.00   | .00     |
+| 3   | 1.00   | 3.00    |
+| 4   | 1.00   | 5.00    |
+| 5   | 2.00   | 4.00    |
+| 6   | 2.00   | 7.00    |
+| 7   | 2.00   | 4.00    |
+| 8   | 2.00   | 9.00    |
 
-The following table of descriptive statistics can be used to determine the inferential statistics for the Independent Samples t Test.
+The following table of descriptive statistics can be used to determine
+the inferential statistics for the Independent Samples t Test.
 
-|
- | Group | N | Mean | Std. Deviation | Std. Error Mean |
-| --- | --- | --- | --- | --- | --- |
-| Outcome | Level 1 | 4 | 2.000 | 2.445 | 1.225 |
-| --- | --- | --- | --- | --- | --- |
-| | Level 2 | 4 | 6.000 | 2.445 | 1.225 |
+|         | Group   | N   | Mean  | Std. Deviation | Std. Error Mean |
+|---------|---------|-----|-------|----------------|-----------------|
+| Outcome | Level 1 | 4   | 2.000 | 2.445          | 1.225           |
+|         | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
 
-## Calculating the Independent Samples t Test
+### Calculating the Independent Samples t Test
 
-Mean Difference (Raw Effect): The mean difference is the difference between the two sample means (raw effect).
+**Mean Difference (Raw Effect):** The mean difference is the difference
+between the two sample means (raw effect).
 
-Within Groups Statistics: When multiple groups are used, it is necessary to get an estimate of the pooled (combined) within group variabilities.
+*M*<sub>1</sub> − *M*<sub>2</sub> = 2.000 − 6.000 =  − 4.000
 
-Standard Error of the Difference: The standard error of the difference is a function of the two groups&#39; individual standard errors.
+**Within Groups Statistics:** When multiple groups are used, it is necessary
+to get an estimate of the pooled (combined) within group variabilities.
+
+SS<sub>1</sub> = (*S**D*<sub>1</sub><sup>2</sup>)(df<sub>1</sub>) = (2.44949<sup>2</sup>)(3) = 18.000
+
+SS<sub>2</sub> = (*S**D*<sub>2</sub><sup>2</sup>)(df<sub>2</sub>) = (2.44949<sup>2</sup>)(3) = 18.000
+
+SS<sub>WITHIN</sub> = SS<sub>1</sub> + SS<sub>2</sub> = 18.000 + 18.000 = 36.000
+
+df<sub>WITHIN</sub> = df<sub>1</sub> + df<sub>2</sub> = 3 + 3 = 6
+
+$$\\text{MS}\_{\\text{WITHIN}} = \\frac{\\text{SS}\_{\\text{WITHIN}}}{\\text{df}\_{\\text{WITHIN}}} = \\frac{36.000}{6} = 6.000$$
+
+$$\\text{SD}\_{\\text{WITHIN}} = \\sqrt{\\text{MS}\_{\\text{WITHIN}}} = \\sqrt{6.000} = 2.449$$
+
+**Standard Error of the Difference:** The standard error of the difference
+is a function of the two groups’ individual standard errors.
 
 When the two sample sizes are equal:
 
+$$\\text{SE}\_{\\text{DIFF}} = \\sqrt{\\text{SE}\_{1}^{2} + \\text{SE}\_{2}^{2}} = \\sqrt{{1.225}^{2} + {1.225}^{2}} = 1.732$$
+
 When the two sample sizes are unequal:
 
-Statistical Significance: The _t_ statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
+$$\\text{SE}\_{\\text{DIFF}} = \\sqrt{\\frac{\\text{MS}\_{\\text{WITHIN}}}{n\_{1}} + \\frac{\\text{MS}\_{\\text{WITHIN}}}{n\_{2}}} = \\sqrt{\\frac{6.000}{4} + \\frac{6.000}{4}} = 1.732$$
 
-With _df_ = 6, _t__CRITICAL_ = 2.447
+**Statistical Significance:** The *t* statistic is the ratio of the mean
+difference (raw effect) to the standard error of the difference.
 
-Because _t \&lt; __t__ CRITICAL_, _p_ \&gt; .05
+$$t = \\frac{M\_{1} - M\_{2}}{\\text{SE}\_{\\text{DIFF}}} = \\frac{- 4.000}{1.732} = - 2.309$$
 
-Effect Size: Cohen&#39;s d Statistic provides a standardized effect size for the difference between the two means.
+*d**f* = (*n*<sub>1</sub>−1) + (*n*<sub>2</sub>−1) = *N* − 2 = 8 − 2 = 6
 
-Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+With *df* = 6, *t<sub>CRITICAL</sub>* = 2.447
+>
+Because *t &lt;* *t<sub>CRITICAL</sub>*, *p* &gt; .05
 
-## Summarizing the Independent Samples t Test
+**Effect Size:** Cohen’s d Statistic provides a standardized effect size for
+the difference between the two means.
 
-For this analysis, the emphasis is on comparing the means from two groups. Here again the summary and the inferential statistics focus on the difference.
+$$d = \\frac{M\_{1} - M\_{2}}{\\text{SD}\_{\\text{WITHIN}}} = \\frac{- 4.000}{2.449} = - 1.630$$
 
-An independent samples _t_ test showed that the difference in Outcome scores between the first group (_n_ = 4, _M_ = 2.00, _SD_ = 2.45) and the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45) was not statistically significant, _t_(6) = -2.31, _p_ = .060, 95% CI [-8.24, 0.24], d = -1.63.
+**Confidence Interval:** For this test, the appropriate confidence interval
+is around (centered on) the mean difference (raw effect).
 
-Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+CI<sub>DIFF</sub> = (*M*<sub>1</sub>−*M*<sub>2</sub>) ± (*t*<sub>CRITICAL</sub>)(SE<sub>DIFF</sub>)
+
+CI<sub>DIFF</sub> =  − 4.000 ± (2.447)(1.732) = \[−8.238,0.238\]
+
+### Summarizing the Independent Samples t Test
+
+For this analysis, the emphasis is on comparing the means from two
+groups. Here again the summary and the inferential statistics focus on
+the difference.
+
+> An independent samples *t* test showed that the difference in Outcome
+scores between the first group (*n* = 4, *M* = 2.00, *SD* = 2.45) and
+the second group (*n* = 3, *M* = 6.00, *SD* = 2.45) was not
+statistically significant, *t*(6) = -2.31, *p* = .060, 95% CI \[-8.24,
+0.24\], d = -1.63.
+
+Alternatively, means, standard deviations, and confidence intervals
+could be presented in a table or figure associated with this paragraph.
 
 ## One-Way ANOVA
 
-## Data for the One-Way ANOVA
+### Data for the One-Way ANOVA
 
-The following data set reflects a between-subjects design with one factor (with three levels). The data are presented in the format suitable for entry into statistical software.
+The following data set reflects a between-subjects design with one
+factor (with three levels). The data are presented in the format
+suitable for entry into statistical software.
 
-|
- | Factor | Outcome |
-| --- | --- | --- |
-| 1 | 1.00 | .00 |
-| 2 | 1.00 | .00 |
-| 3 | 1.00 | 3.00 |
-| 4 | 1.00 | 5.00 |
-| 5 | 2.00 | 4.00 |
-| 6 | 2.00 | 7.00 |
-| 7 | 2.00 | 4.00 |
-| 8 | 2.00 | 9.00 |
-| 9 | 3.00 | 9.00 |
-| 10 | 3.00 | 6.00 |
-| 11 | 3.00 | 4.00 |
-| 12 | 3.00 | 9.00 |
+|     | Factor | Outcome |
+|-----|--------|---------|
+| 1   | 1.00   | .00     |
+| 2   | 1.00   | .00     |
+| 3   | 1.00   | 3.00    |
+| 4   | 1.00   | 5.00    |
+| 5   | 2.00   | 4.00    |
+| 6   | 2.00   | 7.00    |
+| 7   | 2.00   | 4.00    |
+| 8   | 2.00   | 9.00    |
+| 9   | 3.00   | 9.00    |
+| 10  | 3.00   | 6.00    |
+| 11  | 3.00   | 4.00    |
+| 12  | 3.00   | 9.00    |
 
-The following table of descriptive statistics can be used to determine the inferential statistics for the One-Way ANOVA.
+The following table of descriptive statistics can be used to determine
+the inferential statistics for the One-Way ANOVA.
 
-| | N | Mean | Std. Deviation | Std. Error Mean |
-| --- | --- | --- | --- | --- |
-| Level 1 | 4 | 2.000 | 2.445 | 1.225 |
-| Level 2 | 4 | 6.000 | 2.445 | 1.225 |
-| Level 3 | 4 | 7.000 | 2.445 | 1.225 |
-| Total | 12 | 5.000 | 3.162 | .913 |
+|         | N   | Mean  | Std. Deviation | Std. Error Mean |
+|---------|-----|-------|----------------|-----------------|
+| Level 1 | 4   | 2.000 | 2.445          | 1.225           |
+| Level 2 | 4   | 6.000 | 2.445          | 1.225           |
+| Level 3 | 4   | 7.000 | 2.445          | 1.225           |
+| Total   | 12  | 5.000 | 3.162          | .913            |
 
-## Calculating the One-Way ANOVA
+### Calculating the One-Way ANOVA
 
-Within Groups Statistics: Within-groups error statistics are a function of the within group variabilities.
+**Within Groups Statistics:** Within-groups error statistics are a function
+of the within group variabilities.
 
-Between Groups Statistics: The between-groups effect statistics are a function of the group (level) means and sample sizes.
+SS<sub>1</sub> = (*S**D*<sub>1</sub><sup>2</sup>)(df<sub>1</sub>) = (2.44949<sup>2</sup>)(3) = 18.000
 
-Statistical Significance: The F statistic is the ratio of the between- and within-group variance estimates. A table of F values or SPSS can be used to obtain the probabilities of the F statistic.
+SS<sub>2</sub> = (*S**D*<sub>2</sub><sup>2</sup>)(df<sub>2</sub>) = (2.44949<sup>2</sup>)(3) = 18.000
 
-With _df __BETWEEN_ = 2 and _df__ WITHIN_ = 9, _F__CRITICAL_ = 4.256
+SS<sub>3</sub> = (*S**D*<sub>3</sub><sup>2</sup>)(df<sub>3</sub>) = (2.44949<sup>2</sup>)(3) = 18.000
 
-Because _F_ \&gt; _F__CRITICAL_, _p_ \&lt; .05
+SS<sub>WITHIN</sub> = SS<sub>1</sub> + SS<sub>2</sub> + SS<sub>3</sub> = 18.000 + 18.000 + 18.000 = 54.000
 
-Effect Size: The Eta-Squared statistic is a ratio of the between group and the total group variability (Sum of Squares) estimates.
+df<sub>WITHIN</sub> = df<sub>1</sub> + df<sub>2</sub> + df<sub>3</sub> = 3 + 3 + 3 = 9
 
-Confidence Intervals: For ANOVA, calculate the confidence intervals around (centered on) each mean separately.
+$$\\text{MS}\_{\\text{WITHIN}} = \\frac{\\text{SS}\_{\\text{WITHIN}}}{\\text{df}\_{\\text{WITHIN}}} = \\frac{54.000}{9} = 6.000$$
 
-Because each group has 3 _df_,
+**Between Groups Statistics:** The between-groups effect statistics are a
+function of the group (level) means and sample sizes.
 
-## Summarizing the One-Way ANOVA
+$\\text{SS}\_{\\text{BETWEEN}} = \\sum\_{}^{}{n\_{\\text{GROUP}}\\left( M\_{\\text{GROUP}} - M\_{\\text{TOTAL}} \\right)^{2}} = 4\\left( 2.0 - 5.0 \\right)^{2} + 4\\left( 6.0 - 5.0 \\right)^{2} + 4\\left( 7.0 - 5.0 \\right)^{2} = 56.000$
 
-The ANOVA provides an omnibus test of the differences across multiple groups. Because the ANOVA tests the overall differences among the groups, the text discusses the differences only in general.
+df<sub>BETWEEN</sub> = \#*g**r**o**u**p**s* − 1 = 3 − 1 = 2
 
-A one way ANOVA showed that the differences in Outcome scores between the first group (_n_ = 3, _M_ = 2.00, _SD_ = 2.45), the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45), and the third group (_n_ = 3, _M_ = 7.00, _SD_ = 2.45) were statistically significant, _F_(2,9) = 4.67, _p_ = .041, η2 = .51.
+$$\\text{MS}\_{\\text{BETWEEN}} = \\frac{\\text{SS}\_{\\text{BETWEEN}}}{\\text{df}\_{\\text{BETWEEN}}} = \\frac{56.000}{2} = 28.000$$
 
-Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+**Statistical Significance:** The F statistic is the ratio of the between-
+and within-group variance estimates. A table of F values or SPSS can be
+used to obtain the probabilities of the F statistic.
+
+$$F = \\frac{\\text{MS}\_{\\text{BETWEEN}}}{\\text{MS}\_{\\text{WITHIN}}} = \\frac{28.000}{6.000} = 4.667$$
+
+With *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9,
+*F<sub>CRITICAL</sub>* = 4.256
+>
+Because *F* &gt; *F<sub>CRITICAL</sub>*, *p* &lt; .05
+
+**Effect Size:** The Eta-Squared statistic is a ratio of the between group
+and the total group variability (Sum of Squares) estimates.
+
+$$\\eta^{2} = \\frac{\\text{SS}\_{\\text{BETWEEN}}}{\\text{SS}\_{\\text{BETWEEN}} + \\text{SS}\_{\\text{WITHIN}}} = \\frac{56.000}{56.000 + 54.000} = 0.509$$
+
+**Confidence Intervals:** For ANOVA, calculate the confidence intervals
+around (centered on) each mean separately.
+
+Because each group has 3 *df*, *t*<sub>CRITICAL</sub> =  ± 3.182
+
+CI<sub>*M*<sub>1</sub></sub> = *M* ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M*</sub>) = 2.000 ± (3.182)(1.225) = \[−1.898, 5.898\]
+
+CI<sub>*M*<sub>2</sub></sub> = *M* ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M*</sub>) = 6.000 ± (3.182)(1.225) = \[2.102, 9.898\]
+
+CI<sub>*M*<sub>3</sub></sub> = *M* ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M*</sub>) = 7.000 ± (3.182)(1.225) = \[3.102,10.898\]
+
+### Summarizing the One-Way ANOVA
+
+The ANOVA provides an omnibus test of the differences across multiple
+groups. Because the ANOVA tests the overall differences among the
+groups, the text discusses the differences only in general.
+
+> A one way ANOVA showed that the differences in Outcome scores between
+the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group
+(*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M*
+= 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67,
+*p* = .041, η<sup>2</sup> = .51.
+
+Alternatively, means, standard deviations, and confidence intervals
+could be presented in a table or figure associated with this paragraph.
 
 ## Post Hoc Comparisons
 
-## Data for Post Hoc Comparisons
+### Data for Post Hoc Comparisons
 
-The following data set reflects a between-subjects design with one factor (with three levels). The data are presented in the format suitable for entry into statistical software.
+The following data set reflects a between-subjects design with one
+factor (with three levels). The data are presented in the format
+suitable for entry into statistical software.
 
-|
- | Factor | Outcome |
-| --- | --- | --- |
-| 1 | 1.00 | .00 |
-| 2 | 1.00 | .00 |
-| 3 | 1.00 | 3.00 |
-| 4 | 1.00 | 5.00 |
-| 5 | 2.00 | 4.00 |
-| 6 | 2.00 | 7.00 |
-| 7 | 2.00 | 4.00 |
-| 8 | 2.00 | 9.00 |
-| 9 | 3.00 | 9.00 |
-| 10 | 3.00 | 6.00 |
-| 11 | 3.00 | 4.00 |
-| 12 | 3.00 | 9.00 |
+|     | Factor | Outcome |
+|-----|--------|---------|
+| 1   | 1.00   | .00     |
+| 2   | 1.00   | .00     |
+| 3   | 1.00   | 3.00    |
+| 4   | 1.00   | 5.00    |
+| 5   | 2.00   | 4.00    |
+| 6   | 2.00   | 7.00    |
+| 7   | 2.00   | 4.00    |
+| 8   | 2.00   | 9.00    |
+| 9   | 3.00   | 9.00    |
+| 10  | 3.00   | 6.00    |
+| 11  | 3.00   | 4.00    |
+| 12  | 3.00   | 9.00    |
 
-The following table of descriptive statistics can be used to determine the inferential statistics for the One-Way ANOVA and the relevant Post Hoc tests.
+The following table of descriptive statistics can be used to determine
+the inferential statistics for the One-Way ANOVA and the relevant Post
+Hoc tests.
 
-| | N | Mean | Std. Deviation | Std. Error Mean |
-| --- | --- | --- | --- | --- |
-| Level 1 | 4 | 2.000 | 2.445 | 1.225 |
-| Level 2 | 4 | 6.000 | 2.445 | 1.225 |
-| Level 3 | 4 | 7.000 | 2.445 | 1.225 |
-| Total | 12 | 5.000 | 3.162 | .913 |
+|         | N   | Mean  | Std. Deviation | Std. Error Mean |
+|---------|-----|-------|----------------|-----------------|
+| Level 1 | 4   | 2.000 | 2.445          | 1.225           |
+| Level 2 | 4   | 6.000 | 2.445          | 1.225           |
+| Level 3 | 4   | 7.000 | 2.445          | 1.225           |
+| Total   | 12  | 5.000 | 3.162          | .913            |
 
-## Calculating the Post Hoc Comparisons
+### Calculating the Post Hoc Comparisons
 
-Mean Differences: Mean Differences (raw effects) are the differences between the means for all pairs of groups. Even though half of the possible pairwise comparisons are redundant, the mean differences will have the opposite signs because of subtraction order.
+**Mean Differences:** Mean Differences (raw effects) are the differences
+between the means for all pairs of groups. Even though half of the
+possible pairwise comparisons are redundant, the mean differences will
+have the opposite signs because of subtraction order.
 
-Standard Error of the Difference: These standard errors are for the difference between the two group means in each comparison. The values are a function of the MSWITHIN (from the ANOVA) and the sample sizes. [In this case, because all groups are of the same size, the standard error for each comparison is the same.]
+*M*<sub>1</sub> − *M*<sub>2</sub> = 2.000 − 6.000 =  − 4.000
 
-Statistical Significance: The HSD statistic is a ratio of the mean difference to the standard error of the difference. There is one statistic for each of the comparisons.
+*M*<sub>1</sub> − *M*<sub>3</sub> = 2.000 − 7.000 =  − 5.000
 
-Because the ANOVA has _df __BETWEEN_ = 2 and _df__ WITHIN_ = 9, _HSD__CRITICAL_ = 2.792
+*M*<sub>2</sub> − *M*<sub>3</sub> = 6.000 − 7.000 =  − 1.000
 
-Because _HSD_ \&lt; _HSD__CRITICAL_, _p_ \&gt; .05
+**Standard Error of the Difference:** These standard errors are for the
+difference between the two group means in each comparison. The values
+are a function of the MS<sub>WITHIN</sub> (from the ANOVA) and the
+sample sizes. \[In this case, because all groups are of the same size,
+the standard error for each comparison is the same.\]
 
-Because _HSD_ \&gt; _HSD__CRITICAL_, _p \&lt;_ .05
+$\\text{SE}\_{\\text{DIFF}} = \\sqrt{\\left( \\frac{\\text{MS}\_{\\text{WITHIN}}}{n\_{\\text{GROUP}}} \\right) + \\left( \\frac{\\text{MS}\_{\\text{WITHIN}}}{n\_{\\text{GROUP}}} \\right)} = \\sqrt{\\left( \\frac{6.000}{4} \\right) + \\left( \\frac{6.000}{4} \\right)} = 1.732$
 
-Because _HSD_ \&lt; _HSD__CRITICAL_, _p_ \&gt; .05
+**Statistical Significance:** The HSD statistic is a ratio of the mean
+difference to the standard error of the difference. There is one
+statistic for each of the comparisons.
 
-Confidence Intervals: For HSD, calculate the confidence intervals around (centered on) each mean difference separately.
+Because the ANOVA has *df<sub>BETWEEN</sub>* = 2 and
+*df<sub>WITHIN</sub>* = 9, *HSD<sub>CRITICAL</sub>* = 2.792
 
-## Summarizing the Post Hoc Comparisons
+$$\\text{HSD}\_{1v2} = \\frac{M\_{1} - M\_{2}}{\\text{SE}\_{\\text{DIFF}}} = \\frac{- 4.000}{1.732} = 2.309$$
 
-Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups. Notice that the post hoc summary duplicates the presentation of the omnibus ANOVA statistics.
+Because *HSD* &lt; *HSD<sub>CRITICAL</sub>*, *p* &gt; .05
 
-A one way ANOVA showed that the differences in Outcome scores between the first group (_n_ = 3, _M_ = 2.00, _SD_ = 2.45), the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45), and the third group (_n_ = 3, _M_ = 7.00, _SD_ = 2.45) were statistically significant, _F_(2,9) = 4.67, _p_ = .041, η2 = .51. Tukey&#39;s HSD tests showed that only the third group scored statistically significantly different than the first group. However, the other comparisons were not statistically significant.
+$$\\text{HSD}\_{1v3} = \\frac{M\_{1} - M\_{3}}{\\text{SE}\_{\\text{DIFF}}} = \\frac{- 5.000}{1.732} = 2.887$$
 
-Alternatively, means, standard deviations, and confidence intervals – either for the group means or for the post hoc comparisons – could be presented in a table or figure associated with this paragraph.
+Because *HSD* &gt; *HSD<sub>CRITICAL</sub>*, *p &lt;* .05
+
+$$\\text{HSD}\_{2v3} = \\frac{M\_{2} - M\_{3}}{\\text{SE}\_{\\text{DIFF}}} = \\frac{- 1.000}{1.732} = 0.577$$
+
+Because *HSD* &lt; *HSD<sub>CRITICAL</sub>*, *p* &gt; .05
+
+**Confidence Intervals:** For HSD, calculate the confidence intervals around
+(centered on) each mean difference separately.
+
+CI<sub>1*v*2</sub> = (*M*<sub>1</sub>−*M*<sub>2</sub>) ± (HSD<sub>CRITICAL</sub>)(SE<sub>DIFF</sub>) =  − 4.000 ± (2.792)(1.732) = \[−8.836,0.836\]
+
+CI<sub>1*v*3</sub> = (*M*<sub>1</sub>−*M*<sub>3</sub>) ± (HSD<sub>CRITICAL</sub>)(SE<sub>DIFF</sub>) =  − 5.000 ± (2.792)(1.732) = \[−9.836,−0.164\]
+
+CI<sub>2*v*3</sub> = (*M*<sub>2</sub>−*M*<sub>3</sub>) ± (HSD<sub>CRITICAL</sub>)(SE<sub>DIFF</sub>) =  − 1.000 ± (2.792)(1.732) = \[−5.836,3.836\]
+
+### Summarizing the Post Hoc Comparisons
+
+Post hoc tests build on the ANOVA results and provide a more focused
+comparison among the groups. Notice that the post hoc summary duplicates
+the presentation of the omnibus ANOVA statistics.
+
+> A one way ANOVA showed that the differences in Outcome scores between
+the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group
+(*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M*
+= 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67,
+*p* = .041, η<sup>2</sup> = .51. Tukey’s HSD tests showed that only
+the third group scored statistically significantly different than the
+first group. However, the other comparisons were not statistically
+significant.
+
+Alternatively, means, standard deviations, and confidence intervals –
+either for the group means or for the post hoc comparisons – could be
+presented in a table or figure associated with this paragraph.
 
 ## Repeated Measures ANOVA
 
-## Data for the RMD ANOVA
+### Data for the RMD ANOVA
 
-The following data set reflects a within-subjects (repeated measures) design with two levels of the factor. The data are presented in the format suitable for entry into statistical software.
+The following data set reflects a within-subjects (repeated measures)
+design with two levels of the factor. The data are presented in the
+format suitable for entry into statistical software.
 
-|
- | Outcome1 | Outcome2 |
-| --- | --- | --- |
-| 1 | .00 | 4.00 |
-| 2 | .00 | 7.00 |
-| 3 | 3.00 | 4.00 |
-| 4 | 5.00 | 9.00 |
+|     | Outcome1 | Outcome2 |
+|-----|----------|----------|
+| 1   | .00      | 4.00     |
+| 2   | .00      | 7.00     |
+| 3   | 3.00     | 4.00     |
+| 4   | 5.00     | 9.00     |
 
-The following table of descriptive statistics can be used to determine the inferential statistics for the Repeated Measures ANOVA.
+The following table of descriptive statistics can be used to determine
+the inferential statistics for the Repeated Measures ANOVA.
 
-|
- | Mean | Std. Deviation | N |
-| --- | --- | --- | --- |
-| Outcome1 | 2.000 | 2.445 | 4 |
-| Outcome2 | 6.000 | 2.445 | 4 |
-| --- | --- | --- | --- |
+|          | Mean  | Std. Deviation | N   |
+|----------|-------|----------------|-----|
+| Outcome1 | 2.000 | 2.445          | 4   |
+| Outcome2 | 6.000 | 2.445          | 4   |
 
 ## Calculating the RMD ANOVA
 
-Grand (or Total) Mean: Because sample sizes are equal, a grand mean can be determined by averaging the two level means.
+**Grand (or Total) Mean:** Because sample sizes are equal, a grand mean can
+be determined by averaging the two level means.
 
-Between-Subjects Error Statistics: Between-subjects error refers to the average differences across the participants of the study. This Sum of Squares is not easily determined from the summary statistics output, but rather from the data.
+$$M\_{\\text{TOTAL}} = \\frac{\\left( M\_{\\text{LEVEL}} + M\_{\\text{LEVEL}} \\right)}{2} = \\frac{\\left( 2.000 + 6.000 \\right)}{2} = 4.000$$
 
-Within-Subjects Error Statistics: The within-subjects error is a function of variabilities of the separate levels or conditions of the independent variable and the between-subjects error given above.
+**Between-Subjects Error Statistics:** Between-subjects error refers to the
+average differences across the participants of the study. This Sum of
+Squares is not easily determined from the summary statistics output, but
+rather from the data.
 
-Within-Subjects Effect Statistics: The statistics for the effect (or change) over time are functions of the means of the levels or conditions and the sample sizes.
+$$\\text{SS}\_{\\text{SUBJECTS}} = \\sum\_{}^{}{k\\left( M\_{\\text{SUBJECT}} - M\_{\\text{TOTAL}} \\right)^{2} = 2\\left( 2.0 - 4.0 \\right)^{2} + 2\\left( 3.5 - 4.0 \\right)^{2} + 2\\left( 3.5 - 4.0 \\right)^{2} + 2\\left( 7.0 - 4.0 \\right)^{2} = 27.000}$$
 
-Statistical Significance: The F statistic is the ratio of the within-subjects effect and the within-subjects error variance estimates. A table of F values or SPSS can be used to obtain the probabilities of the F statistic.
+df<sub>SUBJECTS</sub> = \#*s**u**b**j**e**c**t**s* − 1 = 4 − 1 = 3
 
-With _df __EFFECT_ = 1 and _df__ ERROR_ = 3, _F__CRITICAL_ = 10.128
+$$\\text{MS}\_{\\text{SUBJECTS}} = \\frac{\\text{SS}\_{\\text{SUBJECTS}}}{\\text{df}\_{\\text{SUBJECTS}}} = \\frac{27.000}{3} = 9.000$$
 
-Because _F_ \&gt; _F__CRITICAL_, _p_ \&lt; .05
+**Within-Subjects Error Statistics:** The within-subjects error is a
+function of variabilities of the separate levels or conditions of the
+independent variable and the between-subjects error given above.
 
-Effect Size: The partial eta-squared statistic is a ratio of the within-subjects effect and the remaining variability (Sum of Squares) estimates after between-subjects error has been partialled out.
+SS<sub>1</sub> = (SD<sub>1</sub><sup>2</sup>)(df<sub>1</sub>) = (2.449<sup>2</sup>)(3) = 18.000
 
-Confidence Intervals: For RMD ANOVA, calculate the confidence intervals around (centered on) each mean separately.
+SS<sub>2</sub> = (SD<sub>2</sub><sup>2</sup>)(df<sub>2</sub>) = (2.449<sup>2</sup>)(3) = 18.000
 
-Because each group has 3 _df_,
+SS<sub>ERROR</sub> = SS<sub>1</sub> + SS<sub>2</sub> − SS<sub>SUBJECTS</sub> = 18.000 + 18.000 − 27.000 = 9.000
 
-## Summarizing the RMD ANOVA
+df<sub>ERROR</sub> = df<sub>1</sub> + df<sub>2</sub> − df<sub>SUBJECTS</sub> = 3 + 3 − 3 = 3.000
 
-The RMD ANOVA tests for overall differences across the repeated measures. As such, its summary parallels that of the One-Way ANOVA.
+$$\\text{MS}\_{\\text{ERROR}} = \\frac{\\text{SS}\_{\\text{ERROR}}}{\\text{df}\_{\\text{ERROR}}} = \\frac{9.000}{3} = 3.000$$
 
-A repeated measures ANOVA showed that the difference in Outcome scores (_N_ = 4) between the first time point (_M_ = 2.00, _SD_ = 2.45) and second time point (_M_ = 6.00, _SD_ = 2.45) was statistically significant, _F_(1,3) = 10.67, _p_ = .047, partial η2 = .78.
+**Within-Subjects Effect Statistics:** The statistics for the effect (or
+change) over time are functions of the means of the levels or conditions
+and the sample sizes.
 
-Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+$$\\text{SS}\_{\\text{EFFECT}} = \\sum\_{}^{}{n\_{\\text{LEVEL}}\\left( M\_{\\text{LEVEL}} - M\_{\\text{TOTAL}} \\right)^{2} = 4\\left( 2.0 - 4.0 \\right)^{2} + 4\\left( 6.0 - 4.0 \\right)^{2} = 32.000}$$
+
+df<sub>EFFECT</sub> = \#*l**e**v**e**l**s* − 1 = 2 − 1 = 1
+
+$$\\text{MS}\_{\\text{EFFECT}} = \\frac{\\text{SS}\_{\\text{EFFECT}}}{\\text{df}\_{\\text{EFFECT}}} = \\frac{32.000}{1} = 32.000$$
+
+**Statistical Significance:** The F statistic is the ratio of the
+within-subjects effect and the within-subjects error variance estimates.
+A table of F values or SPSS can be used to obtain the probabilities of
+the F statistic.
+
+$$F = \\frac{\\text{MS}\_{\\text{EFFECT}}}{\\text{MS}\_{\\text{ERROR}}} = \\frac{32.000}{3.000} = 10.667$$
+
+With *df<sub>EFFECT</sub>* = 1 and *df<sub>ERROR</sub>* = 3,
+*F<sub>CRITICAL</sub>* = 10.128
+>
+Because *F* &gt; *F<sub>CRITICAL</sub>*, *p* &lt; .05
+
+Effect Size: The partial eta-squared statistic is a ratio of the
+within-subjects effect and the remaining variability (Sum of Squares)
+estimates after between-subjects error has been partialled out.
+
+$$\\text{Partial\\ η}^{2} = \\frac{\\text{SS}\_{\\text{EFFECT}}}{\\text{SS}\_{\\text{EFFECT}} + \\text{SS}\_{\\text{ERROR}}} = \\frac{32.000}{32.000 + 9.000} = 0.780$$
+
+**Confidence Intervals:** For RMD ANOVA, calculate the confidence intervals
+around (centered on) each mean separately.
+
+Because each group has 3 *df*, *t*<sub>CRITICAL</sub> =  ± 3.182
+
+CI<sub>*M*<sub>1</sub></sub> = *M* ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M*</sub>) = 2.000 ± (3.182)(1.225) = \[−1.898, 5.898\]
+
+CI<sub>*M*<sub>2</sub></sub> = *M* ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M*</sub>) = 6.000 ± (3.182)(1.225) = \[2.102, 9.898\]
+
+### Summarizing the RMD ANOVA
+
+The RMD ANOVA tests for overall differences across the repeated
+measures. As such, its summary parallels that of the One-Way ANOVA.
+
+> A repeated measures ANOVA showed that the difference in Outcome scores
+(*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and
+second time point (*M* = 6.00, *SD* = 2.45) was statistically
+significant, *F*(1,3) = 10.67, *p* = .047, partial η<sup>2</sup> =
+.78.
+
+Alternatively, means, standard deviations, and confidence intervals
+could be presented in a table or figure associated with this paragraph.
 
 ## Factorial ANOVA
 
-## Data for the Factorial ANOVA
+### Data for the Factorial ANOVA
 
-The following data set reflects a between-subjects Factorial design with two factors (with two levels for each factor). The data are presented in the format suitable for entry into statistical software.
+The following data set reflects a between-subjects Factorial design with
+two factors (with two levels for each factor). The data are presented in
+the format suitable for entry into statistical software.
 
-|
- | FactorA | FactorB | Outcome |
-| --- | --- | --- | --- |
-| 1 | 1.00 | 1.00 | .00 |
-| 2 | 1.00 | 1.00 | .00 |
-| 3 | 1.00 | 1.00 | 3.00 |
-| 4 | 1.00 | 1.00 | 5.00 |
-| 5 | 2.00 | 1.00 | 4.00 |
-| 6 | 2.00 | 1.00 | 7.00 |
-| 7 | 2.00 | 1.00 | 4.00 |
-| 8 | 2.00 | 1.00 | 9.00 |
-| 9 | 1.00 | 2.00 | 9.00 |
-| 10 | 1.00 | 2.00 | 6.00 |
-| 11 | 1.00 | 2.00 | 4.00 |
-| 12 | 1.00 | 2.00 | 9.00 |
-| 13 | 2.00 | 2.00 | 3.00 |
-| 14 | 2.00 | 2.00 | 6.00 |
-| 15 | 2.00 | 2.00 | 8.00 |
-| 16 | 2.00 | 2.00 | 3.00 |
+|     | FactorA | FactorB | Outcome |
+|-----|---------|---------|---------|
+| 1   | 1.00    | 1.00    | .00     |
+| 2   | 1.00    | 1.00    | .00     |
+| 3   | 1.00    | 1.00    | 3.00    |
+| 4   | 1.00    | 1.00    | 5.00    |
+| 5   | 2.00    | 1.00    | 4.00    |
+| 6   | 2.00    | 1.00    | 7.00    |
+| 7   | 2.00    | 1.00    | 4.00    |
+| 8   | 2.00    | 1.00    | 9.00    |
+| 9   | 1.00    | 2.00    | 9.00    |
+| 10  | 1.00    | 2.00    | 6.00    |
+| 11  | 1.00    | 2.00    | 4.00    |
+| 12  | 1.00    | 2.00    | 9.00    |
+| 13  | 2.00    | 2.00    | 3.00    |
+| 14  | 2.00    | 2.00    | 6.00    |
+| 15  | 2.00    | 2.00    | 8.00    |
+| 16  | 2.00    | 2.00    | 3.00    |
 
-The following table of descriptive statistics can be used to determine the inferential statistics for the Factorial ANOVA.
+The following table of descriptive statistics can be used to determine
+the inferential statistics for the Factorial ANOVA.
 
-| FactorA | FactorB | Mean | Std. Deviation | N |
-| --- | --- | --- | --- | --- |
-| Level 1 | Level 1 | 2.000 | 2.445 | 4 |
-| Level 2 | 7.000 | 2.445 | 4 |
-| Total | 4.500 | 3.505 | 8 |
-| Level 2 | Level 1 | 6.000 | 2.445 | 4 |
-| Level 2 | 5.000 | 2.449 | 4 |
-| Total | 5.500 | 2.330 | 8 |
-| Total | Level 1 | 4.000 | 3.117 | 8 |
-| Level 2 | 6.000 | 2.507 | 8 |
-| Total | 5.000 | 2.921 | 16 |
-| --- | --- | --- | --- |
+| FactorA | FactorB | Mean  | Std. Deviation | N   |
+|---------|---------|-------|----------------|-----|
+| Level 1 | Level 1 | 2.000 | 2.445          | 4   |
+|         | Level 2 | 7.000 | 2.445          | 4   |
+|         | Total   | 4.500 | 3.505          | 8   |
+| Level 2 | Level 1 | 6.000 | 2.445          | 4   |
+|         | Level 2 | 5.000 | 2.449          | 4   |
+|         | Total   | 5.500 | 2.330          | 8   |
+| Total   | Level 1 | 4.000 | 3.117          | 8   |
+|         | Level 2 | 6.000 | 2.507          | 8   |
+|         | Total   | 5.000 | 2.921          | 16  |
 
-## Calculating the Factorial ANOVA
+### Calculating the Factorial ANOVA
 
-Error (Within Groups) Statistics: Within-groups error statistics are a function of the within group variabilities.
+**Error (Within Groups) Statistics:** Within-groups error statistics are a
+function of the within group variabilities.
 
-Effect (Between Groups) Statistics: The Model statistics represent the overall differences among the groups. The Factor A and Factor B statistics are a function of the level (marginal) means and sample sizes. The interaction statistics reflect the between-groups variability not accounted for by the factors individually.
+SS<sub>1</sub> = (*S**D*<sub>1</sub><sup>2</sup>)(df<sub>1</sub>) = (2.44949<sup>2</sup>)(3) = 18.000
+
+SS<sub>2</sub> = (*S**D*<sub>2</sub><sup>2</sup>)(df<sub>2</sub>) = (2.44949<sup>2</sup>)(3) = 18.000
+
+SS<sub>3</sub> = (*S**D*<sub>3</sub><sup>2</sup>)(df<sub>3</sub>) = (2.44949<sup>2</sup>)(3) = 18.000
+
+SS<sub>4</sub> = (*S**D*<sub>4</sub><sup>2</sup>)(df<sub>4</sub>) = (2.44949<sup>2</sup>)(3) = 18.000
+
+SS<sub>ERROR</sub> = SS<sub>1</sub> + SS<sub>2</sub> + SS<sub>3</sub> + SS<sub>4</sub> = 18.000 + 18.000 + 18.000 + 18.000 = 72.000
+
+df<sub>ERROR</sub> = df<sub>1</sub> + df<sub>2</sub> + df<sub>3</sub> + df<sub>4</sub> = 3 + 3 + 3 + 3 = 12
+
+$$\\text{MS}\_{\\text{ERROR}} = \\frac{\\text{SS}\_{\\text{ERROR}}}{\\text{df}\_{\\text{ERROR}}} = \\frac{72.000}{12} = 6.000$$
+
+**Effect (Between Groups) Statistics:** The Model statistics represent the
+overall differences among the groups. The Factor A and Factor B
+statistics are a function of the level (marginal) means and sample
+sizes. The interaction statistics reflect the between-groups variability
+not accounted for by the factors individually.
 
 For the Model:
 
+$$\\text{SS}\_{\\text{MODEL}} = \\sum\_{}^{}{n\_{\\text{GROUP}}\\left( M\_{\\text{GROUP}} - M\_{\\text{TOTAL}} \\right)^{2}}$$
+
+SS<sub>MODEL</sub> = 4(2.000−5.000)<sup>2</sup> + 4(7.000−5.000)<sup>2</sup> + 4(6.000−5.000)<sup>2</sup> + 4(5.000−5.000)<sup>2</sup> = 56.000
+
+df<sub>MODEL</sub> = \#*g**r**o**u**p**s* − 1 = 3
+
 For Factor A:
+
+$\\text{SS}\_{\\text{FACTORA}} = \\sum\_{}^{}{n\_{\\text{LEVEL}}\\left( M\_{\\text{LEVEL}} - M\_{\\text{TOTAL}} \\right)^{2}} = 8\\left( 4.500 - 5.000 \\right)^{2} + 8\\left( 5.500 - 5.000 \\right)^{2} = 4.000$
+
+df<sub>FACTORA</sub> = \#*l**e**v**e**l**s* − 1 = 2 − 1 = 1
+
+$$\\text{MS}\_{\\text{FACTORA}} = \\frac{\\text{SS}\_{\\text{FACTORA}}}{\\text{df}\_{\\text{FACTORA}}} = \\frac{4.000}{1} = 4.000$$
 
 For Factor B:
 
+$$\\text{SS}\_{\\text{FACTORB}} = \\sum\_{}^{}{n\_{\\text{LEVEL}}\\left( M\_{\\text{LEVEL}} - M\_{\\text{TOTAL}} \\right)^{2} = 8\\left( 4.000 - 5.000 \\right)^{2} + 8\\left( 6.000 - 5.000 \\right)^{2} = 16.000}$$
+
+df<sub>FACTORB</sub> = \#*l**e**v**e**l**s* − 1 = 2 − 1 = 1
+
+$$\\text{MS}\_{\\text{FACTORB}} = \\frac{\\text{SS}\_{\\text{FACTORB}}}{\\text{df}\_{\\text{FACTORB}}} = \\frac{16.000}{1} = 16.000$$
+
 For the Interaction:
 
-Statistical Significance: The F statistic is the ratio of the between- and within-group variance estimates. A table of F values or SPSS can be used to obtain the probabilities of the F statistic.
+SS<sub>INTER</sub> = SS<sub>MODEL</sub> − SS<sub>FACTORA</sub> − SS<sub>FACTORB</sub> = 56.000 − 4.000 − 16.000 = 36.000
+
+df<sub>INTER</sub> = df<sub>MODEL</sub>− df<sub>FACTORA</sub> − df<sub>FACTORB</sub> = 3 − 1 − 1 = 1
+
+$$\\text{MS}\_{\\text{INTER}} = \\frac{\\text{SS}\_{\\text{INTER}}}{\\text{df}\_{\\text{INTER}}} = \\frac{36.000}{1} = 36.000$$
+
+**Statistical Significance:** The F statistic is the ratio of the between-
+and within-group variance estimates. A table of F values or SPSS can be
+used to obtain the probabilities of the F statistic.
 
 For the Factor A Main Effect:
 
-With _df __FACTORA_ = 1 and _df__ ERROR_ = 12, _F__CRITICAL_ = 4.747
+$$F\_{\\text{FACTORA}} = \\frac{\\text{MS}\_{\\text{FACTORA}}}{\\text{MS}\_{\\text{ERROR}}} = \\frac{4.000}{6.000} = 0.667$$
 
-Because _F __FACTORA_ \&lt; _F__ CRITICAL_, _p_ \&gt; .05
+With *df<sub>FACTORA</sub>* = 1 and *df<sub>ERROR</sub>* = 12,
+*F<sub>CRITICAL</sub>* = 4.747
+>
+Because *F<sub>FACTORA</sub>* &lt; *F<sub>CRITICAL</sub>*, *p* &gt;
+.05
 
 For the Factor B Main Effect:
 
-With _df __FACTORB_ = 1 and _df__ ERROR_ = 12, _F__CRITICAL_ = 4.747
+$$F\_{\\text{FACTORB}} = \\frac{\\text{MS}\_{\\text{FACTORB}}}{\\text{MS}\_{\\text{ERROR}}} = \\frac{16.000}{6.000} = 2.667$$
 
-Because _F __FACTORB_ \&lt; _F__ CRITICAL_, _p_ \&gt; .05
+With *df<sub>FACTORB</sub>* = 1 and *df<sub>ERROR</sub>* = 12,
+*F<sub>CRITICAL</sub>* = 4.747
+>
+Because *F<sub>FACTORB</sub>* &lt; *F<sub>CRITICAL</sub>*, *p* &gt;
+.05
 
 For the Interaction:
 
-With _df __INTER_ = 1 and _df__ ERROR_ = 12, _F__CRITICAL_ = 4.747
+$$F\_{\\text{INTER}} = \\frac{\\text{MS}\_{\\text{INTER}}}{\\text{MS}\_{\\text{INTER}}} = \\frac{36.000}{6.000} = 6.000$$
 
-Because _F __INTER_ \&gt; _F__ CRITICAL_, _p_ \&lt; .05
+With *df<sub>INTER</sub>* = 1 and *df<sub>ERROR</sub>* = 12,
+*F<sub>CRITICAL</sub>* = 4.747
+>
+Because *F<sub>INTER</sub>* &gt; *F<sub>CRITICAL</sub>*, *p* &lt; .05
 
-Effect Size: The partial eta-squared statistic is a ratio of the between-subjects effect and the remaining variability (Sum of Squares) estimates after within-subjects error has been partialled out.
+**Effect Size:** The partial eta-squared statistic is a ratio of the
+between-subjects effect and the remaining variability (Sum of Squares)
+estimates after within-subjects error has been partialled out.
 
 For the Factor A Main Effect:
 
+$$\\text{Partial\\ }\\eta\_{\\text{FACTORA}}^{2} = \\frac{\\text{SS}\_{\\text{FACTORA}}}{\\text{SS}\_{\\text{FACTORA}} + \\text{SS}\_{\\text{ERROR}}} = \\frac{4.000}{4.000 + 72.000} = 0.053$$
+
 For the Factor B Main Effect:
+
+$$\\text{Partial\\ }\\eta\_{\\text{FACTORB}}^{2} = \\frac{\\text{SS}\_{\\text{FACTORB}}}{\\text{SS}\_{\\text{FACTORB}} + \\text{SS}\_{\\text{ERROR}}} = \\frac{16.000}{16.000 + 72.000} = 0.182$$
 
 For the Interaction:
 
-Confidence Intervals: For Factorial ANOVA, calculate the confidence intervals around (centered on) each mean separately (not shown here).
+$$\\text{Partial\\ }\\eta\_{\\text{INTER}}^{2} = \\frac{\\text{SS}\_{\\text{INTER}}}{\\text{SS}\_{\\text{INTER}} + \\text{SS}\_{\\text{INTER}}} = \\frac{36.000}{36.000 + 72.000} = 0.333$$
 
-## Summarizing the Factorial ANOVA
+**Confidence Intervals:** For Factorial ANOVA, calculate the confidence
+intervals around (centered on) each mean separately (not shown here).
 
-The Factorial ANOVA provides statistics for all of the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One-Way ANOVA.
+### Summarizing the Factorial ANOVA
 
-A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, _F_(1,12) = 0.67, _p_ = .430, partial η2 = .05, nor Factor B, _F_(1,12) = 2.67, _p_ = .128, partial η2 = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, _F_(1,12) = 6.00, _p_ = .031, partial η2 = .33.
+The Factorial ANOVA provides statistics for all of the main effects and
+interactions in a factorial design. Each effect would be summarized in a
+style analogous to a One-Way ANOVA.
 
-Means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+> A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome
+scores. Neither Factor A, *F*(1,12) = 0.67, *p* = .430, partial
+η<sup>2</sup> = .05, nor Factor B, *F*(1,12) = 2.67, *p* = .128,
+partial η<sup>2</sup> = .18, had a statistically significant impact on
+the Outcome. However, the interaction was statistically significant,
+*F*(1,12) = 6.00, *p* = .031, partial η<sup>2</sup> = .33.
+
+Means, standard deviations, and confidence intervals could be presented
+in a table or figure associated with this paragraph.
