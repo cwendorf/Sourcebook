@@ -77,8 +77,7 @@ _Publication manual of the American Psychological Association_ (6th Ed.). Washin
 | **Paired Samples t Test** | To compare two sample means when the samples are from a single-factor within-subjects design. |
 | **One-Way ANOVA** | To compare two or more sample means when the means are from a single-factor between-subjects design. | _F(df __1__ ,df __2__ ) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
 | **Repeated Measures ANOVA** | To compare two or more sample means when the means are from a single-factor within-subjects design. |
-| **Factorial
- ANOVA** | To compare four or more groups defined by a multiple variables in a factorial research design. |
+| **Factorial ANOVA** | To compare four or more groups defined by a multiple variables in a factorial research design. |
 
 **Note.** Many of the statistics from each of the categories are frequently and perhaps often appropriately presented in tables or figures rather than in the text.
 
