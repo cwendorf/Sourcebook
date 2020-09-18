@@ -24,6 +24,8 @@
 
 ---
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 ## Frequencies
 
 ### Data for the Frequencies and Percentiles
