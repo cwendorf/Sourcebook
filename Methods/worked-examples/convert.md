@@ -46,7 +46,7 @@ into statistical software.
 The following frequency distribution can be used to determine the
 percentiles and other statistics.
 
-|    |   | Frequency | Percent | Valid Percent | Cumulative Percent |       |
+|    |   | Frequency | Percent | Valid Percent | Cumulative Percent | 
 |-------|-----------|---------|---------------|--------------------|-------|
 | Valid | 0.00      | 2       | 25.0          | 25.0               | 25.0  |
 |       | 3.00      | 1       | 12.5          | 12.5               | 37.5  |
@@ -131,7 +131,7 @@ into statistical software.
 The following frequency distribution can be used to determine the
 descriptive statistics.
 
-|     |   | Frequency | Percent | Valid Percent | Cumulative Percent |       |
+|     |   | Frequency | Percent | Valid Percent | Cumulative Percent |
 |-------|-----------|---------|---------------|--------------------|-------|
 | Valid | 0.00      | 2       | 25.0          | 25.0               | 25.0  |
 |       | 3.00      | 1       | 12.5          | 12.5               | 37.5  |
@@ -205,7 +205,7 @@ into statistical software.
 The following frequency distribution can be used to determine the
 percentiles and the descriptive statistics.
 
-|  |      | Frequency | Percent | Valid Percent | Cumulative Percent |       |
+|  |      | Frequency | Percent | Valid Percent | Cumulative Percent |
 |-------|-----------|---------|---------------|--------------------|-------|
 | Valid | 0.00      | 2       | 25.0          | 25.0               | 25.0  |
 |       | 3.00      | 1       | 12.5          | 12.5               | 37.5  |
