@@ -99,11 +99,11 @@ _Publication manual of the American Psychological Association_ (6th Ed.). Washin
 
 **Paired Samples t Test:** In this case, the differences between two measurements on one set of people are being compared. Thus, the summary and the inferential statistics focus on that difference.
 
-> A paired samples _t_ test showed that, for the four people, the difference in Outcome scores between the first time point (_M_ = 2.00, _SD_ = 2.45) and second time point (_M_ = 6.00, _SD_ = 2.45) was statistically significant, _t_(3) = -3.27, _p_ = .047, 95% CI [-7.90, -0.10], d = -1.63.
+> A paired samples _t_ test showed that, for the four people, the difference in Outcome scores between the first time point (_M_ = 2.00, _SD_ = 2.45) and second time point (_M_ = 6.00, _SD_ = 2.45) was statistically significant, _t_(3) = -3.27, _p_ = .047, 95% CI [-7.90, -0.10], *d* = -1.63.
 
 **Independent Samples t Test:** For this analysis, the emphasis is on comparing the means from two groups. Here again the summary and the inferential statistics focus on the difference.
 
-> An independent samples _t_ test showed that the difference in Outcome scores between the first group (_n_ = 4, _M_ = 4.00, _SD_ = 2.45) and the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45) was not statistically significant, _t_(6) = -2.31, _p_ = .060, 95% CI [-8.24, 0.24], d = -1.63.
+> An independent samples _t_ test showed that the difference in Outcome scores between the first group (_n_ = 4, _M_ = 4.00, _SD_ = 2.45) and the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45) was not statistically significant, _t_(6) = -2.31, _p_ = .060, 95% CI [-8.24, 0.24], *d* = -1.63.
 
 **One Way ANOVA:** The ANOVA provides an omnibus test of the differences across multiple groups. Because the ANOVA tests the overall differences among the groups, the text discusses the differences only in general.
 
