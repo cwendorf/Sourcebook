@@ -119,7 +119,7 @@ _Publication manual of the American Psychological Association_ (6th Ed.). Washin
 
 **Factorial ANOVA:** The factorial ANOVA provides statistics for all of the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One Way ANOVA.
 
-> A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, _F_(1,12) = 0.67, _p_ = .430, partial η2 = .05, nor Factor B, _F_(1,12) = 2.67, _p_ = .128, partial η<sup>2</sup> = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, _F_(1,12) = 6.00, _p_ = .031, partial η<sup>2</sup> = .33.
+> A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, _F_(1,12) = 0.67, _p_ = .430, partial η<sup>2</sup> = .05, nor Factor B, _F_(1,12) = 2.67, _p_ = .128, partial η<sup>2</sup> = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, _F_(1,12) = 6.00, _p_ = .031, partial η<sup>2</sup> = .33.
 
 ---
 
