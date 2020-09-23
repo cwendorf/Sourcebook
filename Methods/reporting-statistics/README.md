@@ -28,7 +28,7 @@ The APA manual describes appropriate strategies for presenting statistical infor
 **Information to Include:** Significance testing "is but a starting point and that additional reporting elements such as effect sizes, confidence intervals, and extensive description are needed to convey the most complete meaning of the results" (p. 33).
 
 1. Descriptive statistics are essential and "such a set usually includes at least the following: the per-cell sample sizes; the observed cell means (or frequencies of cases in each category for a categorical variable); and the cell standard deviations" (p. 33).
-2. For statistical significance tests, "include the obtained magnitude or value of the test statistics, the degrees of freedom, the probability of obtaining a value as extreme as or more extreme than the one obtained (the exact _p_ value)" (p. 34).
+2. For statistical significance tests, "include the obtained magnitude or value of the test statistics, the degrees of freedom, the probability of obtaining a value as extreme as or more extreme than the one obtained (the exact *p* value)" (p. 34).
 3. When possible, confidence intervals should be emphasized. "The inclusion of confidence intervals (for estimates of parameters, for functions of parameters such as differences in means, and for effect sizes) can be an extremely effective way of reporting results" (p. 34).
 4. "For the reader to appreciate the magnitude or importance of a study's findings, it is almost always necessary to include some measure of effect size" (p. 34). These can be in the original (raw) units or in a standardized metric.
 
@@ -39,7 +39,7 @@ The APA manual describes appropriate strategies for presenting statistical infor
 - As a result, it is necessary that the text include a description of the variable(s) under study and a description of the statistical procedures used. The text often includes a description of whether the results support the hypotheses.
 
 **Note.** All quotations pertaining to reporting results are taken from: American Psychological Association. (2010).
-_Publication manual of the American Psychological Association_ (6th Ed.). Washington, DC: APA.
+*Publication manual of the American Psychological Association* (6th Ed.). Washington, DC: APA.
 
 ---
 
@@ -48,22 +48,22 @@ _Publication manual of the American Psychological Association_ (6th Ed.). Washin
 | **Statistic** | **Purpose** | **APA Style** | **Description** |
 | --- | --- | --- | --- |
 | **Descriptive Statistics** ||||
-| Mean | To provide an estimate of the population from which the sample was selected. | _M_ = \_\_\_\_\_ | Indicates the center point of the distribution and serves as the reference point for nearly all other statistics. |
-| Standard Deviation | To provide an estimate of the amount of variability/dispersion in the distribution of population scores. | _SD_ = \_\_\_\_\_ | Indicates the variability of scores around their respective mean. Zero indicates no variability. |
+| Mean | To provide an estimate of the population from which the sample was selected. | *M* = \_\_\_\_\_ | Indicates the center point of the distribution and serves as the reference point for nearly all other statistics. |
+| Standard Deviation | To provide an estimate of the amount of variability/dispersion in the distribution of population scores. | *SD* = \_\_\_\_\_ | Indicates the variability of scores around their respective mean. Zero indicates no variability. |
 | **Measures of Effect Size** ||||
-| Cohen's d | To provide a standardized measure of an effect (defined as the difference between two means). | _d_ = \_\_\_\_\_. | Indicates the size of the treatment effect relative to the within-group variability of scores. |
-| Correlation | To provide a measure of the association between two variables measured in a sample. | _r_(df) = \_\_\_\_\_ | Indicates the strength of the relationship between two variables and can range from –1 to +1. |
+| Cohen's d | To provide a standardized measure of an effect (defined as the difference between two means). | *d* = \_\_\_\_\_. | Indicates the size of the treatment effect relative to the within-group variability of scores. |
+| Correlation | To provide a measure of the association between two variables measured in a sample. | *r*(df) = \_\_\_\_\_ | Indicates the strength of the relationship between two variables and can range from –1 to +1. |
 | Eta-Squared | To provide a standardized measure of an effect (defined as the relationship between two variables). | η<sup>2</sup> = \_\_\_\_\_. | Indicates the proportion of variance in the dependent variable accounted for by the independent variable. |
 | **Confidence Intervals** ||||
 | CI for a Mean | To provide an interval estimate of the population mean. Can be derived from both the z and t distributions. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Indicates that there is the given probability that the interval specified covers the true population mean. |
 | CI for a Mean Difference | To provide an interval estimate of the population mean difference. Can be derived from both the z and t distributions. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Indicates that there is the given probability that the interval specified covers the true population mean difference. |
 | **Statistical Significance Tests** ||||
-| One Sample t Test | To compare a single sample mean to a population mean when the population standard deviation is not known | _t_(df) = \_\_\_\_, _p_ = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
-| Independent Samples t Test | To compare two sample means when the samples are from a single-factor between-subjects design. | _t_(df) = \_\_\_\_, _p_ = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
-| Paired Samples t Test | To compare two sample means when the samples are from a single-factor within-subjects design. |_t_(df) = \_\_\_\_, _p_ = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
-| One-Way ANOVA | To compare two or more sample means when the means are from a single-factor between-subjects design. | _F(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
-| Repeated Measures ANOVA | To compare two or more sample means when the means are from a single-factor within-subjects design. | _F(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
-| Factorial ANOVA | To compare four or more groups defined by a multiple variables in a factorial research design. | _F(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
+| One Sample t Test | To compare a single sample mean to a population mean when the population standard deviation is not known | *t*(df) = \_\_\_\_, *p* = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
+| Independent Samples t Test | To compare two sample means when the samples are from a single-factor between-subjects design. | *t*(df) = \_\_\_\_, *p* = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
+| Paired Samples t Test | To compare two sample means when the samples are from a single-factor within-subjects design. |*t*(df) = \_\_\_\_, *p* = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
+| One-Way ANOVA | To compare two or more sample means when the means are from a single-factor between-subjects design. | *F*(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
+| Repeated Measures ANOVA | To compare two or more sample means when the means are from a single-factor within-subjects design. | *F*(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
+| Factorial ANOVA | To compare four or more groups defined by a multiple variables in a factorial research design. | *F*S(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_._ | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
 
 **Note.** Many of the statistics from each of the categories are frequently and perhaps often appropriately presented in tables or figures rather than in the text.
 
@@ -73,19 +73,19 @@ _Publication manual of the American Psychological Association_ (6th Ed.). Washin
 
 **Frequency Information:** Though not often reported, simple summary statistics – like the median and quartiles – provide the reader with basic frequency information about the variable under investigation.Both of the following versions present the required information.
 
-> For the participants (_N_ = 8), Outcome scores of 0.75, 4.00, and 6.50 represented the 25th, 50th, and 75th percentiles, respectively.
+> For the participants (*N* = 8), Outcome scores of 0.75, 4.00, and 6.50 represented the 25th, 50th, and 75th percentiles, respectively.
 
-> The eight participants had a _Mdn_ Outcome score of 4.00 (IQR = 0.75 – 6.50).
+> The eight participants had a *Mdn* Outcome score of 4.00 (*IQR* = 0.75 – 6.50).
 
 **Descriptive Statistics:** The purpose of the descriptive statistics is to provide the reader with an idea about the basic elements of the group(s) being studied. Note that this also forms the basis of the in-text presentation of descriptive statistics for other inferential analyses. Both of the following versions present the required information.
 
-> The participants (_N_ = 8) had a low mean Outcome score (_M_ = 4.00, _SD_ = 3.12).
+> The participants (*N* = 8) had a low mean Outcome score (*M* = 4.00, *SD* = 3.12).
 
-> The eight participants had a mean Outcome of 4.00 (_SD_ = 3.12).
+> The eight participants had a mean Outcome of 4.00 (*SD* = 3.12).
 
 **Correlations:** Correlations provide a measure of statistical relationship between two variables. Note that correlations can be tested for statistical significance (and that this information should be summarized if it is available and of interest).
 
-> For the participants (_N_ = 4), the scores on Outcome 1 (_M_ = 2.00, _SD_ = 2.45) and Outcome 2 (_M_ = 6.00, _SD_ = 2.45) were moderately but not statistically significantly correlated, _r_(2) = .50, _p_ = .500.
+> For the participants (*N* = 4), the scores on Outcome 1 (*M* = 2.00, *SD* = 2.45) and Outcome 2 (*M* = 6.00, *SD* = 2.45) were moderately but not statistically significantly correlated, *r*(2) = .50, *p* = .500.
 
 **Confidence Intervals:** Confidence intervals provide a range estimate for a population value (e.g., the mean). Note that the width of the interval can be altered to reflect the level of confidence in the estimate. Both of the following versions present the required information.
 
@@ -95,31 +95,31 @@ _Publication manual of the American Psychological Association_ (6th Ed.). Washin
 
 **One Sample t Test:** In this case, a sample mean has been compared to a user-specified test value (or a population mean). Thus, the summary and the inferential statistics focus on that difference.
 
-> A one sample _t_ test showed that the difference in Outcome scores between the current sample (_N_ = 8, _M_ = 4.00, _SD_ = 3.12) and the hypothesized value (7.00) was statistically significant, _t_(7) = -2.72, _p_ = .030, 95% CI [-5.61, -.39], _d_ = -0.96.
+> A one sample *t* test showed that the difference in Outcome scores between the current sample (*N* = 8, *M* = 4.00, *SD* = 3.12) and the hypothesized value (7.00) was statistically significant, *t*(7) = -2.72, *p* = .030, 95% CI [-5.61, -.39], *d* = -0.96.
 
 **Paired Samples t Test:** In this case, the differences between two measurements on one set of people are being compared. Thus, the summary and the inferential statistics focus on that difference.
 
-> A paired samples _t_ test showed that, for the four people, the difference in Outcome scores between the first time point (_M_ = 2.00, _SD_ = 2.45) and second time point (_M_ = 6.00, _SD_ = 2.45) was statistically significant, _t_(3) = -3.27, _p_ = .047, 95% CI [-7.90, -0.10], d = -1.63.
+> A paired samples *t* test showed that, for the four people, the difference in Outcome scores between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was statistically significant, *t*(3) = -3.27, *p* = .047, 95% CI [-7.90, -0.10], *d* = -1.63.
 
 **Independent Samples t Test:** For this analysis, the emphasis is on comparing the means from two groups. Here again the summary and the inferential statistics focus on the difference.
 
-> An independent samples _t_ test showed that the difference in Outcome scores between the first group (_n_ = 4, _M_ = 4.00, _SD_ = 2.45) and the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45) was not statistically significant, _t_(6) = -2.31, _p_ = .060, 95% CI [-8.24, 0.24], d = -1.63.
+> An independent samples *t* test showed that the difference in Outcome scores between the first group (*n* = 4, *M* = 4.00, *SD* = 2.45) and the second group (*n* = 3, *M* = 6.00, *SD* = 2.45) was not statistically significant, *t*(6) = -2.31, *p* = .060, 95% CI [-8.24, 0.24], *d* = -1.63.
 
 **One Way ANOVA:** The ANOVA provides an omnibus test of the differences across multiple groups. Because the ANOVA tests the overall differences among the groups, the text discusses the differences only in general.
 
-> A one way ANOVA showed that the differences in Outcome scores between the first group (_n_ = 3, _M_ = 2.00, _SD_ = 2.45), the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45), and the third group (_n_ = 3, _M_ = 7.00, _SD_ = 2.45) were statistically significant, _F_(2,9) = 4.67, _p_ = .041, η<sup>2</sup> = .51.
+> A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67, *p* = .041, *η*<sup>2</sup> = .51.
 
 **One Way ANOVA with Post Hoc Tests:** Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups. Notice that the post hoc summary duplicates the presentation of the omnibus ANOVA statistics.
 
-> A one way ANOVA showed that the differences in Outcome scores between the first group (_n_ = 3, _M_ = 2.00, _SD_ = 2.45), the second group (_n_ = 3, _M_ = 6.00, _SD_ = 2.45), and the third group (_n_ = 3, _M_ = 7.00, _SD_ = 2.45) were statistically significant, _F_(2,9) = 4.67, _p_ = .041, η<sup>2</sup> = .51. Tukey's HSD tests showed that only the third group scored statistically significantly different than the first group. However, the other comparisons were not statistically significant.
+> A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67, *p* = .041, *η*<sup>2</sup> = .51. Tukey's HSD tests showed that only the third group scored statistically significantly different than the first group. However, the other comparisons were not statistically significant.
 
 **Repeated Measures ANOVA:** The RMD ANOVA tests for overall differences across the repeated measures. As such, its summary parallels that of the One Way ANOVA.
 
-> A repeated measures ANOVA showed that the difference in Outcome scores (_N_ = 4) between the first time point (_M_ = 2.00, _SD_ = 2.45) and second time point (_M_ = 6.00, _SD_ = 2.45) was statistically significant, _F_(1,3) = 10.67, _p_ = .047, partial η<sup>2</sup> = .78.
+> A repeated measures ANOVA showed that the difference in Outcome scores (*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was statistically significant, *F*(1,3) = 10.67, *p* = .047, partial *η*<sup>2</sup> = .78.
 
 **Factorial ANOVA:** The factorial ANOVA provides statistics for all of the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One Way ANOVA.
 
-> A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, _F_(1,12) = 0.67, _p_ = .430, partial η2 = .05, nor Factor B, _F_(1,12) = 2.67, _p_ = .128, partial η2 = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, _F_(1,12) = 6.00, _p_ = .031, partial η<sup>2</sup> = .33.
+> A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, *F*(1,12) = 0.67, *p* = .430, partial *η*<sup>2</sup> = .05, nor Factor B, *F*(1,12) = 2.67, *p* = .128, partial *η*<sup>2</sup> = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, *F*(1,12) = 6.00, *p* = .031, partial *η*<sup>2</sup> = .33.
 
 ---
 
@@ -155,6 +155,6 @@ standard deviations) and the confidence intervals from the text.
 
 |           |     | Level 1 ||      | Level 2 ||      | Level 3 ||     |      |      |     |           | Tukey’s HSD |
 |-----------|-----|---------|------|---------|------|---------|-----|------|------|-----|-----------|-------------|---------------|-----|--------------|
-| Variable  |     | *M*     | *SD* |         | *M*  | *SD*    |     | *M*  | *SD* |     | *F*(2, 6) | *p*         | η<sup>2</sup> |     |              |
+| Variable  |     | *M*     | *SD* |         | *M*  | *SD*    |     | *M*  | *SD* |     | *F*(2, 6) | *p*         | *η*<sup>2</sup> |     |              |
 | Outcome 1 |     | 2.00    | 2.45 |         | 6.00 | 2.45    |     | 7.00 | 2.45 |     | 4.67      | .041        | .509          |     | 1 = 2 &lt; 3 |
 | Outcome 2 |     | 6.00    | 2.45 |         | 7.00 | 2.45    |     | 5.00 | 2.45 |     | 0.67      | .537        | .129          |     | 1 = 2 = 3    |
