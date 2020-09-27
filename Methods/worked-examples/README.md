@@ -1,8 +1,6 @@
 # Statistics for Social Science
 
-### Statistical Methods: Worked Examples
-
----
+## Statistical Methods: Worked Examples
 
 ### Abstract
 
@@ -26,58 +24,58 @@ This chapter provides the complete set of worked examples for the sourcebook. Al
 
 ---
 
-## Frequencies
+### Frequencies
 
 <p align="center"><kbd><img src="page3.png"></kbd></p>
 <p align="center"><kbd><img src="page4.png"></kbd></p>
 
-## Descriptives
+### Descriptives
 
 <p align="center"><kbd><img src="page5.png"></kbd></p>
 <p align="center"><kbd><img src="page6.png"></kbd></p>
 
-## Standardized Scores
+### Standardized Scores
 
 <p align="center"><kbd><img src="page7.png"></kbd></p>
 <p align="center"><kbd><img src="page8.png"></kbd></p>
 
-## Correlations
+### Correlations
 
 <p align="center"><kbd><img src="page9.png"></kbd></p>
 <p align="center"><kbd><img src="page10.png"></kbd></p>
 
-## Confidence Intervals
+### Confidence Intervals
 
 <p align="center"><kbd><img src="page11.png"></kbd></p>
 <p align="center"><kbd><img src="page12.png"></kbd></p>
 
-## One Sample t Test
+### One Sample t Test
 
 <p align="center"><kbd><img src="page13.png"></kbd></p>
 <p align="center"><kbd><img src="page14.png"></kbd></p>
 
-## Independent Samples t Test
+### Independent Samples t Test
 
 <p align="center"><kbd><img src="page15.png"></kbd></p>
 <p align="center"><kbd><img src="page16.png"></kbd></p>
 
-## One Way ANOVA
+### One Way ANOVA
 
 <p align="center"><kbd><img src="page17.png"></kbd></p>
 <p align="center"><kbd><img src="page18.png"></kbd></p>
 
-## Post Hoc Comparisons
+### Post Hoc Comparisons
 
 <p align="center"><kbd><img src="page19.png"></kbd></p>
 <p align="center"><kbd><img src="page20.png"></kbd></p>
 
-## Repeated Measures ANOVA
+### Repeated Measures ANOVA
 
 <p align="center"><kbd><img src="page21.png"></kbd></p>
 <p align="center"><kbd><img src="page22.png"></kbd></p>
 <p align="center"><kbd><img src="page23.png"></kbd></p>
 
-## Factorial ANOVA
+### Factorial ANOVA
 
 <p align="center"><kbd><img src="page24.png"></kbd></p>
 <p align="center"><kbd><img src="page25.png"></kbd></p>

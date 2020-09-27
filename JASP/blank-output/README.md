@@ -1,8 +1,6 @@
 # Statistics for Social Science
 
-### JASP: Blank Ouput
-
----
+## JASP: Blank Ouput
 
 ### Abstract
 
@@ -22,38 +20,38 @@ This chapter is used as worksheets for class problems. Students fill in their an
 
 ---
 
-## Descriptives (Frequencies and Descriptives)
+### Descriptives (Frequencies and Descriptives)
 
 <p align="center"><kbd><img src="page3.png"></kbd></p>
 
-## Correlations (Bivariate)
+### Correlations (Bivariate)
 
 <p align="center"><kbd><img src="page4.png"></kbd></p>
 
-## T Test (One Sample)
+### T Test (One Sample)
 
 <p align="center"><kbd><img src="page5.png"></kbd></p>
 
-## T Test (Paired Samples)
+### T Test (Paired Samples)
 
 <p align="center"><kbd><img src="page6.png"></kbd></p>
 
-## T Test (Independent Samples)
+### T Test (Independent Samples)
 
 <p align="center"><kbd><img src="page7.png"></kbd></p>
 
-## ANOVA (OneWay ANOVA)
+### ANOVA (OneWay ANOVA)
 
 <p align="center"><kbd><img src="page8.png"></kbd></p>
 
-## Post Hoc Tests (OneWay ANOVA)
+### Post Hoc Tests (OneWay ANOVA)
 
 <p align="center"><kbd><img src="page9.png"></kbd></p>
 
-## Repeated Measures ANOVA
+### Repeated Measures ANOVA
 
 <p align="center"><kbd><img src="page10.png"></kbd></p>
 
-## ANOVA (Factorial ANOVA)
+### ANOVA (Factorial ANOVA)
 
 <p align="center"><kbd><img src="page11.png"></kbd></p>

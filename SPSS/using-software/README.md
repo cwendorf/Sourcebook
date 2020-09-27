@@ -1,8 +1,6 @@
 # Statistics for Social Science
 
-### SPSS: Using the Software
-
----
+## SPSS: Using the Software
 
 ### Abstract
 
@@ -28,9 +26,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Entering One Sample Data 
+### Entering One Sample Data 
 
-### Steps for Defining All Variables
+#### Steps for Defining All Variables
 
  1. First, click on the
  "Variable View" tab on the 
@@ -50,7 +48,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Steps for Entering Data
+### Steps for Entering Data
 
 3. Click on the "Data View" tab 
  on the bottom left-hand
@@ -71,9 +69,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Entering Repeated Measures Data 
+### Entering Repeated Measures Data 
 
-### Steps for Defining All Variables 
+#### Steps for Defining All Variables 
 
 1. First, click on the
  "Variable View" tab on the 
@@ -92,7 +90,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image3.jpg"></kbd></p>
 
-### Steps for Entering Data
+#### Steps for Entering Data
 
 3. Click on the "Data View" tab 
  on the bottom left-hand
@@ -119,9 +117,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Entering Multiple Sample Data 
+### Entering Multiple Sample Data 
 
-### Steps for Defining All Variables 
+#### Steps for Defining All Variables 
 
 1. First, click on the
  "Variable View" tab on the 
@@ -146,7 +144,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image5.jpg"></kbd></p>
 
-### Steps for Providing Labels for All Values
+#### Steps for Providing Labels for All Values
 
 4. For categorical variables, 
  you should also provide
@@ -183,7 +181,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image6.jpg"></kbd></p>
 
-### Steps for Entering Data
+#### Steps for Entering Data
 
  7. Click on the "Data View" tab 
  on the bottom left-hand
@@ -216,9 +214,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Entering Factorial Data 
+### Entering Factorial Data 
 
-### Steps for Defining All Variables 
+#### Steps for Defining All Variables 
 
 1. First, click on the
  "Variable View" tab on the 
@@ -243,7 +241,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image8.jpg"></kbd></p>
 
-### Steps for Providing Labels for All Values
+#### Steps for Providing Labels for All Values
 
 4. For categorical variables, 
  you should also provide
@@ -280,7 +278,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image9.jpg"></kbd></p>
 
-### Steps for Entering Data
+#### Steps for Entering Data
 
  7. Click on the "Data View" tab 
  on the bottom left-hand
@@ -318,9 +316,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Frequencies (Frequencies and Descriptives) 
+### Frequencies (Frequencies and Descriptives) 
 
-### Steps for Obtaining Frequency-Related Statistics
+#### Steps for Obtaining Frequency-Related Statistics
 
 1. First, enter the data
  (described elsewhere). 
@@ -333,7 +331,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image11.jpg"></kbd></p>
 
-### Steps for Obtaining a Frequency Distribution
+#### Steps for Obtaining a Frequency Distribution
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -360,7 +358,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image12.jpg"></kbd></p>
 
-### Steps for Obtaining Summary Statistics 
+#### Steps for Obtaining Summary Statistics 
  
 7. To obtain summary
  statistics, select 
@@ -381,7 +379,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image13.jpg"></kbd></p>
 
-### Steps for Obtaining a Histogram 
+#### Steps for Obtaining a Histogram 
 
 10. To obtain a histogram, click 
  on the "Charts" button.
@@ -404,9 +402,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Descriptives (Standardized Scores and Transformations) 
+### Descriptives (Standardized Scores and Transformations) 
 
-### Steps for Obtaining Descriptive-Related Statistics 
+#### Steps for Obtaining Descriptive-Related Statistics 
 
 1. First, enter the data
  (described elsewhere). 
@@ -419,7 +417,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image15.jpg"></kbd></p>
 
-### Steps for Obtaining Standardized (z) Scores 
+#### Steps for Obtaining Standardized (z) Scores 
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -448,7 +446,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image16.jpg"></kbd></p>
 
-### Steps for Obtaining Summary Statistics
+#### Steps for Obtaining Summary Statistics
 
 7. To obtain summary
  statistics, select 
@@ -469,7 +467,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image17.jpg"></kbd></p>
 
-### Steps for Viewing the Standardized Scores  
+#### Steps for Viewing the Standardized Scores  
 
 10. After clicking on "OK" in
  the original dialogue box, 
@@ -488,7 +486,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image18.jpg"></kbd></p>
 
-## Steps for Obtaining the Compute Menu
+### Steps for Obtaining the Compute Menu
 
 12. In addition to (or instead 
  of) calculating
@@ -505,7 +503,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image19.jpg"></kbd></p>
 
-## Steps for Calculating Other Transformations 
+### Steps for Calculating Other Transformations 
 
  14. A dialogue box will then 
  appear for you to choose 
@@ -540,9 +538,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Explore (Descriptives and Confidence Intervals) 
+### Explore (Descriptives and Confidence Intervals) 
 
-### Steps for Obtaining Exploratory-Related Statistics 
+#### Steps for Obtaining Exploratory-Related Statistics 
 
  1. First, enter the data
  (described elsewhere). 
@@ -555,7 +553,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image21.jpg"></kbd></p>
 
-## Steps for Obtaining the Exploratory Statistics
+### Steps for Obtaining the Exploratory Statistics
 
 3. A dialogue box will then 
  appear for you to choose the 
@@ -581,7 +579,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image22.jpg"></kbd></p>
 
-### Steps for Altering the Confidence Interval
+#### Steps for Altering the Confidence Interval
 
 7. If you wish to alter the 
  width of the confidence
@@ -603,7 +601,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image23.jpg"></kbd></p>
 
-### Steps for Obtaining a Graph of the Confidence Intervals 
+#### Steps for Obtaining a Graph of the Confidence Intervals 
 
 10 .First, enter the data
  (described elsewhere). 
@@ -615,7 +613,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image24.jpg"></kbd></p>
 
-### Steps for Choosing the Graph Layout
+#### Steps for Choosing the Graph Layout
 
  12. A dialogue box will then 
  appear for you to choose the 
@@ -635,7 +633,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image25.jpg"></kbd></p>
 
-### Steps for Obtaining the Confidence Interval Graph
+#### Steps for Obtaining the Confidence Interval Graph
 
  16. A dialogue box will then 
  appear for you to choose 
@@ -661,9 +659,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Correlations (Bivariate) 
+### Correlations (Bivariate) 
 
-### Steps for Obtaining Correlational Statistics
+#### Steps for Obtaining Correlational Statistics
 
 1. First, enter data involving
  multiple variables. This 
@@ -676,7 +674,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image27.jpg"></kbd></p>
 
-### Steps for Obtaining the Correlations (and Significance Tests
+#### Steps for Obtaining the Correlations (and Significance Tests
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -711,7 +709,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image28.jpg"></kbd></p>
 
-### Steps for Obtaining Descriptive Statistics
+#### Steps for Obtaining Descriptive Statistics
 
 7. If you wish to get the 
  descriptive statistics as
@@ -740,9 +738,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## T Test (One Sample) 
+### T Test (One Sample) 
 
-### Steps for Obtaining One-Sample Inferential Statistics
+#### Steps for Obtaining One-Sample Inferential Statistics
 
  1. First, enter the data
  (described elsewhere). 
@@ -755,7 +753,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image30.jpg"></kbd></p>
 
-## Steps for Obtaining the Significance Test 
+### Steps for Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose the 
@@ -782,7 +780,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image31.jpg"></kbd></p>
 
-## Steps for Altering the Confidence Interval
+### Steps for Altering the Confidence Interval
 
 7. If you wish to alter the 
  width of the confidence
@@ -806,9 +804,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## T Test (Paired Samples) 
+### T Test (Paired Samples) 
 
-### Steps for Obtaining Paired-Sample Statistics
+#### Steps for Obtaining Paired-Sample Statistics
 
 1. First, enter the data
  (described elsewhere). 
@@ -821,7 +819,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image33.jpg"></kbd></p>
 
-## Steps for Obtaining the Significance Test 
+### Steps for Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -845,7 +843,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image34.jpg"></kbd></p>
 
-### Steps for Altering the Confidence Interval 
+#### Steps for Altering the Confidence Interval 
  
 5. If you wish to alter the 
  width of the confidence
@@ -869,9 +867,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## T Test (Independent Samples) 
+### T Test (Independent Samples) 
 
-### Steps for Obtaining Two-Sample Inferential Statistics
+#### Steps for Obtaining Two-Sample Inferential Statistics
 
 1. First, enter the data
  (described elsewhere). 
@@ -885,7 +883,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image36.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test 
+#### Steps for Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -910,7 +908,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image37.jpg"></kbd></p>
 
-### Steps for Defining the Groups to be Analyzed
+#### Steps for Defining the Groups to be Analyzed
 
 6. In order to tell SPSS which
  two groups you wish to 
@@ -944,7 +942,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image38.jpg"></kbd></p>
 
-### Steps for Altering the Confidence Interval
+#### Steps for Altering the Confidence Interval
 
 10. If you wish to alter the 
  width of the confidence
@@ -968,9 +966,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## One-Way (OneWay ANOVA) 
+### One-Way (OneWay ANOVA) 
 
-### Steps for Obtaining Multiple-Sample Inferential Statistics
+#### Steps for Obtaining Multiple-Sample Inferential Statistics
 
 1. First, enter the data. This
  is done in the same manner 
@@ -987,7 +985,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image40.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -1019,7 +1017,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image41.jpg"></kbd></p>
 
-### Steps for Obtaining Descriptive Statistics
+#### Steps for Obtaining Descriptive Statistics
 
  7. If you wish to get the 
  means, standard
@@ -1049,9 +1047,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Post Hoc Tests (OneWay ANOVA) 
+### Post Hoc Tests (OneWay ANOVA) 
 
-### Steps for Obtaining Multiple-Sample Inferential Statistics
+#### Steps for Obtaining Multiple-Sample Inferential Statistics
 
 1. First, enter the data. This
  is done in the same manner 
@@ -1067,7 +1065,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image40.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test 
+#### Steps for Obtaining the Significance Test 
  
 3. A dialogue box will then 
  appear for you to choose the 
@@ -1097,7 +1095,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image41.jpg"></kbd></p>
 
-### Steps for Obtaining Descriptive Statistics
+#### Steps for Obtaining Descriptive Statistics
 
 7. If you wish to get the 
  means, standard deviations,
@@ -1123,7 +1121,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image42.jpg"></kbd></p>
 
-### Steps for Obtaining Post Hoc Tests
+#### Steps for Obtaining Post Hoc Tests
 
 10. If you wish to obtain post 
  hoc tests for the purpose of 
@@ -1148,9 +1146,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## General Linear Model (Repeated Measures ANOVA) 
+### General Linear Model (Repeated Measures ANOVA) 
 
-### Steps for Obtaining Repeated Measures Inferential Statistics
+#### Steps for Obtaining Repeated Measures Inferential Statistics
 
 1. First, enter the repeated
  measures data. This is 
@@ -1164,7 +1162,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image44.jpg"></kbd></p>
 
-### Steps for Labeling the Within-Subjects Variable/Factor 
+#### Steps for Labeling the Within-Subjects Variable/Factor 
 
 3. A dialogue box will then 
  appear for you to create 
@@ -1198,7 +1196,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image45.jpg"></kbd></p>
 
-### Steps for Creating the Within-Subjects Factor
+#### Steps for Creating the Within-Subjects Factor
 
 6. It is then important that
  you finalize the creation
@@ -1223,7 +1221,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image46.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 9. A dialogue box will then 
  appear for you to define 
@@ -1253,7 +1251,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image47.jpg"></kbd></p>
 
-### Steps for Obtaining Descriptive Statistics
+#### Steps for Obtaining Descriptive Statistics
 
  12. If you wish to get the 
  means, standard
@@ -1281,7 +1279,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image48.jpg"></kbd></p>
 
-## Steps for Obtaining Confidence Intervals
+### Steps for Obtaining Confidence Intervals
 
  15. If you wish to get the 
  confidence intervals for 
@@ -1308,9 +1306,9 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Univariate Analysis of Variance (Factorial ANOVA) 
+### Univariate Analysis of Variance (Factorial ANOVA) 
 
-### Steps for Obtaining Factorial Inferential Statistics
+#### Steps for Obtaining Factorial Inferential Statistics
 
 1. First, enter the data
  (described elsewhere). 
@@ -1323,7 +1321,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image50.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test 
+#### Steps for Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -1357,7 +1355,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image51.jpg"></kbd></p>
 
-### Steps for Obtaining Descriptive Statistics
+#### Steps for Obtaining Descriptive Statistics
 
 7. If you wish to get the means 
  and standard deviations
@@ -1389,7 +1387,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image52.jpg"></kbd></p>
 
-### Steps for Obtaining Confidence Intervals
+#### Steps for Obtaining Confidence Intervals
 
 12.If you wish to get the 
  confidence intervals for 

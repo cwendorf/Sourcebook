@@ -1,8 +1,6 @@
 # Statistics for Social Science
 
-### Statistical Methods: Reporting Statistics
-
----
+## Statistical Methods: Reporting Statistics
 
 ### Abstract 
 
@@ -17,13 +15,13 @@ This chapter describes basic rules for presenting statistical results in APA sty
 
 ---
 
-## General Rules for APA Style Results Sections
+### General Rules for APA Style Results Sections
 
-### Overview
+#### Overview
 
 The APA manual describes appropriate strategies for presenting statistical information. These guidelines were established to provide basic minimal standards and to provide some uniformity across studies.
 
-### Using a Sufficient Set of Statistics
+#### Using a Sufficient Set of Statistics
 
 **Information to Include:** Significance testing "is but a starting point and that additional reporting elements such as effect sizes, confidence intervals, and extensive description are needed to convey the most complete meaning of the results" (p. 33).
 
@@ -43,7 +41,7 @@ The APA manual describes appropriate strategies for presenting statistical infor
 
 ---
 
-## Summary of Parametric Statistics
+### Summary of Parametric Statistics
 
 | **Statistic** | **Purpose** | **APA Style** | **Description** |
 | --- | --- | --- | --- |
@@ -69,7 +67,7 @@ The APA manual describes appropriate strategies for presenting statistical infor
 
 ---
 
-## Examples of APA Style Results in the Text
+### Examples of APA Style Results in the Text
 
 **Frequency Information:** Though not often reported, simple summary statistics – like the median and quartiles – provide the reader with basic frequency information about the variable under investigation.Both of the following versions present the required information.
 
@@ -123,7 +121,7 @@ The APA manual describes appropriate strategies for presenting statistical infor
 
 ---
 
-## Examples of APA Style Results in Tables
+### Examples of APA Style Results in Tables
 
 In more complex examples – such as those with multiple outcome variables – it is often preferred to place statistical information in tables rather than in the text.
 

@@ -1,8 +1,6 @@
 # Statistics for Social Science
 
-### SPSS: Annotated Output
-
----
+## SPSS: Annotated Output
 
 ### Abstract
 
@@ -22,43 +20,43 @@ This chapter is intended to facilitate the connection between standard introduct
 
 ---
 
-## Frequencies (Frequencies and Descriptives)
+### Frequencies (Frequencies and Descriptives)
 
 <p align="center"><kbd><img src="page3.png"></kbd></p>
 
-## Correlations (Bivariate)
+### Correlations (Bivariate)
 
 <p align="center"><kbd><img src="page4.png"></kbd></p>
 
-## Explore (Descriptives and Confidence Intervals)
+### Explore (Descriptives and Confidence Intervals)
 
 <p align="center"><kbd><img src="page5.png"></kbd></p>
 
-## T Test (One Sample)
+### T Test (One Sample)
 
 <p align="center"><kbd><img src="page6.png"></kbd></p>
 
-## T Test (Paired Samples)
+### T Test (Paired Samples)
 
 <p align="center"><kbd><img src="page7.png"></kbd></p>
 
-## T Test (Independent Samples)
+### T Test (Independent Samples)
 
 <p align="center"><kbd><img src="page8.png"></kbd></p>
 
-## OneWay (OneWay ANOVA)
+### OneWay (OneWay ANOVA)
 
 <p align="center"><kbd><img src="page9.png"></kbd></p>
 
-## Post Hoc Tests (OneWay ANOVA)
+### Post Hoc Tests (OneWay ANOVA)
 
 <p align="center"><kbd><img src="page10.png"></kbd></p>
 
-## General Linear Model (Repeated Measures ANOVA)
+### General Linear Model (Repeated Measures ANOVA)
 
 <p align="center"><kbd><img src="page11.png"></kbd></p>
 <p align="center"><kbd><img src="page12.png"></kbd></p>
 
-## ANOVA (Factorial ANOVA)
+### ANOVA (Factorial ANOVA)
 
 <p align="center"><kbd><img src="page13.png"></kbd></p>

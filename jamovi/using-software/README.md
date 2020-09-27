@@ -1,8 +1,6 @@
 # Statistics for Social Science
 
-### jamovi: Using the Software
-
----
+## jamovi: Using the Software
 
 ### Abstract
 
@@ -27,9 +25,9 @@ This section provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Entering One Sample Data
+### Entering One Sample Data
 
-### Steps for Defining Variables
+#### Steps for Defining Variables
 
 1. First, click on the "Data" tab on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
 
@@ -37,7 +35,7 @@ This section provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image1.jpg"></kbd></p>
 
-### Steps for Setting Variable Properties
+#### Steps for Setting Variable Properties
 
 3. Type in the name of the variable in the top box (previously labeled "A").
 
@@ -47,7 +45,7 @@ This section provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image2.jpg"></kbd></p>
 
-### Steps for Entering Data
+#### Steps for Entering Data
 
 6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
 
@@ -55,9 +53,9 @@ This section provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Entering Repeated Measures Data
+### Entering Repeated Measures Data
 
-### Steps for Defining Variables 
+#### Steps for Defining Variables 
 
 1. First, click on the "Data" tab on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
 
@@ -65,7 +63,7 @@ This section provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image1.jpg"></kbd></p>
 
-### Steps for Setting Variable Properties
+#### Steps for Setting Variable Properties
 
 3. Type in the name of the variable in the top box (previously labeled "A").
 
@@ -75,7 +73,7 @@ This section provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image4.jpg"></kbd></p>
 
-### Steps for Entering Data
+#### Steps for Entering Data
 
 6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people.
 
@@ -85,9 +83,9 @@ This section provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Entering Multiple Sample Data 
+### Entering Multiple Sample Data 
 
-### Steps for Defining Variables
+#### Steps for Defining Variables
 
 1. First, click on the "Data" tab on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
 
@@ -95,7 +93,7 @@ This section provides step-by-step instructions on how to obtain basic statistic
 
 <p align="center"><kbd><img src="image6.jpg"></kbd></p>
 
-### Steps for Setting Variable Properties
+#### Steps for Setting Variable Properties
 
 3. You will need to define multiple variables. One variable will represent the Factor (Independent Variable) and the other will represent the Outcome (Dependent) Variable.
 
@@ -116,7 +114,7 @@ name.
 
 <p align="center"><kbd><img src="image7.jpg"></kbd></p>
 
-### Steps for Entering Data
+#### Steps for Entering Data
 
 6. Enter the data for all of
 the participants. Notice 
@@ -144,9 +142,9 @@ additional person.
 
 ---
 
-## Entering Factorial Data 
+### Entering Factorial Data 
 
-### Steps for Defining Variables
+#### Steps for Defining Variables
 
 1. First, click on the "Data" 
 tab on the top of the
@@ -164,7 +162,7 @@ options.
 
 <p align="center"><kbd><img src="image6.jpg"></kbd></p>
 
-### Steps for Setting Variable Properties
+#### Steps for Setting Variable Properties
 
 3. You will need to define
 multiple variables. Two
@@ -190,7 +188,7 @@ name.
 
 <p align="center"><kbd><img src="image9.jpg"></kbd></p>
 
-### Steps for Entering Data
+#### Steps for Entering Data
  
 6. Enter the data for all of
 the participants. Notice 
@@ -221,9 +219,9 @@ person.
 
 ---
 
-## Descriptives (Frequencies and Descriptives) 
+### Descriptives (Frequencies and Descriptives) 
 
-### Steps for Obtaining Frequency-Related Statistics
+#### Steps for Obtaining Frequency-Related Statistics
 
 1. First, enter the data
 (described elsewhere). 
@@ -234,7 +232,7 @@ Descriptives" option.
 
 <p align="center"><kbd><img src="image11.jpg"></kbd></p>
 
-### Steps for Obtaining a Frequency Distribution
+#### Steps for Obtaining a Frequency Distribution
 
 3. A set of options will then 
 appear for you to choose 
@@ -260,7 +258,7 @@ of the window.
 
 <p align="center"><kbd><img src="image12.jpg"></kbd></p>
 
-### Steps for Obtaining Summary Statistics
+#### Steps for Obtaining Summary Statistics
 
 7. Though some basic summary
 statistics are displayed 
@@ -289,9 +287,9 @@ purposes.
 
 ---
 
-## Compute (Transformations and Standardized Scores)
+### Compute (Transformations and Standardized Scores)
 
-### Steps for Obtaining the Compute Menu
+#### Steps for Obtaining the Compute Menu
 
 1. First, enter the data (described elsewhere).
 
@@ -301,7 +299,7 @@ purposes.
 
 <p align="center"><kbd><img src="compute1.png"></kbd></p>
 
-### Steps for Computing Transformations
+#### Steps for Computing Transformations
 
 4. Type in the new you wish to give the new variable (here it is “trOutcome).
 
@@ -315,7 +313,7 @@ purposes.
 
 <p align="center"><kbd><img src="compute2.png"></kbd></p>
 
-### Steps for Viewing the Transformed Scores
+#### Steps for Viewing the Transformed Scores
 
 9. Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
 
@@ -323,7 +321,7 @@ purposes.
 
 <p align="center"><kbd><img src="compute3.png"></kbd></p>
 
-### Steps for Obtaining Standardized Scores
+#### Steps for Obtaining Standardized Scores
 
 11.	In addition, you can obtain standardized scores. First, enter the data (described elsewhere).
 
@@ -333,7 +331,7 @@ purposes.
 
 <p align="center"><kbd><img src="compute4.png"></kbd></p>
 
-### Steps for Computing Standardized Scores
+#### Steps for Computing Standardized Scores
 
 14.	Type in the new you wish to give the new variable (here it is “zOutcome).
 
@@ -347,7 +345,7 @@ purposes.
 
 <p align="center"><kbd><img src="compute5.png"></kbd></p>
 
-### Steps for Viewing the Standardized Scores
+#### Steps for Viewing the Standardized Scores
 
 19.	Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
 
@@ -357,9 +355,9 @@ purposes.
 
 ---
 
-## Correlations (Bivariate) 
+### Correlations (Bivariate) 
 
-### Steps for Obtaining Correlational Statistics 
+#### Steps for Obtaining Correlational Statistics 
 
 1. First, enter data involving multiple variables 
 (described elsewhere). 
@@ -370,7 +368,7 @@ Correlation Matrix" option.
 
 <p align="center"><kbd><img src="image14.jpg"></kbd></p>
 
-### Steps for Obtaining Correlations (and Significance Tests)
+#### Steps for Obtaining Correlations (and Significance Tests)
 
 3. A set of options will then 
 appear for you to choose 
@@ -404,9 +402,9 @@ manual.
 
 ---
 
-## T Test (One Sample) 
+### T Test (One Sample) 
 
-### Steps for Obtaining One Sample Inferential Statistics
+#### Steps for Obtaining One Sample Inferential Statistics
 
 1. First, enter the data
 (described elsewhere). 
@@ -417,7 +415,7 @@ Sample T-Test" option.
 
 <p align="center"><kbd><img src="image16.jpg"></kbd></p>
 
-### Steps for Obtaining Significance Tests
+#### Steps for Obtaining Significance Tests
 
 3. A set of options will then 
 appear for you to choose 
@@ -440,7 +438,7 @@ printing.
 
 <p align="center"><kbd><img src="image17.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics
+#### Steps for Obtaining Additional Statistics
 
 6. Be sure to enter a known or
 hypothesized mean into the 
@@ -479,9 +477,9 @@ printing.
 
 ---
 
-## T Test (Paired Samples) 
+### T Test (Paired Samples) 
 
-### Steps for Obtaining Paired Sample Inferential Statistics
+#### Steps for Obtaining Paired Sample Inferential Statistics
 
 1. First, enter paired samples
 or repeated measures data
@@ -494,7 +492,7 @@ option.
 
 <p align="center"><kbd><img src="image19.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 3. A set of options will then 
 appear for you to choose 
@@ -519,7 +517,7 @@ printing.
 
 <p align="center"><kbd><img src="image20.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics 
+#### Steps for Obtaining Additional Statistics 
 
 6. If you wish to view (and 
 alter) the width of the
@@ -551,9 +549,9 @@ printing.
 
 ---
 
-## T Test (Independent Samples) 
+### T Test (Independent Samples) 
 
-### Steps for Obtaining Two Sample Inferential Statistics
+#### Steps for Obtaining Two Sample Inferential Statistics
 
 1. First, enter two sample data 
 (described elsewhere). 
@@ -565,7 +563,7 @@ option.
 
 <p align="center"><kbd><img src="image22.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 3. A set of options will then 
 appear for you to choose the 
@@ -589,7 +587,7 @@ documents for printing.
 
 <p align="center"><kbd><img src="image23.jpg"></kbd></p>
 
- ### Steps for Obtaining Additional Statistics
+ #### Steps for Obtaining Additional Statistics
 
 7. If you wish to view (and 
 alter) the width of the
@@ -619,9 +617,9 @@ for printing.
 
 ---
 
-## ANOVA (OneWay ANOVA)
+### ANOVA (OneWay ANOVA)
 
- ### Steps for Obtaining Multiple Sample Inferential  Statistics
+ #### Steps for Obtaining Multiple Sample Inferential  Statistics
 
 1. First, enter multiple group
 data (described elsewhere).
@@ -632,7 +630,7 @@ option.
 
 <p align="center"><kbd><img src="image25.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 3. A set of options will then 
 appear for you to choose the 
@@ -656,7 +654,7 @@ documents for printing.
 
 <p align="center"><kbd><img src="image26.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics
+#### Steps for Obtaining Additional Statistics
 
 7. Choose an effect size
 measure from the "Effect 
@@ -679,9 +677,9 @@ for printing.
 
 ---
 
-## Post Hoc Tests (OneWay ANOVA) 
+### Post Hoc Tests (OneWay ANOVA) 
 
-### Steps for Obtaining Multiple Sample Inferential  Statistics
+#### Steps for Obtaining Multiple Sample Inferential  Statistics
 
 1. First, enter multiple group
 data (described elsewhere).
@@ -692,7 +690,7 @@ option.
 
 <p align="center"><kbd><img src="image25.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 3. A set of options will then 
 appear for you to choose the 
@@ -716,7 +714,7 @@ documents for printing.
 
 <p align="center"><kbd><img src="image26.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics
+#### Steps for Obtaining Additional Statistics
 
 7. Choose an effect size
 measure from the "Effect 
@@ -737,7 +735,7 @@ for printing.
 
 <p align="center"><kbd><img src="image26.jpg"></kbd></p>
 
- ### Steps for Obtaining Post Hoc Tests
+ #### Steps for Obtaining Post Hoc Tests
 
 10. If you wish to obtain post 
 hoc tests for the purpose of 
@@ -765,9 +763,9 @@ for printing.
 
 ---
 
-## Repeated Measures ANOVA
+### Repeated Measures ANOVA
 
- ### Steps for Obtaining Repeated Measures Inferential Statistics
+ #### Steps for Obtaining Repeated Measures Inferential Statistics
 
 1. First, enter repeated
 measures data (described 
@@ -779,7 +777,7 @@ Measures ANOVA" option.
 
 <p align="center"><kbd><img src="image28.jpg"></kbd></p>
 
-### Steps for Labeling the Within Subjects Variable/Factor
+#### Steps for Labeling the Within Subjects Variable/Factor
 
 3. A set of options will then 
 appear for you to choose the 
@@ -812,7 +810,7 @@ the factor.
 
 <p align="center"><kbd><img src="image29.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 7. In the "Repeated Measures
 Cells" box, you will 
@@ -847,7 +845,7 @@ documents for printing.
 
 <p align="center"><kbd><img src="image30.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics
+#### Steps for Obtaining Additional Statistics
 
 11. Choose an effect size
 measure from the "Effect 
@@ -871,9 +869,9 @@ for printing.
 
 ---
 
-## ANOVA (Factorial ANOVA)
+### ANOVA (Factorial ANOVA)
 
-### Steps for Obtaining Factorial Inferential Statistics
+#### Steps for Obtaining Factorial Inferential Statistics
 
 1. First, enter factorial data
 (described elsewhere). 
@@ -884,7 +882,7 @@ option.
 
 <p align="center"><kbd><img src="image32.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test 
+#### Steps for Obtaining the Significance Test 
 
 3. A set of options will then 
 appear for you to choose the 
@@ -911,7 +909,7 @@ documents for printing.
 
 <p align="center"><kbd><img src="image33.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics
+#### Steps for Obtaining Additional Statistics
 
 7. Choose an effect size
 measure from the "Effect 

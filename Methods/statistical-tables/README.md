@@ -1,8 +1,6 @@
 # Statistics for Social Science
 
-### Statistical Methods: Statistical Tables
-
----
+## Statistical Methods: Statistical Tables
 
 ### Abstract
 
@@ -21,16 +19,16 @@ This chapter provides basic statistical tables. Tables included are the Standard
 
 ---
 
-## Standard Normal Distribution
+### Standard Normal Distribution
 
 <p align="center"><kbd><img src="page3.png"></kbd></p>
 <p align="center"><kbd><img src="page4.png"></kbd></p>
 
-## Values of the t Distribution
+### Values of the t Distribution
 
 <p align="center"><kbd><img src="page5.png"></kbd></p>
 
-## Power Table for Cohen's d
+### Power Table for Cohen's d
 
 <p align="center"><kbd><img src="page6.png"></kbd></p>
 <p align="center"><kbd><img src="page7.png"></kbd></p>
@@ -39,7 +37,7 @@ This chapter provides basic statistical tables. Tables included are the Standard
 <p align="center"><kbd><img src="page10.png"></kbd></p>
 <p align="center"><kbd><img src="page11.png"></kbd></p>
 
-## Critical Values of the F Distribution
+### Critical Values of the F Distribution
 
 <p align="center"><kbd><img src="page12.png"></kbd></p>
 <p align="center"><kbd><img src="page13.png"></kbd></p>
@@ -47,14 +45,14 @@ This chapter provides basic statistical tables. Tables included are the Standard
 <p align="center"><kbd><img src="page15.png"></kbd></p>
 <p align="center"><kbd><img src="page16.png"></kbd></p>
 
-## Power Table for Eta Squared
+### Power Table for Eta Squared
 
 <p align="center"><kbd><img src="page17.png"></kbd></p>
 <p align="center"><kbd><img src="page18.png"></kbd></p>
 <p align="center"><kbd><img src="page19.png"></kbd></p>
 <p align="center"><kbd><img src="page20.png"></kbd></p>
 
-## Values of Tukey's HSD Statistic
+### Values of Tukey's HSD Statistic
 
 <p align="center"><kbd><img src="page21.png"></kbd></p>
 <p align="center"><kbd><img src="page22.png"></kbd></p>

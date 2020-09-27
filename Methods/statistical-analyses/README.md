@@ -1,8 +1,6 @@
 # Statistics for Social Science
 
-### Statistical Methods: Statistical Analyses
-
----
+## Statistical Methods: Statistical Analyses
 
 ### Abstract
 
@@ -18,16 +16,16 @@ This section provides an overview of the basic types of statistical analyses. Th
 
 ---
 
-## Choosing Appropriate Inferential Statistics
+### Choosing Appropriate Inferential Statistics
 
 <p align="center"><kbd><img src="page3.png"></kbd></p>
 
-## Understanding Statistical Significance Tests
+### Understanding Statistical Significance Tests
 
 <p align="center"><kbd><img src="page4.png"></kbd></p>
 <p align="center"><kbd><img src="page5.png"></kbd></p>
 
-## Understanding Effect Size Measures
+### Understanding Effect Size Measures
 
 <p align="center"><kbd><img src="page6.png"></kbd></p>
 <p align="center"><kbd><img src="page7.png"></kbd></p>

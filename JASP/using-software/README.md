@@ -1,8 +1,6 @@
 # Statistics for Social Science
 
-### JASP: Using the Software
-
----
+## JASP: Using the Software
 
 ### Abstract
 
@@ -25,9 +23,9 @@ This section provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-## Entering One Sample Data 
+### Entering One Sample Data 
 
-### Steps for Entering Data on One Variable (Using a Spreadsheet)
+#### Steps for Entering Data on One Variable (Using a Spreadsheet)
 
 1. In the first row and first 
 cell, type the name of the 
@@ -49,7 +47,7 @@ sure to save it as a CSV
 
 <p align="center"><kbd><img src="image1.jpg"></kbd></p>
 
-### Steps for Entering Data on One Variable (Using a Text Editor)
+#### Steps for Entering Data on One Variable (Using a Text Editor)
 
 4. In the first row, type the 
  name of the outcome variable 
@@ -70,9 +68,9 @@ sure to save it as a CSV
 
 ---
 
-## Entering Repeated Measures Data 
+### Entering Repeated Measures Data 
 
-### Steps for Entering Data (Using a Spreadsheet)
+#### Steps for Entering Data (Using a Spreadsheet)
 
 1. For repeated measures data,
  the columns represent the
@@ -97,7 +95,7 @@ sure to save it as a CSV
 
 <p align="center"><kbd><img src="image3.jpg"></kbd></p>
 
-### Steps for Entering Data (Using a Text Editor)
+#### Steps for Entering Data (Using a Text Editor)
 
 4. For repeated measures data,
  the columns represent the
@@ -124,9 +122,9 @@ sure to save it as a CSV
 
 ---
 
-## Entering Multiple Sample Data 
+### Entering Multiple Sample Data 
 
-### Steps for Entering Data (Using a Spreadsheet)
+#### Steps for Entering Data (Using a Spreadsheet)
 
 1. In the first row, type the 
 names of the variables you 
@@ -158,7 +156,7 @@ each additional person.
 
 <p align="center"><kbd><img src="image5.jpg"></kbd></p>
 
-### Steps for Entering Data (Using a Text Editor)
+#### Steps for Entering Data (Using a Text Editor)
 
 5. In the first row, type the 
  names of the variables you 
@@ -193,9 +191,9 @@ each additional person.
 
 ---
 
-## Entering Factorial Data 
+### Entering Factorial Data 
 
-### Steps for Entering Data (Using a Spreadsheet)
+#### Steps for Entering Data (Using a Spreadsheet)
 
 1. In the first row, type the 
  names of the variables you 
@@ -225,7 +223,7 @@ each additional person.
 
 <p align="center"><kbd><img src="image7.jpg"></kbd></p>
 
-### Steps for Entering Data (Using a Text Editor)
+#### Steps for Entering Data (Using a Text Editor)
 
 5. In the first row, type the 
  names of the variables you 
@@ -257,9 +255,9 @@ each additional person.
 
 ---
 
-## Descriptives (Frequencies and Descriptive Statistics) 
+### Descriptives (Frequencies and Descriptive Statistics) 
 
-### Steps for Obtaining Frequency-Related Statistics
+#### Steps for Obtaining Frequency-Related Statistics
 
 1. First, load the data file
 previously created 
@@ -275,7 +273,7 @@ option.
 
 <p align="center"><kbd><img src="image9.jpg"></kbd></p>
 
-### Steps for Obtaining a Frequency Distribution
+#### Steps for Obtaining a Frequency Distribution
 
 3. A set of options will then 
 appear for you to choose 
@@ -301,7 +299,7 @@ of the window.
 
 <p align="center"><kbd><img src="image10.jpg"></kbd></p>
 
-### Steps for Obtaining Summary Statistics
+#### Steps for Obtaining Summary Statistics
 
 7. Though some basic summary statistics are displayed
 by default, you can make 
@@ -329,9 +327,9 @@ purposes.
 
 ---
 
-## Correlations (Bivariate) 
+### Correlations (Bivariate) 
 
-### Steps for Obtaining Correlational Statistics
+#### Steps for Obtaining Correlational Statistics
 
 1. First, load the data file
  containing multiple
@@ -348,7 +346,7 @@ purposes.
 
 <p align="center"><kbd><img src="image12.jpg"></kbd></p>
 
-### Steps for Obtaining the Correlations (and Significance Tests)
+#### Steps for Obtaining the Correlations (and Significance Tests)
 
 3. A set of options will then 
  appear for you to choose the 
@@ -381,9 +379,9 @@ purposes.
 
 ---
 
-## T Test (One Sample) 
+### T Test (One Sample) 
 
-### Steps for Obtaining One-Sample Inferential Statistics
+#### Steps for Obtaining One-Sample Inferential Statistics
 
 1. First, load the data file
 that you previously
@@ -399,7 +397,7 @@ menu.
 
 <p align="center"><kbd><img src="image14.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 3. A set of options will then 
 appear for you to choose 
@@ -430,7 +428,7 @@ printing.
 
 <p align="center"><kbd><img src="image15.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics
+#### Steps for Obtaining Additional Statistics
 
 7. Select the options that are
 important for you: 
@@ -462,9 +460,9 @@ printing.
 
 ---
 
-## T Test (Paired Samples) 
+### T Test (Paired Samples) 
 
-### Steps for Obtaining Paired-Sample Inferential Statistics
+#### Steps for Obtaining Paired-Sample Inferential Statistics
 
 1. First, load the paired 
 samples or repeated
@@ -481,7 +479,7 @@ statistics menu.
 
 <p align="center"><kbd><img src="image17.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 3. A set of options will then 
 appear for you to choose 
@@ -506,7 +504,7 @@ printing.
 
 <p align="center"><kbd><img src="image18.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics
+#### Steps for Obtaining Additional Statistics
 
 6. Select the options that are
 important for you: 
@@ -538,9 +536,9 @@ printing.
 
 ---
 
-## T Test (Independent Samples) 
+### T Test (Independent Samples) 
 
-### Steps for Obtaining Two-Sample Inferential Statistics
+#### Steps for Obtaining Two-Sample Inferential Statistics
 
 1. First, load the two sample 
  data file that you 
@@ -556,7 +554,7 @@ printing.
 
 <p align="center"><kbd><img src="image20.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 3. A set of options will then 
  appear for you to choose the 
@@ -580,7 +578,7 @@ printing.
 
 <p align="center"><kbd><img src="image21.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics
+#### Steps for Obtaining Additional Statistics
 
 7. Select the options that are
  important for you: "Location 
@@ -610,9 +608,9 @@ printing.
 
 ---
 
-## ANOVA (OneWay ANOVA) 
+### ANOVA (OneWay ANOVA) 
 
-### Steps for Obtaining Multiple-Sample Inferential Statistics
+#### Steps for Obtaining Multiple-Sample Inferential Statistics
 
 1. First, load the two sample 
  data file that you 
@@ -627,7 +625,7 @@ printing.
 
 <p align="center"><kbd><img src="image23.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 3. A set of options will then 
  appear for you to choose the 
@@ -651,7 +649,7 @@ printing.
 
 <p align="center"><kbd><img src="image24.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics
+#### Steps for Obtaining Additional Statistics
 
 7. Though some basic summary
  statistics are displayed by
@@ -684,7 +682,7 @@ printing.
 
 <p align="center"><kbd><img src="image25.jpg"></kbd></p>
 
-### Steps for Obtaining Post Hoc Tests
+#### Steps for Obtaining Post Hoc Tests
 
 11. If you wish to obtain post 
  hoc tests for the purpose of 
@@ -712,9 +710,9 @@ printing.
 
 ---
 
-## Repeated Measures ANOVA 
+### Repeated Measures ANOVA 
 
-### Steps for Obtaining Repeated Measures Inferential Statistics
+#### Steps for Obtaining Repeated Measures Inferential Statistics
 
 1. First, load the repeated 
  measures data file that you
@@ -730,7 +728,7 @@ printing.
 
 <p align="center"><kbd><img src="image27.jpg"></kbd></p>
 
-### Steps for Labeling the Within-Subjects Variable/Factor
+#### Steps for Labeling the Within-Subjects Variable/Factor
 
 3. A set of options will then 
  appear for you to choose the 
@@ -767,7 +765,7 @@ printing.
 
 <p align="center"><kbd><img src="image28.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 7. In the "Repeated Measures
  Cells" box, you will 
@@ -802,7 +800,7 @@ printing.
 
 <p align="center"><kbd><img src="image29.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics
+#### Steps for Obtaining Additional Statistics
 
 11. Though some basic summary
  statistics are displayed by
@@ -831,9 +829,9 @@ printing.
 
 ---
 
-## ANOVA (Factorial ANOVA) 
+### ANOVA (Factorial ANOVA) 
 
-### Steps for Obtaining Factorial Inferential Statistics
+#### Steps for Obtaining Factorial Inferential Statistics
 
 1. First, load the factorial
  data file that you 
@@ -848,7 +846,7 @@ printing.
 
 <p align="center"><kbd><img src="image31.jpg"></kbd></p>
 
-### Steps for Obtaining the Significance Test
+#### Steps for Obtaining the Significance Test
 
 3. A set of options will then 
  appear for you to choose the 
@@ -875,7 +873,7 @@ printing.
 
 <p align="center"><kbd><img src="image32.jpg"></kbd></p>
 
-### Steps for Obtaining Additional Statistics
+#### Steps for Obtaining Additional Statistics
 
 7. Though some basic summary
  statistics are displayed by
