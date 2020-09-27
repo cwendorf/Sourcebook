@@ -1,5 +1,3 @@
-# Statistics for Social Science
-
 ## Using and Understanding SPSS
 
 ### Using the Software

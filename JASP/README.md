@@ -1,5 +1,3 @@
-# Statistics for Social Science
-
 ## Using and Understanding JASP
 
 ### Using the Software

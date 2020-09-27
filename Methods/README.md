@@ -1,5 +1,3 @@
-# Statistics for Social Science
-
 ## Statistical Methods 
 
 ### Statistical Analyses

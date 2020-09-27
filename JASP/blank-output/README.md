@@ -1,5 +1,3 @@
-# Statistics for Social Science
-
 ## JASP: Blank Ouput
 
 ### Abstract

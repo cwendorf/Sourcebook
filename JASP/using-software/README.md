@@ -1,5 +1,3 @@
-# Statistics for Social Science
-
 ## JASP: Using the Software
 
 ### Abstract

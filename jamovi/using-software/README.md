@@ -1,5 +1,3 @@
-# Statistics for Social Science
-
 ## jamovi: Using the Software
 
 ### Abstract

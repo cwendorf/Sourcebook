@@ -1,5 +1,3 @@
-# Statistics for Social Science
-
 ## Statistical Methods: Reporting Statistics
 
 ### Abstract 

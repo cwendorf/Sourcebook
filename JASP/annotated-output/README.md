@@ -1,5 +1,3 @@
-# Statistics for Social Science
-
 ## JASP: Annotated Output
 
 ### Abstract

@@ -1,5 +1,3 @@
-# Statistics for Social Science
-
 ## SPSS: Annotated Output
 
 ### Abstract
