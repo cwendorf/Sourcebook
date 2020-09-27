@@ -4,13 +4,13 @@
 
 ---
 
-**Abstract:** This section provides an overview of the basic types of statistical analyses. This starts with the basic terminology of statistics. It also includes a decision tree for highlighting the typical tests of statistical significance, confidence intervals, and effects sizes used for common univariate research designs.
+### Abstract
+
+This section provides an overview of the basic types of statistical analyses. This starts with the basic terminology of statistics. It also includes a decision tree for highlighting the typical tests of statistical significance, confidence intervals, and effects sizes used for common univariate research designs.
 
 > A proper HTML version is in development. For now, this chapter includes images based on the PDF version.
 
----
-
-## Table of Contents for This Chapter
+### Table of Contents
 
 - [Choosing Appropriate Inferential Statistics](#choosing-appropriate-inferential-statistics)
 - [Understanding Statistical Significance Tests](#understanding-statistical-significance-tests)

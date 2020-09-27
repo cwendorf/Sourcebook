@@ -4,11 +4,11 @@
 
 ---
 
-**Abstract:** This chapter is used as worksheets for class problems. Students fill in their answers on these sheets, thus making clear the links between non-computer (“hand”) calculations and the JASP output.
+### Abstract
 
----
+This chapter is used as worksheets for class problems. Students fill in their answers on these sheets, thus making clear the links between non-computer (“hand”) calculations and the JASP output.
 
-## Table of Contents for This Chapter
+### Table of Contents
 
 - [Descriptives (Frequencies and Descriptives)](#descriptives-frequencies-and-descriptives)
 - [Correlations (Bivariate)](#correlations-bivariate)

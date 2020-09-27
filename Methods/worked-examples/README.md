@@ -4,13 +4,13 @@
 
 ---
 
-**Abstract:** This chapter provides the complete set of worked examples for the sourcebook. All raw data, formulas, calculations, and summaries in APA style are provided for each type of research design.
+### Abstract
+
+This chapter provides the complete set of worked examples for the sourcebook. All raw data, formulas, calculations, and summaries in APA style are provided for each type of research design.
 
 > A proper HTML version is in development. For now, this chapter includes images based on the PDF version.
 
----
-
-## Table of Contents for This Chapter
+### Table of Contents
 
 - [Frequencies](#frequencies)
 - [Descriptives](#descriptives)
