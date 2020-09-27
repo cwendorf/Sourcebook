@@ -1,6 +1,6 @@
 # Statistics for Social Science
 
-### jamovi: Annotated Ouput
+## jamovi: Annotated Ouput
 
 ### Abstract
 
