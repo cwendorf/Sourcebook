@@ -22,33 +22,49 @@ This chapter is used as a set of worksheets for class problems. Students fill in
 
 <p align="center"><kbd><img src="page3.png"></kbd></p>
 
+---
+
 ### Correlations (Bivariate)
 
 <p align="center"><kbd><img src="page4.png"></kbd></p>
+
+---
 
 ### T Test (One Sample)
 
 <p align="center"><kbd><img src="page5.png"></kbd></p>
 
+---
+
 ### T Test (Paired Samples)
 
 <p align="center"><kbd><img src="page6.png"></kbd></p>
+
+---
 
 ### T Test (Independent Samples)
 
 <p align="center"><kbd><img src="page7.png"></kbd></p>
 
+---
+
 ### OneWay (OneWay ANOVA)
 
 <p align="center"><kbd><img src="page8.png"></kbd></p>
+
+---
 
 ### Post Hoc Tests (OneWay ANOVA)
 
 <p align="center"><kbd><img src="page9.png"></kbd></p>
 
+---
+
 ### General Linear Model (Repeated Measures ANOVA)
 
 <p align="center"><kbd><img src="page10.png"></kbd></p>
+
+---
 
 ### ANOVA (Factorial ANOVA)
 
