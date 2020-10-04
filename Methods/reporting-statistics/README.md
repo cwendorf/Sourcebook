@@ -49,7 +49,7 @@ The APA manual describes appropriate strategies for presenting statistical infor
 | **Measures of Effect Size** ||||
 | Cohen's d | To provide a standardized measure of an effect (defined as the difference between two means). | *d* = \_\_\_\_\_. | Indicates the size of the treatment effect relative to the within-group variability of scores. |
 | Correlation | To provide a measure of the association between two variables measured in a sample. | *r*(df) = \_\_\_\_\_ | Indicates the strength of the relationship between two variables. |
-| Eta-Squared | To provide a standardized measure of an effect (defined as the relationship between two variables). | *&eta*<sup>2</sup> = \_\_\_\_\_. | Indicates the proportion of variance in the dependent variable accounted for by the independent variable. |
+| Eta-Squared | To provide a standardized measure of an effect (defined as the relationship between two variables). | *eta*<sup>2</sup> = \_\_\_\_\_. | Indicates the proportion of variance in the dependent variable accounted for by the independent variable. |
 | **Confidence Intervals** ||||
 | CI for a Mean | To provide an interval estimate of the population mean. Can be derived from both the z and t distributions. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Indicates that there is the given probability that the interval specified covers the true population mean. |
 | CI for a Mean Difference | To provide an interval estimate of the population mean difference. Can be derived from both the z and t distributions. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Indicates that there is the given probability that the interval specified covers the true population mean difference. |
@@ -103,19 +103,19 @@ The APA manual describes appropriate strategies for presenting statistical infor
 
 **One Way ANOVA:** The ANOVA provides an omnibus test of the differences across multiple groups. Because the ANOVA tests the overall differences among the groups, the text discusses the differences only in general.
 
-> A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67, *p* = .041, *η*<sup>2</sup> = .51.
+> A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67, *p* = .041, *eta*<sup>2</sup> = .51.
 
 **One Way ANOVA with Post Hoc Tests:** Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups. Notice that the post hoc summary duplicates the presentation of the omnibus ANOVA statistics.
 
-> A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67, *p* = .041, *η*<sup>2</sup> = .51. Tukey's HSD tests showed that only the third group scored statistically significantly different than the first group. However, the other comparisons were not statistically significant.
+> A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67, *p* = .041, *eta*<sup>2</sup> = .51. Tukey's HSD tests showed that only the third group scored statistically significantly different than the first group. However, the other comparisons were not statistically significant.
 
 **Repeated Measures ANOVA:** The RMD ANOVA tests for overall differences across the repeated measures. As such, its summary parallels that of the One Way ANOVA.
 
-> A repeated measures ANOVA showed that the difference in Outcome scores (*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was statistically significant, *F*(1,3) = 10.67, *p* = .047, partial *η*<sup>2</sup> = .78.
+> A repeated measures ANOVA showed that the difference in Outcome scores (*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was statistically significant, *F*(1,3) = 10.67, *p* = .047, partial *eta*<sup>2</sup> = .78.
 
 **Factorial ANOVA:** The factorial ANOVA provides statistics for all of the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One Way ANOVA.
 
-> A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, *F*(1,12) = 0.67, *p* = .430, partial *η*<sup>2</sup> = .05, nor Factor B, *F*(1,12) = 2.67, *p* = .128, partial *η*<sup>2</sup> = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, *F*(1,12) = 6.00, *p* = .031, partial *η*<sup>2</sup> = .33.
+> A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, *F*(1,12) = 0.67, *p* = .430, partial *eta*<sup>2</sup> = .05, nor Factor B, *F*(1,12) = 2.67, *p* = .128, partial *eta*<sup>2</sup> = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, *F*(1,12) = 6.00, *p* = .031, partial *eta*<sup>2</sup> = .33.
 
 ---
 
@@ -151,6 +151,6 @@ standard deviations) and the confidence intervals from the text.
 
 |           |     | Level 1 ||      | Level 2 ||      | Level 3 ||     |      |      |     |           | Tukey’s HSD |
 |-----------|-----|---------|------|---------|------|---------|-----|------|------|-----|-----------|-------------|---------------|-----|--------------|
-| Variable  |     | *M*     | *SD* |         | *M*  | *SD*    |     | *M*  | *SD* |     | *F*(2, 6) | *p*         | *η*<sup>2</sup> |     |              |
+| Variable  |     | *M*     | *SD* |         | *M*  | *SD*    |     | *M*  | *SD* |     | *F*(2, 6) | *p*         | *eta*<sup>2</sup> |     |              |
 | Outcome 1 |     | 2.00    | 2.45 |         | 6.00 | 2.45    |     | 7.00 | 2.45 |     | 4.67      | .041        | .509          |     | 1 = 2 &lt; 3 |
 | Outcome 2 |     | 6.00    | 2.45 |         | 7.00 | 2.45    |     | 5.00 | 2.45 |     | 0.67      | .537        | .129          |     | 1 = 2 = 3    |
