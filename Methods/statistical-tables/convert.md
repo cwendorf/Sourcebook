@@ -1,4 +1,4 @@
-## Statistical Methods: Statistical Tables
+## STATISTICAL METHODS: STATISTICAL TABLES
 
 ### Abstract
 
@@ -17,14 +17,14 @@ This chapter provides basic statistical tables. Tables included are the Standard
 
 ---
 
-# Table 1: The Standard Normal Distribution
+### Table 1: The Standard Normal Distribution
 
-PR = Percentile Rank and _p_ = Two-Tailed Probability
+PR = Percentile Rank and *p* = Two-Tailed Probability
 
-| **Z** | **PR** | _ **p** _ |
- | **Z** | **PR** | _ **p** _ |
- | **Z** | **PR** | _ **p** _ |
- | **Z** | **PR** | _ **p** _ |
+| **Z** | **PR** | * **p** * |
+ | **Z** | **PR** | * **p** * |
+ | **Z** | **PR** | * **p** * |
+ | **Z** | **PR** | * **p** * |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **\&lt; -3.400** | \&lt;.001 | \&lt;.001 |
  | **-2.560** | .005 | .010 |
@@ -199,14 +199,14 @@ PR = Percentile Rank and _p_ = Two-Tailed Probability
  | **-0.860** | .195 | .390 |
  | **0.000** | .500 | 1.000 |
 
-## Table 1 (Continued)
+#### Table 1 (Continued)
 
-PR = Percentile Rank and _p_ = Two-Tailed Probability
+PR = Percentile Rank and *p* = Two-Tailed Probability
 
-| **Z** | **PR** | _ **p** _ |
- | **Z** | **PR** | _ **p** _ |
- | **Z** | **PR** | _ **p** _ |
- | **Z** | **PR** | _ **p** _ |
+| **Z** | **PR** | * **p** * |
+ | **Z** | **PR** | * **p** * |
+ | **Z** | **PR** | * **p** * |
+ | **Z** | **PR** | * **p** * |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **0.000** | .500 | 1.000 |
  | **0.860** | .805 | .390 |
@@ -381,12 +381,14 @@ PR = Percentile Rank and _p_ = Two-Tailed Probability
  | **2.560** | .995 | .010 |
  | **\&gt; 3.400** | \&gt;.999 | \&lt;.001 |
 
-# Table 2: Values of the _t_ Distribution
+---
 
-Tabled Values are _t_ Statistics for the Given Probability and Degrees of Freedom
+### Table 2: Values of the *t* Distribution
+
+Tabled Values are *t* Statistics for the Given Probability and Degrees of Freedom
 
 |
- | **Two-Tailed** _ **p** _ **Values** |
+ | **Two-Tailed** * **p** * **Values** |
 | --- | --- |
 | **df**** ERROR **|**.90 **|**.80 **|**.70 **|**.60 **|**.50 **|**.40 **|**.30 **|**.20 **|**.10 **|**.05 **|**.04 **|**.03 **|**.02 **|**.01 **|**.001** |
 | **2** | .142 | .289 | .445 | .617 | .816 | 1.06 | 1.386 | 1.886 | 2.920 | 4.303 | 4.849 | 5.643 | 6.965 | 9.925 | 31.599 |
@@ -432,7 +434,9 @@ Tabled Values are _t_ Statistics for the Given Probability and Degrees of Freedo
 | **240** | .126 | .254 | .386 | .525 | .676 | .843 | 1.039 | 1.285 | 1.651 | 1.970 | 2.065 | 2.183 | 2.342 | 2.596 | 3.332 |
 | ∞ | .126 | .253 | .385 | .524 | .674 | .842 | 1.036 | 1.282 | 1.645 | 1.960 | 2.054 | 2.170 | 2.326 | 2.576 | 3.291 |
 
-# Table 3: Power Table for Cohen&#39;s d
+---
+
+### Table 3: Power Table for Cohen&#39;s d
 
 One-Sample Design, α = .05, All Tabled Values are Two-Tailed Probabilities
 
@@ -482,7 +486,7 @@ One-Sample Design, α = .05, All Tabled Values are Two-Tailed Probabilities
 | **240** | .338 | .870 | .996 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 | **360** | .473 | .966 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 
-## Table 3 (Continued)
+#### Table 3 (Continued)
 
 One-Sample Design, α = .01, All Tabled Values are Two-Tailed Probabilities
 
@@ -532,7 +536,7 @@ One-Sample Design, α = .01, All Tabled Values are Two-Tailed Probabilities
 | **240** | .150 | .692 | .979 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 | **360** | .246 | .885 | .999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 
-## Table 3 (Continued)
+#### Table 3 (Continued)
 
 Dependent-Samples Design, α = .05, All Tabled Values are Two-Tailed Probabilities
 
@@ -582,7 +586,7 @@ Dependent-Samples Design, α = .05, All Tabled Values are Two-Tailed Probabiliti
 | **240** | .339 | .871 | .996 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 | **360** | .474 | .966 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 
-## Table 3 (Continued)
+#### Table 3 (Continued)
 
 Dependent-Samples Design, α = .01, All Tabled Values are Two-Tailed Probabilities
 
@@ -632,7 +636,7 @@ Dependent-Samples Design, α = .01, All Tabled Values are Two-Tailed Probabiliti
 | **240** | .151 | .696 | .980 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 | **360** | .247 | .887 | .999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 
-## Table 3 (Continued)
+#### Table 3 (Continued)
 
 Two-Sample Design, α = .05, All Tabled Values are Two-Tailed Probabilities
 
@@ -682,7 +686,7 @@ Two-Sample Design, α = .05, All Tabled Values are Two-Tailed Probabilities
 | **240** | .193 | .590 | .907 | .992 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 | **360** | .268 | .764 | .980 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 
-## Table 3 (Continued)
+#### Table 3 (Continued)
 
 Two-Sample Design, α = .01, All Tabled Values are Two-Tailed Probabilities
 
@@ -732,23 +736,21 @@ Two-Sample Design, α = .01, All Tabled Values are Two-Tailed Probabilities
 | **240** | .069 | .347 | .758 | .963 | .998 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 | **360** | .108 | .540 | .925 | .997 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 
-#
+---
 
-Page 2 of 52
+### Table 4: Critical Values of the F Distribution
 
-# Table 4: Critical Values of the F Distribution
-
-Tabled Values are _F_ Statistics for the Given Probabilities and Degrees of Freedom
+Tabled Values are *F* Statistics for the Given Probabilities and Degrees of Freedom
 
 | **df**** EFFECT **** = 1** |
  | **df**** EFFECT **** = 2** |
  | **df**** EFFECT **** = 3** |
  | **df**** EFFECT **** = 4** |
 | --- | --- | --- | --- | --- | --- | --- |
-| **df**** ERROR **| _** p **_** = .05 **| _** p **_** = .01** |
- | **df**** ERROR **| _** p **_** = .05 **| _** p **_** = .01** |
- | **df**** ERROR **| _** p **_** = .05 **| _** p **_** = .01** |
- | **df**** ERROR **| _** p **_** = .05 **| _** p **_** = .01** |
+| **df**** ERROR **| *** p ***** = .05 **| *** p ***** = .01** |
+ | **df**** ERROR **| *** p ***** = .05 **| *** p ***** = .01** |
+ | **df**** ERROR **| *** p ***** = .05 **| *** p ***** = .01** |
+ | **df**** ERROR **| *** p ***** = .05 **| *** p ***** = .01** |
 | **2** | 18.513 | 98.503 |
  | **2** | 19.000 | 99.000 |
  | **2** | 19.164 | 99.166 |
@@ -918,12 +920,12 @@ Tabled Values are _F_ Statistics for the Given Probabilities and Degrees of Free
  | ∞ | 2.605 | 3.782 |
  | ∞ | 2.372 | 3.319 |
 
-## Table 4 (Continued)
+#### Table 4 (Continued)
 
-Tabled Values are _F_ Statistics for the Given Criteria and dfEFFECT = 1
+Tabled Values are *F* Statistics for the Given Criteria and dfEFFECT = 1
 
 |
- | **Two-Tailed** _ **p** _ **Values** |
+ | **Two-Tailed** * **p** * **Values** |
 | --- | --- |
 | **df**** ERROR **|**.90 **|**.80 **|**.70 **|**.60 **|**.50 **|**.40 **|**.30 **|**.20 **|**.10 **|**.05 **|**.04 **|**.03 **|**.02 **|**.01 **|**.001** |
 | **2** | .020 | .083 | .198 | .381 | .667 | 1.13 | 1.922 | 3.556 | 8.526 | 18.51 | 23.51 | 31.84 | 48.51 | 98.50 | 998.50 |
@@ -969,12 +971,12 @@ Tabled Values are _F_ Statistics for the Given Criteria and dfEFFECT = 1
 | **240** | .016 | .064 | .149 | .276 | .456 | .711 | 1.079 | 1.651 | 2.727 | 3.880 | 4.264 | 4.766 | 5.485 | 6.742 | 11.099 |
 | ∞ | .016 | .064 | .148 | .275 | .455 | .708 | 1.074 | 1.642 | 2.706 | 3.842 | 4.218 | 4.709 | 5.412 | 6.635 | 10.828 |
 
-## Table 4 (Continued)
+#### Table 4 (Continued)
 
-Tabled Values are _F_ Statistics for the Given Criteria and dfEFFECT = 2
+Tabled Values are *F* Statistics for the Given Criteria and dfEFFECT = 2
 
 |
- | **Two-Tailed** _ **p** _ **Values** |
+ | **Two-Tailed** * **p** * **Values** |
 | --- | --- |
 | **df**** ERROR **|**.90 **|**.80 **|**.70 **|**.60 **|**.50 **|**.40 **|**.30 **|**.20 **|**.10 **|**.05 **|**.04 **|**.03 **|**.02 **|**.01 **|**.001** |
 | **2** | .111 | .250 | .429 | .667 | 1.00 | 1.50 | 2.333 | 4.000 | 9.000 | 19.00 | 24.00 | 32.33 | 49.00 | 99.00 | 999.00 |
@@ -1020,12 +1022,12 @@ Tabled Values are _F_ Statistics for the Given Criteria and dfEFFECT = 2
 | **240** | .105 | .223 | .357 | .512 | .695 | .920 | 1.210 | 1.620 | 2.325 | 3.033 | 3.262 | 3.558 | 3.976 | 4.695 | 7.110 |
 | ∞ | .105 | .223 | .357 | .511 | .693 | .916 | 1.204 | 1.609 | 2.303 | 2.996 | 3.219 | 3.507 | 3.912 | 4.605 | 6.908 |
 
-## Table 4 (Continued)
+#### Table 4 (Continued)
 
-Tabled Values are _F_ Statistics for the Given Criteria and dfEFFECT = 3
+Tabled Values are *F* Statistics for the Given Criteria and dfEFFECT = 3
 
 |
- | **Two-Tailed** _ **p** _ **Values** |
+ | **Two-Tailed** * **p** * **Values** |
 | --- | --- |
 | **df**** ERROR **|**.90 **|**.80 **|**.70 **|**.60 **|**.50 **|**.40 **|**.30 **|**.20 **|**.10 **|**.05 **|**.04 **|**.03 **|**.02 **|**.01 **|**.001** |
 | **2** | .183 | .346 | .541 | .792 | 1.13 | 1.64 | 2.484 | 4.156 | 9.162 | 19.16 | 24.16 | 32.50 | 49.17 | 99.17 | 999.17 |
@@ -1071,12 +1073,12 @@ Tabled Values are _F_ Statistics for the Given Criteria and dfEFFECT = 3
 | **240** | .195 | .335 | .475 | .624 | .791 | .986 | 1.228 | 1.559 | 2.107 | 2.642 | 2.813 | 3.032 | 3.340 | 3.864 | 5.598 |
 | ∞ | .195 | .335 | .475 | .623 | .789 | .982 | 1.222 | 1.547 | 2.084 | 2.605 | 2.770 | 2.983 | 3.279 | 3.782 | 5.422 |
 
-## Table 4 (Continued)
+#### Table 4 (Continued)
 
-Tabled Values are _F_ Statistics for the Given Criteria and dfEFFECT = 4
+Tabled Values are *F* Statistics for the Given Criteria and dfEFFECT = 4
 
 |
- | **Two-Tailed** _ **p** _ **Values** |
+ | **Two-Tailed** * **p** * **Values** |
 | --- | --- |
 | **df**** ERROR **|**.90 **|**.80 **|**.70 **|**.60 **|**.50 **|**.40 **|**.30 **|**.20 **|**.10 **|**.05 **|**.04 **|**.03 **|**.02 **|**.01 **|**.001** |
 | **2** | .231 | .405 | .606 | .860 | 1.21 | 1.72 | 2.561 | 4.236 | 9.243 | 19.25 | 24.25 | 32.58 | 49.25 | 99.25 | 999.25 |
@@ -1122,7 +1124,9 @@ Tabled Values are _F_ Statistics for the Given Criteria and dfEFFECT = 4
 | **240** | .265 | .412 | .549 | .689 | .842 | 1.02 | 1.227 | 1.510 | 1.968 | 2.409 | 2.549 | 2.727 | 2.976 | 3.398 | 4.778 |
 | ∞ | .266 | .412 | .549 | .688 | .839 | 1.01 | 1.220 | 1.497 | 1.945 | 2.372 | 2.506 | 2.678 | 2.917 | 3.319 | 4.617 |
 
-# Table 5: Power Table for Eta-Squared
+---
+
+### Table 5: Power Table for Eta-Squared
 
 Single-Factor Design, dfEFFECT = 2, α = .05, n = Sample Size per Condition
 
@@ -1172,7 +1176,7 @@ Single-Factor Design, dfEFFECT = 2, α = .05, n = Sample Size per Condition
 | **240** | .669 | .938 | .999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 | **360** | .847 | .991 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 
-## Table 5 (Continued)
+#### Table 5 (Continued)
 
 Single-Factor Design, dfEFFECT = 3, α = .05, n = Sample Size per Condition
 
@@ -1222,7 +1226,7 @@ Single-Factor Design, dfEFFECT = 3, α = .05, n = Sample Size per Condition
 | **240** | .743 | .971 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 | **360** | .906 | .998 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 
-## Table 5 (Continued)
+#### Table 5 (Continued)
 
 Single-Factor Design, dfEFFECT = 2, α = .01, n = Sample Size per Condition
 
@@ -1272,7 +1276,7 @@ Single-Factor Design, dfEFFECT = 2, α = .01, n = Sample Size per Condition
 | **240** | .431 | .823 | .994 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 | **360** | .662 | .962 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 
-## Table 5 (Continued)
+#### Table 5 (Continued)
 
 Single-Factor Design, dfEFFECT = 3, α = .01, n = Sample Size per Condition
 
@@ -1322,9 +1326,9 @@ Single-Factor Design, dfEFFECT = 3, α = .01, n = Sample Size per Condition
 | **240** | .518 | .903 | .999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 | **360** | .763 | .988 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 | \&gt;.999 |
 
-#
+---
 
-# Table 6: Values of Tukey&#39;s HSD Statistic
+### Table 6: Values of Tukey&#39;s HSD Statistic
 
 Tabled Values are HSDStatistics for the Given Probabilities and Degrees of Freedom
 
@@ -1333,10 +1337,10 @@ Tabled Values are HSDStatistics for the Given Probabilities and Degrees of Freed
  | **df**** EFFECT **** = 3** |
  | **df**** EFFECT **** = 4** |
 | --- | --- | --- | --- | --- | --- | --- |
-| **df**** ERROR **| _** p **_** = .05 **| _** p **_** = .01** |
- | **df**** ERROR **| _** p **_** = .05 **| _** p **_** = .01** |
- | **df**** ERROR **| _** p **_** = .05 **| _** p **_** = .01** |
- | **df**** ERROR **| _** p **_** = .05 **| _** p **_** = .01** |
+| **df**** ERROR **| *** p ***** = .05 **| *** p ***** = .01** |
+ | **df**** ERROR **| *** p ***** = .05 **| *** p ***** = .01** |
+ | **df**** ERROR **| *** p ***** = .05 **| *** p ***** = .01** |
+ | **df**** ERROR **| *** p ***** = .05 **| *** p ***** = .01** |
 | **2** | 4.303 | 9.925 |
  | **2** | 5.891 | 13.449 |
  | **2** | 6.928 | 15.764 |
@@ -1506,12 +1510,12 @@ Tabled Values are HSDStatistics for the Given Probabilities and Degrees of Freed
  | ∞ | 2.569 | 3.113 |
  | ∞ | 2.728 | 3.255 |
 
-## Table 6 (Continued)
+#### Table 6 (Continued)
 
 Tabled Values are HSD Statistics for the Given Criteria and dfEFFECT = 1
 
 |
- | **Two-Tailed** _ **p** _ **Values** |
+ | **Two-Tailed** * **p** * **Values** |
 | --- | --- |
 | **df**** ERROR **|**.90 **|**.80 **|**.70 **|**.60 **|**.50 **|**.40 **|**.30 **|**.20 **|**.10 **|**.05 **|**.04 **|**.03 **|**.02 **|**.01 **|**.001** |
 | **2** | .142 | .289 | .445 | .617 | .816 | 1.06 | 1.386 | 1.886 | 2.920 | 4.303 | 4.849 | 5.643 | 6.965 | 9.925 | 31.599 |
@@ -1557,12 +1561,12 @@ Tabled Values are HSD Statistics for the Given Criteria and dfEFFECT = 1
 | **240** | .126 | .254 | .386 | .525 | .676 | .843 | 1.039 | 1.285 | 1.651 | 1.970 | 2.065 | 2.183 | 2.342 | 2.596 | 3.332 |
 | ∞ | .126 | .253 | .385 | .524 | .674 | .842 | 1.036 | 1.282 | 1.645 | 1.960 | 2.054 | 2.170 | 2.326 | 2.576 | 3.291 |
 
-## Table 6 (Continued)
+#### Table 6 (Continued)
 
 Tabled Values are HSD Statistics for the Given Criteria and dfEFFECT = 2
 
 |
- | **Two-Tailed** _ **p** _ **Values** |
+ | **Two-Tailed** * **p** * **Values** |
 | --- | --- |
 | **df**** ERROR **|**.90 **|**.80 **|**.70 **|**.60 **|**.50 **|**.40 **|**.30 **|**.20 **|**.10 **|**.05 **|**.04 **|**.03 **|**.02 **|**.01 **|**.001** |
 | **2** | .449 | .674 | .883 | 1.10 | 1.35 | 1.65 | 2.063 | 2.701 | 4.054 | 5.891 | 6.621 | 7.685 | 9.461 | 13.45 | 42.765 |
@@ -1608,12 +1612,12 @@ Tabled Values are HSD Statistics for the Given Criteria and dfEFFECT = 2
 | **240** | .437 | .637 | .805 | .965 | 1.12 | 1.29 | 1.485 | 1.719 | 2.062 | 2.358 | 2.447 | 2.556 | 2.704 | 2.941 | 3.632 |
 | ∞ | .437 | .636 | .805 | .964 | 1.12 | 1.29 | 1.481 | 1.714 | 2.052 | 2.344 | 2.430 | 2.538 | 2.682 | 2.914 | 3.581 |
 
-## Table 6 (Continued)
+#### Table 6 (Continued)
 
 Tabled Values are HSD Statistics for the Given Criteria and dfEFFECT = 3
 
 |
- | **Two-Tailed** _ **p** _ **Values** |
+ | **Two-Tailed** * **p** * **Values** |
 | --- | --- |
 | **df**** ERROR **|**.90 **|**.80 **|**.70 **|**.60 **|**.50 **|**.40 **|**.30 **|**.20 **|**.10 **|**.05 **|**.04 **|**.03 **|**.02 **|**.01 **|**.001** |
 | **2** | .672 | .926 | 1.16 | 1.40 | 1.68 | 2.02 | 2.490 | 3.223 | 4.789 | 6.928 | 7.780 | 9.023 | 11.10 | 15.76 | 50.056 |
@@ -1659,12 +1663,12 @@ Tabled Values are HSD Statistics for the Given Criteria and dfEFFECT = 3
 | **240** | .692 | .909 | 1.08 | 1.24 | 1.40 | 1.57 | 1.751 | 1.976 | 2.304 | 2.587 | 2.672 | 2.777 | 2.918 | 3.146 | 3.812 |
 | ∞ | .693 | .909 | 1.08 | 1.24 | 1.40 | 1.56 | 1.746 | 1.968 | 2.291 | 2.569 | 2.652 | 2.754 | 2.892 | 3.113 | 3.754 |
 
-## Table 6 (Continued)
+#### Table 6 (Continued)
 
 Tabled Values are HSD Statistics for the Given Criteria and dfEFFECT = 4
 
 |
- | **Two-Tailed** _ **p** _ **Values** |
+ | **Two-Tailed** * **p** * **Values** |
 | --- | --- |
 | **df**** ERROR **|**.90 **|**.80 **|**.70 **|**.60 **|**.50 **|**.40 **|**.30 **|**.20 **|**.10 **|**.05 **|**.04 **|**.03 **|**.02 **|**.01 **|**.001** |
 | **2** | .834 | 1.11 | 1.36 | 1.62 | 1.92 | 2.29 | 2.800 | 3.605 | 5.330 | 7.694 | 8.637 | 10.01 | 12.31 | 17.48 | 55.467 |
@@ -1709,5 +1713,3 @@ Tabled Values are HSD Statistics for the Given Criteria and dfEFFECT = 4
 | **120** | .890 | 1.11 | 1.29 | 1.44 | 1.60 | 1.76 | 1.944 | 2.166 | 2.489 | 2.770 | 2.854 | 2.959 | 3.100 | 3.329 | 4.007 |
 | **240** | .891 | 1.11 | 1.29 | 1.44 | 1.60 | 1.76 | 1.938 | 2.157 | 2.474 | 2.749 | 2.831 | 2.933 | 3.070 | 3.292 | 3.942 |
 | ∞ | .892 | 1.11 | 1.29 | 1.44 | 1.60 | 1.76 | 1.932 | 2.148 | 2.460 | 2.728 | 2.808 | 2.907 | 3.040 | 3.255 | 3.878 |
-
-Page 5 of 5
