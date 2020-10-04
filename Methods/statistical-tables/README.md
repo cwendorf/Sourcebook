@@ -1,4 +1,4 @@
-## STATISTICAL METHODS: STATISTICAL TABLES
+## Statistical Methods: Statistical Tables
 
 ### Abstract
 
