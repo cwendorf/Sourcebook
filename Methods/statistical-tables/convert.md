@@ -8,12 +8,12 @@ This chapter provides basic statistical tables. Tables included are the Standard
 
 ### Table of Contents
 
-- [Standard Normal Distribution)](#standard-normal-distribution)
-- [Values of the t Distribution)](#values-of-the-t-distribution)
-- [Power Table for Cohen's d)](#power-table-for-cohens-d)
-- [Critical Values of the F Distribution)](#critical-values-of-the-f-distribution)
-- [Power Table for Eta Squared)](#power-table-for-eta-squared)
-- [Values of Tukey's HSD Statistic)](#values-of-tukeys-hsd-statistic)
+- [Standard Normal Distribution](#standard-normal-distribution)
+- [Values of the t Distribution](#values-of-the-t-distribution)
+- [Power Table for Cohen's d](#power-table-for-cohens-d)
+- [Critical Values of the F Distribution](#critical-values-of-the-f-distribution)
+- [Power Table for Eta Squared](#power-table-for-eta-squared)
+- [Values of Tukey's HSD Statistic](#values-of-tukeys-hsd-statistic)
 
 ---
 
