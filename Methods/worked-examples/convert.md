@@ -1,12 +1,10 @@
-# Statistics for Social Science
-
 ## Statistical Methods: Worked Examples
 
-### Abstract:
+#### Abstract
 
 This chapter provides the complete set of worked examples for the sourcebook. All raw data, formulas, calculations, and summaries in APA style are provided for each type of research design.
 
-### Table of Contents for This Chapter
+#### Table of Contents for This Chapter
 
 - [Frequencies](#frequencies)
 - [Descriptives](#descriptives)
@@ -22,9 +20,9 @@ This chapter provides the complete set of worked examples for the sourcebook. Al
 
 ---
 
-## Frequencies
+#### Frequencies
 
-### Data for the Frequencies and Percentiles
+##### Data for the Frequencies and Percentiles
 
 The following data set reflects one sample of eight individuals measured
 on one variable. The data are presented in the format suitable for entry
@@ -54,7 +52,7 @@ percentiles and other statistics.
 |       | 9.00      | 1       | 12.5          | 12.5               | 100.0 |
 |       | Total     | 8       | 100.0         | 100.0              |       |
 
-### Calculating the Frequencies and Percentiles
+##### Calculating the Frequencies and Percentiles
 
 **Elements of the Frequency Table:** The frequency table provides
 information about the scores in the data set and the numbers (and
@@ -91,7 +89,7 @@ Thus, the score at the 50<sup>th</sup> percentile is the
 score of 6.5 is at the 75<sup>th</sup> percentile. Importantly, in
 some cases, the score values are non-integer interpolated values.
 
-### Summarizing the Frequencies and Percentiles
+#### Summarizing the Frequencies and Percentiles
 
 Though not often reported, simple summary statistics like the median
 and quartiles provide the reader with basic frequency information
@@ -109,9 +107,9 @@ or figure associated with this paragraph.
 
 ---
 
-## Descriptives
+### Descriptives
 
-### Data for the Descriptive Statistics
+#### Data for the Descriptive Statistics
 
 The following data set reflects one sample of eight individuals measured
 on one variable. The data are presented in the format suitable for entry
@@ -141,7 +139,7 @@ descriptive statistics.
 |       | 9.00      | 1       | 12.5          | 12.5               | 100.0 |
 |       | Total     | 8       | 100.0         | 100.0              |       |
 
-### Calculating the Descriptive Statistics
+#### Calculating the Descriptive Statistics
 
 **Mean:** The mean (or arithmetic average) is calculated as an unbiased
 estimate of the population mean. Here, the mean is determined as the
@@ -167,7 +165,7 @@ standard deviation.
 
 > *SD* = sqrt(*MS*) = sqrt(9.714) = 3.117
 
-### Summarizing the Descriptive Statistics
+#### Summarizing the Descriptive Statistics
 
 The purpose of the descriptive statistics is to provide the reader with
 an idea about the basic elements of the group(s) being studied. Note
@@ -185,9 +183,9 @@ presented in a table or figure associated with this paragraph.
 
 ---
 
-## Standardized Scores
+### Standardized Scores
 
-### Data for the Standardized Scores
+#### Data for the Standardized Scores
 
 The following data set reflects one sample of eight individuals measured
 on one variable. The data are presented in the format suitable for entry
@@ -224,7 +222,7 @@ of comparison.
 |---------|-----|-------|----------------|
 | Outcome | 8   | 4.000 | 3.117          |
 
-### Calculating the Standardized Scores
+#### Calculating the Standardized Scores
 
 **Standardized (z) Score:** A standardized score is a deviation score
 divided by the standard deviation. For the first score in the
@@ -246,7 +244,7 @@ programs, these would be calculated and presented as follows:
 | 7   | 4.00    | 0        |
 | 8   | 9.00    | 1.604    |
 
-### Calculating the Descriptive Statistics of the Standardized Scores
+#### Calculating the Descriptive Statistics of the Standardized Scores
 
 **Mean:** The mean (or arithmetic average) is calculated as an unbiased
 estimate of the population mean. Here, the mean is determined as the
@@ -272,7 +270,7 @@ standard deviation.
 
 > SD = sqrt((MS)) = sqrt(7.000) = 1.000
 
-### Summarizing the Standardized Scores
+#### Summarizing the Standardized Scores
 
 Standardized scores are typically NOT presented in the summary of the
 data. Rather, they are often a first step in the calculations. As such,
@@ -280,9 +278,9 @@ APA style is not presented here.
 
 ---
 
-## Correlations
+### Correlations
 
-### Data for the Correlation
+#### Data for the Correlation
 
 The following data set reflects a within-subjects design with two
 outcome variables. The data are presented in the format suitable for
@@ -303,7 +301,7 @@ calculating the correlation.
 | Outcome1 | 2.000 | 2.445          | 4   |
 | Outcome2 | 6.000 | 2.445          | 4   |
 
-### Calculating the Correlation
+#### Calculating the Correlation
 
 **Sum of Cross Products:** The Sum of Cross Products (SCP) is not easily
 determined solely from the summary statistics of the output, but rather
@@ -322,7 +320,7 @@ variables:
 
 > r = ((COV))(( (SD)/(X) )( (SD)/(Y) )) = (3.000)(( 2.449 )( 2.449 )) = .500
 
-### Summarizing the Correlation
+#### Summarizing the Correlation
 
 Correlations provide a measure of statistical relationship between two
 variables. 
@@ -344,9 +342,9 @@ presented in a table or figure associated with this paragraph.
 
 ---
 
-## Confidence Intervals
+### Confidence Intervals
 
-### Data for the Confidence Interval
+#### Data for the Confidence Interval
 
 The following data set reflects one sample of eight individuals measured
 on one variable. The data are presented in the format suitable for entry
@@ -370,7 +368,7 @@ the inferential statistics for the confidence interval.
 |---------|-----|-------|----------------|-----------------|
 | Outcome | 8   | 4.000 | 3.117          | 1.102           |
 
-### Calculating the Confidence Interval
+#### Calculating the Confidence Interval
 
 **Standard Error of the Mean:** The standard error of the mean provides an
 estimate of how spread out the distribution of all possible random
@@ -384,7 +382,7 @@ is around (centered on) the mean difference (raw effect).
 > With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
 > CI<sub>*M*</sub> = *M* ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M*</sub>) = 4.000 ± (2.365)(1.102) = \[1.394, 6.606\]
 
-### Summarizing the Confidence Interval
+#### Summarizing the Confidence Interval
 
 Confidence intervals provide a range estimate for a population value
 (e.g., the mean). Note that the width of the interval can be altered to
@@ -402,9 +400,9 @@ could be presented in a table or figure associated with this paragraph.
 
 ---
 
-## One Sample t Test
+### One Sample t Test
 
-### Data for the One Sample t Test
+#### Data for the One Sample t Test
 
 The following data set reflects one sample of eight individuals measured
 on one variable. The data are presented in the format suitable for entry
@@ -428,7 +426,7 @@ the inferential statistics for the One Sample t Test.
 |---------|-----|-------|----------------|-----------------|
 | Outcome | 8   | 4.000 | 3.117          | 1.102           |
 
-### Calculating the One Sample t Test
+#### Calculating the One Sample t Test
 
 **Mean Difference (Raw Effect):** The Mean Difference is the difference
 between the sample mean and a user-specified test value or population
@@ -453,7 +451,7 @@ is around (centered on) the mean difference (raw effect).
 
 > CI<sub>DIFF</sub> = (*M*−*μ*) ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M*</sub>) =  − 3.000 ± (2.365)(1.102) = \[−5.606,−0.394\]
 
-### Summarizing the One Sample t Test
+#### Summarizing the One Sample t Test
 
 In this case, a sample mean has been compared to a user-specified test
 value (or a population mean). Thus, the summary and the inferential
@@ -469,9 +467,9 @@ could be presented in a table or figure associated with this paragraph.
 
 ---
 
-## Independent Samples t Test
+### Independent Samples t Test
 
-### Data for the Independent Samples t Test
+#### Data for the Independent Samples t Test
 
 The following data set reflects a between-subjects design with one
 factor (that has two levels). The data are presented in the format
@@ -496,7 +494,7 @@ the inferential statistics for the Independent Samples t Test.
 | Outcome | Level 1 | 4   | 2.000 | 2.445          | 1.225           |
 |         | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
 
-### Calculating the Independent Samples t Test
+#### Calculating the Independent Samples t Test
 
 **Mean Difference (Raw Effect):** The mean difference is the difference
 between the two sample means (raw effect).
@@ -551,7 +549,7 @@ is around (centered on) the mean difference (raw effect).
 
 > CI<sub>DIFF</sub> =  − 4.000 ± (2.447)(1.732) = \[−8.238,0.238\]
 
-### Summarizing the Independent Samples t Test
+#### Summarizing the Independent Samples t Test
 
 For this analysis, the emphasis is on comparing the means from two
 groups. Here again the summary and the inferential statistics focus on
@@ -568,9 +566,9 @@ could be presented in a table or figure associated with this paragraph.
 
 ---
 
-## One-Way ANOVA
+### One-Way ANOVA
 
-### Data for the One-Way ANOVA
+#### Data for the One-Way ANOVA
 
 The following data set reflects a between-subjects design with one
 factor (with three levels). The data are presented in the format
@@ -601,7 +599,7 @@ the inferential statistics for the One-Way ANOVA.
 | Level 3 | 4   | 7.000 | 2.445          | 1.225           |
 | Total   | 12  | 5.000 | 3.162          | .913            |
 
-### Calculating the One-Way ANOVA
+#### Calculating the One-Way ANOVA
 
 **Within Groups Statistics:** Within-groups error statistics are a function
 of the within group variabilities.
@@ -653,7 +651,7 @@ around (centered on) each mean separately.
 
 > CI<sub>*M*<sub>3</sub></sub> = *M* ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M*</sub>) = 7.000 ± (3.182)(1.225) = \[3.102,10.898\]
 
-### Summarizing the One-Way ANOVA
+#### Summarizing the One-Way ANOVA
 
 The ANOVA provides an omnibus test of the differences across multiple
 groups. Because the ANOVA tests the overall differences among the
@@ -670,9 +668,9 @@ could be presented in a table or figure associated with this paragraph.
 
 ---
 
-## Post Hoc Comparisons
+### Post Hoc Comparisons
 
-### Data for Post Hoc Comparisons
+#### Data for Post Hoc Comparisons
 
 The following data set reflects a between-subjects design with one
 factor (with three levels). The data are presented in the format
@@ -704,7 +702,7 @@ Hoc tests.
 | Level 3 | 4   | 7.000 | 2.445          | 1.225           |
 | Total   | 12  | 5.000 | 3.162          | .913            |
 
-### Calculating the Post Hoc Comparisons
+#### Calculating the Post Hoc Comparisons
 
 **Mean Differences:** Mean Differences (raw effects) are the differences
 between the means for all pairs of groups. Even though half of the
@@ -753,7 +751,7 @@ statistic for each of the comparisons.
 
 > CI<sub>2*v*3</sub> = (*M*<sub>2</sub>−*M*<sub>3</sub>) ± (HSD<sub>CRITICAL</sub>)(SE<sub>DIFF</sub>) =  − 1.000 ± (2.792)(1.732) = \[−5.836,3.836\]
 
-### Summarizing the Post Hoc Comparisons
+#### Summarizing the Post Hoc Comparisons
 
 Post hoc tests build on the ANOVA results and provide a more focused
 comparison among the groups. Notice that the post hoc summary duplicates
@@ -763,7 +761,7 @@ the presentation of the omnibus ANOVA statistics.
 the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group
 (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M*
 = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67,
-*p* = .041, η<sup>2</sup> = .51. Tukey’s HSD tests showed that only
+*p* = .041, eta<sup>2</sup> = .51. Tukey’s HSD tests showed that only
 the third group scored statistically significantly different than the
 first group. However, the other comparisons were not statistically
 significant.
@@ -774,9 +772,9 @@ presented in a table or figure associated with this paragraph.
 
 ---
 
-## Repeated Measures ANOVA
+### Repeated Measures ANOVA
 
-### Data for the RMD ANOVA
+#### Data for the RMD ANOVA
 
 The following data set reflects a within-subjects (repeated measures)
 design with two levels of the factor. The data are presented in the
@@ -797,7 +795,7 @@ the inferential statistics for the Repeated Measures ANOVA.
 | Outcome1 | 2.000 | 2.445          | 4   |
 | Outcome2 | 6.000 | 2.445          | 4   |
 
-## Calculating the RMD ANOVA
+#### Calculating the RMD ANOVA
 
 **Grand (or Total) Mean:** Because sample sizes are equal, a grand mean can
 be determined by averaging the two level means.
@@ -866,7 +864,7 @@ around (centered on) each mean separately.
 
 > CI<sub>*M*<sub>2</sub></sub> = *M* ± (*t*<sub>CRITICAL</sub>)(SE<sub>*M*</sub>) = 6.000 ± (3.182)(1.225) = \[2.102, 9.898\]
 
-### Summarizing the RMD ANOVA
+#### Summarizing the RMD ANOVA
 
 The RMD ANOVA tests for overall differences across the repeated
 measures. As such, its summary parallels that of the One-Way ANOVA.
@@ -874,7 +872,7 @@ measures. As such, its summary parallels that of the One-Way ANOVA.
 > A repeated measures ANOVA showed that the difference in Outcome scores
 (*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and
 second time point (*M* = 6.00, *SD* = 2.45) was statistically
-significant, *F*(1,3) = 10.67, *p* = .047, partial η<sup>2</sup> =
+significant, *F*(1,3) = 10.67, *p* = .047, partial eta<sup>2</sup> =
 .78.
 
 Alternatively, means, standard deviations, and confidence intervals
@@ -882,9 +880,9 @@ could be presented in a table or figure associated with this paragraph.
 
 ---
 
-## Factorial ANOVA
+### Factorial ANOVA
 
-### Data for the Factorial ANOVA
+#### Data for the Factorial ANOVA
 
 The following data set reflects a between-subjects Factorial design with
 two factors (with two levels for each factor). The data are presented in
@@ -924,7 +922,7 @@ the inferential statistics for the Factorial ANOVA.
 |         | Level 2 | 6.000 | 2.507          | 8   |
 |         | Total   | 5.000 | 2.921          | 16  |
 
-### Calculating the Factorial ANOVA
+#### Calculating the Factorial ANOVA
 
 **Error (Within Groups) Statistics:** Within-groups error statistics are a
 function of the within group variabilities.
@@ -1033,7 +1031,7 @@ For the Interaction:
 **Confidence Intervals:** For Factorial ANOVA, calculate the confidence
 intervals around (centered on) each mean separately (not shown here).
 
-### Summarizing the Factorial ANOVA
+#### Summarizing the Factorial ANOVA
 
 The Factorial ANOVA provides statistics for all of the main effects and
 interactions in a factorial design. Each effect would be summarized in a
@@ -1041,10 +1039,10 @@ style analogous to a One-Way ANOVA.
 
 > A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome
 scores. Neither Factor A, *F*(1,12) = 0.67, *p* = .430, partial
-η<sup>2</sup> = .05, nor Factor B, *F*(1,12) = 2.67, *p* = .128,
-partial η<sup>2</sup> = .18, had a statistically significant impact on
+eta<sup>2</sup> = .05, nor Factor B, *F*(1,12) = 2.67, *p* = .128,
+partial eta<sup>2</sup> = .18, had a statistically significant impact on
 the Outcome. However, the interaction was statistically significant,
-*F*(1,12) = 6.00, *p* = .031, partial η<sup>2</sup> = .33.
+*F*(1,12) = 6.00, *p* = .031, partial eta<sup>2</sup> = .33.
 
 Means, standard deviations, and confidence intervals could be presented
 in a table or figure associated with this paragraph.

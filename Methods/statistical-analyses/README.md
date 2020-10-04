@@ -33,9 +33,9 @@ Which type of effect size measure and statistical significance test (and to some
 
 ---
 
-## Understanding Statistical Significance Tests
+### Understanding Statistical Significance Tests
 
-### Purpose of a Statistical Significance Test
+#### Purpose of a Statistical Significance Test
 
 A statistical significance (or null hypothesis significance) test is decision-making procedure. At its simplest, it uses the probability of an outcome to decide whether a hypothesis is reasonable.
 
