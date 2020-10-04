@@ -1,3 +1,22 @@
+## Statistical Methods: Statistical Tables
+
+### Abstract
+
+This chapter provides basic statistical tables. Tables included are the Standard Normal, Student's (t) Distribution, F, Tukey's HSD, and power tables for Cohen's d and Eta-Squared. These tables were used in the annotated output sections of this project.
+
+> A proper HTML version is in development. For now, this chapter includes images based on the PDF version.
+
+### Table of Contents
+
+- [Standard Normal Distribution)](#standard-normal-distribution)
+- [Values of the t Distribution)](#values-of-the-t-distribution)
+- [Power Table for Cohen's d)](#power-table-for-cohens-d)
+- [Critical Values of the F Distribution)](#critical-values-of-the-f-distribution)
+- [Power Table for Eta Squared)](#power-table-for-eta-squared)
+- [Values of Tukey's HSD Statistic)](#values-of-tukeys-hsd-statistic)
+
+---
+
 # Table 1: The Standard Normal Distribution
 
 PR = Percentile Rank and _p_ = Two-Tailed Probability

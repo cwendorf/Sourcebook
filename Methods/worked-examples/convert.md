@@ -1,14 +1,12 @@
 # Statistics for Social Science
 
-### Statistical Methods: Worked Examples
+## Statistical Methods: Worked Examples
 
----
+### Abstract:
 
-**Abstract:** This chapter provides the complete set of worked examples for the sourcebook. All raw data, formulas, calculations, and summaries in APA style are provided for each type of research design.
+This chapter provides the complete set of worked examples for the sourcebook. All raw data, formulas, calculations, and summaries in APA style are provided for each type of research design.
 
----
-
-## Table of Contents for This Chapter
+### Table of Contents for This Chapter
 
 - [Frequencies](#frequencies)
 - [Descriptives](#descriptives)
@@ -109,6 +107,8 @@ represented the 25th, 50th, and 75th percentiles, respectively.
 Alternatively, frequencies and percentiles could be presented in a table
 or figure associated with this paragraph.
 
+---
+
 ## Descriptives
 
 ### Data for the Descriptive Statistics
@@ -182,6 +182,8 @@ required information.
 
 Alternatively, sample sizes, means, and standard deviations could be
 presented in a table or figure associated with this paragraph.
+
+---
 
 ## Standardized Scores
 
@@ -276,6 +278,8 @@ Standardized scores are typically NOT presented in the summary of the
 data. Rather, they are often a first step in the calculations. As such,
 APA style is not presented here.
 
+---
+
 ## Correlations
 
 ### Data for the Correlation
@@ -321,7 +325,12 @@ variables:
 ### Summarizing the Correlation
 
 Correlations provide a measure of statistical relationship between two
-variables. Note that correlations can be tested for statistical
+variables. 
+
+> For the participants (*N* = 4), the scores on Outcome 1 (*M* = 2.00,
+*SD* = 2.45) and Outcome 2 (*M* = 6.00, *SD* = 2.45) were moderately correlated, *r*(2) = .50.
+
+Note that correlations can be tested for statistical
 significance (and that this information should be summarized if it is
 available and of interest).
 
@@ -332,6 +341,8 @@ but not statistically significantly correlated, *r*(2) = .50, *p* =
 
 Alternatively, means, standard deviations, and correlations could be
 presented in a table or figure associated with this paragraph.
+
+---
 
 ## Confidence Intervals
 
@@ -388,6 +399,8 @@ versions present the required information.
 
 Alternatively, means, standard deviations, and confidence intervals
 could be presented in a table or figure associated with this paragraph.
+
+---
 
 ## One Sample t Test
 
@@ -453,6 +466,8 @@ hypothesized value (7.00) was statistically significant, *t*(7) =
 
 Alternatively, means, standard deviations, and confidence intervals
 could be presented in a table or figure associated with this paragraph.
+
+---
 
 ## Independent Samples t Test
 
@@ -550,6 +565,8 @@ statistically significant, *t*(6) = -2.31, *p* = .060, 95% CI \[-8.24,
 
 Alternatively, means, standard deviations, and confidence intervals
 could be presented in a table or figure associated with this paragraph.
+
+---
 
 ## One-Way ANOVA
 
@@ -650,6 +667,8 @@ the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group
 
 Alternatively, means, standard deviations, and confidence intervals
 could be presented in a table or figure associated with this paragraph.
+
+---
 
 ## Post Hoc Comparisons
 
@@ -752,6 +771,8 @@ significant.
 Alternatively, means, standard deviations, and confidence intervals –
 either for the group means or for the post hoc comparisons – could be
 presented in a table or figure associated with this paragraph.
+
+---
 
 ## Repeated Measures ANOVA
 
@@ -858,6 +879,8 @@ significant, *F*(1,3) = 10.67, *p* = .047, partial η<sup>2</sup> =
 
 Alternatively, means, standard deviations, and confidence intervals
 could be presented in a table or figure associated with this paragraph.
+
+---
 
 ## Factorial ANOVA
 

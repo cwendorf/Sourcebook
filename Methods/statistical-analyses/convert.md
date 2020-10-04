@@ -1,36 +1,20 @@
-# **S ![](RackMultipart20200816-4-1j3e7py_html_596d429d3c2daba6.gif) ![](RackMultipart20200816-4-1j3e7py_html_6171bdeebe9191b.gif) tatistics for Social Science**
+## Statistical Methods: Statistical Analyses
 
-# **Volume: Statistical Methods
- Chapter: Statistical Analyses**
+### Abstract
 
-**Abstract:** This section provides an overview of the basic types of statistical analyses. This starts with the basic terminology of statistics. It also includes a decision tree for highlighting the typical tests of statistical significance, confidence intervals, and effects sizes used for common univariate research designs.
+This section provides an overview of the basic types of statistical analyses. This starts with the basic terminology of statistics. It also includes a decision tree for highlighting the typical tests of statistical significance, confidence intervals, and effects sizes used for common univariate research designs.
 
-**Keywords:** Research designs, statistical significance, confidence intervals, effect sizes
+> A proper HTML version is in development. For now, this chapter includes images based on the PDF version.
 
-**Original:** July 2009
+### Table of Contents
 
-**Updated:** July 2020
+- [Choosing Appropriate Inferential Statistics](#choosing-appropriate-inferential-statistics)
+- [Understanding Statistical Significance Tests](#understanding-statistical-significance-tests)
+- [Understanding Effect Size Measures](#understanding-effect-size-measures)
 
-This document is part of an online statistics sourcebook.
-
-A browser-friendly viewing platform for the sourcebook is available:
-
-[https://cwendorf.github.io/Sourcebook](https://cwendorf.github.io/Sourcebook)
-
-All data, syntax, and output files are available:
-
-[https://github.com/cwendorf/Sourcebook](https://github.com/cwendorf/Sourcebook)
-
-## **Table of Contents for This Chapter**
-
-**[Choosing Appropriate Inferential Statistics 3](#_Toc25993254)**
-
-**[Understanding Statistical Significance Tests 4](#_Toc25993255)**
-
-**[Understanding Effect Size Measures 6](#_Toc25993256)**
+---
 
 ## Choosing Appropriate Inferential Statistics
-
 
 ## Basic Research Design and Statistics Terminology
 
@@ -45,6 +29,8 @@ All data, syntax, and output files are available:
 Which type of effect size measure and statistical significance test (and to some extent, which type of confidence interval) should be calculated depends on the research design.
 
 ![](RackMultipart20200816-4-1j3e7py_html_9b961c407dcbdca3.png)
+
+---
 
 ## Understanding Statistical Significance Tests
 
@@ -67,6 +53,8 @@ In many other cases, however, the sample space cannot be so accurately specified
 A ![](RackMultipart20200816-4-1j3e7py_html_a77ab831dfcb09c5.gif) lso worth noting is that different types of events, outcomes, or statistics produce different sampling distributions. Some sampling distributions will look like those on the right, but others will not. Don&#39;t worry, though, because statisticians have already calculated all of these sampling distributions for you. In fact, the characteristics of the independent and dependent variables determine the statistics and sampling distributions that should be used in order to assess significance.
 
 The overarching important point is that because the sampling distribution represents the probabilities of all possible study outcomes, we can then use it to figure out where any one particular outcomes lies on it. Some outcomes will have higher probabilities (they are consistent with the null hypothesis) and other outcomes will have much lower probabilities (they are less consistent with the null hypothesis).
+
+---
 
 ## Understanding Effect Size Measures
 
