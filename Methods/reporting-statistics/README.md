@@ -49,7 +49,7 @@ The APA manual describes appropriate strategies for presenting statistical infor
 | **Measures of Effect Size** ||||
 | Cohen's d | To provide a standardized measure of an effect (defined as the difference between two means). | *d* = \_\_\_\_\_. | Indicates the size of the treatment effect relative to the within-group variability of scores. |
 | Correlation | To provide a measure of the association between two variables measured in a sample. | *r*(df) = \_\_\_\_\_ | Indicates the strength of the relationship between two variables. |
-| Eta-Squared | To provide a standardized measure of an effect (defined as the relationship between two variables). | *\eta*<sup>2</sup> = \_\_\_\_\_. | Indicates the proportion of variance in the dependent variable accounted for by the independent variable. |
+| Eta-Squared | To provide a standardized measure of an effect (defined as the relationship between two variables). | *&eta*<sup>2</sup> = \_\_\_\_\_. | Indicates the proportion of variance in the dependent variable accounted for by the independent variable. |
 | **Confidence Intervals** ||||
 | CI for a Mean | To provide an interval estimate of the population mean. Can be derived from both the z and t distributions. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Indicates that there is the given probability that the interval specified covers the true population mean. |
 | CI for a Mean Difference | To provide an interval estimate of the population mean difference. Can be derived from both the z and t distributions. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Indicates that there is the given probability that the interval specified covers the true population mean difference. |
