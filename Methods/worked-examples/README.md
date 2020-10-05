@@ -51,7 +51,7 @@ The following frequency distribution can be used to determine the percentiles an
 
 #### Calculating the Frequencies and Percentiles
 
-Elements of the Frequency Table: The frequency table provides information about the scores in the data set and the numbers (and percentages) of times those scores occurred.
+**Elements of the Frequency Table:** The frequency table provides information about the scores in the data set and the numbers (and percentages) of times those scores occurred.
 
 > The “Valid” column lists all the actual scores in the entire data set. “Frequency” indicates the number of times that score exists. For example, the score 4 was listed 2 times.
 
@@ -61,7 +61,7 @@ Elements of the Frequency Table: The frequency table provides information about 
 
 > “Cumulative Percent” is the SUM of all percentages up to and including the row in question. For example, 62.5% of scores were a 4 or smaller. Similarly, 37.5% were a 3 or smaller.
 
-Percentiles: Percentiles provide the scores associated with particular percentile ranks. The 50<sup>th</sup> percentile (the Median) and the 25<sup>th</sup> and 75<sup>th</sup> percentiles (collectively known as the Interquartile Range) are the most commonly calculated.
+**Percentiles:** Percentiles provide the scores associated with particular percentile ranks. The 50<sup>th</sup> percentile (the Median) and the 25<sup>th</sup> and 75<sup>th</sup> percentiles (collectively known as the Interquartile Range) are the most commonly calculated.
 
 > For example, the 50<sup>th</sup> percentile is the score in the following position:  
 *Position* = *PR*(*N*+1) = .50(8+1) = 4.5  
@@ -112,19 +112,19 @@ The following frequency distribution can be used to determine the descriptive st
 
 #### Calculating the Descriptive Statistics
 
-Mean: The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
+**Mean:** The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
 
 > *M* = SUM (f*Y*) / *N* = [ ( 2 x 0 ) + ( 1 x 3 ) + ( 2 x 4 ) + ( 1 x 5 ) + ( 1 x 7 ) + (1  x 8) ] / 8 = 4.000
 
-Sum of Squares: The Sum of Squares is the basic measure of the variability of the scores. Formally, it is the sum of the weighted deviations of the scores about the mean.
+**Sum of Squares:** The Sum of Squares is the basic measure of the variability of the scores. Formally, it is the sum of the weighted deviations of the scores about the mean.
 
 > *SS* = SUM ( f ( Y - M )) = 2 ( 0 - 4.000 )<sup>2</sup> + 1 ( 3 - 4.000 )<sup>2</sup> + 2 ( 4 - 4.000 )<sup>2</sup> + 1 ( 5 - 4.000 )<sup>2</sup> + 1 ( 7 - 4.000 )<sup>2</sup> + 1 ( 8 - 4.000 )<sup>2</sup> = 68.000
 
-Mean Squares: Mean Squares (also known as Variance) is a function of the Sum of Squares. It is calculated as an unbiased estimate of the population variance.
+**Mean Squares:** Mean Squares (also known as Variance) is a function of the Sum of Squares. It is calculated as an unbiased estimate of the population variance.
 
 > *MS* = (*SS*) / (*N* - 1) = (68) / (7) = 9.714
 
-Standard Deviation: Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population standard deviation.
+**Standard Deviation:** Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population standard deviation.
 
 > *SD* = SQRT ( *MS* ) = SQRT ( 9.714 ) = 3.117
 
@@ -177,7 +177,7 @@ The following table of descriptive statistics can be used for the sake of compar
 
 #### Calculating the Standardized Scores
 
-Standardized (z) Score: A standardized score is a deviation score divided by the standard deviation. For the first score in the distribution:
+**Standardized (z) Score:** A standardized score is a deviation score divided by the standard deviation. For the first score in the distribution:
 
 > *z* = ( *Y* - *M* ) / ( *SD* ) = (0 - 4) / (3.117) = (- 4) / (3.117) = -1.283
 
@@ -196,20 +196,19 @@ This is repeated for each score in the distribution. In software programs, these
 
 #### Calculating the Descriptive Statistics of the Standardized Scores
 
-Mean: The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
+**Mean:** The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
 
 > *M* = SUM (f*Y*) / *N* = [ ( 2 x -1.283 ) + ( 1 x -.321 ) + ( 2 x 0 ) + ( 1 x .321 ) + ( 1 x .963 ) + (1  x 1.604) ] / 8 = 0.000
 
-Sum of Squares: The Sum of Squares is the basic measure of the variability of the scores. Formally, it is the SUM of the weighted deviations of the scores about the mean.
+**Sum of Squares:** The Sum of Squares is the basic measure of the variability of the scores. Formally, it is the SUM of the weighted deviations of the scores about the mean.
 
 > *SS* = SUM ( f ( Y - M )) = 2( -1.283 - 0.000 )<sup>2</sup> + 1( -.321 - 0.000 )<sup>2</sup> + 2( 0.000 - 0.000 )<sup>2</sup> + 1( .321 - 0.000 )<sup>2</sup> + 1( .963 - 0.000 )<sup>2</sup> + 1( 1.604 - 0.000 )<sup>2</sup> = 7.000
 
-
-Mean Squares: Mean Squares (also known as Variance) is a function of the Sum of Squares. It is calculated as an unbiased estimate of the population variance.
+**Mean Squares:** Mean Squares (also known as Variance) is a function of the Sum of Squares. It is calculated as an unbiased estimate of the population variance.
 
 > *MS* = ( *SS* ) / ( *N* - 1 ) = (7.000) / (7) = 1.000
 
-Standard Deviation: Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population
+**Standard Deviation:** Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population
 standard deviation.
 
 > SD = SQRT ( *MS* ) = SQRT ( 1.000 ) = 1.000
@@ -242,15 +241,15 @@ The following table of descriptive statistics can be used to assist in calculati
 
 #### Calculating the Correlation
 
-Sum of Cross Products: The Sum of Cross Products (SCP) is not easily determined solely from the summary statistics of the output, but rather from the data.
+**Sum of Cross Products:** The Sum of Cross Products (SCP) is not easily determined solely from the summary statistics of the output, but rather from the data.
 
 > *SCP* = SUM [ ( *X* - *M<sub>X</sub>* ) ( *Y* - *M<sub>Y</sub>* ) ] = ( 0 - 2.000 ) ( 4 - 6.000 ) + ( 0 - 2.000 )( 7 - 6.000 ) + ( 3 - 2.000 )( 4 - 6.000 ) + (5 - 2.000)(9 - 6.000)) = 9.000
 
-Covariance: The Covariance is a function of the Sum of Cross Products and the sample size:
+**Covariance:** The Covariance is a function of the Sum of Cross Products and the sample size:
 
 > *COV* = ( *SCP* ) / ( *N* - 1 ) = ( 9.000 ) / ( 4 - 1 ) = 3.000
 
-Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a function of the Covariance and the Standard Deviations of both variables:
+**Pearson Correlation Coefficient:** The Pearson Correlation Coefficient is a function of the Covariance and the Standard Deviations of both variables:
 
 > *r* = ( *COV* ) / [ ( *SD<sub>X</sub>* ) ( *SD<sub>Y</sub>* ) ] = (3.000) / [ ( 2.449 )( 2.449 ) ] = .500
 
@@ -291,11 +290,11 @@ The following table of descriptive statistics can be used to determine the infer
 
 #### Calculating the Confidence Interval
 
-Standard Error of the Mean: The standard error of the mean provides an estimate of how spread out the distribution of all possible random sample means would be.
+**Standard Error of the Mean:** The standard error of the mean provides an estimate of how spread out the distribution of all possible random sample means would be.
 
 > *SE<sub>M</sub>* = ( *SD* ) / (SQRT ( *N* ) ) = ( 3.117 ) / ( SQRT (8) ) = 1.102
 
-Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+**Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
 > With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
 > *CI<sub>M</sub>* = *M* ± ( *t*<sub>CRITICAL</sub> )(SE<sub>*M*</sub>) = 4.000 ± ( 2.365 ) (1.102) = \[ 1.394, 6.606 \]
@@ -337,21 +336,21 @@ The following table of descriptive statistics can be used to determine the infer
 
 #### Calculating the One Sample t Test
 
-Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
+**Mean Difference (Raw Effect):** The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
 
 > *M* − *mu* = 4.000 − 7.000 =  −3.000
 
-Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
+**Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 
 > *t* = ( *M* - *mu*) / ( SE<sub>M</sub> ) = ( -3.000 ) / ( 1.102 ) = - 2.722  
 > With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
 > Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05
 
-Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
+**Effect Size:** Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
 
 > *d* = ( *M* - *mu* ) / (SD) = ( -3.000) / ( 3.117 ) = 0.963
 
-Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+**Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
 > *CI<sub>DIFF</sub>* = ( *M* − *mu* ) ± ( *t*<sub>CRITICAL</sub> )( SE<sub>*M*</sub> ) = − 3.000 ± ( 2.365 ) ( 1.102 ) = \[ −5.606, −0.394 \]
 
@@ -391,11 +390,11 @@ The following table of descriptive statistics can be used to determine the infer
 
 #### Calculating the Independent Samples t Test
 
-Mean Difference (Raw Effect): The mean difference is the difference between the two sample means (raw effect).
+**Mean Difference (Raw Effect):** The mean difference is the difference between the two sample means (raw effect).
 
 > *M*<sub>1</sub> − *M*<sub>2</sub> = 2.000 − 6.000 = − 4.000
 
-Within Groups Statistics: When multiple groups are used, it is necessary to get an estimate of the pooled (combined) within group variabilities.
+**Within Groups Statistics:** When multiple groups are used, it is necessary to get an estimate of the pooled (combined) within group variabilities.
 
 > *SS<sub>1</sub>* = ( *SD<sub>1</sub><sup>2</sup>* ) ( *df<sub>1</sub>* ) = ( 2.44949<sup>2</sup> ) ( 3 ) = 18.000
 
@@ -409,7 +408,7 @@ Within Groups Statistics: When multiple groups are used, it is necessary to get 
 
 > *SD<sub>WITHIN</sub>* = SQRT ( *MS<sub>WITHIN</sub>* ) = SQRT ( 6.000 ) = 2.449
 
-Standard Error of the Difference: The standard error of the difference is a function of the two groups’ individual standard errors. When the two sample sizes are equal:
+**Standard Error of the Difference:** The standard error of the difference is a function of the two groups’ individual standard errors. When the two sample sizes are equal:
 
 > *SE<sub>DIFF</sub>* = SQRT ( *SE<sub>1</sub><sup>2</sup>* + *SE<sub>2</sub><sup>2</sup>* ) = SQRT ( 1.225<sup>2</sup> + 1.225<sup>2</sup> ) = 1.732
 
@@ -418,7 +417,7 @@ When the two sample sizes are unequal:
 > *SE<sub>DIFF</sub>* = SQRT [ ( *MS<sub>WITHIN</sub>* )  / ( *n<sub>1</sub>* ) + ( *MS<sub>WITHIN</sub>* )  / ( *n<sub>2</sub>* ) ]  
 = SQRT [ ( 6.000 ) / ( 4 ) + ( 6.000 )  / ( 4 ) = 1.732
 
-Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
+**Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
 
 > t = ( *M<sub>1</sub>* - *M<sub>2</sub>* ) / ( *SE<sub>DIFF</sub>* ) = ( -4.000 ) / ( 1.732 ) = -2.309
 
@@ -427,11 +426,11 @@ Statistical Significance: The *t* statistic is the ratio of the mean difference 
 > With *df* = 6, *t<sub>CRITICAL</sub>* = 2.447
 > Because *t* < *t<sub>CRITICAL</sub>*, *p* > .05
 
-Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the difference between the two means.
+**Effect Size:** Cohen’s *d* Statistic provides a standardized effect size for the difference between the two means.
 
 > *d* = ( *M<sub>1</sub>* - *M<sub>2</sub>* ) / ( *SD<sub>WITHIN</sub>* ) = ( -4.000) / ( 2.449 ) = -1.630
 
-Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+**Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
 > *CI<sub>DIFF</sub>* = ( *M<sub>1</sub>* − *M<sub>2</sub>* ) ± ( *t<sub>CRITICAL</sub>* ) ( *SE<sub>DIFF</sub>* ) = −4.000 ± (2.447)(1.732) = \[ −8.238, 0.238 \]
 
@@ -477,7 +476,7 @@ The following table of descriptive statistics can be used to determine the infer
 
 #### Calculating the One-Way ANOVA
 
-Within Groups Statistics: Within-groups error statistics are a function of the within group variabilities.
+**Within Groups Statistics:** Within-groups error statistics are a function of the within group variabilities.
 
 > *SS<sub>1</sub>* = ( *SD<sub>1</sub><sup>2</sup>*) ( *df<sub>1</sub>* ) = ( 2.44949<sup>2</sup> ) ( 3 ) = 18.000
 
@@ -491,7 +490,7 @@ Within Groups Statistics: Within-groups error statistics are a function of the w
 
 > *MS<sub>WITHIN</sub>* = ( *SS<sub>WITHIN</sub>* ) / ( *df<sub>WITHIN</sub>* ) = (54.000)(9) = 6.000
 
-Between Groups Statistics: The between-groups effect statistics are a function of the group (level) means and sample sizes.
+**Between Groups Statistics:** The between-groups effect statistics are a function of the group (level) means and sample sizes.
 
 > *SS<sub>BETWEEN</sub>* = SUM ( *n<sub>GROUP</sub>* ) ( *M<sub>GROUP</sub>* - *M<sub>TOTAL</sub>* )<sup>2</sup> = 4 ( 2.0 - 5.0 )<sup>2</sup> + 4 ( 6.0 - 5.0 )<sup>2</sup> + 4 ( 7.0 - 5.0 )<sup>2</sup> = 56.000
 
@@ -499,7 +498,7 @@ Between Groups Statistics: The between-groups effect statistics are a function o
 
 > *MS<sub>BETWEEN</sub>* = ( *SS<sub>BETWEEN</sub>* ) / ( *df<sub>BETWEEN</sub>* ) = ( 56.000 ) ( 2 ) = 28.000
 
-Statistical Significance: The *F* statistic is the ratio of the between- and within-group variance estimates. 
+**Statistical Significance:** The *F* statistic is the ratio of the between- and within-group variance estimates. 
 
 > *F* = ( *MS<sub>BETWEEN</sub>* ) / ( *MS<sub>WITHIN</sub>* ) = ( 28.000 ) / ( 6.000 ) = 4.667
 
@@ -507,11 +506,11 @@ Statistical Significance: The *F* statistic is the ratio of the between- and wit
 *F<sub>CRITICAL</sub>* = 4.256  
 > Because *F* > *F<sub>CRITICAL</sub>*, *p* < .05
 
-Effect Size: The Eta-Squared statistic is a ratio of the between group and the total group variability (Sum of Squares) estimates.
+**Effect Size:** The Eta-Squared statistic is a ratio of the between group and the total group variability (Sum of Squares) estimates.
 
 > *eta<sup>2</sup>* = ( *SS<sub>BETWEEN</sub>* ) / ( *SS<sub>BETWEEN</sub>* + *SS<sub>WITHIN</sub>* ) = ( 56.000 ) / ( 56.000 + 54.000 ) = 0.509
 
-Confidence Intervals: For ANOVA, calculate the confidence intervals around (centered on) each mean separately.
+**Confidence Intervals:** For ANOVA, calculate the confidence intervals around (centered on) each mean separately.
 
 > Because each group has 3 *df*, *t<sub>CRITICAL</sub>* = ±3.182
 
@@ -563,7 +562,7 @@ The following table of descriptive statistics can be used to determine the infer
 
 #### Calculating the Post Hoc Comparisons
 
-Mean Differences: Mean Differences (raw effects) are the differences between the means for all pairs of groups. Even though half of the possible pairwise comparisons are redundant, the mean differences will have the opposite signs because of subtraction order.
+**Mean Differences:** Mean Differences (raw effects) are the differences between the means for all pairs of groups. Even though half of the possible pairwise comparisons are redundant, the mean differences will have the opposite signs because of subtraction order.
 
 > *M<sub>1</sub>* − *M<sub>2</sub>* = 2.000 − 6.000 =  −4.000
 
@@ -571,11 +570,11 @@ Mean Differences: Mean Differences (raw effects) are the differences between the
 
 > *M<sub>2</sub>* − *M<sub>3</sub>* = 6.000 − 7.000 =  −1.000
 
-Standard Error of the Difference: These standard errors are for the difference between the two group means in each comparison. The values are a function of the MS<sub>WITHIN</sub> (from the ANOVA) and the sample sizes. \[In this case, because all groups are of the same size, the standard error for each comparison is the same.\]
+**Standard Error of the Difference:** These standard errors are for the difference between the two group means in each comparison. The values are a function of the MS<sub>WITHIN</sub> (from the ANOVA) and the sample sizes. \[In this case, because all groups are of the same size, the standard error for each comparison is the same.\]
 
 > *SE<sub>DIFF</sub>* = SQRT ( ( *MS<sub>WITHIN</sub>* / *n<sub>GROUP</sub>* ) + ( *MS<sub>WITHIN</sub>* / *n<sub>GROUP</sub>* ) ) = SQRT ( ( 6.000 / 4 ) + ( 6.000 / 4 ) ) = 1.732
 
-Statistical Significance: The HSD statistic is a ratio of the mean difference to the standard error of the difference. There is one statistic for each of the comparisons.
+**Statistical Significance:** The *HSD* statistic is a ratio of the mean difference to the standard error of the difference. There is one statistic for each of the comparisons.
 
 > Because the ANOVA has *df<sub>BETWEEN</sub>* = 2 and
 *df<sub>WITHIN</sub>* = 9, *HSD<sub>CRITICAL</sub>* = 2.792
@@ -592,7 +591,7 @@ Statistical Significance: The HSD statistic is a ratio of the mean difference to
 
 > Because *HSD* < *HSD<sub>CRITICAL</sub>*, *p* > .05
 
-Confidence Intervals: For HSD, calculate the confidence intervals around (centered on) each mean difference separately.
+**Confidence Intervals:** For *HSD*, calculate the confidence intervals around (centered on) each mean difference separately.
 
 > *CI<sub>1v2</sub>* = ( *M<sub>1</sub>* − *M<sub>2</sub>* ) ± ( *HSD<sub>CRITICAL</sub>* ) ( *SE<sub>DIFF</sub>* ) = −4.000 ± ( 2.792 ) ( 1.732 ) = \[ −8.836, 0.836 \]
 
@@ -633,11 +632,11 @@ The following table of descriptive statistics can be used to determine the infer
 
 #### Calculating the RMD ANOVA
 
-Grand (or Total) Mean: Because sample sizes are equal, a grand mean can be determined by averaging the two level means.
+**Grand (or Total) Mean:** Because sample sizes are equal, a grand mean can be determined by averaging the two level means.
 
 > *M<sub>TOTAL</sub>* = ( *M<sub>1</sub>* + *M<sub>2</sub>* ) / (2) = ( 2.000 + 6.000 ) / (2) = 4.000
 
-Between-Subjects Error Statistics: Between-subjects error refers to the average differences across the participants of the study. This Sum of Squares is not easily determined from the summary statistics output, but rather from the data.
+**Between-Subjects Error Statistics:** Between-subjects error refers to the average differences across the participants of the study. This Sum of Squares is not easily determined from the summary statistics output, but rather from the data.
 
 > (*SS<sub>SUBJECTS</sub>* ) = SUM ( *k* ( *M<sub>SUBJECT</sub> - *M<sub>TOTAL</sub>* )<sup>2</sup> ) = 2 ( 2.0 - 4.0 )<sup>2</sup> + 2 ( 3.5 - 4.0 )<sup>2</sup> + 2 ( 3.5 - 4.0 )<sup>2</sup> + 2 ( 7.0 - 4.0 )<sup>2</sup> = 27.000
 
@@ -645,7 +644,7 @@ Between-Subjects Error Statistics: Between-subjects error refers to the average 
 
 > *MS<sub>SUBJECTS</sub>* = ( *SS<sub>SUBJECTS</sub>* ) / ( *df<sub>SUBJECTS</sub>* ) = ( 27.000 ) ( 3 ) = 9.000
 
-Within-Subjects Error Statistics: The within-subjects error is a function of variabilities of the separate levels or conditions of the independent variable and the between-subjects error given above.
+**Within-Subjects Error Statistics:** The within-subjects error is a function of variabilities of the separate levels or conditions of the independent variable and the between-subjects error given above.
 
 > *SS<sub>1</sub>* = ( *SD<sub>1</sub><sup>2</sup>* ) ( *df<sub>1</sub>* ) = ( 2.449<sup>2</sup> ) ( 3 ) = 18.000
 
@@ -657,7 +656,7 @@ Within-Subjects Error Statistics: The within-subjects error is a function of var
 
 > *MS<sub>ERROR</sub>* = ( *SS<sub>ERROR</sub>* ) / ( *df<sub>ERROR</sub>* ) = ( 9.000 ) ( 3 ) = 3.000
 
-Within-Subjects Effect Statistics: The statistics for the effect (or change) over time are functions of the means of the levels or conditions and the sample sizes.
+**Within-Subjects Effect Statistics:** The statistics for the effect (or change) over time are functions of the means of the levels or conditions and the sample sizes.
 
 > *SS<sub>EFFECT</sub>* = SUM ( *n<sub>LEVEL</sub>* ( *M<sub>LEVEL</sub>* - *M<sub>TOTAL</sub>* )<sup>2</sup> ) = 4 ( 2.0 - 4.0 )<sup>2</sup> + 4 ( 6.0 - 4.0 )<sup>2</sup> = 32.000
 
@@ -665,7 +664,7 @@ Within-Subjects Effect Statistics: The statistics for the effect (or change) ove
 
 > *MS<sub>EFFECT</sub>* = ( *SS<sub>EFFECT</sub>* ) / (*df<sub>EFFECT</sub>* ) = ( 32.000 ) ( 1 ) = 32.000
 
-Statistical Significance: The *F* statistic is the ratio of the within-subjects effect and the within-subjects error variance estimates. 
+**Statistical Significance:** The *F* statistic is the ratio of the within-subjects effect and the within-subjects error variance estimates. 
 
 > *F* = ( *MS<sub>EFFECT</sub> ) / ( *MS<sub>ERROR</sub>* ) = ( 32.000 ) / ( 3.000 ) = 10.667
 
@@ -673,11 +672,11 @@ Statistical Significance: The *F* statistic is the ratio of the within-subjects 
 
 > Because *F* > *F<sub>CRITICAL</sub>*, *p* < .05
 
-Effect Size: The partial eta-squared statistic is a ratio of the within-subjects effect and the remaining variability (Sum of Squares) estimates after between-subjects error has been partialled out.
+**Effect Size:** The partial eta-squared statistic is a ratio of the within-subjects effect and the remaining variability (Sum of Squares) estimates after between-subjects error has been partialled out.
 
 > *Partial eta<sup>2</sup>* = ( *SS<sub>EFFECT</sub>* ) / ( *SS<sub>EFFECT</sub>* + *SS<sub>ERROR</sub>* ) = ( 32.000 ) / ( 32.000 + 9.000 ) = 0.780
 
-Confidence Intervals: For RMD ANOVA, calculate the confidence intervals around (centered on) each mean separately.
+**Confidence Intervals:** For RMD ANOVA, calculate the confidence intervals around (centered on) each mean separately.
 
 > Because each group has 3 *df*, *t<sub>CRITICAL</sub>* = ±3.182
 
@@ -736,7 +735,7 @@ The following table of descriptive statistics can be used to determine the infer
 
 #### Calculating the Factorial ANOVA
 
-Error (Within Groups) Statistics: Within-groups error statistics are a function of the within group variabilities.
+**Error (Within Groups) Statistics:** Within-groups error statistics are a function of the within group variabilities.
 
 > *SS<sub>1</sub>* = ( *SD<sub>1</sub><sup>2</sup>* ) ( *df<sub>1</sub>* ) = ( 2.44949<sup>2</sup> ) ( 3 ) = 18.000
 
@@ -752,7 +751,7 @@ Error (Within Groups) Statistics: Within-groups error statistics are a function 
 
 > *MS<sub>ERROR</sub>* = ( *SS<sub>ERROR</sub>* ) / ( *df<sub>ERROR</sub>* ) = ( 72.000 ) ( 12 ) = 6.000
 
-Effect (Between Groups) Statistics: The Model statistics represent the overall differences among the groups. The Factor A and Factor B statistics are a function of the level (marginal) means and sample sizes. The interaction statistics reflect the between-groups variability not accounted for by the factors individually.
+**Effect (Between Groups) Statistics:** The Model statistics represent the overall differences among the groups. The Factor A and Factor B statistics are a function of the level (marginal) means and sample sizes. The interaction statistics reflect the between-groups variability not accounted for by the factors individually.
 
 For the Model:
 
@@ -786,7 +785,7 @@ For the Interaction:
 
 > *MS<sub>INTER</sub>* = ( *SS<sub>INTER</sub>* ) / ( *df<sub>INTER</sub>* ) = ( 36.000 ) / ( 1 ) = 36.000
 
-Statistical Significance: The *F* statistic is the ratio of the between-and within-group variance estimates. 
+**Statistical Significance:** The *F* statistic is the ratio of the between-and within-group variance estimates. 
 
 For the Factor A Main Effect:
 
@@ -812,7 +811,7 @@ For the Interaction:
 
 > Because *F<sub>INTER</sub>* > *F<sub>CRITICAL</sub>*, *p* < .05
 
-Effect Size: The partial eta-squared statistic is a ratio of the between-subjects effect and the remaining variability (Sum of Squares) estimates after within-subjects error has been partialled out.
+**Effect Size:** The partial eta-squared statistic is a ratio of the between-subjects effect and the remaining variability (Sum of Squares) estimates after within-subjects error has been partialled out.
 
 For the Factor A Main Effect:
 
@@ -826,7 +825,7 @@ For the Interaction:
 
 > Partial *eta<sub>INTER</sub>*<sup>2</sup> = ( *SS<sub>INTER</sub>* ) / ( *SS<sub>INTER</sub>* + *SS<sub>ERROR</sub>* ) = ( 36.000 ) / ( 36.000 + 72.000 ) = 0.333
 
-Confidence Intervals: For Factorial ANOVA, calculate the confidence intervals around (centered on) each mean separately (not shown here).
+**Confidence Intervals:** For Factorial ANOVA, calculate the confidence intervals around (centered on) each mean separately (not shown here).
 
 #### Summarizing the Factorial ANOVA
 
