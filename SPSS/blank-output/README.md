@@ -8,6 +8,7 @@ This chapter is used as a set of worksheets for class problems. Students fill in
 
 - [Frequencies (Frequencies and Descriptives)](#frequencies-frequencies-and-descriptives)
 - [Correlations (Bivariate)](#correlations-bivariate)
+- [Explore (Descriptives and Confidence Intervals)](#explore-descriptives-and-confidence-intervals)
 - [T Test (One Sample)](#t-test-one-sample)
 - [T Test (Paired Samples)](#t-test-paired-samples)
 - [T Test (Independent Samples)](#t-test-independent-samples)
