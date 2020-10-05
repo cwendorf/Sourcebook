@@ -20,37 +20,43 @@ This chapter is used as a set of worksheets for class problems. Students fill in
 
 ### Frequencies (Frequencies and Descriptives)
 
-<p align="center"><kbd><img src="page3.png"></kbd></p>
+<p align="center"><kbd><img src="frequencies.png"></kbd></p>
 
 ---
 
 ### Correlations (Bivariate)
 
-<p align="center"><kbd><img src="page4.png"></kbd></p>
+<p align="center"><kbd><img src="correlations.png"></kbd></p>
+
+---
+
+### Explore (Descriptives and Confidence Intervals)
+
+<p align="center"><kbd><img src="intervals.png"></kbd></p>
 
 ---
 
 ### T Test (One Sample)
 
-<p align="center"><kbd><img src="page5.png"></kbd></p>
+<p align="center"><kbd><img src="onesample.png"></kbd></p>
 
 ---
 
 ### T Test (Paired Samples)
 
-<p align="center"><kbd><img src="page6.png"></kbd></p>
+<p align="center"><kbd><img src="paired.png"></kbd></p>
 
 ---
 
 ### T Test (Independent Samples)
 
-<p align="center"><kbd><img src="page7.png"></kbd></p>
+<p align="center"><kbd><img src="independent.png"></kbd></p>
 
 ---
 
 ### OneWay (OneWay ANOVA)
 
-<p align="center"><kbd><img src="page8.png"></kbd></p>
+<p align="center"><kbd><img src="oneway.png"></kbd></p>
 
 ---
 
@@ -62,10 +68,10 @@ This chapter is used as a set of worksheets for class problems. Students fill in
 
 ### General Linear Model (Repeated Measures ANOVA)
 
-<p align="center"><kbd><img src="page10.png"></kbd></p>
+<p align="center"><kbd><img src="repeated.png"></kbd></p>
 
 ---
 
 ### ANOVA (Factorial ANOVA)
 
-<p align="center"><kbd><img src="page11.png"></kbd></p>
+<p align="center"><kbd><img src="factorial.png"></kbd></p>
