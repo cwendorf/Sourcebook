@@ -12,6 +12,7 @@ This section provides step-by-step instructions on how to obtain basic statistic
 - [Entering Factorial Data](#entering-factorial-data)
 - [Descriptives (Frequencies and Descriptive Statistics)](#descriptives-frequencies-and-descriptive-statistics)
 - [Correlations (Bivariate)](#correlations-bivariate)
+- [T Test (Confidence Intervals)](#t-test-confidence-intervals)
 - [T Test (One Sample)](#t-test-one-sample)
 - [T Test (Paired Samples)](#t-test-paired-samples)
 - [T Test (Independent Samples)](#t-test-independent-samples)
@@ -263,8 +264,7 @@ previously created
 sure that the data file
 looks as you intended. 
 
-2. On the "Common" statistics 
-tab, select the
+2. Select the
 "Descriptives →
 Descriptive Statistics"
 option.
@@ -338,9 +338,7 @@ purposes.
  looks as you intended. 
 
 2. Select the "Regression → 
- Correlation Matrix" option 
- from the "Common" statistics 
- menu.
+ Correlation Matrix" option.
 
 <p align="center"><kbd><img src="image12.jpg"></kbd></p>
 
@@ -377,6 +375,59 @@ purposes.
 
 ---
 
+### T Test (Confidence Intervals) 
+
+#### Steps for Obtaining One-Sample Inferential Statistics
+
+1. First, load the data file
+that you previously
+created (described 
+elsewhere). Be sure that 
+the data file looks as you 
+intended.
+
+2. Select the "T-Tests → One
+Sample T-Test" option.
+
+<p align="center"><kbd><img src="intervals1.jpg"></kbd></p>
+
+#### Steps for Choosing the Variable
+
+3. A set of options will then 
+appear for you to choose 
+the variables and
+statistics of interest.
+
+4. Select the variable you wish 
+to analyze by clicking on
+it in the left-hand box
+and then the arrow to move 
+it into the right-hand 
+box. 
+
+5. Output will automatically
+appear on the right side 
+of the window. Output can
+be copied and pasted into
+other documents for
+printing.
+
+<p align="center"><kbd><img src="intervals2.jpg"></kbd></p>
+
+#### Steps for Obtaining the Statistics
+
+6. To get the confidence interval for the mean, make sure the “Test Value” is set to zero.
+
+7. Check the “Confidence Interval” box (and alter the width of the interval if desired). 
+
+8. Similarly, select other options that are important for you: “Descriptives” will offer a mean and standard deviation for the variable; and “Descriptives plots” will provide a graph of the confidence interval.
+
+9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other documents for printing.
+
+<p align="center"><kbd><img src="intervals3.jpg"></kbd></p>
+
+---
+
 ### T Test (One Sample) 
 
 #### Steps for Obtaining One-Sample Inferential Statistics
@@ -389,11 +440,9 @@ the data file looks as you
 intended.
 
 2. Select the "T-Tests → One
-Sample T-Test" option from 
-the "Common" statistics
-menu.
+Sample T-Test" option.
 
-<p align="center"><kbd><img src="image14.jpg"></kbd></p>
+<p align="center"><kbd><img src="onesample1.jpg"></kbd></p>
 
 #### Steps for Obtaining the Significance Test
 
@@ -424,7 +473,7 @@ be copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="image15.jpg"></kbd></p>
+<p align="center"><kbd><img src="onesample2.jpg"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics
 
@@ -454,7 +503,7 @@ copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="image16.jpg"></kbd></p>
+<p align="center"><kbd><img src="onesample3.jpg"></kbd></p>
 
 ---
 
@@ -471,9 +520,7 @@ sure that the data file
 looks as you intended. 
 
 2. Select the "T-Tests → Paired 
-Samples T-Test" option 
-from the "Common"
-statistics menu. 
+Samples T-Test" option. 
 
 <p align="center"><kbd><img src="image17.jpg"></kbd></p>
 
@@ -547,8 +594,7 @@ printing.
 
 2. Select the "T-Tests →
  Independent Samples T-Test"
- option from the "Common" 
- statistics menu. 
+ option. 
 
 <p align="center"><kbd><img src="image20.jpg"></kbd></p>
 
@@ -618,8 +664,7 @@ printing.
  looks as you intended. 
 
 2. Select the "ANOVA → ANOVA" 
- option from the "Common" 
- statistics menu. 
+ option. 
 
 <p align="center"><kbd><img src="image23.jpg"></kbd></p>
 
@@ -720,9 +765,7 @@ printing.
  looks as you intended. 
 
 2. Select the "ANOVA → Repeated 
- Measures ANOVA" option from
- the "Common" statistics
- menu.
+ Measures ANOVA" option.
 
 <p align="center"><kbd><img src="image27.jpg"></kbd></p>
 
@@ -839,8 +882,7 @@ printing.
  looks as you intended. 
 
 2. Select the "ANOVA → ANOVA" 
- option from the "Common" 
- statistics menu. 
+ option. 
 
 <p align="center"><kbd><img src="image31.jpg"></kbd></p>
 
