@@ -1,4 +1,4 @@
-## Using and Understanding SPSS
+## Understanding SPSS
 
 ### Using the Software
 

@@ -1,4 +1,4 @@
-## Using and Understanding R 
+## Understanding R 
 
 ### Using the Software
 

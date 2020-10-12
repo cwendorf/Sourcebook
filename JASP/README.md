@@ -1,4 +1,4 @@
-## Using and Understanding JASP
+## Understanding JASP
 
 ### Using the Software
 

@@ -1,4 +1,4 @@
-## Using and Understanding CREATE 
+## Understanding CREATE 
 
 ### Using the Software
 
