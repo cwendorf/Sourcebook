@@ -19,4 +19,4 @@ This chapter is intended to facilitate the connection between standard introduct
 This chapter is used as worksheets for class problems. Students fill in their answers on these sheets, thus making clear the links between non-computer (“hand”) calculations and the CREATE output.
 
 - [View the HTML Version](./blank-output/)
-- [View the PDF Version]()
+- [View the PDF Version](./Sourcebook-CREATE-BlankOutput.pdf)
