@@ -2,16 +2,11 @@
 
 ### Abstract
 
-This section provides step-by-step instructions on how to obtain basic statistical output using jamovi, both visually with screenshots and via written instructions. Simple examples for most undergraduate level between-subjects and within-subjects research designs are provided.
+This section provides step-by-step instructions on how to obtain basic statistical output using CREATE, both visually with screenshots and via written instructions. Simple examples for most undergraduate level between-subjects and within-subjects research designs are provided.
 
 ### Table of Contents
 
-- [Entering One Sample Data](#entering-one-sample-data)  
-- [Entering Repeated Measures Data](#entering-repeated-measures-data)
-- [Entering Multiple Sample Data](#entering-multiple-sample-data)
-- [Entering Factorial Data](#entering-factorial-data)
 - [Descriptives (Frequencies and Descriptives)](#descriptives-frequencies-and-descriptives)
-- [Compute (Transformations and Standardized Scores)](#compute-transformations-and-standardized-scores)
 - [Correlations (Bivariate)](#correlations-bivariate)
 - [T Test (Confidence Intervals)](#t-test-confidence-intervals)
 - [T Test (One Sample)](#t-test-one-sample)
@@ -24,201 +19,14 @@ This section provides step-by-step instructions on how to obtain basic statistic
 
 ---
 
-### Entering One Sample Data
-
-#### Steps for Defining Variables
-
-1. First, click on the "Data" tab on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
-
-2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options.
-
-<p align="center"><kbd><img src="image1.jpg"></kbd></p>
-
-#### Steps for Setting Variable Properties
-
-3. Type in the name of the variable in the top box (previously labeled "A").
-
-4. Define the level of measurement for the variables by choosing the appropriate option. In this example, "Outcome" (an outcome variable) is continuous.
-
-5. To hide the setup menu, click on the large UP arrow button to the right of the variable name.
-
-<p align="center"><kbd><img src="image2.jpg"></kbd></p>
-
-#### Steps for Entering Data
-
-6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
-
-<p align="center"><kbd><img src="image3.jpg"></kbd></p>
-
----
-
-### Entering Repeated Measures Data
-
-#### Steps for Defining Variables 
-
-1. First, click on the "Data" tab on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
-
-2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options. 
-
-<p align="center"><kbd><img src="image1.jpg"></kbd></p>
-
-#### Steps for Setting Variable Properties
-
-3. Type in the name of the variable in the top box (previously labeled "A").
-
-4. Define the level of measurement for the variables by choosing the appropriate option. In this example, "Outcome1" (an instance of the outcome variable) is continuous. 
-
-5. To hide the setup menu, click on the large UP arrow button to the right of the variable name. 
-
-<p align="center"><kbd><img src="image4.jpg"></kbd></p>
+### Descriptives (Frequencies and Descriptives) 
 
 #### Steps for Entering Data
 
 6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people.
 
-7. Notice that each individual (i.e., the rows) have values for each instance of the within-subjects variable (i.e., the columns). 
-
-<p align="center"><kbd><img src="image5.jpg"></kbd></p>
-
----
-
-### Entering Multiple Sample Data 
-
-#### Steps for Defining Variables
-
-1. First, click on the "Data" tab on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
-
-2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options. 
-
-<p align="center"><kbd><img src="image6.jpg"></kbd></p>
-
-#### Steps for Setting Variable Properties
-
-3. You will need to define multiple variables. One variable will represent the Factor (Independent Variable) and the other will represent the Outcome (Dependent) Variable.
-
-4. Provide a name and define
-the level of measurement for 
-the variables by choosing
-the appropriate options. In
-this example, "Factor" 
-(Independent Variable) is
-nominal. The "Outcome" 
-(Dependent) variable is
-continuous.
-
-5. To hide the setup menu,
-click on the large UP arrow
-button next to the variable
-name.
-
-<p align="center"><kbd><img src="image7.jpg"></kbd></p>
-
-#### Steps for Entering Data
-
-6. Enter the data for all of
-the participants. Notice 
-that each participant has
-scores on both the Factor
-and Outcome Variables. There 
-will be as many rows as
-people.
-
-7. On the categorical "Factor", 
-you will use numbers to
-represent the two categories 
-(or "levels") of the 
-variable.
-
-8. If your data set has more
-than two groups, simply be 
-sure to add a group
-indicator (a value on the
-"Factor" variable) and a 
-"Outcome" for each 
-additional person. 
-
-<p align="center"><kbd><img src="image8.jpg"></kbd></p>
-
----
-
-### Entering Factorial Data 
-
-#### Steps for Defining Variables
-
-1. First, click on the "Data" 
-tab on the top of the
-window. Generally speaking,
-this is where you will enter 
-the data for all of the
-variables in the data set. 
-
-2. Click on a cell in the 
-column (i.e., variable) that 
-you wish to define. Click on 
-"Setup" from the menu. This
-will bring up a new set of 
-options. 
-
-<p align="center"><kbd><img src="image6.jpg"></kbd></p>
-
-#### Steps for Setting Variable Properties
-
-3. You will need to define
-multiple variables. Two
-variables will represent the 
-Factors (Independent 
-Variables) and the other 
-will represent the Outcome 
-(Dependent) Variable.
-
-4. Provide a name and define
-the level of measurement for 
-the variables by choosing
-the appropriate options. In
-this example, "FactorA" and
-"FactorB" nominal. The 
-"Outcome" (Dependent)
-variable is continuous.
-
-5. To hide the setup menu,
-click on the large UP arrow
-button next to the variable
-name.
-
-<p align="center"><kbd><img src="image9.jpg"></kbd></p>
-
-#### Steps for Entering Data
- 
-6. Enter the data for all of
-the participants. Notice 
-that each participant has
-scores on both of the
-Factors and on the Outcome 
-Variable. There will be as 
-many rows as people. 
-
-7. On the categorical Factors,
-use the values that you
-indicated when defining the
-variables earlier. Note that 
-the combination of values in 
-the Factors will define the
-multiple groups of the 
-factorial design.
-
-8. If your data set has more
-than two levels for either 
-(or both) of the Factors,
-simply be sure to add an 
-indicator and an outcome 
-value for each additional
-person.
-
-<p align="center"><kbd><img src="image10.jpg"></kbd></p>
-
----
-
-### Descriptives (Frequencies and Descriptives) 
+<p align="center"><kbd><img src="descriptives-blank.jpg"></kbd></p>
+<p align="center"><kbd><img src="descriptives-complete.jpg"></kbd></p>
 
 #### Steps for Obtaining Frequency-Related Statistics
 
@@ -286,75 +94,16 @@ purposes.
 
 ---
 
-### Compute (Transformations and Standardized Scores)
-
-#### Steps for Obtaining the Compute Menu
-
-1. First, enter the data (described elsewhere).
-
-2. After the data are entered, click on the column representing the data you wish to transform.
-
-3. Select the “Compute” option from the menu. This will bring up a new set of options.
-
-<p align="center"><kbd><img src="compute1.png"></kbd></p>
-
-#### Steps for Computing Transformations
-
-4. Type in the new you wish to give the new variable (here it is “trOutcome).
-
-5. Click on the “fx” button to obtain the dropdown menu.  
-
-6. Click on the variable you wish to transform (“Outcome”). This will place it in the formula editor. Then add, subtract, multiply, or divide as needed to get the transformation you want.
-
-7. Hit “Enter” on your keyboard to perform the data transformation.
-
-8. To hide the setup menu, click on the large UP arrow button to the right of the variable name.
-
-<p align="center"><kbd><img src="compute2.png"></kbd></p>
-
-#### Steps for Viewing the Transformed Scores
-
-9. Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
-
-10.	These variables can be used in subsequent analyses. You can follow the previous tutorials to get descriptive statistics for these variables.
-
-<p align="center"><kbd><img src="compute3.png"></kbd></p>
-
-#### Steps for Obtaining Standardized Scores
-
-11.	In addition, you can obtain standardized scores. First, enter the data (described elsewhere).
-
-12.	After the data are entered, click on the column representing the data you wish to transform.
-
-13.	Select the “Compute” option from the menu. This will bring up a new set of options.
-
-<p align="center"><kbd><img src="compute4.png"></kbd></p>
-
-#### Steps for Computing Standardized Scores
-
-14.	Type in the new you wish to give the new variable (here it is “zOutcome).
-
-15.	Click on the “fx” button to obtain the dropdown menu.  On the left side under functions, click on “z” to place it in the formula editor.
-
-16.	Click on the variable you wish to transform (“Outcome”). This will place it in the formula editor. 
-
-17.	Hit “Enter” on your keyboard to perform the data transformation.
-
-18.	To hide the setup menu, click on the large UP arrow button to the right of the variable name.
-
-<p align="center"><kbd><img src="compute5.png"></kbd></p>
-
-#### Steps for Viewing the Standardized Scores
-
-19.	Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
-
-20.	These variables can be used in subsequent analyses. You can follow the previous tutorials to get descriptive statistics for these variables.
-
-<p align="center"><kbd><img src="compute6.png"></kbd></p>
-
----
-
 ### Correlations (Bivariate) 
+
+#### Steps for Entering Data
+
+6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people.
+
+7. Notice that each individual (i.e., the rows) have values for each instance of the within-subjects variable (i.e., the columns). 
+
+<p align="center"><kbd><img src="correlations-blank.jpg"></kbd></p>
+<p align="center"><kbd><img src="correlations-complete.jpg"></kbd></p>
 
 #### Steps for Obtaining Correlational Statistics 
 
@@ -404,6 +153,13 @@ manual.
 
 ### T Test (Confidence Intervals) 
 
+#### Steps for Entering Data
+
+6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people.
+
+<p align="center"><kbd><img src="intervals-blank.jpg"></kbd></p>
+<p align="center"><kbd><img src="-intervals-complete.jpg"></kbd></p>
+
 #### Steps for Obtaining One Sample Inferential Statistics
 
 1. First, enter the data (described elsewhere). 
@@ -437,6 +193,13 @@ manual.
 ---
 
 ### T Test (One Sample) 
+
+#### Steps for Entering Data
+
+6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people.
+
+<p align="center"><kbd><img src="onesample-blank.jpg"></kbd></p>
+<p align="center"><kbd><img src="onesample-complete.jpg"></kbd></p>
 
 #### Steps for Obtaining One Sample Inferential Statistics
 
@@ -513,6 +276,15 @@ printing.
 
 ### T Test (Paired Samples) 
 
+#### Steps for Entering Data
+
+6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people.
+
+7. Notice that each individual (i.e., the rows) have values for each instance of the within-subjects variable (i.e., the columns). 
+
+<p align="center"><kbd><img src="paired-blank.jpg"></kbd></p>
+<p align="center"><kbd><img src="paired-complete.jpg"></kbd></p>
+
 #### Steps for Obtaining Paired Sample Inferential Statistics
 
 1. First, enter paired samples
@@ -585,6 +357,18 @@ printing.
 
 ### T Test (Independent Samples) 
 
+
+#### Steps for Entering Data
+
+6. Enter the data for all of the participants. Notice that each participant has scores on both the Factor and Outcome Variables. There will be as many rows as people.
+
+7. On the categorical "Factor", you will use numbers to represent the two categories (or "levels") of the variable.
+
+8. If your data set has more than two groups, simply be sure to add a group indicator (a value on the "Factor" variable) and a "Outcome" for each additional person. 
+
+<p align="center"><kbd><img src="independent-blank.jpg"></kbd></p>
+<p align="center"><kbd><img src="independent-complete.jpg"></kbd></p>
+
 #### Steps for Obtaining Two Sample Inferential Statistics
 
 1. First, enter two sample data 
@@ -653,6 +437,18 @@ for printing.
 
 ### ANOVA (OneWay ANOVA)
 
+
+#### Steps for Entering Data
+
+6. Enter the data for all of the participants. Notice that each participant has scores on both the Factor and Outcome Variables. There will be as many rows as people.
+
+7. On the categorical "Factor", you will use numbers to represent the two categories (or "levels") of the variable.
+
+8. If your data set has more than two groups, simply be sure to add a group indicator (a value on the "Factor" variable) and a "Outcome" for each additional person. 
+
+<p align="center"><kbd><img src="oneway-blank.jpg"></kbd></p>
+<p align="center"><kbd><img src="oneway-complete.jpg"></kbd></p>
+
  #### Steps for Obtaining Multiple Sample Inferential  Statistics
 
 1. First, enter multiple group
@@ -712,6 +508,18 @@ for printing.
 ---
 
 ### Post Hoc Tests (OneWay ANOVA) 
+
+
+#### Steps for Entering Data
+
+6. Enter the data for all of the participants. Notice that each participant has scores on both the Factor and Outcome Variables. There will be as many rows as people.
+
+7. On the categorical "Factor", you will use numbers to represent the two categories (or "levels") of the variable.
+
+8. If your data set has more than two groups, simply be sure to add a group indicator (a value on the "Factor" variable) and a "Outcome" for each additional person. 
+
+<p align="center"><kbd><img src="posthocs-blank.jpg"></kbd></p>
+<p align="center"><kbd><img src="posthocs-complete.jpg"></kbd></p>
 
 #### Steps for Obtaining Multiple Sample Inferential  Statistics
 
@@ -798,6 +606,15 @@ for printing.
 ---
 
 ### Repeated Measures ANOVA
+
+#### Steps for Entering Data
+
+6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people.
+
+7. Notice that each individual (i.e., the rows) have values for each instance of the within-subjects variable (i.e., the columns). 
+
+<p align="center"><kbd><img src="repeated-blank.jpg"></kbd></p>
+<p align="center"><kbd><img src="repeated-complete.jpg"></kbd></p>
 
  #### Steps for Obtaining Repeated Measures Inferential Statistics
 
@@ -904,6 +721,18 @@ for printing.
 ---
 
 ### ANOVA (Factorial ANOVA)
+
+#### Steps for Entering Data
+ 
+6. Enter the data for all of the participants. Notice that each participant has scores on both of the Factors and on the Outcome Variable. There will be as many rows as people. 
+
+7. On the categorical Factors, use the values that you indicated when defining the variables earlier. Note that the combination of values in the Factors will define the multiple groups of the factorial design.
+
+8. If your data set has more than two levels for either (or both) of the Factors, simply be sure to add an indicator and an outcome 
+value for each additional person.
+
+<p align="center"><kbd><img src="factorial-blank.jpg"></kbd></p>
+<p align="center"><kbd><img src="factorial-complete.jpg"></kbd></p>
 
 #### Steps for Obtaining Factorial Inferential Statistics
 
