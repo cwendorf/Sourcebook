@@ -9,7 +9,7 @@ This section provides step-by-step instructions on how to obtain basic statistic
 
 ### Annotated Output
 
-This chapter is intended to facilitate the connection between standard introductory statistics concepts and their implementation in CREATE. It shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and R output. Results derive from the examples in the previous chapter of this project.
+This chapter is intended to facilitate the connection between standard introductory statistics concepts and their implementation in R. It shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and R output. Results derive from the examples in the previous chapter of this project.
 
 - [View the HTML Version](./annotated-output/)
 - [View the PDF Version]()
