@@ -528,7 +528,6 @@ The following table of descriptive statistics can be used to determine the infer
 | Level 1 | 4   | 2.000 | 2.445          | 1.225           |
 | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
 | Level 3 | 4   | 7.000 | 2.445          | 1.225           |
-| Total   | 12  | 5.000 | 3.162          | .913            |
 
 #### Calculating the One-Way ANOVA
 
@@ -545,6 +544,10 @@ The following table of descriptive statistics can be used to determine the infer
 > *df<sub>WITHIN</sub>* = *df<sub>1</sub>* + *df<sub>2</sub>* + *df<sub>3</sub>* = 3 + 3 + 3 = 9
 
 > *MS<sub>WITHIN</sub>* = ( *SS<sub>WITHIN</sub>* ) / ( *df<sub>WITHIN</sub>* ) = (54.000)(9) = 6.000
+
+**Grand (or Total) Mean:** A grand mean can be determined by taking the weighted average of all of the group means.
+
+> *M<sub>TOTAL</sub>* = ( SUM ( *n<sub>GROUP</sub>* ) ( *M<sub>GROUP</sub>* ) ) / ( *N* ) = ( 4 ( 2.000 ) + 4 ( 6.000 ) + 4 ( 7.000 ) ) / ( 4 + 4 + 4 ) = 5.000
 
 **Between Groups Statistics:** The between-groups effect statistics are a function of the group (level) means and sample sizes.
 
@@ -614,7 +617,6 @@ The following table of descriptive statistics can be used to determine the infer
 | Level 1 | 4   | 2.000 | 2.445          | 1.225           |
 | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
 | Level 3 | 4   | 7.000 | 2.445          | 1.225           |
-| Total   | 12  | 5.000 | 3.162          | .913            |
 
 #### Calculating the Post Hoc Comparisons
 
@@ -691,6 +693,16 @@ The following table of descriptive statistics can be used to determine the infer
 **Grand (or Total) Mean:** Because sample sizes are equal, a grand mean can be determined by averaging the two level means.
 
 > *M<sub>TOTAL</sub>* = ( *M<sub>1</sub>* + *M<sub>2</sub>* ) / (2) = ( 2.000 + 6.000 ) / (2) = 4.000
+
+**Subject Means:** Each subject in the study would have an average score across the time points.
+
+> *𝑀<sub>SUBJECT1</sub>* = ( *𝑌<sub>1</sub>* + *𝑌<sub>2<sub>* ) ⁄ 2 = ( 0.000 + 4.000 ) / 2 = 2.000
+
+> *𝑀<sub>SUBJECT2</sub>* = ( *𝑌<sub>1</sub>* + *𝑌<sub>2<sub>* ) ⁄ 2 = ( 0.000 + 7.000 ) / 2 = 3.500
+
+> *𝑀<sub>SUBJECT3</sub>* = ( *𝑌<sub>1</sub>* + *𝑌<sub>2<sub>* ) ⁄ 2 = ( 3.000 + 4.000 ) / 2 = 3.500
+
+> *𝑀<sub>SUBJECT1</sub>* = ( *𝑌<sub>1</sub>* + *𝑌<sub>2<sub>* ) ⁄ 2 = ( 5.000 + 9.000 ) / 2 = 7.000
 
 **Between-Subjects Error Statistics:** Between-subjects error refers to the average differences across the participants of the study. This Sum of Squares is not easily determined from the summary statistics output, but rather from the data.
 
@@ -781,13 +793,8 @@ The following table of descriptive statistics can be used to determine the infer
 |---------|---------|-------|----------------|-----|
 | Level 1 | Level 1 | 2.000 | 2.445          | 4   |
 |         | Level 2 | 7.000 | 2.445          | 4   |
-|         | Total   | 4.500 | 3.505          | 8   |
 | Level 2 | Level 1 | 6.000 | 2.445          | 4   |
 |         | Level 2 | 5.000 | 2.449          | 4   |
-|         | Total   | 5.500 | 2.330          | 8   |
-| Total   | Level 1 | 4.000 | 3.117          | 8   |
-|         | Level 2 | 6.000 | 2.507          | 8   |
-|         | Total   | 5.000 | 2.921          | 16  |
 
 #### Calculating the Factorial ANOVA
 
@@ -806,6 +813,24 @@ The following table of descriptive statistics can be used to determine the infer
 > *df<sub>ERROR</sub>* = *df<sub>1</sub>* + *df<sub>2</sub>* + *df<sub>3</sub>* + *df<sub>4</sub>* = 3 + 3 + 3 + 3 = 12
 
 > *MS<sub>ERROR</sub>* = ( *SS<sub>ERROR</sub>* ) / ( *df<sub>ERROR</sub>* ) = ( 72.000 ) ( 12 ) = 6.000
+
+**Grand (or Total) Mean:** A grand mean can be determined by taking the weighted average of all of the group means.
+
+> *M<sub>TOTAL</sub>* = ( SUM ( *n<sub>GROUP</sub>* ) ( *M<sub>GROUP</sub>* ) ) / ( *N* ) = ( 4 ( 2.000 ) + 4 ( 7.000 ) + 4 ( 6.000 ) + 4 ( 5.000 ) ) / ( 4 + 4 + 4 + 4) = 5.000
+
+**Marginal Means:** A level (marginal) mean can be determined by taking the weighted average of the appropriate group means.
+
+For Factor A:
+
+> *M<sub>A1</sub>* = ( SUM ( *n<sub>GROUP</sub>* ) ( *M<sub>GROUP</sub>* ) ) / ( *n<sub>LEVEL</sub>* ) = ( 4 ( 2.000 ) + 4 ( 7.000 ) ) / ( 4 + 4 ) = 4.500
+
+> *M<sub>A2</sub>* = ( SUM ( *n<sub>GROUP</sub>* ) ( *M<sub>GROUP</sub>* ) ) / ( *n<sub>LEVEL</sub>* ) = ( 4 ( 6.000 ) + 4 ( 5.000 ) ) / ( 4 + 4 ) = 5.500
+
+For Factor B:
+
+> *M<sub>B1</sub>* = ( SUM ( *n<sub>GROUP</sub>* ) ( *M<sub>GROUP</sub>* ) ) / ( *n<sub>LEVEL</sub>* ) = ( 4 ( 2.000 ) + 4 ( 6.000 ) ) / ( 4 + 4 ) = 4.000
+
+> *M<sub>B2</sub>* = ( SUM ( *n<sub>GROUP</sub>* ) ( *M<sub>GROUP</sub>* ) ) / ( *n<sub>LEVEL</sub>* ) = ( 4 ( 7.000 ) + 4 ( 5.000 ) ) / ( 4 + 4 ) = 4.000
 
 **Effect (Between Groups) Statistics:** The Model statistics represent the overall differences among the groups. The Factor A and Factor B statistics are a function of the level (marginal) means and sample sizes. The interaction statistics reflect the between-groups variability not accounted for by the factors individually.
 
