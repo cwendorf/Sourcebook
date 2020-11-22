@@ -43,16 +43,15 @@ The following frequency distribution can be used to determine the percentiles an
 
 **Percentiles:** Percentiles provide the scores associated with particular percentile ranks. The 50<sup>th</sup> percentile (the Median) and the 25<sup>th</sup> and 75<sup>th</sup> percentiles (collectively known as the Interquartile Range) are the most commonly calculated.
 
-> For example, the 50<sup>th</sup> percentile is the score in the following position:
-*Position* = *PR*(*N*+1) = .50(8+1) = 4.5
-
-\\[ a^2 = b^2 + c^2 \\]
+For example, the 50<sup>th</sup> percentile is the score in the following position:
 
 \\[ \text{Position} = PR ( N + 1 ) = .50 ( 8 + 1 ) = 4.5\\]
 
+> \\[ \text{Position} = PR ( N + 1 ) = .50 ( 8 + 1 ) = 4.5\\]
+
 Thus, the score at the 50<sup>th</sup> percentile is the 4.5<sup>th</sup> score in the frequency distribution – a score of 4.
 
-> Similarly, a score of .75 is at the 25<sup>th</sup> percentile and a score of 6.5 is at the 75<sup>th</sup> percentile. Importantly, in some cases, the score values are non-integer interpolated values.
+Similarly, a score of .75 is at the 25<sup>th</sup> percentile and a score of 6.5 is at the 75<sup>th</sup> percentile. Importantly, in some cases, the score values are non-integer interpolated values.
 
 #### Summarizing the Frequencies and Percentiles
 
