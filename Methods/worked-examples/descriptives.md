@@ -47,11 +47,11 @@ The following frequency distribution can be used to determine the descriptive st
 
 > *SD* = SQRT ( *MS* ) = SQRT ( 9.714 ) = 3.117
 
-> \\[ SD = \SQRT(MS) = \SQRT(9.714) = 3.117 \\]
+> \\[ SD = \SQRT{MS} = \SQRT{9.714} = 3.117 \\]
 
 #### Summarizing the Descriptive Statistics
 
-The purpose of the descriptive statistics is to provide the reader with an idea about the basic elements of the group(s) being studied. Note that these also form the basis of the in-text presentation for most statistical analyses. Both of the following versions present the required information.
+The purpose of the descriptive statistics is to provide the reader with an idea about the basic elements of the group(s) being studied. Note that these also form the basis of the in-text presentation for most statistical analyses. Both of the following versions present the required information and, therefore, either could be used.
 
 > The participants (*N* = 8) had a low mean Outcome score (*M* = 4.00, *SD* = 3.12).
 
