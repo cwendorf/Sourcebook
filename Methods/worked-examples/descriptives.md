@@ -33,15 +33,15 @@ The following frequency distribution can be used to determine the descriptive st
 
 **Mean:** The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
 
-> *M* = SUM (f*Y*) / *N* = [ ( 2 x 0 ) + ( 1 x 3 ) + ( 2 x 4 ) + ( 1 x 5 ) + ( 1 x 7 ) + (1  x 8) ] / 8 = 4.000
+> \\[ M = \frac{\sum(fY)}{N} = \frac{(2 \times 0) + (1 \times 3) + (2 \times 4) + (1 \times 5) + (1 \times 7) + 1 \times 8}{8} = 4 \\]
 
 **Sum of Squares:** The Sum of Squares is the basic measure of the variability of the scores. Formally, it is the sum of the weighted deviations of the scores about the mean.
 
-> *SS* = SUM ( f ( Y - M )) = 2 ( 0 - 4.000 )<sup>2</sup> + 1 ( 3 - 4.000 )<sup>2</sup> + 2 ( 4 - 4.000 )<sup>2</sup> + 1 ( 5 - 4.000 )<sup>2</sup> + 1 ( 7 - 4.000 )<sup>2</sup> + 1 ( 8 - 4.000 )<sup>2</sup> = 68.000
+> \\[ SS = \sum f (Y - M) = 2 (0 - 4)^2 + 1(3 - 4)^2 + 2(4 - 4)^2 + 1(5 - 4)^2 + 1(7 - 4)^2 + 1(8 - 4)^2 = 68 \\]
 
 **Mean Squares:** Mean Squares (also known as Variance) is a function of the Sum of Squares. It is calculated as an unbiased estimate of the population variance.
 
-> *MS* = (*SS*) / (*N* - 1) = (68) / (7) = 9.714
+> \\[ MS = ( SS ) / ( N - 1 ) = (68) / (7) = 9.714 \\]
 
 **Standard Deviation:** Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population standard deviation.
 
