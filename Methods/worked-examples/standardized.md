@@ -71,8 +71,6 @@ This is repeated for each score in the distribution. In software programs, these
 **Standard Deviation:** Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population
 standard deviation.
 
-> SD = SQRT ( *MS* ) = SQRT ( 1.000 ) = 1.000
-
 > \\[ SD = \sqrt{MS} = \sqrt{1.000} = 1.000 \\]
 
 #### Summarizing the Standardized Scores
