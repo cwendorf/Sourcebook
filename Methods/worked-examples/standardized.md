@@ -39,7 +39,7 @@ The following table of descriptive statistics can be used for the sake of compar
 
 **Standardized (z) Score:** A standardized score is a deviation score divided by the standard deviation. For the first score in the distribution:
 
-> *z* = ( *Y* - *M* ) / ( *SD* ) = (0 - 4) / (3.117) = (- 4) / (3.117) = -1.283
+> \\[ z = \frac{Y - M}{SD} = \frac{0 - 4}{3.117} = -1.283
 
 This is repeated for each score in the distribution. In software programs, these would be calculated and presented as follows:
 
@@ -58,20 +58,22 @@ This is repeated for each score in the distribution. In software programs, these
 
 **Mean:** The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
 
-> *M* = SUM (f*Y*) / *N* = [ ( 2 x -1.283 ) + ( 1 x -.321 ) + ( 2 x 0 ) + ( 1 x .321 ) + ( 1 x .963 ) + (1  x 1.604) ] / 8 = 0.000
+> \\[ M = \frac{\sum(fY)}{N} = \frac{(2 \times -1.283) + (1 \times -.321) + (2 \times 0) + (1 \times .321) + (1 \times .963) + (1 \times 1.604)}{8} = 0.000 \\]
 
 **Sum of Squares:** The Sum of Squares is the basic measure of the variability of the scores. Formally, it is the SUM of the weighted deviations of the scores about the mean.
 
-> *SS* = SUM ( f ( Y - M )) = 2( -1.283 - 0.000 )<sup>2</sup> + 1( -.321 - 0.000 )<sup>2</sup> + 2( 0.000 - 0.000 )<sup>2</sup> + 1( .321 - 0.000 )<sup>2</sup> + 1( .963 - 0.000 )<sup>2</sup> + 1( 1.604 - 0.000 )<sup>2</sup> = 7.000
+> \\[ SS = \sum f (Y - M) = 2 (-1.283 - 0)^2 + 1(-.321 - 0)^2 + 2(0.000 - 0)^2 + 1(.321 - 0)^2 + 1(.963 - 0)^2 + 1(1.604 - 0)^2 = 7.000 \\]
 
 **Mean Squares:** Mean Squares (also known as Variance) is a function of the Sum of Squares. It is calculated as an unbiased estimate of the population variance.
 
-> *MS* = ( *SS* ) / ( *N* - 1 ) = (7.000) / (7) = 1.000
+> \\[ MS = \frac{SS}{(N - 1)} = \frac{7.000}{7} = 1.000 \\]
 
 **Standard Deviation:** Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population
 standard deviation.
 
 > SD = SQRT ( *MS* ) = SQRT ( 1.000 ) = 1.000
+
+> \\[ SD = \sqrt{MS} = \sqrt{1.000} = 1.000 \\]
 
 #### Summarizing the Standardized Scores
 
