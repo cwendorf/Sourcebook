@@ -21,4 +21,4 @@ The Sourcebook includes chapters on the following:
 
 ### Citation
 
-> Wendorf, C. A. (2019). _Statistics for social science: A sourcebook of basic statistical methods._ [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
+Wendorf, C. A. (2019). _Statistics for social science: A sourcebook of basic statistical methods._ [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
