@@ -41,7 +41,7 @@ The following frequency distribution can be used to determine the descriptive st
 
 **Mean Squares:** Mean Squares (also known as Variance) is a function of the Sum of Squares. It is calculated as an unbiased estimate of the population variance.
 
-> \\[ MS = ( SS ) / ( N - 1 ) = (68) / (7) = 9.714 \\]
+> \\[ MS = \frac{SS}{(N - 1)} = \frac{68}{7} = 9.714 \\]
 
 **Standard Deviation:** Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population standard deviation.
 
