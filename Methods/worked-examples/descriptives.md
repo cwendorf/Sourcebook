@@ -47,9 +47,7 @@ The following frequency distribution can be used to determine the descriptive st
 
 > *SD* = SQRT ( *MS* ) = SQRT ( 9.714 ) = 3.117
 
-> \\[ SD = sqrt ( MS ) = sqrt ( 9.714 ) = 3.117 \\]
-
-\\[ SD = SQRT(MS) = SQRT(9.714) = 3.117 \\]
+> \\[ SD = \SQRT(MS) = \SQRT(9.714) = 3.117 \\]
 
 #### Summarizing the Descriptive Statistics
 
