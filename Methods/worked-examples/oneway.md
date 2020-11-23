@@ -65,7 +65,7 @@ The following table of descriptive statistics can be used to determine the infer
 
 **Effect Size:** The Eta-Squared statistic is a ratio of the between group and the total group variability (Sum of Squares) estimates.
 
-> \\[ \eta^2 = \frac{SS_{BETWEEN}}{SS_{BETWEEN} + SS_{WITHIN}} = \frac{56.000}{( 56.000 + 54.000 )} \\]
+> \\[ \eta^2 = \frac{SS_{BETWEEN}}{( SS_{BETWEEN} + SS_{WITHIN} )} = \frac{56.000}{( 56.000 + 54.000 )} = .509 \\]
 
 **Confidence Intervals:** For ANOVA, calculate the confidence intervals around (centered on) each mean separately.
 
