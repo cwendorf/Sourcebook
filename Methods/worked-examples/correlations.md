@@ -36,7 +36,7 @@ The following table of descriptive statistics can be used to assist in calculati
 
 #### Summarizing the Correlation
 
-Correlations provide a measure of statistical relationship between two variables. Note that correlations can be tested for statistical significance (and that this information should be SUMmarized if it is available and of interest).
+Correlations provide a measure of statistical relationship between two variables. Note that correlations can be tested for statistical significance (and that this information should be summarized if it is available and of interest). Both of the following versions present the required information and, therefore, either could be used.
 
 > For the participants (*N* = 4), the scores on Outcome 1 (*M* = 2.00, *SD* = 2.45) and Outcome 2 (*M* = 6.00, *SD* = 2.45) were moderately correlated, *r*(2) = .50.
 
