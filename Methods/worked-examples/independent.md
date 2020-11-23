@@ -44,33 +44,32 @@ The following table of descriptive statistics can be used to determine the infer
 
 > \\[ SD_{WITHIN} = \sqrt{MS_{WITHIN}} = \sqrt{6.000} = 2.449 \\]
 
-**Standard Error of the Difference:** The standard error of the difference is a function of the two groups’ individual standard errors. When the two sample sizes are equal:
+**Standard Error of the Difference:** The standard error of the difference is a function of the two groups’ individual standard errors. 
+
+When the two sample sizes are equal:
 
 > *SE<sub>DIFF</sub>* = SQRT ( *SE<sub>1</sub><sup>2</sup>* + *SE<sub>2</sub><sup>2</sup>* ) = SQRT ( 1.225<sup>2</sup> + 1.225<sup>2</sup> ) = 1.732
 
-Or this can be used when the two sample sizes are equal or are unequal:
+> \\[ SE_{DIFF} = \sqrt{ SE_1^2 + SE_2^2 } = \sqrt{ 1.225^2 + 1.225^2 } = 1.732 
 
-> *SE<sub>DIFF</sub>* = SQRT [ ( *MS<sub>WITHIN</sub>* )  / ( *n<sub>1</sub>* ) + ( *MS<sub>WITHIN</sub>* )  / ( *n<sub>2</sub>* ) ]  
-= SQRT [ ( 6.000 ) / ( 4 ) + ( 6.000 )  / ( 4 ) = 1.732
+Or this can be used when the two sample sizes are either equal or are unequal:
 
-
+> \\[ SE_{DIFF} = \sqrt{ \frac{MS_{WITHIN}}{n_1} + \frac{MS_{WITHIN}}{n_2}} = \sqrt{ \frac{6.000}{4} + \frac{6}{4}} = 1.732 \\]
 
 **Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
 
-> t = ( *M<sub>1</sub>* - *M<sub>2</sub>* ) / ( *SE<sub>DIFF</sub>* ) = ( -4.000 ) / ( 1.732 ) = -2.309
-
-> *df* = ( *n*<sub>1</sub> −1 ) + ( *n*<sub>2</sub> − 1 ) = *N* − 2 = 8 − 2 = 6
-
+> \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.309 \\]  
+> \\[ df = ( n_1 - 1 ) + ( n_2 - 1) = N - 2 = 8 - 2 = 6  \\]
 > With *df* = 6, *t<sub>CRITICAL</sub>* = 2.447
 > Because *t* < *t<sub>CRITICAL</sub>*, *p* > .05
 
 **Effect Size:** Cohen’s *d* Statistic provides a standardized effect size for the difference between the two means.
 
-> *d* = ( *M<sub>1</sub>* - *M<sub>2</sub>* ) / ( *SD<sub>WITHIN</sub>* ) = ( -4.000) / ( 2.449 ) = -1.630
+> \\[ d = \frac{M_{DIFF}}{SD_{WITHIN}} = \frac{-4.000}{2.449} = -1.630 \\]
 
 **Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
-> *CI<sub>DIFF</sub>* = ( *M<sub>1</sub>* − *M<sub>2</sub>* ) ± ( *t<sub>CRITICAL</sub>* ) ( *SE<sub>DIFF</sub>* ) = −4.000 ± (2.447)(1.732) = \[ −8.238, 0.238 \]
+> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{WITHIN}) = -4.000 \pm (2.447) (1.732) = [ −8.238, 0.238 ] \\]
 
 #### Summarizing the Independent Samples t Test
 
