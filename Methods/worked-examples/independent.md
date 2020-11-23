@@ -56,7 +56,7 @@ Or this can be used when the two sample sizes are either equal or are unequal:
 
 **Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
 
-> \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.309 \\]  
+> \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.309 \\]
 > \\[ df = ( n_1 - 1 ) + ( n_2 - 1) = N - 2 = 8 - 2 = 6  \\]
 > With *df* = 6, *t<sub>CRITICAL</sub>* = 2.447
 > Because *t* < *t<sub>CRITICAL</sub>*, *p* > .05
