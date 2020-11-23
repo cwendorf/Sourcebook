@@ -41,7 +41,7 @@ The following table of descriptive statistics can be used to determine the infer
 
 **Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
-> \\[ CI_DIFF = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -3.000 \pm (2.365) (1.102) = [ -5.606, -0.394] \\]
+> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -3.000 \pm (2.365) (1.102) = [ -5.606, -0.394] \\]
 
 #### Summarizing the One Sample t Test
 
