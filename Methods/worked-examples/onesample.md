@@ -27,21 +27,21 @@ The following table of descriptive statistics can be used to determine the infer
 
 **Mean Difference (Raw Effect):** The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
 
-> \\[ M_DIFF = M - \mu = 4.000 − 7.000 = −3.000 \\]
+> \\[ M_{DIFF} = M - \mu = 4.000 − 7.000 = −3.000 \\]
 
 **Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 
-> \\[ t = \frac{M_DIFF}{SE_M} = \frac{-3.000}{1.102} = -2.722 \\]  
+> \\[ t = \frac{M_{DIFF}}{SE_M} = \frac{-3.000}{1.102} = -2.722 \\]  
 > With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
 > Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05
 
 **Effect Size:** Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
 
-> \\[ d = \frac{M_DIFF}{SE_M} = \frac{-3.000}{3.117} = 0.963 \\]
+> \\[ d = \frac{M_{DIFF}}{SE_M} = \frac{-3.000}{3.117} = 0.963 \\]
 
 **Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
-> \\[ CI_DIFF = M_DIFF \pm (t_CRITICAL ) (SE_M) = -3.000 \pm (2.365) (1.102) = [ -5.606, -0.394] \\]
+> \\[ CI_DIFF = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -3.000 \pm (2.365) (1.102) = [ -5.606, -0.394] \\]
 
 #### Summarizing the One Sample t Test
 
