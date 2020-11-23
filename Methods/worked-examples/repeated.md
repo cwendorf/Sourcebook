@@ -72,7 +72,7 @@ The following table of descriptive statistics can be used to determine the infer
 
 **Effect Size:** The partial eta-squared statistic is a ratio of the within-subjects effect and the remaining variability (Sum of Squares) estimates after between-subjects error has been partialled out.
 
-> \\[ \text{Partial} \eta^2 = \frac{SS_{EFFECT}}{( SS_{EFFECT} + SS_{ERROR} )} = \frac{32.000}{( 32.000 + 9.000 )} = .780 \\]
+> \\[ \text{Partial} \; \eta^2 = \frac{SS_{EFFECT}}{( SS_{EFFECT} + SS_{ERROR} )} = \frac{32.000}{( 32.000 + 9.000 )} = .780 \\]
 
 **Confidence Intervals:** For RMD ANOVA, calculate the confidence intervals around (centered on) each mean separately.
 
