@@ -54,7 +54,7 @@ This is repeated for each score in the distribution. In software programs, these
 | 7   | 4.00    | 0        |
 | 8   | 9.00    | 1.604    |
 
-### Using Standardized Scores to Estimate Percentiles
+#### Using Standardized Scores to Estimate Percentiles
 
 **Percentile Rank:** The 50th percentile (the Median) and the 25th and 75th percentiles (collectively known as the Interquartile Range) are the most commonly calculated. Assuming a perfectly normal distribution:
 
