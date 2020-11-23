@@ -39,7 +39,7 @@ The following table of descriptive statistics can be used for the sake of compar
 
 **Standardized (z) Score:** A standardized score is a deviation score divided by the standard deviation. For the first score in the distribution:
 
-> \\[ z = \frac{(Y - M)}{SD} = \frac{0 - 4.000}{3.117} = -1.283 \\]
+> \\[ z = \frac{(Y - M)}{SD} = \frac{(0 - 4.000)}{3.117} = -1.283 \\]
 
 This is repeated for each score in the distribution. In software programs, these would be calculated and presented as follows:
 
