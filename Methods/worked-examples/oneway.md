@@ -47,7 +47,7 @@ The following table of descriptive statistics can be used to determine the infer
 
 **Grand (or Total) Mean:** A grand mean can be determined by taking the weighted average of all of the group means.
 
-> \\[ M_{TOTAL} = \frac{\sum n_{GROUP} (M_{GROUP})}{N} = \frac{ 4 (2.000) 4 (6.000) + 4 (7.000) }{( 4 + 4 + 4 )} = 5.000 \\]
+> \\[ M_{TOTAL} = \frac{\sum n_{GROUP} (M_{GROUP})}{N} = \frac{ 4 (2.000) + 4 (6.000) + 4 (7.000) }{( 4 + 4 + 4 )} = 5.000 \\]
 
 **Between Groups Statistics:** The between-groups effect statistics are a function of the group (level) means and sample sizes.
 
@@ -71,11 +71,11 @@ The following table of descriptive statistics can be used to determine the infer
 
 > Because each group has 3 *df*, *t<sub>CRITICAL</sub>* = ±3.182
 
-> \\[ CI_M_1 = M_1 \pm (t_{CRITICAL}) (SE_M) = 2.000 \pm (3.182) (1.225) = [ −1.898, 5.898 ] \\]
+> \\[ CI_M1 = M_1 \pm (t_{CRITICAL}) (SE_M) = 2.000 \pm (3.182) (1.225) = [ −1.898, 5.898 ] \\]
 
-> \\[ CI_M_2 = M_2 \pm (t_{CRITICAL}) (SE_M) = 6.000 \pm (3.182) (1.225) = [ 2.102, 9.898 ] \\]
+> \\[ CI_M2 = M_2 \pm (t_{CRITICAL}) (SE_M) = 6.000 \pm (3.182) (1.225) = [ 2.102, 9.898 ] \\]
 
-> \\[ CI_M_3 = M_3 \pm (t_{CRITICAL}) (SE_M) = 7.000 \pm (3.182) (1.225) = [ 3.102, 10.898 ] \\]
+> \\[ CI_M3 = M_3 \pm (t_{CRITICAL}) (SE_M) = 7.000 \pm (3.182) (1.225) = [ 3.102, 10.898 ] \\]
 
 #### Summarizing the One-Way ANOVA
 
