@@ -50,9 +50,8 @@ The following table of descriptive statistics can be used to determine the infer
 > \\[ HSD_{1vs2} = \frac{( M_1 - M_2 )}{SE_{DIFF}} = \frac{-4.000}{1.732} = 2.309 \\]
  > Because *HSD* < *HSD<sub>CRITICAL</sub>*, *p* > .05
 
-> \\[ HSD_{1vs2} = \frac{( M_1 - M_3 )}{SE_{DIFF}} = \frac{-5.000}{1.732} = 2.887 \\]
+> \\[ HSD_{1vs3} = \frac{( M_1 - M_3 )}{SE_{DIFF}} = \frac{-5.000}{1.732} = 2.887 \\]
 > Because *HSD* > *HSD<sub>CRITICAL</sub>*, *p* < .05
-
 
 > \\[ HSD_{2vs3} = \frac{( M_2 - M_3 )}{SE_{DIFF}} = \frac{-1.000}{1.732} = 0.577 \\]
 > Because *HSD* < *HSD<sub>CRITICAL</sub>*, *p* > .05
