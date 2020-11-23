@@ -7,7 +7,7 @@
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
 
 |     | Outcome |
-|-----|---------|
+|-----|--------:|
 | 1   | .00     |
 | 2   | .00     |
 | 3   | 3.00    |
@@ -20,7 +20,7 @@ The following data set reflects one sample of eight individuals measured on one 
 The following frequency distribution can be used to determine the descriptive statistics.
 
 |     |   | Frequency | Percent | Valid Percent | Cumulative Percent |
-|-------|-----------|---------|---------------|--------------------|-------|
+|-------|----------:|--------:|--------------:|-------------------:|------:|
 | Valid | 0.00      | 2       | 25.0          | 25.0               | 25.0  |
 |       | 3.00      | 1       | 12.5          | 12.5               | 37.5  |
 |       | 4.00      | 2       | 25.0          | 25.0               | 62.5  |
