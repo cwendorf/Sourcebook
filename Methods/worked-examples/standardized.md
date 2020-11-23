@@ -39,7 +39,7 @@ The following table of descriptive statistics can be used for the sake of compar
 
 **Standardized (z) Score:** A standardized score is a deviation score divided by the standard deviation. For the first score in the distribution:
 
-> \\[ z = \frac{(Y - M)}{SD} = \frac{0 - 4}{3.117} = -1.283 \\]
+> \\[ z = \frac{(Y - M)}{SD} = \frac{0 - 4.000}{3.117} = -1.283 \\]
 
 This is repeated for each score in the distribution. In software programs, these would be calculated and presented as follows:
 
@@ -53,6 +53,26 @@ This is repeated for each score in the distribution. In software programs, these
 | 6   | 7.00    | 0.963    |
 | 7   | 4.00    | 0        |
 | 8   | 9.00    | 1.604    |
+
+### Using Standardized Scores to Estimate Percentiles
+
+**Percentile Rank:** The 50th percentile (the Median) and the 25th and 75th percentiles (collectively known as the Interquartile Range) are the most commonly calculated. Assuming a perfectly normal distribution:
+
+> From the Standard Normal Distribution table: for PR = .250, z = -.680
+
+> From the Standard Normal Distribution table: for PR = .500, z = 0.000
+
+> From the Standard Normal Distribution table: for PR = .750, z = +.680
+
+**Percentile Point:** Percentiles provide the scores associated with particular percentile ranks. These can be estimated using the z score formula and the descriptive information from the original variable:
+
+> For PR = .250: -.680 = (Y - 4.000) / 3.117; Y = 1.880
+
+> For PR = .500: 0.000 = (Y - 4.000) / 3.117; Y = 4.000
+
+> For PR = .750: 0.000 = (Y - 4.000) / 3.117; Y = 6.120
+
+> Thus, we estimate the scores at the 25th, 50th, and 75th percentiles to be approximately 1.880, 4.000, and 6.120 respectively. These are accurate estimates only if the distribution is perfectly normal.
 
 #### Calculating the Descriptive Statistics of the Standardized Scores
 
