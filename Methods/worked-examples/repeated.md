@@ -46,9 +46,9 @@ The following table of descriptive statistics can be used to determine the infer
 
 **Within-Subjects Error Statistics:** The within-subjects error is a function of variabilities of the separate levels or conditions of the independent variable and the between-subjects error given above.
 
-> \\[ SS_1 = ( SD_1^2 ) ( df_1) = ( 2.449^2 ) ( 3 ) = 18.000 \\]
+> \\[ SS_1 = ( SD_1^2 ) ( df_1 ) = ( 2.449^2 ) ( 3 ) = 18.000 \\]
 
-> \\[ SS_2 = ( SD_2^2 ) ( df_2) = ( 2.449^2 ) ( 3 ) = 18.000 \\]
+> \\[ SS_2 = ( SD_2^2 ) ( df_2 ) = ( 2.449^2 ) ( 3 ) = 18.000 \\]
 
 > \\[ SS_{ERROR} = SS_1 + SS_2 - SS_{SUBJECTS} = 18.000 + 18.000 - 27.000 = 9.000 \\]
 
