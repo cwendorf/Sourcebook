@@ -7,7 +7,7 @@
 The following data set reflects a between-subjects Factorial design with two factors (with two levels for each factor). The data are presented in the format suitable for entry into statistical software.
 
 |     | FactorA | FactorB | Outcome |
-|-----|---------|---------|---------|
+|-----|--------:|--------:|--------:|
 | 1   | 1.00    | 1.00    | .00     |
 | 2   | 1.00    | 1.00    | .00     |
 | 3   | 1.00    | 1.00    | 3.00    |
@@ -28,7 +28,7 @@ The following data set reflects a between-subjects Factorial design with two fac
 The following table of descriptive statistics can be used to determine the inferential statistics for the Factorial ANOVA.
 
 | FactorA | FactorB | Mean  | Std. Deviation | N   |
-|---------|---------|-------|----------------|-----|
+|---------|---------|------:|---------------:|----:|
 | Level 1 | Level 1 | 2.000 | 2.445          | 4   |
 |         | Level 2 | 7.000 | 2.445          | 4   |
 | Level 2 | Level 1 | 6.000 | 2.445          | 4   |
