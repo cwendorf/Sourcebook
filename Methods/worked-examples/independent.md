@@ -67,7 +67,7 @@ Or this can be used when the two sample sizes are either equal or are unequal:
 
 **Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
-> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{WITHIN}) = -4.000 \pm (2.447) (1.732) = [ −8.238, 0.238 ] \\]
+> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) = -4.000 \pm (2.447) (1.732) = [ −8.238, 0.238 ] \\]
 
 #### Summarizing the Independent Samples t Test
 
