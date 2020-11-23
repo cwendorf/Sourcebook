@@ -7,7 +7,7 @@
 The following data set reflects a between-subjects design with one factor (that has two levels). The data are presented in the format suitable for entry into statistical software.
 
 |     | Factor | Outcome |
-|-----|--------|---------|
+|-----|-------:|--------:|
 | 1   | 1.00   | .00     |
 | 2   | 1.00   | .00     |
 | 3   | 1.00   | 3.00    |
@@ -20,7 +20,7 @@ The following data set reflects a between-subjects design with one factor (that 
 The following table of descriptive statistics can be used to determine the inferential statistics for the Independent Samples t Test.
 
 |         | Group   | N   | Mean  | Std. Deviation | Std. Error Mean |
-|---------|---------|-----|-------|----------------|-----------------|
+|---------|---------|----:|------:|---------------:|----------------:|
 | Outcome | Level 1 | 4   | 2.000 | 2.445          | 1.225           |
 |         | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
 
@@ -48,10 +48,12 @@ The following table of descriptive statistics can be used to determine the infer
 
 > *SE<sub>DIFF</sub>* = SQRT ( *SE<sub>1</sub><sup>2</sup>* + *SE<sub>2</sub><sup>2</sup>* ) = SQRT ( 1.225<sup>2</sup> + 1.225<sup>2</sup> ) = 1.732
 
-When the two sample sizes are unequal:
+Or this can be used when the two sample sizes are equal or are unequal:
 
 > *SE<sub>DIFF</sub>* = SQRT [ ( *MS<sub>WITHIN</sub>* )  / ( *n<sub>1</sub>* ) + ( *MS<sub>WITHIN</sub>* )  / ( *n<sub>2</sub>* ) ]  
 = SQRT [ ( 6.000 ) / ( 4 ) + ( 6.000 )  / ( 4 ) = 1.732
+
+
 
 **Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
 
