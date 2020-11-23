@@ -7,7 +7,7 @@
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
 
 |     | Outcome |
-|-----|---------|
+|-----|--------:|
 | 1   | .00     |
 | 2   | .00     |
 | 3   | 3.00    |
@@ -20,7 +20,7 @@ The following data set reflects one sample of eight individuals measured on one 
 The following frequency distribution can be used to determine the percentiles and the descriptive statistics.
 
 |  |      | Frequency | Percent | Valid Percent | Cumulative Percent |
-|-------|-----------|---------|---------------|--------------------|-------|
+|-------|----------:|--------:|--------------:|-------------------:|------:|
 | Valid | 0.00      | 2       | 25.0          | 25.0               | 25.0  |
 |       | 3.00      | 1       | 12.5          | 12.5               | 37.5  |
 |       | 4.00      | 2       | 25.0          | 25.0               | 62.5  |
@@ -32,7 +32,7 @@ The following frequency distribution can be used to determine the percentiles an
 The following table of descriptive statistics can be used for the sake of comparison.
 
 |         | N   | Mean  | Std. Deviation |
-|---------|-----|-------|----------------|
+|---------|----:|------:|---------------:|
 | Outcome | 8   | 4.000 | 3.117          |
 
 #### Calculating the Standardized Scores
@@ -44,7 +44,7 @@ The following table of descriptive statistics can be used for the sake of compar
 This is repeated for each score in the distribution. In software programs, these would be calculated and presented as follows:
 
 |     | Outcome | zOutcome |
-|-----|---------|----------|
+|-----|--------:|---------:|
 | 1   | .00     | -1.283   |
 | 2   | .00     | -1.283   |
 | 3   | 3.00    | -0.321   |
