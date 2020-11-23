@@ -7,7 +7,7 @@
 The following data set reflects a within-subjects (repeated measures) design with two levels of the factor. The data are presented in the format suitable for entry into statistical software.
 
 |     | Outcome1 | Outcome2 | Change   |
-|-----|----------|----------|----------|
+|-----|---------:|---------:|---------:|
 | 1   | .00      | 4.00     | -4.00    |
 | 2   | .00      | 7.00     | -7.00    |
 | 3   | 3.00     | 4.00     | -1.00    |
@@ -18,7 +18,7 @@ The third variable is a created variable. It shows the difference (Time 1 – Ti
 The following table of descriptive statistics can be used to determine the inferential statistics for the Paired Samples t Test.
 
 |          | N   | Mean  | Std. Deviation | Std. Error |
-|----------|-----|-------|----------------|------------|
+|----------|----:|------:|---------------:|-----------:|
 | Outcome1 | 4   | 2.000 | 2.449          | 1.225      |
 | Outcome2 | 4   | 6.000 | 2.449          | 1.225      |
 | Change   | 4   | -4.000 | 2.44          | 1.225      |
