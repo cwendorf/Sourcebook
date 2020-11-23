@@ -31,7 +31,7 @@ The following table of descriptive statistics can be used to determine the infer
 
 **Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 
-> \\[ t = \frac{M_{DIFF}}{SE_M} = \frac{-3.000}{1.102} = -2.722 \\]  
+> \\[ t = \frac{M_{DIFF}}{SE_M} = \frac{-3.000}{1.102} = -2.722 \\]
 > With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
 > Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05
 
