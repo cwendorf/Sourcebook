@@ -7,7 +7,7 @@
 The following data set reflects a within-subjects design with two outcome variables. The data are presented in the format suitable for entry into statistical software.
 
 |     | Outcome1 | Outcome2 |
-|-----|----------|----------|
+|-----|---------:|---------:|
 | 1   | .00      | 4.00     |
 | 2   | .00      | 7.00     |
 | 3   | 3.00     | 4.00     |
@@ -16,7 +16,7 @@ The following data set reflects a within-subjects design with two outcome variab
 The following table of descriptive statistics can be used to assist in calculating the correlation.
 
 |          | Mean  | Std. Deviation | N   |
-|----------|-------|----------------|-----|
+|----------|------:|---------------:|----:|
 | Outcome1 | 2.000 | 2.445          | 4   |
 | Outcome2 | 6.000 | 2.445          | 4   |
 
