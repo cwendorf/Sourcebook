@@ -33,51 +33,49 @@ The following table of descriptive statistics can be used to determine the infer
 
 **Within Groups Statistics:** Within-groups error statistics are a function of the within group variabilities.
 
-> *SS<sub>1</sub>* = ( *SD<sub>1</sub><sup>2</sup>*) ( *df<sub>1</sub>* ) = ( 2.44949<sup>2</sup> ) ( 3 ) = 18.000
+> \\[ SS_1 = ( SD_1^2 ) ( df_1) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 
-> *SS<sub>2</sub>* = ( *SD<sub>2</sub><sup>2</sup>* ) ( *df<sub>2</sub>* ) = ( 2.44949<sup>2</sup> ) ( 3 ) = 18.000
+> \\[ SS_2 = ( SD_2^2 ) ( df_2) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 
-> *SS<sub>3</sub>* = ( *SD<sub>3</sub><sup>2</sup>* ) ( *df<sub>3</sub>* ) = ( 2.44949<sup>2</sup> ) ( 3 ) = 18.000
+> \\[ SS_3= ( SD_3^2 ) ( df_3) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 
-> *SS<sub>WITHIN</sub>* = *SS<sub>1</sub>* + *SS<sub>2</sub>* + *SS<sub>3</sub>* = 18.000 + 18.000 + 18.000 = 54.000
+> \\[ SS_{WITHIN} = SS_1 + SS_ 2 + SS_ 3 = 18.000 + 18.000 + 18.000 = 54.000 \\]
 
-> *df<sub>WITHIN</sub>* = *df<sub>1</sub>* + *df<sub>2</sub>* + *df<sub>3</sub>* = 3 + 3 + 3 = 9
+> \\[ df_{WITHIN} = df_1 + df_ 2 + df_ 3 = 3 + 3 + 3 = 9 \\]
 
-> *MS<sub>WITHIN</sub>* = ( *SS<sub>WITHIN</sub>* ) / ( *df<sub>WITHIN</sub>* ) = (54.000)(9) = 6.000
+> \\[ MS_{WITHIN} = \frac{SS_{WITHIN}}{df_{WITHIN}} = \frac{54.000}{9} = 6.000 \\]
 
 **Grand (or Total) Mean:** A grand mean can be determined by taking the weighted average of all of the group means.
 
-> *M<sub>TOTAL</sub>* = ( SUM ( *n<sub>GROUP</sub>* ) ( *M<sub>GROUP</sub>* ) ) / ( *N* ) = ( 4 ( 2.000 ) + 4 ( 6.000 ) + 4 ( 7.000 ) ) / ( 4 + 4 + 4 ) = 5.000
+> \\[ M_{TOTAL} = \frac{\sum n_{GROUP} (M_{GROUP})}{N} = \frac{ 4 (2.000) 4 (6.000) + 4 (7.000) }{( 4 + 4 + 4 )} = 5.000 \\]
 
 **Between Groups Statistics:** The between-groups effect statistics are a function of the group (level) means and sample sizes.
 
-> *SS<sub>BETWEEN</sub>* = SUM ( *n<sub>GROUP</sub>* ) ( *M<sub>GROUP</sub>* - *M<sub>TOTAL</sub>* )<sup>2</sup> = 4 ( 2.0 - 5.0 )<sup>2</sup> + 4 ( 6.0 - 5.0 )<sup>2</sup> + 4 ( 7.0 - 5.0 )<sup>2</sup> = 56.000
+> \\[ SS_{BETWEEN} = \sum n_{GROUP} (M_{GROUP} - M_{TOTAL})^2 = 4 ( 2.000 - 5.000 )^2 + 4 ( 6.000 - 5.000 )^2 + 4 ( 7.000 - 5.000 )^2 = 56.000  \\]
 
-> *df<sub>BETWEEN</sub>* = *\# groups* − 1 = 3 − 1 = 2
+> \\[ df_{BETWEEN} = \text{# groups} − 1 = 3 − 1 = 2 \\]
 
-> *MS<sub>BETWEEN</sub>* = ( *SS<sub>BETWEEN</sub>* ) / ( *df<sub>BETWEEN</sub>* ) = ( 56.000 ) ( 2 ) = 28.000
+> \\[ MS_{BETWEEN} = \frac{SS_{BETWEEN}}{df_{BETWEEN}} = \frac{56.000}{2} = 28.000 \\]
 
 **Statistical Significance:** The *F* statistic is the ratio of the between- and within-group variance estimates. 
 
-> *F* = ( *MS<sub>BETWEEN</sub>* ) / ( *MS<sub>WITHIN</sub>* ) = ( 28.000 ) / ( 6.000 ) = 4.667
-
-> With *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9,
-*F<sub>CRITICAL</sub>* = 4.256  
+> \\[ F = \frac{MS_{BETWEEN}}{MS_{WITHIN}} = \frac{28.000}{6.000} = 4.667 \\]
+> With *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9, *F<sub>CRITICAL</sub>* = 4.256  
 > Because *F* > *F<sub>CRITICAL</sub>*, *p* < .05
 
 **Effect Size:** The Eta-Squared statistic is a ratio of the between group and the total group variability (Sum of Squares) estimates.
 
-> *eta<sup>2</sup>* = ( *SS<sub>BETWEEN</sub>* ) / ( *SS<sub>BETWEEN</sub>* + *SS<sub>WITHIN</sub>* ) = ( 56.000 ) / ( 56.000 + 54.000 ) = 0.509
+> \\[ \eta^2 = \frac{SS_{BETWEEN}}{SS_{BETWEEN} + SS_{WITHIN}} = \frac{56.000}{( 56.000 + 54.000 )} \\]
 
 **Confidence Intervals:** For ANOVA, calculate the confidence intervals around (centered on) each mean separately.
 
 > Because each group has 3 *df*, *t<sub>CRITICAL</sub>* = ±3.182
 
-> *CI<sub>M<sub>1</sub></sub>* = *M* ± ( *t<sub>CRITICAL</sub>* ) ( *SE<sub>M</sub>* ) = 2.000 ± ( 3.182 ) ( 1.225 ) = \[ −1.898, 5.898 \]
+> \\[ CI_M_1 = M_1 \pm (t_{CRITICAL}) (SE_M) = 2.000 \pm (3.182) (1.225) = [ −1.898, 5.898 ] \\]
 
-> *CI<sub>M<sub>2</sub></sub>* = *M* ± ( *t<sub>CRITICAL</sub>* ) ( *SE<sub>M</sub>* ) = 6.000 ± ( 3.182 ) ( 1.225 ) = \[ 2.102, 9.898 \]
+> \\[ CI_M_2 = M_2 \pm (t_{CRITICAL}) (SE_M) = 6.000 \pm (3.182) (1.225) = [ 2.102, 9.898 ] \\]
 
-> *CI<sub>M<sub>3</sub></sub>* = *M* ± ( *t<sub>CRITICAL</sub>* ) ( *SE<sub>M</sub>* ) = 7.000 ± ( 3.182 ) ( 1.225 ) = \[ 3.102, 10.898 \]
+> \\[ CI_M_3 = M_3 \pm (t_{CRITICAL}) (SE_M) = 7.000 \pm (3.182) (1.225) = [ 3.102, 10.898 ] \\]
 
 #### Summarizing the One-Way ANOVA
 
