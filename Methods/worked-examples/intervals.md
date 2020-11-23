@@ -36,7 +36,7 @@ The following table of descriptive statistics can be used to determine the infer
 
 #### Summarizing the Confidence Interval
 
-Confidence intervals provide a range estimate for a population value (e.g., the mean). Note that the width of the interval can be altered to reflect the level of confidence in the estimate. Both of the following versions present the required information.
+Confidence intervals provide a range estimate for a population value (e.g., the mean). Note that the width of the interval can be altered to reflect the level of confidence in the estimate. Both of the following versions present the required information and, therefore, either could be used.
 
 > The participants (*N* = 8) had a mean Outcome score of 4.00 (*SD* = 3.12), 95% CI \[1.39, 6.61\].
 
