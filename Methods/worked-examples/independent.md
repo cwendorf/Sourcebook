@@ -48,13 +48,11 @@ The following table of descriptive statistics can be used to determine the infer
 
 When the two sample sizes are equal:
 
-> *SE<sub>DIFF</sub>* = SQRT ( *SE<sub>1</sub><sup>2</sup>* + *SE<sub>2</sub><sup>2</sup>* ) = SQRT ( 1.225<sup>2</sup> + 1.225<sup>2</sup> ) = 1.732
-
-> \\[ SE_{DIFF} = \sqrt{ SE_1^2 + SE_2^2 } = \sqrt{ 1.225^2 + 1.225^2 } = 1.732 
+> \\[ SE_{DIFF} = \sqrt{ SE_1^2 + SE_2^2 } = \sqrt{ 1.225^2 + 1.225^2 } = 1.732 \\]
 
 Or this can be used when the two sample sizes are either equal or are unequal:
 
-> \\[ SE_{DIFF} = \sqrt{ \frac{MS_{WITHIN}}{n_1} + \frac{MS_{WITHIN}}{n_2}} = \sqrt{ \frac{6.000}{4} + \frac{6}{4}} = 1.732 \\]
+> \\[ SE_{DIFF} = \sqrt{ \frac{MS_{WITHIN}}{n_1} + \frac{MS_{WITHIN}}{n_2}} = \sqrt{ (\frac{6.000}{4}) + (\frac{6.000}{4}) } = 1.732 \\]
 
 **Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
 
