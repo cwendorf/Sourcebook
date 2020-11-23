@@ -7,7 +7,7 @@
 The following data set reflects a between-subjects design with one factor (with three levels). The data are presented in the format suitable for entry into statistical software.
 
 |     | Factor | Outcome |
-|-----|--------|---------|
+|-----|-------:|--------:|
 | 1   | 1.00   | .00     |
 | 2   | 1.00   | .00     |
 | 3   | 1.00   | 3.00    |
@@ -24,7 +24,7 @@ The following data set reflects a between-subjects design with one factor (with 
 The following table of descriptive statistics can be used to determine the inferential statistics for the One-Way ANOVA and the relevant Post Hoc tests.
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
-|---------|-----|-------|----------------|-----------------|
+|---------|----:|------:|---------------:|----------------:|
 | Level 1 | 4   | 2.000 | 2.445          | 1.225           |
 | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
 | Level 3 | 4   | 7.000 | 2.445          | 1.225           |
