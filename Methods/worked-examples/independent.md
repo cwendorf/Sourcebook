@@ -28,21 +28,21 @@ The following table of descriptive statistics can be used to determine the infer
 
 **Mean Difference (Raw Effect):** The mean difference is the difference between the two sample means (raw effect).
 
-> *M*<sub>1</sub> − *M*<sub>2</sub> = 2.000 − 6.000 = − 4.000
+> \\[ M_{DIFF} = M_1 - M_2 = 2.000 − 6.000 = −4.000 \\]
 
 **Within Groups Statistics:** When multiple groups are used, it is necessary to get an estimate of the pooled (combined) within group variabilities.
 
-> *SS<sub>1</sub>* = ( *SD<sub>1</sub><sup>2</sup>* ) ( *df<sub>1</sub>* ) = ( 2.44949<sup>2</sup> ) ( 3 ) = 18.000
+> \\[ SS_1 = ( SD_1^2 ) ( df_1) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 
-> *SS<sub>2</sub>* = ( *SD<sub>2</sub><sup>2</sup>* ) ( *df<sub>2</sub>* ) = ( 2.44949<sup>2</sup> ) ( 3 ) = 18.000
+> \\[ SS_2 = ( SD_2^2 ) ( df_2) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 
-> *SS<sub>WITHIN</sub>* = *SS<sub>1</sub>* + *SS<sub>2</sub>* = 18.000 + 18.000 = 36.000
+> \\[ SS_{WITHIN} = SS_1 + SS_ 2 = 18.000 + 18.000 = 36.000 \\]
 
-> *df<sub>WITHIN</sub>* = *df<sub>1</sub>* + *df<sub>2</sub>* = 3 + 3 = 6
+> \\[ df_{WITHIN} = df_1 + df_ 2 = 3 + 3 = 6 \\]
 
-> *MS<sub>WITHIN</sub>*  = ( *SS<sub>WITHIN</sub>* ) / ( *df<sub>WITHIN</sub>* ) = ( 36.000 ) / ( 6 ) = 6.000
+> \\[ MS_{WITHIN} = \frac{SS_{WITHIN}}{df_{WITHIN}} = \frac{36.000}{6} = 6.000 \\]
 
-> *SD<sub>WITHIN</sub>* = SQRT ( *MS<sub>WITHIN</sub>* ) = SQRT ( 6.000 ) = 2.449
+> \\[ SD_{WITHIN} = \sqrt{MS_{WITHIN}} = \sqrt{6.000} = 2.449 \\]
 
 **Standard Error of the Difference:** The standard error of the difference is a function of the two groups’ individual standard errors. When the two sample sizes are equal:
 
