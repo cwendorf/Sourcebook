@@ -37,11 +37,11 @@ The following table of descriptive statistics can be used to determine the infer
 
 **Effect Size:** Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
 
-> \\[ d = \frac{M_{DIFF}}{SE_M} = \frac{-3.000}{3.117} = 0.963 \\]
+> \\[ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 \\]
 
 **Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
-> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -3.000 \pm (2.365) (1.102) = [ -5.606, -0.394] \\]
+> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -3.000 \pm (2.365) (1.102) = [ -5.606, -0.394 ] \\]
 
 #### Summarizing the One Sample t Test
 
