@@ -37,11 +37,11 @@ The following table of descriptive statistics can be used to determine the infer
 
 > \\[ SS_2 = ( SD_2^2 ) ( df_2 ) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 
-> \\[ SS_3= ( SD_3^2 ) ( df_3) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
+> \\[ SS_3 = ( SD_3^2 ) ( df_3) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 
-> \\[ SS_{WITHIN} = SS_1 + SS_ 2 + SS_ 3 = 18.000 + 18.000 + 18.000 = 54.000 \\]
+> \\[ SS_{WITHIN} = SS_1 + SS_2 + SS_3 = 18.000 + 18.000 + 18.000 = 54.000 \\]
 
-> \\[ df_{WITHIN} = df_1 + df_ 2 + df_ 3 = 3 + 3 + 3 = 9 \\]
+> \\[ df_{WITHIN} = df_1 + df_2 + df_3 = 3 + 3 + 3 = 9 \\]
 
 > \\[ MS_{WITHIN} = \frac{SS_{WITHIN}}{df_{WITHIN}} = \frac{54.000}{9} = 6.000 \\]
 
