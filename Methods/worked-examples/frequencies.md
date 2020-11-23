@@ -51,7 +51,7 @@ Thus, the score at the 50<sup>th</sup> percentile is the 4.5<sup>th</sup> score 
 
 #### Summarizing the Frequencies and Percentiles
 
-Though not often reported, simple summary statistics like the median and quartiles provide the reader with basic frequency information about the variable under investigation. Both of the following versions present the required information.
+Though not often reported, simple summary statistics like the median and quartiles provide the reader with basic frequency information about the variable under investigation. Both of the following versions present the required information and, therefore, either could be used.
 
 > For the eight participants, Outcome scores of 0.75, 4.00, and 6.50 represented the 25th, 50th, and 75th percentiles, respectively.
 
