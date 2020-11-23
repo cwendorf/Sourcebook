@@ -7,7 +7,7 @@
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
 
 |     | Outcome |
-|-----|---------|
+|-----|--------:|
 | 1   | .00     |
 | 2   | .00     |
 | 3   | 3.00    |
@@ -20,7 +20,7 @@ The following data set reflects one sample of eight individuals measured on one 
 The following table of descriptive statistics can be used to determine the inferential statistics for the One Sample t Test.
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
-|---------|-----|-------|----------------|-----------------|
+|---------|----:|------:|---------------:|----------------:|
 | Outcome | 8   | 4.000 | 3.117          | 1.102           |
 
 #### Calculating the One Sample t Test
