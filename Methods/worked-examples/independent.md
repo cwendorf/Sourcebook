@@ -52,7 +52,7 @@ When the two sample sizes are equal:
 
 Or this can be used when the two sample sizes are either equal or are unequal:
 
-> \\[ SE_{DIFF} = \sqrt{ \left( \frac{MS_{WITHIN}}{n_1} \right) + \left( \frac{MS_{WITHIN}}{n_2} \right) } = \sqrt{ \left( \frac{6.000}{4} \right) + (\frac{6.000}{4}) } = 1.732 \\]
+> \\[ SE_{DIFF} = \sqrt{ \left( \frac{MS_{WITHIN}}{n_1} \right) + \left( \frac{MS_{WITHIN}}{n_2} \right) } = \sqrt{ \left( \frac{6.000}{4} \right) + \left( \frac{6.000}{4} \right) } = 1.732 \\]
 
 **Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
 
