@@ -29,21 +29,21 @@ For the Paired Samples t test, the focus is on the change variable. As a result,
 
 **Mean Difference (Raw Effect):** The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
 
-> *M* − *mu* = -4.000 − 0.000 =  −4.000
+> \\[ M_{DIFF} = M - \mu = 4.000 − 0.000 = −4.000 \\]
 
 **Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 
-> *t* = ( *M* - *mu*) / ( SE<sub>M</sub> ) = ( -4.000 ) / ( 1.225 ) = - 3.266  
+> \\[ t = \frac{M_{DIFF}}{SE_M} = \frac{-4.000}{1.225} = -3.226 \\]
 > With *df* = 3, *t<sub>CRITICAL</sub>* = 3.182  
 > Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05
 
 **Effect Size:** Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
 
-> *d* = ( *M* - *mu* ) / (SD) = ( -4.000) / ( 2.449 ) = - 1.633
+> \\[ d = \frac{M_{DIFF}}{SD} = \frac{-4.000}{2.449} = -1.633 \\]
 
 **Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
-> *CI<sub>DIFF</sub>* = ( *M* − *mu* ) ± ( *t*<sub>CRITICAL</sub> )( SE<sub>*M*</sub> ) = − 4.000 ± ( 3.182 ) ( 1.225 ) = \[ −7.898, −0.102 \]
+> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -4.000 \pm (3.182) (1.225) = [ −7.898, −0.102 ] \\]
 
 #### Summarizing the Paired Samples t Test
 
