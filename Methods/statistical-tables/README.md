@@ -850,7 +850,7 @@ Tabled Values are Probabilities for a Single-Factor Design, df<sub>EFFECT</sub> 
 | **240** | .431 | .823 | .994 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 | **360** | .662 | .962 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 
-#### Table 5 (Continued)
+#### Power Table for Eta-Squared (Continued)
 
 Tabled Values are Probabilities for a Single-Factor Design, df<sub>EFFECT</sub> = 3, α = .01, *n* = Sample Size per Condition
 
