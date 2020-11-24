@@ -11,7 +11,7 @@ data (described elsewhere).
 select the "ANOVA → ANOVA" 
 option.
 
-<p align="center"><kbd><img src="image25.jpg"></kbd></p>
+<p align="center"><kbd><img src="image25.png"></kbd></p>
 
 #### Steps for Obtaining the Significance Test
 
@@ -35,7 +35,7 @@ the window. Output can be
 copied and pasted into other 
 documents for printing.
 
-<p align="center"><kbd><img src="image26.jpg"></kbd></p>
+<p align="center"><kbd><img src="image26.png"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics
 
@@ -56,7 +56,7 @@ Output can be copied and
 pasted into other documents
 for printing.
 
-<p align="center"><kbd><img src="image26.jpg"></kbd></p>
+<p align="center"><kbd><img src="image26.png"></kbd></p>
 
  #### Steps for Obtaining Post Hoc Tests
 
@@ -82,4 +82,4 @@ Output can be copied and
 pasted into other documents
 for printing.
 
-<p align="center"><kbd><img src="image27.jpg"></kbd></p>
+<p align="center"><kbd><img src="image27.png"></kbd></p>

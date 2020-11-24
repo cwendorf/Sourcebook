@@ -11,7 +11,7 @@
 select the "T-Tests → One
 Sample T-Test" option. 
 
-<p align="center"><kbd><img src="image16.jpg"></kbd></p>
+<p align="center"><kbd><img src="image16.png"></kbd></p>
 
 #### Steps for Obtaining Significance Tests
 
@@ -34,7 +34,7 @@ be copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="image17.jpg"></kbd></p>
+<p align="center"><kbd><img src="image17.png"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics
 
@@ -71,4 +71,4 @@ copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="image18.jpg"></kbd></p>
+<p align="center"><kbd><img src="image18.png"></kbd></p>

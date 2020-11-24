@@ -11,7 +11,7 @@
 select the "Exploration
 Descriptives" option.
 
-<p align="center"><kbd><img src="image11.jpg"></kbd></p>
+<p align="center"><kbd><img src="image11.png"></kbd></p>
 
 #### Steps for Obtaining a Frequency Distribution
 
@@ -37,7 +37,7 @@ distribution.
 appear on the right side 
 of the window. 
 
-<p align="center"><kbd><img src="image12.jpg"></kbd></p>
+<p align="center"><kbd><img src="image12.png"></kbd></p>
 
 #### Steps for Obtaining Summary Statistics
 
@@ -64,4 +64,4 @@ other word processing
 software for printing
 purposes.
 
-<p align="center"><kbd><img src="image13.jpg"></kbd></p>
+<p align="center"><kbd><img src="image13.png"></kbd></p>

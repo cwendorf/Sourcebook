@@ -18,7 +18,7 @@ you wish to define. Click on
 will bring up a new set of 
 options. 
 
-<p align="center"><kbd><img src="image6.jpg"></kbd></p>
+<p align="center"><kbd><img src="image6.png"></kbd></p>
 
 #### Steps for Setting Variable Properties
 
@@ -44,7 +44,7 @@ click on the large UP arrow
 button next to the variable
 name.
 
-<p align="center"><kbd><img src="image9.jpg"></kbd></p>
+<p align="center"><kbd><img src="image9.png"></kbd></p>
 
 #### Steps for Entering Data
  
@@ -73,4 +73,4 @@ indicator and an outcome
 value for each additional
 person.
 
-<p align="center"><kbd><img src="image10.jpg"></kbd></p>
+<p align="center"><kbd><img src="image10.png"></kbd></p>

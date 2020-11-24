@@ -13,7 +13,7 @@ Select the "T-Tests →
 Paired Samples T-Test" 
 option.
 
-<p align="center"><kbd><img src="image19.jpg"></kbd></p>
+<p align="center"><kbd><img src="image19.png"></kbd></p>
 
 #### Steps for Obtaining the Significance Test
 
@@ -38,7 +38,7 @@ be copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="image20.jpg"></kbd></p>
+<p align="center"><kbd><img src="image20.png"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics 
 
@@ -68,4 +68,4 @@ copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="image21.jpg"></kbd></p>
+<p align="center"><kbd><img src="image21.png"></kbd></p>

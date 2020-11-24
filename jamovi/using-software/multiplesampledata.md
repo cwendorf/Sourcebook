@@ -8,7 +8,7 @@
 
 2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options. 
 
-<p align="center"><kbd><img src="image6.jpg"></kbd></p>
+<p align="center"><kbd><img src="image6.png"></kbd></p>
 
 #### Steps for Setting Variable Properties
 
@@ -29,7 +29,7 @@ click on the large UP arrow
 button next to the variable
 name.
 
-<p align="center"><kbd><img src="image7.jpg"></kbd></p>
+<p align="center"><kbd><img src="image7.png"></kbd></p>
 
 #### Steps for Entering Data
 
@@ -55,4 +55,4 @@ indicator (a value on the
 "Outcome" for each 
 additional person. 
 
-<p align="center"><kbd><img src="image8.jpg"></kbd></p>
+<p align="center"><kbd><img src="image8.png"></kbd></p>

@@ -12,7 +12,7 @@ select the "T-Tests →
 Independent Samples T-Test"
 option.
 
-<p align="center"><kbd><img src="image22.jpg"></kbd></p>
+<p align="center"><kbd><img src="image22.png"></kbd></p>
 
 #### Steps for Obtaining the Significance Test
 
@@ -36,7 +36,7 @@ the window. Output can be
 copied and pasted into other 
 documents for printing.
 
-<p align="center"><kbd><img src="image23.jpg"></kbd></p>
+<p align="center"><kbd><img src="image23.png"></kbd></p>
 
  #### Steps for Obtaining Additional Statistics
 
@@ -64,4 +64,4 @@ Output can be copied and
 pasted into other documents
 for printing.
 
-<p align="center"><kbd><img src="image24.jpg"></kbd></p>
+<p align="center"><kbd><img src="image24.png"></kbd></p>

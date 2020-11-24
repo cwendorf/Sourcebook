@@ -12,7 +12,7 @@ elsewhere).
 select the "ANOVA → Repeated 
 Measures ANOVA" option.
 
-<p align="center"><kbd><img src="image28.jpg"></kbd></p>
+<p align="center"><kbd><img src="image28.png"></kbd></p>
 
 #### Steps for Labeling the Within Subjects Variable/Factor
 
@@ -45,7 +45,7 @@ level. In this example,
 there were only 2 levels of
 the factor.
 
-<p align="center"><kbd><img src="image29.jpg"></kbd></p>
+<p align="center"><kbd><img src="image29.png"></kbd></p>
 
 #### Steps for Obtaining the Significance Test
 
@@ -80,7 +80,7 @@ the window. Output can be
 copied and pasted into other 
 documents for printing.
 
-<p align="center"><kbd><img src="image30.jpg"></kbd></p>
+<p align="center"><kbd><img src="image30.png"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics
 
@@ -102,4 +102,4 @@ Output can be copied and
 pasted into other documents
 for printing.
 
-<p align="center"><kbd><img src="image31.jpg"></kbd></p>
+<p align="center"><kbd><img src="image31.png"></kbd></p>

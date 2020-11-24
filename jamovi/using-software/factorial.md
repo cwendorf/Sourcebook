@@ -11,7 +11,7 @@
 select the "ANOVA → ANOVA" 
 option.
 
-<p align="center"><kbd><img src="image32.jpg"></kbd></p>
+<p align="center"><kbd><img src="image32.png"></kbd></p>
 
 #### Steps for Obtaining the Significance Test 
 
@@ -38,7 +38,7 @@ the window. Output can be
 copied and pasted into other 
 documents for printing.
 
-<p align="center"><kbd><img src="image33.jpg"></kbd></p>
+<p align="center"><kbd><img src="image33.png"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics
 
@@ -60,4 +60,4 @@ Output can be copied and
 pasted into other documents
 for printing.
 
-<p align="center"><kbd><img src="image34.jpg"></kbd></p>
+<p align="center"><kbd><img src="image34.png"></kbd></p>

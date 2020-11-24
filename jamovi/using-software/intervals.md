@@ -8,7 +8,7 @@
 
 2. On the “Analysis” tab, select the “T-Tests -> One Sample T-Test” option. 
 
-<p align="center"><kbd><img src="confint1.jpg"></kbd></p>
+<p align="center"><kbd><img src="confint1.png"></kbd></p>
 
 #### Steps for Choosing the Variable
 
@@ -18,7 +18,7 @@
 
 5. Output will automatically appear on the right side of the window. Output can be copied and pasted into other documents for printing.
 
-<p align="center"><kbd><img src="confint2.jpg"></kbd></p>
+<p align="center"><kbd><img src="confint2.png"></kbd></p>
 
 #### Steps for Obtaining the Statistics
 
