@@ -44,7 +44,7 @@ as people.
 sure to save it as a CSV 
 (comma delimited) file.
 
-<p align="center"><kbd><img src="image1.jpg"></kbd></p>
+<p align="center"><kbd><img src="image1.png"></kbd></p>
 
 #### Steps for Entering Data on One Variable (Using a Text Editor)
 
@@ -63,7 +63,7 @@ sure to save it as a CSV
  sure to save it as a CSV 
  (comma delimited) file.
 
-<p align="center"><kbd><img src="image2.jpg"></kbd></p>
+<p align="center"><kbd><img src="image2.png"></kbd></p>
 
 ---
 
@@ -92,7 +92,7 @@ sure to save it as a CSV
  sure to save it as a CSV 
  (comma delimited) file.
 
-<p align="center"><kbd><img src="image3.jpg"></kbd></p>
+<p align="center"><kbd><img src="image3.png"></kbd></p>
 
 #### Steps for Entering Data (Using a Text Editor)
 
@@ -117,7 +117,7 @@ sure to save it as a CSV
  sure to save it as a CSV 
  (comma delimited) file.
 
-<p align="center"><kbd><img src="image4.jpg"></kbd></p>
+<p align="center"><kbd><img src="image4.png"></kbd></p>
 
 ---
 
@@ -153,7 +153,7 @@ sure to add a group
 indicator and a score for
 each additional person.
 
-<p align="center"><kbd><img src="image5.jpg"></kbd></p>
+<p align="center"><kbd><img src="image5.png"></kbd></p>
 
 #### Steps for Entering Data (Using a Text Editor)
 
@@ -186,7 +186,7 @@ each additional person.
  indicator and a score for
  each additional person.
 
-<p align="center"><kbd><img src="image6.jpg"></kbd></p>
+<p align="center"><kbd><img src="image6.png"></kbd></p>
 
 ---
 
@@ -220,7 +220,7 @@ each additional person.
  sure to save it as a CSV 
  (comma delimited) file.
 
-<p align="center"><kbd><img src="image7.jpg"></kbd></p>
+<p align="center"><kbd><img src="image7.png"></kbd></p>
 
 #### Steps for Entering Data (Using a Text Editor)
 
@@ -250,7 +250,7 @@ each additional person.
  sure to save it as a CSV 
  (comma delimited) file.
 
-<p align="center"><kbd><img src="image8.jpg"></kbd></p>
+<p align="center"><kbd><img src="image8.png"></kbd></p>
 
 ---
 
@@ -269,7 +269,7 @@ looks as you intended.
 Descriptive Statistics"
 option.
 
-<p align="center"><kbd><img src="image9.jpg"></kbd></p>
+<p align="center"><kbd><img src="image9.png"></kbd></p>
 
 #### Steps for Obtaining a Frequency Distribution
 
@@ -295,7 +295,7 @@ a frequency distribution.
 appear on the right side 
 of the window. 
 
-<p align="center"><kbd><img src="image10.jpg"></kbd></p>
+<p align="center"><kbd><img src="image10.png"></kbd></p>
 
 #### Steps for Obtaining Summary Statistics
 
@@ -321,7 +321,7 @@ other word processing
 software for printing
 purposes.
 
-<p align="center"><kbd><img src="image11.jpg"></kbd></p>
+<p align="center"><kbd><img src="image11.png"></kbd></p>
 
 ---
 
@@ -340,7 +340,7 @@ purposes.
 2. Select the "Regression → 
  Correlation Matrix" option.
 
-<p align="center"><kbd><img src="image12.jpg"></kbd></p>
+<p align="center"><kbd><img src="image12.png"></kbd></p>
 
 #### Steps for Obtaining the Correlations (and Significance Tests)
 
@@ -371,7 +371,7 @@ purposes.
  described earlier in this
  manual.
 
-<p align="center"><kbd><img src="image13.jpg"></kbd></p>
+<p align="center"><kbd><img src="image13.png"></kbd></p>
 
 ---
 
@@ -389,7 +389,7 @@ intended.
 2. Select the "T-Tests → One
 Sample T-Test" option.
 
-<p align="center"><kbd><img src="intervals1.jpg"></kbd></p>
+<p align="center"><kbd><img src="intervals1.png"></kbd></p>
 
 #### Steps for Choosing the Variable
 
@@ -412,7 +412,7 @@ be copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="intervals2.jpg"></kbd></p>
+<p align="center"><kbd><img src="intervals2.png"></kbd></p>
 
 #### Steps for Obtaining the Statistics
 
@@ -424,7 +424,7 @@ printing.
 
 9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other documents for printing.
 
-<p align="center"><kbd><img src="intervals3.jpg"></kbd></p>
+<p align="center"><kbd><img src="intervals3.png"></kbd></p>
 
 ---
 
@@ -442,7 +442,7 @@ intended.
 2. Select the "T-Tests → One
 Sample T-Test" option.
 
-<p align="center"><kbd><img src="onesample1.jpg"></kbd></p>
+<p align="center"><kbd><img src="onesample1.png"></kbd></p>
 
 #### Steps for Obtaining the Significance Test
 
@@ -473,7 +473,7 @@ be copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="onesample2.jpg"></kbd></p>
+<p align="center"><kbd><img src="onesample2.png"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics
 
@@ -503,7 +503,7 @@ copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="onesample3.jpg"></kbd></p>
+<p align="center"><kbd><img src="onesample3.png"></kbd></p>
 
 ---
 
@@ -522,7 +522,7 @@ looks as you intended.
 2. Select the "T-Tests → Paired 
 Samples T-Test" option. 
 
-<p align="center"><kbd><img src="image17.jpg"></kbd></p>
+<p align="center"><kbd><img src="image17.png"></kbd></p>
 
 #### Steps for Obtaining the Significance Test
 
@@ -547,7 +547,7 @@ be copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="image18.jpg"></kbd></p>
+<p align="center"><kbd><img src="image18.png"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics
 
@@ -577,7 +577,7 @@ copied and pasted into
 other documents for
 printing.
 
-<p align="center"><kbd><img src="image19.jpg"></kbd></p>
+<p align="center"><kbd><img src="image19.png"></kbd></p>
 
 ---
 
@@ -596,7 +596,7 @@ printing.
  Independent Samples T-Test"
  option. 
 
-<p align="center"><kbd><img src="image20.jpg"></kbd></p>
+<p align="center"><kbd><img src="image20.png"></kbd></p>
 
 #### Steps for Obtaining the Significance Test
 
@@ -620,7 +620,7 @@ printing.
  copied and pasted into other 
  documents for printing.
 
-<p align="center"><kbd><img src="image21.jpg"></kbd></p>
+<p align="center"><kbd><img src="image21.png"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics
 
@@ -648,7 +648,7 @@ printing.
  pasted into other documents
  for printing.
 
-<p align="center"><kbd><img src="image22.jpg"></kbd></p>
+<p align="center"><kbd><img src="image22.png"></kbd></p>
 
 ---
 
@@ -666,7 +666,7 @@ printing.
 2. Select the "ANOVA → ANOVA" 
  option. 
 
-<p align="center"><kbd><img src="image23.jpg"></kbd></p>
+<p align="center"><kbd><img src="image23.png"></kbd></p>
 
 #### Steps for Obtaining the Significance Test
 
@@ -690,7 +690,7 @@ printing.
  copied and pasted into other 
  documents for printing.
 
-<p align="center"><kbd><img src="image24.jpg"></kbd></p>
+<p align="center"><kbd><img src="image24.png"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics
 
@@ -723,7 +723,7 @@ printing.
  pasted into other documents
  for printing.
 
-<p align="center"><kbd><img src="image25.jpg"></kbd></p>
+<p align="center"><kbd><img src="image25.png"></kbd></p>
 
 #### Steps for Obtaining Post Hoc Tests
 
@@ -749,7 +749,7 @@ printing.
  pasted into other documents
  for printing.
 
-<p align="center"><kbd><img src="image26.jpg"></kbd></p>
+<p align="center"><kbd><img src="image26.png"></kbd></p>
 
 ---
 
@@ -767,7 +767,7 @@ printing.
 2. Select the "ANOVA → Repeated 
  Measures ANOVA" option.
 
-<p align="center"><kbd><img src="image27.jpg"></kbd></p>
+<p align="center"><kbd><img src="image27.png"></kbd></p>
 
 #### Steps for Labeling the Within-Subjects Variable/Factor
 
@@ -804,7 +804,7 @@ printing.
  there were only 2 levels of
  the factor.
 
-<p align="center"><kbd><img src="image28.jpg"></kbd></p>
+<p align="center"><kbd><img src="image28.png"></kbd></p>
 
 #### Steps for Obtaining the Significance Test
 
@@ -839,7 +839,7 @@ printing.
  copied and pasted into other 
  documents for printing.
 
-<p align="center"><kbd><img src="image29.jpg"></kbd></p>
+<p align="center"><kbd><img src="image29.png"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics
 
@@ -866,7 +866,7 @@ printing.
  pasted into other documents
  for printing.
 
-<p align="center"><kbd><img src="image30.jpg"></kbd></p>
+<p align="center"><kbd><img src="image30.png"></kbd></p>
 
 ---
 
@@ -884,7 +884,7 @@ printing.
 2. Select the "ANOVA → ANOVA" 
  option. 
 
-<p align="center"><kbd><img src="image31.jpg"></kbd></p>
+<p align="center"><kbd><img src="image31.png"></kbd></p>
 
 #### Steps for Obtaining the Significance Test
 
@@ -911,7 +911,7 @@ printing.
  copied and pasted into other 
  documents for printing.
 
-<p align="center"><kbd><img src="image32.jpg"></kbd></p>
+<p align="center"><kbd><img src="image32.png"></kbd></p>
 
 #### Steps for Obtaining Additional Statistics
 
@@ -947,4 +947,4 @@ printing.
  pasted into other documents
  for printing.
 
-<p align="center"><kbd><img src="image33.jpg"></kbd></p>
+<p align="center"><kbd><img src="image33.png"></kbd></p>
