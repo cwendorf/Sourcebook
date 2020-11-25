@@ -17,11 +17,10 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-> Additional Resource: 
-Data Entry |
+> **Additional Resource: Data Entry**  
 [SPSS](./) | 
 [jamovi](./) | 
-[JASP](./) |
+[JASP](./)
 
 #### Computer Output
 
@@ -37,11 +36,10 @@ The following table of inferential statistics represents the key elements to be 
 |---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
 | Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
 
-> Additional Resource: 
-Conducting Analyses |  
+> **Additional Resource: Conducting Analyses**   
 [SPSS](./) | 
 [jamovi](./) | 
-[JASP](./) |
+[JASP](./)
 
 #### Formulas and Calculations
 
@@ -63,11 +61,10 @@ Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the
 
 > \\[ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 \\]
 
-> Additional Resource: 
-Annotated Ouput |  
+> **Additional Resource: Annotated Ouput**  
 [SPSS](./) | 
 [jamovi](./) | 
-[JASP](./) |
+[JASP](./)
 
 #### Summarizing in APA Style
 
@@ -77,8 +74,7 @@ In this case, a sample mean has been compared to a user-specified test value (or
 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
 
-> Additional Resource: 
-Interpreting Analyses |  
+> **Additional Resource: Interpreting Analyses**   
 [Statistical Analyses](./) | 
 [Statistical Tables](./) | 
-[Reporting Statistics](./) |
+[Reporting Statistics](./)
