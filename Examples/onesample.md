@@ -1,4 +1,4 @@
-## Statistical Methods: Worked Examples
+## Worked Examples
 
 ### One Sample t Test
 
@@ -18,9 +18,9 @@ The following data set reflects one sample of eight individuals measured on one 
 | 8   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](./) | 
-[jamovi](./) | 
-[JASP](./)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
 
 #### Computer Output
 
@@ -37,9 +37,9 @@ The following table of inferential statistics represents the key elements to be 
 | Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](./) | 
-[jamovi](./) | 
-[JASP](./)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
 
 #### Formulas and Calculations
 
@@ -62,9 +62,9 @@ Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the
 > \\[ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 \\]
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](./) | 
-[jamovi](./) | 
-[JASP](./)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -75,6 +75,6 @@ In this case, a sample mean has been compared to a user-specified test value (or
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](./) | 
-[Statistical Tables](./) | 
-[Reporting Statistics](./)
+[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
+[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
+[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
