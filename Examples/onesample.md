@@ -45,7 +45,7 @@ The following table of inferential statistics represents the key elements to be 
 
 Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
 
-    \\[ M_{DIFF} = M - \mu = 4.000 − 7.000 = −3.000 \\]
+> \\[ M_{DIFF} = M - \mu = 4.000 − 7.000 = −3.000 \\]
 
 Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 
