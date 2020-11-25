@@ -2,7 +2,7 @@
 
 ### Abstract
 
-This chapter provides the complete set of worked examples for the sourcebook. All raw data, formulas, calculations, and summaries in APA style are provided for each type of research design.
+This chapter provides the complete set of worked examples for the sourcebook. The raw data, computer output, formulas and calculations, and summaries in APA style are provided for each type of research design.
 
 ### Table of Contents for This Chapter
 
