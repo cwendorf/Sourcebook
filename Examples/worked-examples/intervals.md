@@ -32,9 +32,9 @@ The following table of descriptive statistics can be used to determine the infer
 
 The following table of inferential statistics shows the key elements to be calculated.
 
-|         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI |
-|---------|----------:|------:|------:|----------------:|---------:|---------:|
-| Outcome |	    3.360 | 7.000 | 0.008 |           4.000 |    1.394 |    6.606 |
+|         |  Mean | Lower CI | Upper CI |
+|---------|----_-:|---------:|---------:|
+| Outcome | 4.000 |    1.394 |    6.606 |
 
 > **Additional Resource: Conducting Analyses**   
 [SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
