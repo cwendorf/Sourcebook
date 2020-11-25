@@ -4,6 +4,11 @@
 
 #### Data
 
+Resource: Data Entry: 
+[SPSS](./) | 
+[jamovi](./) | 
+[JASP](./) |
+
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
 
 |     | Outcome |
@@ -17,12 +22,12 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-**Data Entry:**
+#### Computer Output
+
+> Resource: Conducting Analyses: 
 [SPSS](./) | 
 [jamovi](./) | 
-[JASP](./) | 
-
-#### Computer Output
+[JASP](./) |
 
 The following table of descriptive statistics can be used to determine the inferential statistics.
 
@@ -36,12 +41,12 @@ The following table of inferential statistics represents the key elements to be 
 |---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
 | Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
 
-**Implementing Analysis:**
+#### Formulas and Calculations
+
+> Resource: Annotated Ouput: 
 [SPSS](./) | 
 [jamovi](./) | 
-[JASP](./) | 
-
-#### Formulas and Calculations
+[JASP](./) |
 
 Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
 
@@ -61,12 +66,12 @@ Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the
 
 > \\[ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 \\]
 
-**Annotated Ouput:**
-[SPSS](./) | 
-[jamovi](./) | 
-[JASP](./) |
-
 #### Summarizing in APA Style
+
+> Resource: Interpreting Analyses: 
+[Statistical Analyses](./) | 
+[Statistical Tables](./) | 
+[Reporting Statistics](./) |
 
 In this case, a sample mean has been compared to a user-specified test value (or a population mean). Thus, the summary and the inferential statistics focus on that difference.
 
@@ -74,7 +79,3 @@ In this case, a sample mean has been compared to a user-specified test value (or
 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
 
-**Interpreting Analyses:**
-[Statistical Analyses](./) | 
-[Statistical Tables](./) | 
-[Reporting Statistics](./) |
