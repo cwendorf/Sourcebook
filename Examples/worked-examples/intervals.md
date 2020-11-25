@@ -2,7 +2,7 @@
 
 ### Confidence Intervals
 
-#### Data for the Confidence Interval
+#### Data
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
 
@@ -17,24 +17,47 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-The following table of descriptive statistics can be used to determine the inferential statistics for the confidence interval.
+> **Additional Resource: Data Entry**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Computer Output
+
+The following table of descriptive statistics can be used to determine the inferential statistics.
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
 |---------|----:|------:|---------------:|----------------:|
 | Outcome | 8   | 4.000 | 3.117          | 1.102           |
 
-#### Calculating the Confidence Interval
+The following table of inferential statistics shows the key elements to be calculated.
 
-**Standard Error of the Mean:** The standard error of the mean provides an estimate of how spread out the distribution of all possible random sample means would be.
+|         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI |
+|---------|----------:|------:|------:|----------------:|---------:|---------:|
+| Outcome |	    3.360 | 7.000 | 0.008 |           4.000 |    1.394 |    6.606 |
+
+> **Additional Resource: Conducting Analyses**   
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Formulas and Calculations
+
+Standard Error of the Mean: The standard error of the mean provides an estimate of how spread out the distribution of all possible random sample means would be.
 
 > \\[ SE_M = \frac{SD}{\sqrt{N}} = \frac{3.117}{\sqrt{8}} = 1.102 \\]
 
-**Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
 > With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
 > \\[ CI_M = M \pm (t_{CRITICAL}) (SE_M) = 4.000 \pm (2.365) (1.102) = [ 1.394, 6.606 ] \\]
 
-#### Summarizing the Confidence Interval
+> **Additional Resource: Annotated Ouput**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+
+#### Summarizing in APA Style
 
 Confidence intervals provide a range estimate for a population value (e.g., the mean). Note that the width of the interval can be altered to reflect the level of confidence in the estimate. Both of the following versions present the required information and, therefore, either could be used.
 
@@ -43,3 +66,8 @@ Confidence intervals provide a range estimate for a population value (e.g., the 
 > The 8 participants scored well on the Outcome (*M* = 4.00, *SD* = 3.12), 95% CI \[1.39, 6.61\].
 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+
+> **Additional Resource: Interpreting Analyses**   
+[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
+[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
+[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)

@@ -30,7 +30,7 @@ The following table of descriptive statistics can be used to determine the infer
 |---------|----:|------:|---------------:|----------------:|
 | Outcome |   8 | 4.000 |          3.117 |           1.102 |
 
-The following table of inferential statistics represents the key elements to be calculated.
+The following table of inferential statistics shows the key elements to be calculated.
 
 |         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
 |---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
@@ -42,6 +42,10 @@ The following table of inferential statistics represents the key elements to be 
 [JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
 
 #### Formulas and Calculations
+
+Standard Error of the Mean: The standard error of the mean provides an estimate of how spread out the distribution of all possible random sample means would be.
+
+> \\[ SE_M = \frac{SD}{\sqrt{N}} = \frac{3.117}{\sqrt{8}} = 1.102 \\]
 
 Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
 
