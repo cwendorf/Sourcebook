@@ -1,8 +1,8 @@
-## Statistical Methods: Worked Examples
+## Worked Examples
 
 ### Independent Samples t Test
 
-#### Data for the Independent Samples t Test
+#### Data
 
 The following data set reflects a between-subjects design with one factor (that has two levels). The data are presented in the format suitable for entry into statistical software.
 
@@ -17,6 +17,13 @@ The following data set reflects a between-subjects design with one factor (that 
 | 7   | 2.00   | 4.00    |
 | 8   | 2.00   | 9.00    |
 
+> **Additional Resource: Data Entry**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Computer Output
+
 The following table of descriptive statistics can be used to determine the inferential statistics for the Independent Samples t Test.
 
 |         | Group   | N   | Mean  | Std. Deviation | Std. Error Mean |
@@ -24,7 +31,18 @@ The following table of descriptive statistics can be used to determine the infer
 | Outcome | Level 1 | 4   | 2.000 | 2.445          | 1.225           |
 |         | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
 
-#### Calculating the Independent Samples t Test
+The following table of inferential statistics shows the key elements to be calculated.
+
+|         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
+|---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
+| Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
+
+> **Additional Resource: Conducting Analyses**   
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Formulas and Calculations
 
 **Mean Difference (Raw Effect):** The mean difference is the difference between the two sample means (raw effect).
 
@@ -69,10 +87,20 @@ Or this can be used when the two sample sizes are either equal or are unequal:
 
 > \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) = -4.000 \pm (2.447) (1.732) = [ −8.238, 0.238 ] \\]
 
-#### Summarizing the Independent Samples t Test
+> **Additional Resource: Annotated Ouput**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+
+#### Summarizing in APA Style
 
 For this analysis, the emphasis is on comparing the means from two groups. Here again the summary and the inferential statistics focus on the difference.
 
 > An independent samples *t* test showed that the difference in Outcome scores between the first group (*n* = 4, *M* = 2.00, *SD* = 2.45) and the second group (*n* = 3, *M* = 6.00, *SD* = 2.45) was not statistically significant, *t*(6) = -2.31, *p* = .060, 95% CI \[-8.24, 0.24\], *d* = -1.63.
 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+
+> **Additional Resource: Interpreting Analyses**   
+[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
+[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
+[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)

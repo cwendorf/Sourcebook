@@ -1,8 +1,8 @@
-## Statistical Methods: Worked Examples
+## Worked Examples
 
 ### Post Hoc Comparisons
 
-#### Data for Post Hoc Comparisons
+#### Data
 
 The following data set reflects a between-subjects design with one factor (with three levels). The data are presented in the format suitable for entry into statistical software.
 
@@ -21,6 +21,13 @@ The following data set reflects a between-subjects design with one factor (with 
 | 11  | 3.00   | 4.00    |
 | 12  | 3.00   | 9.00    |
 
+> **Additional Resource: Data Entry**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Computer Output
+
 The following table of descriptive statistics can be used to determine the inferential statistics for the One-Way ANOVA and the relevant Post Hoc tests.
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
@@ -29,7 +36,18 @@ The following table of descriptive statistics can be used to determine the infer
 | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
 | Level 3 | 4   | 7.000 | 2.445          | 1.225           |
 
-#### Calculating the Post Hoc Comparisons
+The following table of inferential statistics shows the key elements to be calculated.
+
+|         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
+|---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
+| Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
+
+> **Additional Resource: Conducting Analyses**   
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Formulas and Calculations
 
 **Mean Differences:** Mean Differences (raw effects) are the differences between the means for all pairs of groups. Half of the possible pairwise comparisons are redundant and do not need to be calculated (though the mean differences will have the opposite signs because of subtraction order if they were calculated).
 
@@ -64,10 +82,20 @@ The following table of descriptive statistics can be used to determine the infer
 
 > \\[ CI_{2vs3} = ( M_2 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -1.000 \pm (2.792) (1.732) = [ −5.836, 3.836 ] \\]
 
-#### Summarizing the Post Hoc Comparisons
+> **Additional Resource: Annotated Ouput**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+
+#### Summarizing in APA Style
 
 Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups. Notice that the post hoc summary duplicates the presentation of the omnibus ANOVA statistics.
 
 > A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67, *p* = .041, *eta<sup>2</sup>* = .51. Tukey’s HSD tests showed that only the third group scored statistically significantly different than the first group. However, the other comparisons were not statistically significant.
 
 Alternatively, means, standard deviations, and confidence intervals – either for the group means or for the post hoc comparisons – could be presented in a table or figure associated with this paragraph.
+
+> **Additional Resource: Interpreting Analyses**   
+[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
+[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
+[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)

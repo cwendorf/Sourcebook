@@ -1,8 +1,8 @@
-## Statistical Methods: Worked Examples
+## Worked Examples
 
 ### Paired Samples t Test
 
-#### Data for the Paired Samples t Test
+#### Data
 
 The following data set reflects a within-subjects (repeated measures) design with two levels of the factor. The data are presented in the format suitable for entry into statistical software.
 
@@ -15,6 +15,13 @@ The following data set reflects a within-subjects (repeated measures) design wit
 
 The third variable is a created variable. It shows the difference (Time 1 – Time 2) for each of the individuals. Note that a score of zero on this difference variable would represent no change for that individual, whereas a positive value would mean that the score went down and a negative value that the score went up for that individual.
 
+> **Additional Resource: Data Entry**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Computer Output
+
 The following table of descriptive statistics can be used to determine the inferential statistics for the Paired Samples t Test.
 
 |          | N   | Mean  | Std. Deviation | Std. Error |
@@ -23,7 +30,18 @@ The following table of descriptive statistics can be used to determine the infer
 | Outcome2 | 4   | 6.000 | 2.449          | 1.225      |
 | Change   | 4   | -4.000 | 2.44          | 1.225      |
 
-#### Calculating the Paired Samples t Test
+The following table of inferential statistics shows the key elements to be calculated.
+
+|         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
+|---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
+| Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
+
+> **Additional Resource: Conducting Analyses**   
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Formulas and Calculations
 
 For the Paired Samples t test, the focus is on the change variable. As a result, it is the only variable that is used in the calculations below.
 
@@ -45,10 +63,20 @@ For the Paired Samples t test, the focus is on the change variable. As a result,
 
 > \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -4.000 \pm (3.182) (1.225) = [ −7.898, −0.102 ] \\]
 
-#### Summarizing the Paired Samples t Test
+> **Additional Resource: Annotated Ouput**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+
+#### Summarizing in APA Style
 
 In this case, a difference in means has been compared to a user-specified test value (or a population mean) of zero because zero conceptually represents no change. Thus, the summary and the inferential statistics focus on that difference.
 
 > A paired samples *t* test showed that, for the four people, the difference in Outcome scores between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was statistically significant, *t*(3) = -3.27, *p* = .047, 95% CI \[-7.90, -0.10\], *d* = -1.63.
 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+
+> **Additional Resource: Interpreting Analyses**   
+[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
+[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
+[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)

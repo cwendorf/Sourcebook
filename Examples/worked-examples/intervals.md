@@ -33,7 +33,7 @@ The following table of descriptive statistics can be used to determine the infer
 The following table of inferential statistics shows the key elements to be calculated.
 
 |         |  Mean | Lower CI | Upper CI |
-|---------|----_-:|---------:|---------:|
+|---------|------:|---------:|---------:|
 | Outcome | 4.000 |    1.394 |    6.606 |
 
 > **Additional Resource: Conducting Analyses**   

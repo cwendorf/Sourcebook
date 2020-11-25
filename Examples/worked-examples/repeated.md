@@ -1,8 +1,8 @@
-## Statistical Methods: Worked Examples
+## Worked Examples
 
 ### Repeated Measures ANOVA
 
-#### Data for the RMD ANOVA
+#### Data
 
 The following data set reflects a within-subjects (repeated measures) design with two levels of the factor. The data are presented in the format suitable for entry into statistical software.
 
@@ -13,6 +13,13 @@ The following data set reflects a within-subjects (repeated measures) design wit
 | 3   | 3.00     | 4.00     |
 | 4   | 5.00     | 9.00     |
 
+> **Additional Resource: Data Entry**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Computer Output
+
 The following table of descriptive statistics can be used to determine the inferential statistics for the Repeated Measures ANOVA.
 
 |          | Mean  | Std. Deviation | N   |
@@ -20,7 +27,18 @@ The following table of descriptive statistics can be used to determine the infer
 | Outcome1 | 2.000 | 2.445          | 4   |
 | Outcome2 | 6.000 | 2.445          | 4   |
 
-#### Calculating the RMD ANOVA
+The following table of inferential statistics shows the key elements to be calculated.
+
+|         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
+|---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
+| Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
+
+> **Additional Resource: Conducting Analyses**   
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Formulas and Calculations
 
 **Grand (or Total) Mean:** Because sample sizes are equal, a grand mean can be determined by averaging the level means.
 
@@ -82,10 +100,20 @@ The following table of descriptive statistics can be used to determine the infer
 
 > \\[ CI_{M_2} = M_2 \pm (t_{CRITICAL}) (SE_{M_2}) = 6.000 \pm (3.182) (1.225) = [ 2.102, 9.898 ] \\]
 
-#### Summarizing the RMD ANOVA
+> **Additional Resource: Annotated Ouput**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+
+#### Summarizing in APA Style
 
 The RMD ANOVA tests for overall differences across the repeated measures. As such, its summary parallels that of the One-Way ANOVA.
 
 > A repeated measures ANOVA showed that the difference in Outcome scores (*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was statistically significant, *F*(1,3) = 10.67, *p* = .047, partial *eta<sup>2</sup>* = .78.
 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+
+> **Additional Resource: Interpreting Analyses**   
+[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
+[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
+[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)

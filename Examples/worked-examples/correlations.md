@@ -1,8 +1,8 @@
-## Statistical Methods: Worked Examples
+## Worked Examples
 
 ### Correlations
 
-#### Data for the Correlation
+#### Data
 
 The following data set reflects a within-subjects design with two outcome variables. The data are presented in the format suitable for entry into statistical software.
 
@@ -13,6 +13,13 @@ The following data set reflects a within-subjects design with two outcome variab
 | 3   | 3.00     | 4.00     |
 | 4   | 5.00     | 9.00     |
 
+> **Additional Resource: Data Entry**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Computer Output
+
 The following table of descriptive statistics can be used to assist in calculating the correlation.
 
 |          | Mean  | Std. Deviation | N   |
@@ -20,7 +27,18 @@ The following table of descriptive statistics can be used to assist in calculati
 | Outcome1 | 2.000 | 2.445          | 4   |
 | Outcome2 | 6.000 | 2.445          | 4   |
 
-#### Calculating the Correlation
+The following table of inferential statistics shows the key elements to be calculated.
+
+|         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
+|---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
+| Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
+
+> **Additional Resource: Conducting Analyses**   
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Formulas and Calculations
 
 **Sum of Cross Products:** The Sum of Cross Products (SCP) is not easily determined solely from the summary statistics of the output, but rather from the data.
 
@@ -34,7 +52,12 @@ The following table of descriptive statistics can be used to assist in calculati
 
 > \\[ r = \frac{COV}{(SD_X) (SD_Y)} = \frac{3.000}{(2.449) (2.449)} = .500 \\]
 
-#### Summarizing the Correlation
+> **Additional Resource: Annotated Ouput**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+
+#### Summarizing in APA Style
 
 Correlations provide a measure of statistical relationship between two variables. Note that correlations can be tested for statistical significance (and that this information should be summarized if it is available and of interest). Both of the following versions present the required information and, therefore, either could be used.
 
@@ -43,3 +66,8 @@ Correlations provide a measure of statistical relationship between two variables
 > For the participants (*N* = 4), the scores on Outcome 1 (*M* = 2.00, *SD* = 2.45) and Outcome 2 (*M* = 6.00, *SD* = 2.45) were moderately but not statistically significantly correlated, *r*(2) = .50, *p* = .500.
 
 Alternatively, means, standard deviations, and correlations could be presented in a table or figure associated with this paragraph.
+
+> **Additional Resource: Interpreting Analyses**   
+[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
+[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
+[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)

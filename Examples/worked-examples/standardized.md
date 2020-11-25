@@ -1,8 +1,8 @@
-## Statistical Methods: Worked Examples
+## Worked Examples
 
 ### Standardized Scores
 
-#### Data for the Standardized Scores
+#### Data
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
 
@@ -16,6 +16,13 @@ The following data set reflects one sample of eight individuals measured on one 
 | 6   | 7.00    |
 | 7   | 4.00    |
 | 8   | 9.00    |
+
+> **Additional Resource: Data Entry**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Computer Output
 
 The following frequency distribution can be used to determine the percentiles and the descriptive statistics.
 
@@ -35,7 +42,12 @@ The following table of descriptive statistics can be used for the sake of compar
 |---------|----:|------:|---------------:|
 | Outcome | 8   | 4.000 | 3.117          |
 
-#### Calculating the Standardized Scores
+> **Additional Resource: Conducting Analyses**   
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Formulas and Calculations
 
 **Standardized (z) Score:** A standardized score is a deviation score divided by the standard deviation. For the first score in the distribution:
 
@@ -53,8 +65,6 @@ This is repeated for each score in the distribution. In software programs, these
 | 6   | 7.00    | 0.963    |
 | 7   | 4.00    | 0        |
 | 8   | 9.00    | 1.604    |
-
-#### Using Standardized Scores to Estimate Percentiles
 
 **Percentile Rank:** The 50th percentile (the Median) and the 25th and 75th percentiles (collectively known as the Interquartile Range) are the most commonly calculated. Assuming a perfectly normal distribution:
 
@@ -74,8 +84,6 @@ This is repeated for each score in the distribution. In software programs, these
 
 > Thus, we estimate the scores at the 25th, 50th, and 75th percentiles to be approximately 1.880, 4.000, and 6.120 respectively. These are accurate estimates only if the distribution is perfectly normal.
 
-#### Calculating the Descriptive Statistics of the Standardized Scores
-
 **Mean:** The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
 
 > \\[ M = \frac{\sum(fY)}{N} = \frac{(2 \times -1.283) + (1 \times -.321) + (2 \times 0) + (1 \times .321) + (1 \times .963) + (1 \times 1.604)}{8} = 0.000 \\]
@@ -93,6 +101,16 @@ standard deviation.
 
 > \\[ SD = \sqrt{MS} = \sqrt{1.000} = 1.000 \\]
 
-#### Summarizing the Standardized Scores
+> **Additional Resource: Annotated Ouput**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+
+#### Summarizing in APA Style
 
 Standardized scores are typically NOT presented in the summary of the data. Rather, they are often a first step in the calculations. As such, APA style is not presented here.
+
+> **Additional Resource: Interpreting Analyses**   
+[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
+[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
+[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)

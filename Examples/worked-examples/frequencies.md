@@ -1,8 +1,8 @@
-## Statistical Methods: Worked Examples
+## Worked Examples
 
 ### Frequencies
 
-#### Data for the Frequencies and Percentiles
+#### Data
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
 
@@ -17,6 +17,13 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
+> **Additional Resource: Data Entry**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Computer Output
+
 The following frequency distribution can be used to determine the percentiles and other statistics.
 
 |    |   | Frequency | Percent | Valid Percent | Cumulative Percent | 
@@ -29,9 +36,20 @@ The following frequency distribution can be used to determine the percentiles an
 |       | 9.00      | 1       | 12.5          | 12.5               | 100.0 |
 |       | Total     | 8       | 100.0         | 100.0              |       |
 
-#### Calculating the Frequencies and Percentiles
+The following table of descriptive statistics shows the key elements to be calculated.
 
-**Elements of the Frequency Table:** The frequency table provides information about the scores in the data set and the numbers (and percentages) of times those scores occurred.
+|         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
+|---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
+| Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
+
+> **Additional Resource: Conducting Analyses**   
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Formulas and Calculations
+
+Elements of the Frequency Table: The frequency table provides information about the scores in the data set and the numbers (and percentages) of times those scores occurred.
 
 > The “Valid” column lists all the actual scores in the entire data set. “Frequency” indicates the number of times that score exists. For example, the score 4 was listed 2 times.
 
@@ -41,7 +59,7 @@ The following frequency distribution can be used to determine the percentiles an
 
 > “Cumulative Percent” is the SUM of all percentages up to and including the row in question. For example, 62.5% of scores were a 4 or smaller. Similarly, 37.5% were a 3 or smaller.
 
-**Percentiles:** Percentiles provide the scores associated with particular percentile ranks. The 50<sup>th</sup> percentile (the Median) and the 25<sup>th</sup> and 75<sup>th</sup> percentiles (collectively known as the Interquartile Range) are the most commonly calculated.
+Percentiles: Percentiles provide the scores associated with particular percentile ranks. The 50<sup>th</sup> percentile (the Median) and the 25<sup>th</sup> and 75<sup>th</sup> percentiles (collectively known as the Interquartile Range) are the most commonly calculated.
 
 > For example, the 50<sup>th</sup> percentile is the score in the following position:  
 \\[ \text{Position} = PR ( N + 1 ) = .50 ( 8 + 1 ) = 4.5\\]
@@ -49,7 +67,12 @@ Thus, the score at the 50<sup>th</sup> percentile is the 4.5<sup>th</sup> score 
 
 > Similarly, a score of .75 is at the 25<sup>th</sup> percentile and a score of 6.5 is at the 75<sup>th</sup> percentile. Importantly, in some cases, the score values are non-integer interpolated values.
 
-#### Summarizing the Frequencies and Percentiles
+> **Additional Resource: Annotated Ouput**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+
+#### Summarizing in APA Style
 
 Though not often reported, simple summary statistics like the median and quartiles provide the reader with basic frequency information about the variable under investigation. Both of the following versions present the required information and, therefore, either could be used.
 
@@ -58,3 +81,8 @@ Though not often reported, simple summary statistics like the median and quartil
 > The participants (*N* = 8) had a *Mdn* Outcome score of 4.00 (IQR = 0.75 – 6.50).
 
 Alternatively, frequencies and percentiles could be presented in a table or figure associated with this paragraph.
+
+> **Additional Resource: Interpreting Analyses**   
+[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
+[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
+[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
