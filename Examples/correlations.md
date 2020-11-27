@@ -26,8 +26,8 @@ The table of descriptive statistics can be used to assist in calculating the cor
 
 |          | Mean  | Std. Deviation | N   |
 |:---------|------:|---------------:|----:|
-| Outcome1 | 2.000 | 2.445          | 4   |
-| Outcome2 | 6.000 | 2.445          | 4   |
+| Outcome1 | 2.000 | 2.449          | 4   |
+| Outcome2 | 6.000 | 2.449          | 4   |
 
 The table of inferential statistics shows the key elements to be calculated.
 

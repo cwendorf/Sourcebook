@@ -34,9 +34,9 @@ The tables of statistics can be used to determine the inferential statistics.
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
 |:--------|----:|------:|---------------:|----------------:|
-| Level 1 | 4   | 2.000 | 2.445          | 1.225           |
-| Level 2 | 4   | 6.000 | 2.445          | 1.225           |
-| Level 3 | 4   | 7.000 | 2.445          | 1.225           |
+| Level 1 | 4   | 2.000 | 2.449          | 1.225           |
+| Level 2 | 4   | 6.000 | 2.449          | 1.225           |
+| Level 3 | 4   | 7.000 | 2.449          | 1.225           |
 
 | Source  | SS       |	df	 | MS       | F        |  p     |    Eta^2 | 
 |:--------|---------:|------:|---------:|---------:|-------:|---------:|

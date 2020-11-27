@@ -34,9 +34,9 @@ The table of descriptive statistics can be used to determine the inferential sta
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
 |:--------|----:|------:|---------------:|----------------:|
-| Level 1 | 4   | 2.000 | 2.445          | 1.225           |
-| Level 2 | 4   | 6.000 | 2.445          | 1.225           |
-| Level 3 | 4   | 7.000 | 2.445          | 1.225           |
+| Level 1 | 4   | 2.000 | 2.449          | 1.225           |
+| Level 2 | 4   | 6.000 | 2.449          | 1.225           |
+| Level 3 | 4   | 7.000 | 2.449          | 1.225           |
 
 The table of inferential statistics shows the key elements to be calculated.
 
