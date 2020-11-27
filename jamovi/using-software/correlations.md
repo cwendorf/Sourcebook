@@ -11,7 +11,7 @@
 select the "Regression 
 Correlation Matrix" option.
 
-<p align="center"><kbd><img src="image14.jpg"></kbd></p>
+<p align="center"><kbd><img src="image14.png"></kbd></p>
 
 #### Steps for Obtaining Correlations (and Significance Tests)
 
@@ -43,4 +43,4 @@ each variable, follow the
 described earlier in this
 manual.
 
-<p align="center"><kbd><img src="image15.jpg"></kbd></p>
+<p align="center"><kbd><img src="image15.png"></kbd></p>
