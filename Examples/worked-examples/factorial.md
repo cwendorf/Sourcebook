@@ -37,7 +37,7 @@ The following tables represent typical output from statistical software. Options
 The table of descriptive statistics can be used to determine the inferential statistics.
 
 | FactorA | FactorB | Mean  | Std. Deviation | N   |
-|---------|---------|------:|---------------:|----:|
+|:--------|---------|------:|---------------:|----:|
 | Level 1 | Level 1 | 2.000 | 2.445          | 4   |
 |         | Level 2 | 7.000 | 2.445          | 4   |
 | Level 2 | Level 1 | 6.000 | 2.445          | 4   |
@@ -46,7 +46,7 @@ The table of descriptive statistics can be used to determine the inferential sta
 The table of inferential statistics shows the key elements to be calculated.
 
 | Source      | SS       |	df	 | MS       | F        |  p     | Partial Eta^2 | 
-|-------------|---------:|------:|---------:|---------:|-------:|--------------:|
+|:------------|---------:|------:|---------:|---------:|-------:|--------------:|
 | FactorA     |	   4.000 |     1 |    4.000 |    0.667 |  0.430 |         0.053 |
 | FactorB     |	  16.000 |     1 |   16.000 |    2.667 |  0.128 |         0.182 |
 | Interaction |	  36.000 |     1 |   36.000 |    6.000 |  0.031 |         0.333 |

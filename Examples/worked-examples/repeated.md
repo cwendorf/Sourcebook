@@ -25,7 +25,7 @@ The following tables represent typical output from statistical software. Options
 The table of descriptive statistics can be used to determine the inferential statistics.
 
 |          | Mean  | Std. Deviation | N   |
-|----------|------:|---------------:|----:|
+|:---------|------:|---------------:|----:|
 | Outcome1 | 2.000 | 2.445          | 4   |
 | Outcome2 | 6.000 | 2.445          | 4   |
 
@@ -33,13 +33,13 @@ The tables of inferential statistics show the key elements to be calculated.
 
 | Between-Subjects |
 | Source   | SS       |	df	  | MS       | F        |  p     | Partial Eta^2 | 
-|----------|---------:|------:|---------:|---------:|-------:|--------------:|
+|:---------|---------:|------:|---------:|---------:|-------:|--------------:|
 | Subjects |   27.000 |     3 |    9.000 | 
 
 
 | Within-Subjects |
 | Source  | SS       |	df	 | MS       | F        |  p     | Partial Eta^2 | 
-|---------|---------:|------:|---------:|---------:|-------:|--------------:|
+|:--------|---------:|------:|---------:|---------:|-------:|--------------:|
 | Effect  |	  32.000 |     1 |   32.000 |   10.667 |  0.047 |         0.780 |
 | Error   |    9.000 |     3 |    3.000 |
 

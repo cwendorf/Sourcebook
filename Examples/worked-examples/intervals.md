@@ -29,13 +29,13 @@ The following tables represent typical output from statistical software. Options
 The table of descriptive statistics can be used to determine the inferential statistics.
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
-|---------|----:|------:|---------------:|----------------:|
+|:--------|----:|------:|---------------:|----------------:|
 | Outcome | 8   | 4.000 | 3.117          | 1.102           |
 
 The table of inferential statistics shows the key elements to be calculated.
 
 |         |  Mean | Lower CI | Upper CI |
-|---------|------:|---------:|---------:|
+|:--------|------:|---------:|---------:|
 | Outcome | 4.000 |    1.394 |    6.606 |
 
 > **Additional Resource: Conducting Analyses**   

@@ -25,14 +25,14 @@ The following tables represent typical output from statistical software. Options
 The table of descriptive statistics can be used to assist in calculating the correlation.
 
 |          | Mean  | Std. Deviation | N   |
-|----------|------:|---------------:|----:|
+|:---------|------:|---------------:|----:|
 | Outcome1 | 2.000 | 2.445          | 4   |
 | Outcome2 | 6.000 | 2.445          | 4   |
 
 The table of inferential statistics shows the key elements to be calculated.
 
 |          |             | Outcome1 | Outcome2 |
-|----------|-------------|---------:|---------:|
+|:---------|:------------|---------:|---------:|
 | Outcome1 | Pearson's r |    1.000 |     .500 |
 |          | p-value     |          |     .500 |
 |          | SS and SCP  |   18.000 |    9.000 |

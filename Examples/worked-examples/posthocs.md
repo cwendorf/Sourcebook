@@ -33,13 +33,13 @@ The following tables represent typical output from statistical software. Options
 The tables of statistics can be used to determine the inferential statistics.
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
-|---------|----:|------:|---------------:|----------------:|
+|:--------|----:|------:|---------------:|----------------:|
 | Level 1 | 4   | 2.000 | 2.445          | 1.225           |
 | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
 | Level 3 | 4   | 7.000 | 2.445          | 1.225           |
 
 | Source  | SS       |	df	 | MS       | F        |  p     |    Eta^2 | 
-|---------|---------:|------:|---------:|---------:|-------:|---------:|
+|:--------|---------:|------:|---------:|---------:|-------:|---------:|
 | Factor  |	  56.000 |     2 |   28.000 |    4.667 |  0.041 |    0.509 |
 | Within  |   54.000 |     9 |    6.000 |
 | Total   |  110.000 |    11 |          | 
@@ -47,7 +47,7 @@ The tables of statistics can be used to determine the inferential statistics.
 The table of inferential statistics shows the key elements to be calculated.
 
 | Factor  | Factor  | Mean Difference |SE Difference | HSD      | p     | Lower CI | Upper CI |
-|---------|---------|----------------:|-------------:|---------:|------:|---------:|---------:|
+|:--------|---------|----------------:|-------------:|---------:|------:|---------:|---------:|
 | Level1  |	Level2  |          -4.000 |        1.732 |   -2.309 | 0.106 |   -8.836 |    0.836 |
 | Level1  |	Level3  |          -5.000 |        1.732 |   -2.887 | 0.043 |   -9.836 |   -0.164 |
 | Level2  |	Level3  |          -1.000 |        1.732 |   -0.577 | 0.835 |   -5.836 |    3.836 | 

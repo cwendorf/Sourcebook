@@ -29,13 +29,13 @@ The following tables represent typical output from statistical software. Options
 The table of descriptive statistics can be used to determine the inferential statistics.
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
-|---------|----:|------:|---------------:|----------------:|
+|:--------|----:|------:|---------------:|----------------:|
 | Outcome |   8 | 4.000 |          3.117 |           1.102 |
 
 The table of inferential statistics shows the key elements to be calculated.
 
 |         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
-|---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
+|:--------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
 | Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
 
 > **Additional Resource: Conducting Analyses**   

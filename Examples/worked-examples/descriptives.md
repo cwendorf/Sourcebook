@@ -29,7 +29,7 @@ The following tables represent typical output from statistical software. Options
 The frequency distribution can be used to determine the descriptive statistics.
 
 |     |   | Frequency | Percent | Valid Percent | Cumulative Percent |
-|-------|----------:|--------:|--------------:|-------------------:|------:|
+|:------|----------:|--------:|--------------:|-------------------:|------:|
 | Valid | 0.00      | 2       | 25.0          | 25.0               | 25.0  |
 |       | 3.00      | 1       | 12.5          | 12.5               | 37.5  |
 |       | 4.00      | 2       | 25.0          | 25.0               | 62.5  |
@@ -41,7 +41,7 @@ The frequency distribution can be used to determine the descriptive statistics.
 The table of descriptive statistics shows the key elements to be calculated.
 
 |         | N   | Mean  | Std. Deviation |
-|---------|----:|------:|---------------:|
+|:--------|----:|------:|---------------:|
 | Outcome |   8 | 4.000 |          3.117 |
 
 > **Additional Resource: Conducting Analyses**   
