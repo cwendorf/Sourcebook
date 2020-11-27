@@ -24,18 +24,20 @@ The following data set reflects a between-subjects design with one factor (that 
 
 #### Computer Output
 
-The following table of descriptive statistics can be used to determine the inferential statistics for the Independent Samples t Test.
+The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
+
+The table of descriptive statistics can be used to determine the inferential statistics.
 
 |         | Group   | N   | Mean  | Std. Deviation | Std. Error Mean |
 |---------|---------|----:|------:|---------------:|----------------:|
 | Outcome | Level 1 | 4   | 2.000 | 2.445          | 1.225           |
 |         | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
 
-The following table of inferential statistics shows the key elements to be calculated.
+The table of inferential statistics shows the key elements to be calculated.
 
-|         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
-|---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
-| Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
+|         | t         |	df	  | p     | Mean Difference | SE Difference | Lower CI | Upper CI | Cohen's d | 
+|---------|----------:|------:|------:|----------------:|--------------:|---------:|---------:|----------:|
+| Outcome |	   -2.309 | 6.000 | 0.060 |          -4.000 |         1.732 |   -8.238 |    0.238 |    -1.633 |
 
 > **Additional Resource: Conducting Analyses**   
 [SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 

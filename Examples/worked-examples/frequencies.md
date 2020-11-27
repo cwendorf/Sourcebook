@@ -24,7 +24,9 @@ The following data set reflects one sample of eight individuals measured on one 
 
 #### Computer Output
 
-The following frequency distribution can be used to determine the percentiles and other statistics.
+The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
+
+The frequency distribution can be used to determine the percentiles and other statistics.
 
 |    |   | Frequency | Percent | Valid Percent | Cumulative Percent | 
 |-------|----------:|--------:|--------------:|-------------------:|------:|
@@ -36,11 +38,15 @@ The following frequency distribution can be used to determine the percentiles an
 |       | 9.00      | 1       | 12.5          | 12.5               | 100.0 |
 |       | Total     | 8       | 100.0         | 100.0              |       |
 
-The following table of descriptive statistics shows the key elements to be calculated.
+The table of descriptive statistics shows the key elements to be calculated.
 
-|         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
-|---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
-| Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
+|                 |   Outcome |
+|-----------------|----------:|
+| N               |	        8 |
+| Missing         |         0 |
+| 25th percentile |     2.250 |
+| 50th percentile |     4.000 |
+| 75th percentile |     5.500 |   
 
 > **Additional Resource: Conducting Analyses**   
 [SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 

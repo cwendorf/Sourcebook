@@ -22,19 +22,21 @@ The third variable is a created variable. It shows the difference (Time 1 – Ti
 
 #### Computer Output
 
-The following table of descriptive statistics can be used to determine the inferential statistics for the Paired Samples t Test.
+The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
 
-|          | N   | Mean  | Std. Deviation | Std. Error |
-|----------|----:|------:|---------------:|-----------:|
-| Outcome1 | 4   | 2.000 | 2.449          | 1.225      |
-| Outcome2 | 4   | 6.000 | 2.449          | 1.225      |
-| Change   | 4   | -4.000 | 2.44          | 1.225      |
+The table of descriptive statistics can be used to determine the inferential statistics.
 
-The following table of inferential statistics shows the key elements to be calculated.
+|          | N   | Mean   | Std. Deviation | Std. Error |
+|----------|----:|-------:|---------------:|-----------:|
+| Outcome1 | 4   |  2.000 | 2.449          | 1.225      |
+| Outcome2 | 4   |  6.000 | 2.449          | 1.225      |
+| Change   | 4   | -4.000 | 2.449          | 1.225      |
 
-|         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
-|---------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
-| Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
+The table of inferential statistics shows the key elements to be calculated.
+
+|         | t         |	df	  | p     | Mean Difference | SE Difference | Lower CI | Upper CI | Cohen's d | 
+|---------|----------:|------:|------:|----------------:|--------------:|---------:|---------:|----------:|
+| Outcome |	   -3.266 | 3.000 | 0.047 |          -4.000 |         1.225 |   -7.898 |   -0.102 |    -1.633 |
 
 > **Additional Resource: Conducting Analyses**   
 [SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 

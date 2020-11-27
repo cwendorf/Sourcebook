@@ -24,13 +24,15 @@ The following data set reflects one sample of eight individuals measured on one 
 
 #### Computer Output
 
-The following table of descriptive statistics can be used to determine the inferential statistics.
+The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
+
+The table of descriptive statistics can be used to determine the inferential statistics.
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
 |---------|----:|------:|---------------:|----------------:|
 | Outcome | 8   | 4.000 | 3.117          | 1.102           |
 
-The following table of inferential statistics shows the key elements to be calculated.
+The table of inferential statistics shows the key elements to be calculated.
 
 |         |  Mean | Lower CI | Upper CI |
 |---------|------:|---------:|---------:|

@@ -1,8 +1,8 @@
-## Statistical Methods: Worked Examples
+## Worked Examples
 
 ### Factorial ANOVA
 
-#### Data for the Factorial ANOVA
+#### Data
 
 The following data set reflects a between-subjects Factorial design with two factors (with two levels for each factor). The data are presented in the format suitable for entry into statistical software.
 
@@ -25,7 +25,16 @@ The following data set reflects a between-subjects Factorial design with two fac
 | 15  | 2.00    | 2.00    | 8.00    |
 | 16  | 2.00    | 2.00    | 3.00    |
 
-The following table of descriptive statistics can be used to determine the inferential statistics for the Factorial ANOVA.
+> **Additional Resource: Data Entry**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Computer Output
+
+The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
+
+The table of descriptive statistics can be used to determine the inferential statistics.
 
 | FactorA | FactorB | Mean  | Std. Deviation | N   |
 |---------|---------|------:|---------------:|----:|
@@ -34,9 +43,24 @@ The following table of descriptive statistics can be used to determine the infer
 | Level 2 | Level 1 | 6.000 | 2.445          | 4   |
 |         | Level 2 | 5.000 | 2.449          | 4   |
 
-#### Calculating the Factorial ANOVA
+The table of inferential statistics shows the key elements to be calculated.
 
-**Error (Within Groups) Statistics:** Within-groups error statistics are a function of the within group variabilities.
+| Source      | SS       |	df	 | MS       | F        |  p     | Partial Eta^2 | 
+|-------------|---------:|------:|---------:|---------:|-------:|--------------:|
+| FactorA     |	   4.000 |     1 |    4.000 |    0.667 |  0.430 |         0.053 |
+| FactorB     |	  16.000 |     1 |   16.000 |    2.667 |  0.128 |         0.182 |
+| Interaction |	  36.000 |     1 |   36.000 |    6.000 |  0.031 |         0.333 |
+| Within      |   72.000 |    12 |    6.000 |
+| Total       |  128.000 |    15 |
+
+> **Additional Resource: Conducting Analyses**   
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+
+#### Formulas and Calculations
+
+Error (Within Groups) Statistics: Within-groups error statistics are a function of the within group variabilities.
 
 > \\[ SS_1 = ( SD_1^2 ) ( df_1 ) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 
@@ -52,11 +76,11 @@ The following table of descriptive statistics can be used to determine the infer
 
 > \\[ MS_{ERROR} = \frac{SS_{ERROR}}{df_{ERROR}} = \frac{72.000}{12} = 6.000 \\]
 
-**Grand (or Total) Mean:** A grand mean can be determined by taking the weighted average of all of the group means.
+Grand (or Total) Mean: A grand mean can be determined by taking the weighted average of all of the group means.
 
 > \\[ M_{TOTAL} = \frac{\sum n_{GROUP} (M_{GROUP})}{N} = \frac{ 4 (2.000) + 4 (7.000) + 4 (6.000) + 4 (5.000) }{( 4 + 4 + 4 + 4 )} = 5.000 \\]
 
-**Marginal Means:** A level (marginal) mean can be determined by taking the weighted average of the appropriate group means.
+Marginal Means: A level (marginal) mean can be determined by taking the weighted average of the appropriate group means.
 
 For Factor A:
 
@@ -70,7 +94,7 @@ For Factor B:
 
 > \\[ M_{B2} = \frac{\sum n_{GROUP} (M_{GROUP})}{N_{LEVEL}} = \frac{ 4 (7.000) + 4 (5.000) }{( 4 + 4 )} = 4.000 \\]
 
-**Effect (Between Groups) Statistics:** The Model statistics represent the overall differences among the groups. The Factor A and Factor B statistics are a function of the level (marginal) means and sample sizes. The interaction statistics reflect the between-groups variability not accounted for by the factors individually.
+Effect (Between Groups) Statistics: The Model statistics represent the overall differences among the groups. The Factor A and Factor B statistics are a function of the level (marginal) means and sample sizes. The interaction statistics reflect the between-groups variability not accounted for by the factors individually.
 
 For the Model:
 
@@ -102,7 +126,7 @@ For the Interaction:
 
 > \\[ MS_{INTER} = \frac{SS_{INTER}}{df_{INTER}} = \frac{36.000}{1} = 36.000 \\]
 
-**Statistical Significance:** The *F* statistic is the ratio of the between-and within-group variance estimates. 
+Statistical Significance: The *F* statistic is the ratio of the between-and within-group variance estimates. 
 
 For the Factor A Main Effect:
 
@@ -122,7 +146,7 @@ For the Interaction:
 > With *df<sub>INTER</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747
 > Because *F<sub>INTER</sub>* > *F<sub>CRITICAL</sub>*, *p* < .05
 
-**Effect Size:** The partial eta-squared statistic is a ratio of the between-subjects effect and the remaining variability (Sum of Squares) estimates after within-subjects error has been partialled out.
+Effect Size: The partial eta-squared statistic is a ratio of the between-subjects effect and the remaining variability (Sum of Squares) estimates after within-subjects error has been partialled out.
 
 For the Factor A Main Effect:
 
@@ -136,12 +160,22 @@ For the Interaction:
 
 > \\[ \text{Partial} \; \eta^2 = \frac{SS_{INTER}}{( SS_{INTER} + SS_{ERROR} )} = \frac{36.000}{( 36.000 + 72.000 )} = 0.333 \\]
 
-**Confidence Intervals:** For Factorial ANOVA, calculate the confidence intervals around (centered on) each mean separately (not shown here).
+*Confidence Intervals: For Factorial ANOVA, calculate the confidence intervals around (centered on) each mean separately (not shown here).
 
-#### Summarizing the Factorial ANOVA
+> **Additional Resource: Annotated Ouput**  
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+
+#### Summarizing in APA Style
 
 The Factorial ANOVA provides statistics for all of the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One-Way ANOVA.
 
 > A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, *F*(1,12) = 0.67, *p* = .430, partial *eta<sup>2</sup>* = .05, nor Factor B, *F*(1,12) = 2.67, *p* = .128, partial *eta<sup>2</sup>* = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, *F*(1,12) = 6.00, *p* = .031, partial *eta<sup>2</sup>* = .33.
 
 Means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+
+> **Additional Resource: Interpreting Analyses**   
+[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
+[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
+[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)

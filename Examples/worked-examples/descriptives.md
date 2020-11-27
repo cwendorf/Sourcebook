@@ -24,7 +24,9 @@ The following data set reflects one sample of eight individuals measured on one 
 
 #### Computer Output
 
-The following frequency distribution can be used to determine the descriptive statistics.
+The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
+
+The frequency distribution can be used to determine the descriptive statistics.
 
 |     |   | Frequency | Percent | Valid Percent | Cumulative Percent |
 |-------|----------:|--------:|--------------:|-------------------:|------:|
@@ -36,7 +38,7 @@ The following frequency distribution can be used to determine the descriptive st
 |       | 9.00      | 1       | 12.5          | 12.5               | 100.0 |
 |       | Total     | 8       | 100.0         | 100.0              |       |
 
-The following table of descriptive statistics shows the key elements to be calculated.
+The table of descriptive statistics shows the key elements to be calculated.
 
 |         | N   | Mean  | Std. Deviation |
 |---------|----:|------:|---------------:|
