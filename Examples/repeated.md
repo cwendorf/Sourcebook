@@ -32,13 +32,13 @@ The table of descriptive statistics can be used to determine the inferential sta
 The tables of inferential statistics show the key elements to be calculated.
 
 | Between-Subjects |
-| Source   | SS       |	df	  | MS       | F        |  p     | Partial Eta^2 | 
+| Source   | SS       |	df	  | MS       | F        |  p     | Partial Eta<sup>2</sup> | 
 |:---------|---------:|------:|---------:|---------:|-------:|--------------:|
 | Subjects |   27.000 |     3 |    9.000 | 
 
 
 | Within-Subjects |
-| Source  | SS       |	df	 | MS       | F        |  p     | Partial Eta^2 | 
+| Source  | SS       |	df	 | MS       | F        |  p     | Partial Eta<sup>2</sup> | 
 |:--------|---------:|------:|---------:|---------:|-------:|--------------:|
 | Effect  |	  32.000 |     1 |   32.000 |   10.667 |  0.047 |         0.780 |
 | Error   |    9.000 |     3 |    3.000 |
