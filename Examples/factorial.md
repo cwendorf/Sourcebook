@@ -38,9 +38,9 @@ The table of descriptive statistics can be used to determine the inferential sta
 
 | FactorA | FactorB | Mean  | Std. Deviation | N   |
 |:--------|---------|------:|---------------:|----:|
-| Level 1 | Level 1 | 2.000 | 2.445          | 4   |
-|         | Level 2 | 7.000 | 2.445          | 4   |
-| Level 2 | Level 1 | 6.000 | 2.445          | 4   |
+| Level 1 | Level 1 | 2.000 | 2.449          | 4   |
+|         | Level 2 | 7.000 | 2.449          | 4   |
+| Level 2 | Level 1 | 6.000 | 2.449          | 4   |
 |         | Level 2 | 5.000 | 2.449          | 4   |
 
 The table of inferential statistics shows the key elements to be calculated.
