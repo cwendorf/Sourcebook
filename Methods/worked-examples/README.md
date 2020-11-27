@@ -257,8 +257,8 @@ The following table of descriptive statistics can be used to assist in calculati
 
 |          | Mean  | Std. Deviation | N   |
 |----------|------:|---------------:|----:|
-| Outcome1 | 2.000 | 2.445          | 4   |
-| Outcome2 | 6.000 | 2.445          | 4   |
+| Outcome1 | 2.000 | 2.449          | 4   |
+| Outcome2 | 6.000 | 2.449          | 4   |
 
 #### Calculating the Correlation
 
@@ -406,7 +406,7 @@ The following table of descriptive statistics can be used to determine the infer
 |----------|----:|------:|---------------:|-----------:|
 | Outcome1 | 4   | 2.000 | 2.449          | 1.225      |
 | Outcome2 | 4   | 6.000 | 2.449          | 1.225      |
-| Change   | 4   | -4.000 | 2.44          | 1.225      |
+| Change   | 4   | -4.000 | 2.449         | 1.225      |
 
 #### Calculating the Paired Samples t Test
 
@@ -461,8 +461,8 @@ The following table of descriptive statistics can be used to determine the infer
 
 |         | Group   | N   | Mean  | Std. Deviation | Std. Error Mean |
 |---------|---------|----:|------:|---------------:|----------------:|
-| Outcome | Level 1 | 4   | 2.000 | 2.445          | 1.225           |
-|         | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
+| Outcome | Level 1 | 4   | 2.000 | 2.449          | 1.225           |
+|         | Level 2 | 4   | 6.000 | 2.449          | 1.225           |
 
 #### Calculating the Independent Samples t Test
 
@@ -544,9 +544,9 @@ The following table of descriptive statistics can be used to determine the infer
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
 |---------|----:|------:|---------------:|----------------:|
-| Level 1 | 4   | 2.000 | 2.445          | 1.225           |
-| Level 2 | 4   | 6.000 | 2.445          | 1.225           |
-| Level 3 | 4   | 7.000 | 2.445          | 1.225           |
+| Level 1 | 4   | 2.000 | 2.449          | 1.225           |
+| Level 2 | 4   | 6.000 | 2.449          | 1.225           |
+| Level 3 | 4   | 7.000 | 2.449          | 1.225           |
 
 #### Calculating the One-Way ANOVA
 
@@ -631,9 +631,9 @@ The following table of descriptive statistics can be used to determine the infer
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
 |---------|----:|------:|---------------:|----------------:|
-| Level 1 | 4   | 2.000 | 2.445          | 1.225           |
-| Level 2 | 4   | 6.000 | 2.445          | 1.225           |
-| Level 3 | 4   | 7.000 | 2.445          | 1.225           |
+| Level 1 | 4   | 2.000 | 2.449          | 1.225           |
+| Level 2 | 4   | 6.000 | 2.449          | 1.225           |
+| Level 3 | 4   | 7.000 | 2.449          | 1.225           |
 
 #### Calculating the Post Hoc Comparisons
 
@@ -697,8 +697,8 @@ The following table of descriptive statistics can be used to determine the infer
 
 |          | Mean  | Std. Deviation | N   |
 |----------|------:|---------------:|----:|
-| Outcome1 | 2.000 | 2.445          | 4   |
-| Outcome2 | 6.000 | 2.445          | 4   |
+| Outcome1 | 2.000 | 2.449          | 4   |
+| Outcome2 | 6.000 | 2.449          | 4   |
 
 #### Calculating the RMD ANOVA
 
@@ -801,9 +801,9 @@ The following table of descriptive statistics can be used to determine the infer
 
 | FactorA | FactorB | Mean  | Std. Deviation | N   |
 |---------|---------|------:|---------------:|----:|
-| Level 1 | Level 1 | 2.000 | 2.445          | 4   |
-|         | Level 2 | 7.000 | 2.445          | 4   |
-| Level 2 | Level 1 | 6.000 | 2.445          | 4   |
+| Level 1 | Level 1 | 2.000 | 2.449          | 4   |
+|         | Level 2 | 7.000 | 2.449          | 4   |
+| Level 2 | Level 1 | 6.000 | 2.449          | 4   |
 |         | Level 2 | 5.000 | 2.449          | 4   |
 
 #### Calculating the Factorial ANOVA
