@@ -26,8 +26,8 @@ The table of descriptive statistics can be used to determine the inferential sta
 
 |          | Mean  | Std. Deviation | N   |
 |:---------|------:|---------------:|----:|
-| Outcome1 | 2.000 | 2.445          | 4   |
-| Outcome2 | 6.000 | 2.445          | 4   |
+| Outcome1 | 2.000 | 2.449          | 4   |
+| Outcome2 | 6.000 | 2.449          | 4   |
 
 The tables of inferential statistics show the key elements to be calculated.
 
