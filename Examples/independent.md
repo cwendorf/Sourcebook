@@ -78,7 +78,7 @@ Or this can be used when the two sample sizes are either equal or are unequal:
 
 > \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.309 \\]
 > \\[ df = ( n_1 - 1 ) + ( n_2 - 1) = N - 2 = 8 - 2 = 6  \\]
-> With *df* = 6, *t<sub>CRITICAL</sub>* = 2.447
+> With *df* = 6, *t<sub>CRITICAL</sub>* = 2.447  
 > Because *t* < *t<sub>CRITICAL</sub>*, *p* > .05
 
 **Effect Size:** Cohen’s *d* Statistic provides a standardized effect size for the difference between the two means.

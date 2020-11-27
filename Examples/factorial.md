@@ -131,19 +131,19 @@ Statistical Significance: The *F* statistic is the ratio of the between-and with
 For the Factor A Main Effect:
 
 > \\[ F = \frac{MS_{FACTORA}}{MS_{ERROR}} = \frac{4.000}{6.000} = 0.667 \\]
-> With *df<sub>FACTORA</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747
+> With *df<sub>FACTORA</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747  
 > Because *F<sub>FACTORA</sub>* < *F<sub>CRITICAL</sub>*, *p* > .05
 
 For the Factor B Main Effect:
 
 > \\[ F = \frac{MS_{FACTORB}}{MS_{ERROR}} = \frac{16.000}{6.000} = 2.667 \\]
-> With *df<sub>FACTORB</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747
+> With *df<sub>FACTORB</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747  
 > Because *F<sub>FACTORB</sub>* < *F<sub>CRITICAL</sub>*, *p* > .05
 
 For the Interaction:
 
 > \\[ F = \frac{MS_{INTER}}{MS_{ERROR}} = \frac{36.000}{6.000} = 6.000 \\]
-> With *df<sub>INTER</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747
+> With *df<sub>INTER</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747  
 > Because *F<sub>INTER</sub>* > *F<sub>CRITICAL</sub>*, *p* < .05
 
 Effect Size: The partial eta-squared statistic is a ratio of the between-subjects effect and the remaining variability (Sum of Squares) estimates after within-subjects error has been partialled out.
