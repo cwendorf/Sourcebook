@@ -45,7 +45,7 @@ The table of descriptive statistics can be used to determine the inferential sta
 
 The table of inferential statistics shows the key elements to be calculated.
 
-| Source      | SS       |	df	 | MS       | F        |  p     | Partial Eta^2 | 
+| Source      | SS       |	df	 | MS       | F        |  p     | Partial Eta<sup>2</sup> | 
 |:------------|---------:|------:|---------:|---------:|-------:|--------------:|
 | FactorA     |	   4.000 |     1 |    4.000 |    0.667 |  0.430 |         0.053 |
 | FactorB     |	  16.000 |     1 |   16.000 |    2.667 |  0.128 |         0.182 |
