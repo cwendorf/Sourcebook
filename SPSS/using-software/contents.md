@@ -11,7 +11,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [Entering Multiple Sample Data](./multiplesampledata)
 - [Entering Factorial Data](./factorialdata)
 - [Frequencies (Frequencies and Descriptives)](./frequencies)
-- [Correlations (Bivariate)](#correlations-bivariate)
+- [Correlations (Bivariate)](#correlations)
 - [Descriptives (Standardized Scores and Transformations)](./standardized)
 - [Explore (Descriptives and Confidence Intervals)](./intervals)
 - [T Test (One Sample)](./onesample)
