@@ -14,10 +14,11 @@ The materials in this online sourcebook are intended to facilitate the connectio
 
 The Sourcebook includes chapters on the following:
 
-- [**Methods**](./Methods): Contains an overview, statistical tables, APA style for reporting, and worked examples
+- [**Methods**](./Methods): Contains an overview, statistical tables, and APA style for reporting
 - [**SPSS**](./SPSS): Contains instructions, annotated output, and blank output for SPSS
 - [**jamovi**](./jamovi): Contains instructions, annotated output, and blank output for jamovi
 - [**JASP**](./JASP): Contains instructions, annotated output, and blank output for JASP
+- [**Examples**](./Examples): Contains completed worked examples to with formulas, calculations, and APA results
 
 ### Citation
 
