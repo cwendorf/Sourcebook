@@ -70,7 +70,7 @@ When the two sample sizes are equal:
 
 > \\[ SE_{DIFF} = \sqrt{ SE_1^2 + SE_2^2 } = \sqrt{ 1.225^2 + 1.225^2 } = 1.732 \\]
 
-Or this can be used when the two sample sizes are either equal or are unequal:
+Or an expanded version of the formula can be used when the two sample sizes are either equal or unequal:
 
 > \\[ SE_{DIFF} = \sqrt{ \left( \frac{MS_{WITHIN}}{n_1} \right) + \left( \frac{MS_{WITHIN}}{n_2} \right) } = \sqrt{ \left( \frac{6.000}{4} \right) + \left( \frac{6.000}{4} \right) } = 1.732 \\]
 
