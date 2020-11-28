@@ -38,7 +38,7 @@ The tables of statistics can be used to determine the inferential statistics.
 | Level 2 | 4   | 6.000 | 2.449          | 1.225           |
 | Level 3 | 4   | 7.000 | 2.449          | 1.225           |
 
-| Source  | SS       |	df	 | MS       | F        |  p     |    Eta^2 | 
+| Source  | SS       |	df	 | MS       | F        |  p     |    Eta<sup>2</sup> | 
 |:--------|---------:|------:|---------:|---------:|-------:|---------:|
 | Factor  |	  56.000 |     2 |   28.000 |    4.667 |  0.041 |    0.509 |
 | Within  |   54.000 |     9 |    6.000 |
