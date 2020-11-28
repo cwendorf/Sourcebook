@@ -18,7 +18,7 @@ The Sourcebook includes chapters on the following:
 - [**SPSS**](./SPSS): Contains instructions, annotated output, and blank output for SPSS
 - [**jamovi**](./jamovi): Contains instructions, annotated output, and blank output for jamovi
 - [**JASP**](./JASP): Contains instructions, annotated output, and blank output for JASP
-- [**Examples**](./Examples): Contains completed worked examples to with formulas, calculations, and APA results
+- [**Examples**](./Examples): Contains complete worked examples with data, calculations, and summaries
 
 ### Citation
 
