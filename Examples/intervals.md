@@ -1,4 +1,4 @@
-## Statistical Methods: Worked Examples
+## Worked Examples
 
 ### Confidence Intervals
 
