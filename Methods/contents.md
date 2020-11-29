@@ -4,24 +4,26 @@
 
 This chapter provides an overview of the basic types of statistical analyses. This starts with the basic terminology of statistics. It also includes a decision tree for highlighting the typical tests of statistical significance, confidence intervals, and effects sizes used for common univariate research designs.
 
-- [Choosing Appropriate Inferential Statistics](./choosing)
-- [Understanding Statistical Significance Tests](./significance)
-- [Understanding Effect Size Measures](./effects)
+- [Choosing Appropriate Inferential Statistics](./statistical-analyses/choosing)
+- [Understanding Statistical Significance Tests](./statistical-analyses/significance)
+- [Understanding Effect Size Measures](./statistical-analyses/effects)
 
-> [View the Complete Chapter on Statistical Analyses](./statistical-analyses/complete)
+> View the Complete Chapter:  
+> [Statistical Analyses](./statistical-analyses/complete)
 
 ### Statistical Tables
 
 This chapter provides basic statistical tables. Tables included are the Standard Normal, Student's (t), F, Tukey's HSD, and power tables for Cohen's d and Eta-Squared. 
 
-- [Standard Normal Distribution](./normal)
-- [Values of the t Distribution](./t)
-- [Power Table for Cohen's d](./powerd)
-- [Critical Values of the F Distribution](./F)
-- [Power Table for Eta Squared](./powereta)
-- [Values of Tukey's HSD Statistic](./hsd)
+- [Standard Normal Distribution](./statistical-tables/normal)
+- [Values of the t Distribution](./statistical-tables/t)
+- [Power Table for Cohen's d](./statistical-tables/powerd)
+- [Critical Values of the F Distribution](./statistical-tables/F)
+- [Power Table for Eta Squared](./statistical-tables/powereta)
+- [Values of Tukey's HSD Statistic](./statistical-tables/hsd)
 
-> [View the Complete Chapter on Statistical Tables](./statistical-tables/complete)
+> View the Complete Chapter:  
+> [Statistical Tables](./statistical-tables/complete)
 
 ### Reporting Statistics
 
@@ -32,4 +34,5 @@ This chapter describes basic rules for presenting statistical results in APA sty
 - [Examples of APA Style Results in the Text](./reporting-statistics/text)
 - [Examples of APA Style Results in Tables](./reporting-statistics/tables)
 
-> [View the Complete Chapter on Reporting Statistics](./reporting-statistics/complete)
+> View the Complete Chapter:  
+> [Reporting Statistics](./reporting-statistics/complete)
