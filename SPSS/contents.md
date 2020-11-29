@@ -20,17 +20,19 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [General Linear Model (Repeated Measures ANOVA)](./using-software/repeated)
 - [Univariate Analysis of Variance (Factorial ANOVA)](./using-software/factorial)
 
-> [View the Complete Chapter on Using Software](./using-software/complete)
+> View the Complete Chapter:  
+> [Using Software](./using-software/complete)
 
 ### Annotated Output
 
 This chapter is intended to facilitate the connection between standard introductory statistics concepts and their implementation in SPSS. It shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and SPSS output.
 
-> [View the Complete Chapter on Annotated Output](./annotated-output/complete)
+> View the Complete Chapter:  
+> [Annotated Output](./annotated-output/complete)
 
 ### Blank Output
 
 This chapter is used as a set of worksheets for class problems. Students fill in their answers on these sheets, thus making clear the links between non-computer (“hand”) calculations and the SPSS output.
 
-
-> [View the Complete Chapter on Blank Output](./blank-output/complete)
+> [View the Complete Chapter:  
+> [Blank Output](./blank-output/complete)
