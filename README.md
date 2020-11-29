@@ -1,5 +1,5 @@
 <a href="https://cwendorf.github.io/Sourcebook/">
-<img src="assets/logo.png" height="60px;" align="left;" style="display: none;">
+<img src="_layouts/logo.png" height="60px;" align="left;" style="display: none;">
 </a>
 
 # Statistics for Social Science
