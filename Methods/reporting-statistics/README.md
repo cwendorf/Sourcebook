@@ -2,7 +2,7 @@
 
 ### Abstract 
 
-This chapter describes basic rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Specific examples of mini Results summaries are provided, using the analyses elsewhere in this project. Sample data tables are provided for more complex examples.
+This chapter describes basic rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Specific examples of mini Results summaries are provided. Sample data tables are provided for more complex examples.
 
 ### Table of Contents
 

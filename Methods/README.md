@@ -8,12 +8,12 @@ This section provides an overview of the basic types of statistical analyses. Th
 
 ### Statistical Tables
 
-This chapter provides basic statistical tables. Tables included are the Standard Normal, Student's (t), F, Tukey's HSD, and power tables for Cohen's d and Eta-Squared. These tables were used in the annotated output sections of this project.
+This chapter provides basic statistical tables. Tables included are the Standard Normal, Student's (t), F, Tukey's HSD, and power tables for Cohen's d and Eta-Squared. 
 
 - [View the Chapter](./statistical-tables/)
 
 ### Reporting Statistics
 
-This chapter describes basic rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Specific examples of mini Results summaries are provided, using the analyses elsewhere in this project. Sample data tables are provided for more complex examples.
+This chapter describes basic rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Specific examples of mini Results summaries are provided. Sample data tables are provided for more complex examples.
 
 - [View the Chapter](./reporting-statistics/)
