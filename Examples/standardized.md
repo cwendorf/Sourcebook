@@ -18,9 +18,9 @@ The following data set reflects one sample of eight individuals measured on one 
 | 8   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/onesampledata) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/onesampledata) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/onesampledata)
 
 #### Computer Output
 
@@ -45,9 +45,9 @@ The following table of descriptive statistics show some of the key elements to b
 | Outcome | 8   | 4.000 | 3.117          |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/standardized) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/standardized) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/standardized)
 
 #### Formulas and Calculations
 

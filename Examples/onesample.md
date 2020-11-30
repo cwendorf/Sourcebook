@@ -18,9 +18,9 @@ The following data set reflects one sample of eight individuals measured on one 
 | 8   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/onesampledata) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/onesampledata) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/onesampledata)
 
 #### Computer Output
 
@@ -39,9 +39,9 @@ The table of inferential statistics shows the key elements to be calculated.
 | Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/onesample) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/onesample) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/onesample)
 
 #### Formulas and Calculations
 

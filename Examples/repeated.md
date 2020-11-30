@@ -14,9 +14,9 @@ The following data set reflects a within-subjects (repeated measures) design wit
 | 4   | 5.00     | 9.00     |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/repeateddata) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/repeateddata) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/repeateddata)
 
 #### Computer Output
 
@@ -44,9 +44,9 @@ The tables of inferential statistics show the key elements to be calculated.
 | Error   |    9.000 |     3 |    3.000 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/repeated) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/repeated) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/repeated)
 
 #### Formulas and Calculations
 

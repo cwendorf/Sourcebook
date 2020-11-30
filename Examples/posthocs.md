@@ -22,9 +22,9 @@ The following data set reflects a between-subjects design with one factor (with 
 | 12  | 3.00   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/multiplesampledata) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/multiplesampledata) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/multiplesampledata)
 
 #### Computer Output
 
@@ -53,9 +53,9 @@ The table of inferential statistics shows the key elements to be calculated.
 | Level2  |	Level3  |          -1.000 |        1.732 |   -0.577 | 0.835 |   -5.836 |    3.836 | 
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/posthocs) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/posthocs) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/posthocs)
 
 #### Formulas and Calculations
 

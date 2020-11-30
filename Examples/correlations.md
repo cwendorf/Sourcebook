@@ -14,9 +14,9 @@ The following data set reflects a within-subjects design with two outcome variab
 | 4   | 5.00     | 9.00     |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/repeateddata) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/repeateddata) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/repeateddata)
 
 #### Computer Output
 
@@ -43,9 +43,9 @@ The table of inferential statistics shows the key elements to be calculated.
 |          | COV         |    3.000 |    6.000 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/correlations) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/correlations) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/correlations)
 
 #### Formulas and Calculations
 

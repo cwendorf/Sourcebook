@@ -22,9 +22,9 @@ The following data set reflects a between-subjects design with one factor (with 
 | 12  | 3.00   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/multiplesampledata) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/multiplesampledata) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/multiplesampledata)
 
 #### Computer Output
 
@@ -47,9 +47,9 @@ The table of inferential statistics shows the key elements to be calculated.
 | Total   |  110.000 |    11 |          | 
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/oneway) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/oneway) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/oneway)
 
 #### Formulas and Calculations
 

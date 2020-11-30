@@ -16,9 +16,9 @@ The following data set reflects a within-subjects (repeated measures) design wit
 The third variable is a created variable. It shows the difference (Time 1 – Time 2) for each of the individuals. Note that a score of zero on this difference variable would represent no change for that individual, whereas a positive value would mean that the score went down and a negative value that the score went up for that individual.
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/repeateddata) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/repeateddata) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/repeateddata)
 
 #### Computer Output
 
@@ -39,29 +39,29 @@ The table of inferential statistics shows the key elements to be calculated.
 | Outcome |	   -3.266 | 3.000 | 0.047 |          -4.000 |         1.225 |   -7.898 |   -0.102 |    -1.633 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/)
+[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/paired) | 
+[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/paired) | 
+[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/paired)
 
 #### Formulas and Calculations
 
 For the Paired Samples t test, the focus is on the change variable. As a result, it is the only variable that is used in the calculations below.
 
-**Mean Difference (Raw Effect):** The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
+Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
 
 > \\[ M_{DIFF} = M - \mu = 4.000 − 0.000 = −4.000 \\]
 
-**Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
+Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 
 > \\[ t = \frac{M_{DIFF}}{SE_M} = \frac{-4.000}{1.225} = -3.226 \\]
 > With *df* = 3, *t<sub>CRITICAL</sub>* = 3.182  
 > Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05
 
-**Effect Size:** Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
+Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
 
 > \\[ d = \frac{M_{DIFF}}{SD} = \frac{-4.000}{2.449} = -1.633 \\]
 
-**Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
 > \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -4.000 \pm (3.182) (1.225) = [ −7.898, −0.102 ] \\]
 
