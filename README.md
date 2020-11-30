@@ -10,7 +10,7 @@
 
 The materials in this online sourcebook are intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software.
 
-<p align="center"><kbd><img src="AnnotatedOutput.jpg"></kbd></p>
+<p align="center"><kbd><img src="AnnotatedOutput.png"></kbd></p>
 
 ### Materials
 
