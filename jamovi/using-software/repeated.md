@@ -2,7 +2,7 @@
 
 ### Repeated Measures ANOVA
 
- #### Steps for Obtaining Repeated Measures Inferential Statistics
+#### Steps for Obtaining Repeated Measures Inferential Statistics
 
 1. First, enter repeated
 measures data (described 
