@@ -1,10 +1,6 @@
 ## jamovi: Using the Software
 
-### Abstract
-
 This chapter provides step-by-step instructions on how to obtain basic statistical output using jamovi, both visually with screenshots and via written instructions. Simple examples for most undergraduate level between-subjects and within-subjects research designs are provided.
-
-### Table of Contents
 
 - [Entering One Sample Data](#entering-one-sample-data)  
 - [Entering Repeated Measures Data](#entering-repeated-measures-data)

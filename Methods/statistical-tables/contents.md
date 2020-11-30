@@ -1,10 +1,6 @@
 ## Statistical Methods: Statistical Tables
 
-### Abstract
-
 This chapter provides basic statistical tables. Tables included are the Standard Normal, Student's (*t*) Distribution, *F*, Tukey's *HSD*, and power tables for Cohen's *d* and Eta-Squared.
-
-### Table of Contents
 
 - [Standard Normal Distribution](./normal)
 - [Values of the t Distribution](./t)
