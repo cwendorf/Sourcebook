@@ -1,10 +1,8 @@
-## Worked Examples
+## Understanding Through Examples
 
-### Abstract
+### Worked Examples
 
 This chapter provides a complete set of worked examples. The raw data, computer output, formulas and calculations, and summaries in APA style are provided for each type of research design.
-
-### Table of Contents
 
 - [Frequencies](./frequencies)
 - [Descriptives](./descriptives)
