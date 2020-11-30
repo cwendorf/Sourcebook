@@ -10,9 +10,7 @@
 
 The materials in this online sourcebook are intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software.
 
-<a href="https://cwendorf.github.io/EASI">
 <p align="center"><kbd><img src="AnnotatedOutput.jpg"></kbd></p>
-</a>
 
 ### Materials
 
