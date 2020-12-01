@@ -8,7 +8,13 @@
 
 ### Overview
 
-The materials in this online sourcebook are intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software.
+This online sourcebook is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. It uses instructions, screenshots, and summaries to work through basic problems, highlighting their implementation in common statistical software.
+
+<p align="center"><kbd><img src="AnnotatedOutput.jpg"></kbd></p>
+
+### Materials
+
+The Sourcebook contains the following materials:
 
 - [**Methods**](./Methods): Contains a statistics overview, statistical tables, and APA style for reporting
 - [**SPSS**](./SPSS): Contains instructions, annotated output, and blank output for SPSS
