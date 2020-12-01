@@ -10,15 +10,11 @@
 
 The materials in this online sourcebook are intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software.
 
-The Sourcebook includes chapters on the following:
-
 - [**Methods**](./Methods): Contains a statistics overview, statistical tables, and APA style for reporting
 - [**SPSS**](./SPSS): Contains instructions, annotated output, and blank output for SPSS
 - [**jamovi**](./jamovi): Contains instructions, annotated output, and blank output for jamovi
 - [**JASP**](./JASP): Contains instructions, annotated output, and blank output for JASP
 - [**Examples**](./Examples): Contains complete worked examples with data, calculations, and summaries
-
-<p align="center"><kbd><img src="AnnotatedOutput.jpg"></kbd></p>
 
 ### Citation
 
