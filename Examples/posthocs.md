@@ -22,9 +22,9 @@ The following data set reflects a between-subjects design with one factor (with 
 | 12  | 3.00   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/multiplesampledata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/multiplesampledata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/multiplesampledata)
+[SPSS](../SPSS/using-software/multiplesampledata.md) | 
+[jamovi](../jamovi/using-software/multiplesampledata.md) | 
+[JASP](../JASP/using-software/multiplesampledata.md)
 
 #### Computer Output
 
@@ -53,9 +53,9 @@ The table of inferential statistics shows the key elements to be calculated.
 | Level2  |	Level3  |          -1.000 |        1.732 |   -0.577 | 0.835 |   -5.836 |    3.836 | 
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/posthocs) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/posthocs) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/posthocs)
+[SPSS](../SPSS/using-software/posthocs.md) | 
+[jamovi](../jamovi/using-software/posthocs.md) | 
+[JASP](../JASP/using-software/posthocs.md)
 
 #### Formulas and Calculations
 
@@ -93,9 +93,9 @@ Confidence Intervals: For *HSD*, calculate the confidence intervals around (cent
 > \\[ CI_{2vs3} = ( M_2 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -1.000 \pm (2.792) (1.732) = [ −5.836, 3.836 ] \\]
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -106,6 +106,6 @@ Post hoc tests build on the ANOVA results and provide a more focused comparison 
 Alternatively, means, standard deviations, and confidence intervals – either for the group means or for the post hoc comparisons – could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)

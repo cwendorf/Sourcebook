@@ -26,9 +26,9 @@ The following data set reflects a between-subjects Factorial design with two fac
 | 16  | 2.00    | 2.00    | 3.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/factorialdata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/factorialdata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/factorialdata)
+[SPSS](../SPSS/using-software/factorialdata.md) | 
+[jamovi](../jamovi/using-software/factorialdata.md) | 
+[JASP](../JASP/using-software/factorialdata.md)
 
 #### Computer Output
 
@@ -54,9 +54,9 @@ The table of inferential statistics shows the key elements to be calculated.
 | Total       |  128.000 |    15 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/factorial) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/factorial) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/factorial)
+[SPSS](../SPSS/using-software/factorial.md) | 
+[jamovi](../jamovi/using-software/factorial.md) | 
+[JASP](../JASP/using-software/factorial.md)
 
 #### Formulas and Calculations
 
@@ -163,9 +163,9 @@ For the Interaction:
 *Confidence Intervals: For Factorial ANOVA, calculate the confidence intervals around (centered on) each mean separately (not shown here).
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -176,6 +176,6 @@ The Factorial ANOVA provides statistics for all of the main effects and interact
 Means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)

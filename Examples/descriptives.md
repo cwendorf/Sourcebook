@@ -18,9 +18,9 @@ The following data set reflects one sample of eight individuals measured on one 
 | 8   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/onesampledata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/onesampledata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/onesampledata)
+[SPSS](../SPSS/using-software/onesampledata.md) | 
+[jamovi](../jamovi/using-software/onesampledata.md) | 
+[JASP](../JASP/using-software/onesampledata.md)
 
 #### Computer Output
 
@@ -45,9 +45,9 @@ The table of descriptive statistics shows the key elements to be calculated.
 | Outcome |   8 | 4.000 |          3.117 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/descriptives) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/descriptives) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/descriptives)
+[SPSS](../SPSS/using-software/descriptives.md) | 
+[jamovi](../jamovi/using-software/descriptives.md) | 
+[JASP](../JASP/using-software/descriptives.md)
 
 #### Formulas and Calculations
 
@@ -68,9 +68,9 @@ Standard Deviation: Standard Deviation is a function of the Mean Squares. It is 
 > \\[ SD = \sqrt{MS} = \sqrt{9.714} = 3.117 \\]
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -83,6 +83,6 @@ The purpose of the descriptive statistics is to provide the reader with an idea 
 Alternatively, sample sizes, means, and standard deviations could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)

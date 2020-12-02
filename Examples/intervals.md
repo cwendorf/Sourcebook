@@ -18,9 +18,9 @@ The following data set reflects one sample of eight individuals measured on one 
 | 8   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/onesampledata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/onesampledata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/onesampledata)
+[SPSS](../SPSS/using-software/onesampledata.md) | 
+[jamovi](../jamovi/using-software/onesampledata.md) | 
+[JASP](../JASP/using-software/onesampledata.md)
 
 #### Computer Output
 
@@ -39,9 +39,9 @@ The table of inferential statistics shows the key elements to be calculated.
 | Outcome | 4.000 |    1.394 |    6.606 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/intervals) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/intervals) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/intervals)
+[SPSS](../SPSS/using-software/intervals.md) | 
+[jamovi](../jamovi/using-software/intervals.md) | 
+[JASP](../JASP/using-software/intervals.md)
 
 #### Formulas and Calculations
 
@@ -55,9 +55,9 @@ Confidence Interval: For this test, the appropriate confidence interval is aroun
 > \\[ CI_M = M \pm (t_{CRITICAL}) (SE_M) = 4.000 \pm (2.365) (1.102) = [ 1.394, 6.606 ] \\]
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -70,6 +70,6 @@ Confidence intervals provide a range estimate for a population value (e.g., the 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)

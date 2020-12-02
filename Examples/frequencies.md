@@ -18,9 +18,9 @@ The following data set reflects one sample of eight individuals measured on one 
 | 8   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/onesampledata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/onesampledata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/onesampledata)
+[SPSS](../SPSS/using-software/onesampledata.md) | 
+[jamovi](../jamovi/using-software/onesampledata.md) | 
+[JASP](../JASP/using-software/onesampledata.md)
 
 #### Computer Output
 
@@ -49,9 +49,9 @@ The table of descriptive statistics shows the key elements to be calculated.
 | 75th percentile |     5.500 |   
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/frequencies) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/descriptives) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/descriptives)
+[SPSS](../SPSS/using-software/frequencies.md) | 
+[jamovi](../jamovi/using-software/descriptives.md) | 
+[JASP](../JASP/using-software/descriptives.md)
 
 #### Formulas and Calculations
 
@@ -74,9 +74,9 @@ Thus, the score at the 50<sup>th</sup> percentile is the 4.5<sup>th</sup> score 
 > Similarly, a score of .75 is at the 25<sup>th</sup> percentile and a score of 6.5 is at the 75<sup>th</sup> percentile. Importantly, in some cases, the score values are non-integer interpolated values.
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -89,6 +89,6 @@ Though not often reported, simple summary statistics like the median and quartil
 Alternatively, frequencies and percentiles could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)

@@ -18,9 +18,9 @@ The following data set reflects a between-subjects design with one factor (that 
 | 8   | 2.00   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/multiplesampledata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/multiplesampledata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/multiplesampledata)
+[SPSS](../SPSS/using-software/multiplesampledata.md) | 
+[jamovi](../jamovi/using-software/multiplesampledata.md) | 
+[JASP](../JASP/using-software/multiplesampledata.md)
 
 #### Computer Output
 
@@ -40,9 +40,9 @@ The table of inferential statistics shows the key elements to be calculated.
 | Outcome |	   -2.309 | 6.000 | 0.060 |          -4.000 |         1.732 |   -8.238 |    0.238 |    -1.633 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/independent) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/independent) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/independent)
+[SPSS](../SPSS/using-software/independent.md) | 
+[jamovi](../jamovi/using-software/independent.md) | 
+[JASP](../JASP/using-software/independent.md)
 
 #### Formulas and Calculations
 
@@ -90,9 +90,9 @@ Or an expanded version of the formula can be used when the two sample sizes are 
 > \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) = -4.000 \pm (2.447) (1.732) = [ −8.238, 0.238 ] \\]
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -103,6 +103,6 @@ For this analysis, the emphasis is on comparing the means from two groups. Here 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)

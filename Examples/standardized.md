@@ -18,9 +18,9 @@ The following data set reflects one sample of eight individuals measured on one 
 | 8   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/onesampledata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/onesampledata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/onesampledata)
+[SPSS](../SPSS/using-software/onesampledata.md) | 
+[jamovi](../jamovi/using-software/onesampledata.md) | 
+[JASP](../JASP/using-software/onesampledata.md)
 
 #### Computer Output
 
@@ -45,9 +45,9 @@ The following table of descriptive statistics show some of the key elements to b
 | Outcome | 8   | 4.000 | 3.117          |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/standardized) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/standardized) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/standardized)
+[SPSS](../SPSS/using-software/standardized.md) | 
+[jamovi](../jamovi/using-software/standardized.md) | 
+[JASP](../JASP/using-software/standardized.md)
 
 #### Formulas and Calculations
 
@@ -104,15 +104,15 @@ standard deviation.
 > \\[ SD = \sqrt{MS} = \sqrt{1.000} = 1.000 \\]
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
 Standardized scores are typically NOT presented in the summary of the data. Rather, they are often a first step in the calculations. As such, APA style is not presented here.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)

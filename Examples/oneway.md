@@ -22,9 +22,9 @@ The following data set reflects a between-subjects design with one factor (with 
 | 12  | 3.00   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/multiplesampledata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/multiplesampledata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/multiplesampledata)
+[SPSS](../SPSS/using-software/multiplesampledata.md) | 
+[jamovi](../jamovi/using-software/multiplesampledata.md) | 
+[JASP](../JASP/using-software/multiplesampledata.md)
 
 #### Computer Output
 
@@ -47,9 +47,9 @@ The table of inferential statistics shows the key elements to be calculated.
 | Total   |  110.000 |    11 |          | 
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/oneway) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/oneway) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/oneway)
+[SPSS](../SPSS/using-software/oneway.md) | 
+[jamovi](../jamovi/using-software/oneway.md) | 
+[JASP](../JASP/using-software/oneway.md)
 
 #### Formulas and Calculations
 
@@ -100,9 +100,9 @@ Confidence Intervals: For ANOVA, calculate the confidence intervals around (cent
 > \\[ CI_{M_3} = M_3 \pm (t_{CRITICAL}) (SE_{M_3}) = 7.000 \pm (3.182) (1.225) = [ 3.102, 10.898 ] \\]
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -113,6 +113,6 @@ The ANOVA provides an omnibus test of the differences across multiple groups. Be
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)

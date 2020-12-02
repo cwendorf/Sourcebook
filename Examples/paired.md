@@ -16,9 +16,9 @@ The following data set reflects a within-subjects (repeated measures) design wit
 The third variable is a created variable. It shows the difference (Time 1 – Time 2) for each of the individuals. Note that a score of zero on this difference variable would represent no change for that individual, whereas a positive value would mean that the score went down and a negative value that the score went up for that individual.
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/repeateddata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/repeateddata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/repeateddata)
+[SPSS](../SPSS/using-software/repeateddata.md) | 
+[jamovi](../jamovi/using-software/repeateddata.md) | 
+[JASP](../JASP/using-software/repeateddata.md)
 
 #### Computer Output
 
@@ -39,9 +39,9 @@ The table of inferential statistics shows the key elements to be calculated.
 | Outcome |	   -3.266 | 3.000 | 0.047 |          -4.000 |         1.225 |   -7.898 |   -0.102 |    -1.633 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/paired) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/paired) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/paired)
+[SPSS](../SPSS/using-software/paired.md) | 
+[jamovi](../jamovi/using-software/paired.md) | 
+[JASP](../JASP/using-software/paired.md)
 
 #### Formulas and Calculations
 
@@ -66,9 +66,9 @@ Confidence Interval: For this test, the appropriate confidence interval is aroun
 > \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -4.000 \pm (3.182) (1.225) = [ −7.898, −0.102 ] \\]
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -79,6 +79,6 @@ In this case, a difference in means has been compared to a user-specified test v
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)

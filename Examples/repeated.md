@@ -14,9 +14,9 @@ The following data set reflects a within-subjects (repeated measures) design wit
 | 4   | 5.00     | 9.00     |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/repeateddata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/repeateddata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/repeateddata)
+[SPSS](../SPSS/using-software/repeateddata.md) | 
+[jamovi](../jamovi/using-software/repeateddata.md) | 
+[JASP](../JASP/using-software/repeateddata.md)
 
 #### Computer Output
 
@@ -44,9 +44,9 @@ The tables of inferential statistics show the key elements to be calculated.
 | Error   |    9.000 |     3 |    3.000 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/repeated) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/repeated) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/repeated)
+[SPSS](../SPSS/using-software/repeated.md) | 
+[jamovi](../jamovi/using-software/repeated.md) | 
+[JASP](../JASP/using-software/repeated.md)
 
 #### Formulas and Calculations
 
@@ -111,9 +111,9 @@ Confidence Intervals: For RMD ANOVA, calculate the confidence intervals around (
 > \\[ CI_{M_2} = M_2 \pm (t_{CRITICAL}) (SE_{M_2}) = 6.000 \pm (3.182) (1.225) = [ 2.102, 9.898 ] \\]
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -124,6 +124,6 @@ The RMD ANOVA tests for overall differences across the repeated measures. As suc
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)

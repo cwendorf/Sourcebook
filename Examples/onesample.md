@@ -18,9 +18,9 @@ The following data set reflects one sample of eight individuals measured on one 
 | 8   | 9.00    |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/onesampledata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/onesampledata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/onesampledata)
+[SPSS](../SPSS/using-software/onesampledata.md) | 
+[jamovi](../jamovi/using-software/onesampledata.md) | 
+[JASP](../JASP/using-software/onesampledata.md)
 
 #### Computer Output
 
@@ -39,9 +39,9 @@ The table of inferential statistics shows the key elements to be calculated.
 | Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/onesample) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/onesample) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/onesample)
+[SPSS](../SPSS/using-software/onesample.md) | 
+[jamovi](../jamovi/using-software/onesample.md) | 
+[JASP](../JASP/using-software/onesample.md)
 
 #### Formulas and Calculations
 
@@ -68,9 +68,9 @@ Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the
 > \\[ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 \\]
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -81,6 +81,6 @@ In this case, a sample mean has been compared to a user-specified test value (or
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)
