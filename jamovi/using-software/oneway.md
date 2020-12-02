@@ -2,7 +2,7 @@
 
 ### ANOVA (OneWay ANOVA)
 
- #### Steps for Obtaining Multiple Sample Inferential  Statistics
+#### Steps for Obtaining Multiple Sample Inferential  Statistics
 
 1. First, enter multiple group
 data (described elsewhere).
