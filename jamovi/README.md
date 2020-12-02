@@ -29,7 +29,7 @@ This chapter is intended to facilitate the connection between standard introduct
 
 
 > View the Complete Chapter:  
-> [Annotated Output](./annotated-output/complete)
+> [Annotated Output](./annotated-output/complete.md)
 
 ### Blank Output
 
