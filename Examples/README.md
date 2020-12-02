@@ -1,4 +1,4 @@
-## Understanding Through Examples
+## Understanding Examples
 
 ### Worked Examples
 
