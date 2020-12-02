@@ -14,9 +14,9 @@ The following data set reflects a within-subjects design with two outcome variab
 | 4   | 5.00     | 9.00     |
 
 > **Additional Resource: Data Entry**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/repeateddata) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/repeateddata) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/repeateddata)
+[SPSS](../SPSS/using-software/repeateddata.md) | 
+[jamovi](../jamovi/using-software/repeateddata.md) | 
+[JASP](../JASP/using-software/repeateddata.md)
 
 #### Computer Output
 
@@ -43,9 +43,9 @@ The table of inferential statistics shows the key elements to be calculated.
 |          | COV         |    3.000 |    6.000 |
 
 > **Additional Resource: Conducting Analyses**   
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/using-software/correlations) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/using-software/correlations) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/using-software/correlations)
+[SPSS](../SPSS/using-software/correlations.md) | 
+[jamovi](../jamovi/using-software/correlations.md) | 
+[JASP](../JASP/using-software/correlations.md)
 
 #### Formulas and Calculations
 
@@ -62,9 +62,9 @@ Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a functi
 > \\[ r = \frac{COV}{(SD_X) (SD_Y)} = \frac{3.000}{(2.449) (2.449)} = .500 \\]
 
 > **Additional Resource: Annotated Ouput**  
-[SPSS](https://cwendorf.github.io/Sourcebook/SPSS/annotated-output/) | 
-[jamovi](https://cwendorf.github.io/Sourcebook/jamovi/annotated-output/) | 
-[JASP](https://cwendorf.github.io/Sourcebook/JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/) | 
+[jamovi](../jamovi/annotated-output/) | 
+[JASP](../JASP/annotated-output/)
 
 #### Summarizing in APA Style
 
@@ -77,6 +77,6 @@ Correlations provide a measure of statistical relationship between two variables
 Alternatively, means, standard deviations, and correlations could be presented in a table or figure associated with this paragraph.
 
 > **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](https://cwendorf.github.io/Sourcebook/Methods/statistical-analyses/) | 
-[Statistical Tables](https://cwendorf.github.io/Sourcebook/Methods/statistical-tables/) | 
-[Reporting Statistics](https://cwendorf.github.io/Sourcebook/Methods/reporting-statistics/)
+[Statistical Analyses](../Methods/statistical-analyses/) | 
+[Statistical Tables](../Methods/statistical-tables/) | 
+[Reporting Statistics](../Methods/reporting-statistics/)
