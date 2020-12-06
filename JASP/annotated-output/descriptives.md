@@ -1,4 +1,4 @@
-## jamovi: Annotated Ouput
+## JASP: Annotated Output
 
 ### Descriptives (Frequencies and Descriptives)
 

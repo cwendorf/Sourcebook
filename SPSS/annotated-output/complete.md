@@ -17,7 +17,7 @@ This chapter is intended to facilitate the connection between standard introduct
 
 ### Frequencies (Frequencies and Descriptives)
 
-<p align="center"><kbd><img src="frequencies.png"></kbd></p>
+<p align="center"><kbd><img src="descriptives.png"></kbd></p>
 
 ---
 
@@ -29,7 +29,7 @@ This chapter is intended to facilitate the connection between standard introduct
 
 ### Explore (Descriptives and Confidence Intervals)
 
-<p align="center"><kbd><img src="explore.png"></kbd></p>
+<p align="center"><kbd><img src="intervals.png"></kbd></p>
 
 ---
 
