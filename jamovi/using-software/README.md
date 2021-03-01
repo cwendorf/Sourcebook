@@ -17,3 +17,6 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [Post Hoc Tests (OneWay ANOVA)](./posthocs.md)
 - [Repeated Measures ANOVA](./repeated.md)
 - [ANOVA (Factorial ANOVA)](./factorial.md)
+
+> View the Complete Chapter:  
+> [Using Software](./complete.md)
