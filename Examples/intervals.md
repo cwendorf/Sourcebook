@@ -54,7 +54,7 @@ Confidence Interval: For this test, the appropriate confidence interval is aroun
 > With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
 > \\[ CI_M = M \pm (t_{CRITICAL}) (SE_M) = 4.000 \pm (2.365) (1.102) = [ 1.394, 6.606 ] \\]
 
-> **Additional Resource: Annotated Ouput**  
+> **Additional Resource: Annotated Output**  
 [SPSS](../SPSS/annotated-output/) | 
 [jamovi](../jamovi/annotated-output/) | 
 [JASP](../JASP/annotated-output/)

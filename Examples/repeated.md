@@ -110,7 +110,7 @@ Confidence Intervals: For RMD ANOVA, calculate the confidence intervals around (
 
 > \\[ CI_{M_2} = M_2 \pm (t_{CRITICAL}) (SE_{M_2}) = 6.000 \pm (3.182) (1.225) = [ 2.102, 9.898 ] \\]
 
-> **Additional Resource: Annotated Ouput**  
+> **Additional Resource: Annotated Output**  
 [SPSS](../SPSS/annotated-output/) | 
 [jamovi](../jamovi/annotated-output/) | 
 [JASP](../JASP/annotated-output/)

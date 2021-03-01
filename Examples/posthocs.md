@@ -92,7 +92,7 @@ Confidence Intervals: For *HSD*, calculate the confidence intervals around (cent
 
 > \\[ CI_{2vs3} = ( M_2 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -1.000 \pm (2.792) (1.732) = [ −5.836, 3.836 ] \\]
 
-> **Additional Resource: Annotated Ouput**  
+> **Additional Resource: Annotated Output**  
 [SPSS](../SPSS/annotated-output/) | 
 [jamovi](../jamovi/annotated-output/) | 
 [JASP](../JASP/annotated-output/)

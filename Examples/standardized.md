@@ -103,7 +103,7 @@ standard deviation.
 
 > \\[ SD = \sqrt{MS} = \sqrt{1.000} = 1.000 \\]
 
-> **Additional Resource: Annotated Ouput**  
+> **Additional Resource: Annotated Output**  
 [SPSS](../SPSS/annotated-output/) | 
 [jamovi](../jamovi/annotated-output/) | 
 [JASP](../JASP/annotated-output/)
