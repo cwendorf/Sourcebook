@@ -17,3 +17,6 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [Post Hoc Tests (OneWay ANOVA)](./posthocs.md)
 - [General Linear Model (Repeated Measures ANOVA)](./repeated.md)
 - [Univariate Analysis of Variance (Factorial ANOVA)](./factorial.md)
+
+> View the Complete Chapter:  
+> [Using Software](./complete.md)
