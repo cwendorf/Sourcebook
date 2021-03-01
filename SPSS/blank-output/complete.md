@@ -59,7 +59,7 @@ This chapter is used as a set of worksheets for class problems. Students fill in
 
 ### Post Hoc Tests (OneWay ANOVA)
 
-<p align="center"><kbd><img src="page9.png"></kbd></p>
+<p align="center"><kbd><img src="posthocs.png"></kbd></p>
 
 ---
 
