@@ -25,6 +25,17 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 This chapter is intended to facilitate the connection between standard introductory statistics concepts and their implementation in JASP. It shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and JASP output.
 
+- [Descriptives (Frequencies and Descriptives)](./annotated-output/descriptives.md)
+- [Correlations (Bivariate)](./annotated-output/correlations.md)
+- [T Test (Confidence Intervals)](./annotated-output/intervals.md)
+- [T Test (One Sample)](./annotated-output/onesample.md)
+- [T Test (Paired Samples)](./annotated-output/paired.md)
+- [T Test (Independent Samples)](./annotated-output/independent.md)
+- [ANOVA (OneWay ANOVA)](./annotated-output/oneway.md)
+- [Post Hoc Tests (OneWay ANOVA)](./annotated-output/posthocs.md)
+- [Repeated Measures ANOVA](./annotated-output/repeated.md)
+- [ANOVA (Factorial ANOVA)](./annotated-output/factorial.md)
+
 > View the Complete Chapter:  
 > [Annotated Output](./annotated-output/complete.md)
 
