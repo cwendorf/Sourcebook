@@ -45,5 +45,16 @@ This chapter is intended to facilitate the connection between standard introduct
 
 This chapter is used as worksheets for class problems. Students fill in their answers on these sheets, thus making clear the links between non-computer (“hand”) calculations and the jamovi output.
 
+- [Descriptives (Frequencies and Descriptives)](./blank-output/descriptives.md)
+- [Correlations (Bivariate)](./blank-output/correlations.md)
+- [T Test (Confidence Intervals)](./blank-output/intervals.md)
+- [T Test (One Sample)](./blank-output/onesample.md)
+- [T Test (Paired Samples)](./blank-output/paired.md)
+- [T Test (Independent Samples)](./blank-output/independent.md)
+- [ANOVA (OneWay ANOVA)](./blank-output/oneway.md)
+- [Post Hoc Tests (OneWay ANOVA)](./blank-output/posthocs.md)
+- [Repeated Measures ANOVA](./blank-output/repeated.md)
+- [ANOVA (Factorial ANOVA)](./blank-output/factorial.md)
+
 > View the Complete Chapter:  
 > [Blank Output](./blank-output/complete.md)
