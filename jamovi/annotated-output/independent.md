@@ -1,4 +1,4 @@
-## jamovi: Annotated Ouput
+## jamovi: Annotated Output
 
 ### T Test (Independent Samples)
 

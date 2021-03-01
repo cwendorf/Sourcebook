@@ -1,4 +1,4 @@
-## jamovi: Annotated Ouput
+## jamovi: Annotated Output
 
 ### Descriptives (Frequencies and Descriptives)
 
