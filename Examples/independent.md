@@ -90,9 +90,9 @@ Or an expanded version of the formula can be used when the two sample sizes are 
 > \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) = -4.000 \pm (2.447) (1.732) = [ −8.238, 0.238 ] \\]
 
 > **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/) | 
-[jamovi](../jamovi/annotated-output/) | 
-[JASP](../JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/independent.md) | 
+[jamovi](../jamovi/annotated-output/independent.md) | 
+[JASP](../JASP/annotated-output/independent.md)
 
 #### Summarizing in APA Style
 

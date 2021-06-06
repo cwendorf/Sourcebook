@@ -163,9 +163,9 @@ For the Interaction:
 Confidence Intervals: For Factorial ANOVA, calculate the confidence intervals around (centered on) each mean separately (not shown here).
 
 > **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/) | 
-[jamovi](../jamovi/annotated-output/) | 
-[JASP](../JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/factorial.md) | 
+[jamovi](../jamovi/annotated-output/factorial.md) | 
+[JASP](../JASP/annotated-output/factorial.md)
 
 #### Summarizing in APA Style
 

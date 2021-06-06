@@ -68,9 +68,9 @@ Standard Deviation: Standard Deviation is a function of the Mean Squares. It is 
 > \\[ SD = \sqrt{MS} = \sqrt{9.714} = 3.117 \\]
 
 > **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/) | 
-[jamovi](../jamovi/annotated-output/) | 
-[JASP](../JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/descriptives.md) | 
+[jamovi](../jamovi/annotated-output/descriptives.md) | 
+[JASP](../JASP/annotated-output/descriptives.md)
 
 #### Summarizing in APA Style
 

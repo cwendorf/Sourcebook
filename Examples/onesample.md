@@ -68,9 +68,9 @@ Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the
 > \\[ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 \\]
 
 > **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/) | 
-[jamovi](../jamovi/annotated-output/) | 
-[JASP](../JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/onesample.md) | 
+[jamovi](../jamovi/annotated-output/onesample.md) | 
+[JASP](../JASP/annotated-output/onesample.md)
 
 #### Summarizing in APA Style
 

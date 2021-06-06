@@ -55,9 +55,9 @@ Confidence Interval: For this test, the appropriate confidence interval is aroun
 > \\[ CI_M = M \pm (t_{CRITICAL}) (SE_M) = 4.000 \pm (2.365) (1.102) = [ 1.394, 6.606 ] \\]
 
 > **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/) | 
-[jamovi](../jamovi/annotated-output/) | 
-[JASP](../JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/intervals.md) | 
+[jamovi](../jamovi/annotated-output/intervals.md) | 
+[JASP](../JASP/annotated-output/intervals.md)
 
 #### Summarizing in APA Style
 

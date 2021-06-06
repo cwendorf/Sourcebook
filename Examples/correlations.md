@@ -62,9 +62,9 @@ Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a functi
 > \\[ r = \frac{COV}{(SD_X) (SD_Y)} = \frac{3.000}{(2.449) (2.449)} = .500 \\]
 
 > **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/) | 
-[jamovi](../jamovi/annotated-output/) | 
-[JASP](../JASP/annotated-output/)
+[SPSS](../SPSS/annotated-output/correlations.md) | 
+[jamovi](../jamovi/annotated-output/correlations.md) | 
+[JASP](../JASP/annotated-output/correlations.md)
 
 #### Summarizing in APA Style
 
