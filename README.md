@@ -12,7 +12,7 @@ This online sourcebook is intended to facilitate the connection between standard
 
 <p align="center"><kbd><img src="AnnotatedOutput.jpg"></kbd></p>
 
-### Materials
+### Contents
 
 The Sourcebook contains the following materials:
 
