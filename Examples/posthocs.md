@@ -65,14 +65,17 @@ Statistical Significance: The *HSD* statistic is a ratio of the mean difference 
 
 > Because the ANOVA has *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9, *HSD<sub>CRITICAL</sub>* = 2.792
 
-> \\[ HSD_{1vs2} = \frac{( M_1 - M_2 )}{SE_{DIFF}} = \frac{-4.000}{1.732} = 2.309 \\]
- > Because *HSD* < *HSD<sub>CRITICAL</sub>*, *p* > .05
+> \\[ HSD_{1vs2} = \frac{( M_1 - M_2 )}{SE_{DIFF}} = \frac{-4.000}{1.732} = 2.309 \\]  
+> Because *HSD* < *HSD<sub>CRITICAL</sub>*, *p* > .05  
+> This would not be considered a statistically significant finding.
 
-> \\[ HSD_{1vs3} = \frac{( M_1 - M_3 )}{SE_{DIFF}} = \frac{-5.000}{1.732} = 2.887 \\]
-> Because *HSD* > *HSD<sub>CRITICAL</sub>*, *p* < .05
+> \\[ HSD_{1vs3} = \frac{( M_1 - M_3 )}{SE_{DIFF}} = \frac{-5.000}{1.732} = 2.887 \\]  
+> Because *HSD* > *HSD<sub>CRITICAL</sub>*, *p* < .05  
+> This would be considered a statistically significant finding.
 
-> \\[ HSD_{2vs3} = \frac{( M_2 - M_3 )}{SE_{DIFF}} = \frac{-1.000}{1.732} = 0.577 \\]
-> Because *HSD* < *HSD<sub>CRITICAL</sub>*, *p* > .05
+> \\[ HSD_{2vs3} = \frac{( M_2 - M_3 )}{SE_{DIFF}} = \frac{-1.000}{1.732} = 0.577 \\]  
+> Because *HSD* < *HSD<sub>CRITICAL</sub>*, *p* > .05  
+> This would not be considered a statistically significant finding.
 
 Confidence Intervals: For *HSD*, calculate the confidence intervals around (centered on) each mean difference separately.
 
@@ -81,6 +84,8 @@ Confidence Intervals: For *HSD*, calculate the confidence intervals around (cent
 > \\[ CI_{1vs3} = ( M_1 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -5.000 \pm (2.792) (1.732) = [ −9.836, −0.164 ] \\]
 
 > \\[ CI_{2vs3} = ( M_2 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -1.000 \pm (2.792) (1.732) = [ −5.836, 3.836 ] \\]
+
+> For each comparison, the researcher estimates the true population mean difference (knowing that the estimates could be incorrect).
 
 #### Summarizing in APA Style
 

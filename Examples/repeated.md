@@ -86,11 +86,8 @@ Statistical Significance: The *F* statistic is the ratio of the within-subjects 
 
 > \\[ F = \frac{MS_{EFFECT}}{MS_{ERROR}} = \frac{32.000}{3.000} = 10.667 \\]
 > With *df<sub>EFFECT</sub>* = 1 and *df<sub>ERROR</sub>* = 3, *F<sub>CRITICAL</sub>* = 10.128  
-> Because *F* > *F<sub>CRITICAL</sub>*, *p* < .05
-
-Effect Size: The partial eta-squared statistic is a ratio of the within-subjects effect and the remaining variability (Sum of Squares) estimates after between-subjects error has been partialled out.
-
-> \\[ \text{Partial} \; \eta^2 = \frac{SS_{EFFECT}}{( SS_{EFFECT} + SS_{ERROR} )} = \frac{32.000}{( 32.000 + 9.000 )} = .780 \\]
+> Because *F* > *F<sub>CRITICAL</sub>*, *p* < .05  
+> This would be considered a statistically significant finding.
 
 Confidence Intervals: For RMD ANOVA, calculate the confidence intervals around (centered on) each mean separately.
 
@@ -99,6 +96,13 @@ Confidence Intervals: For RMD ANOVA, calculate the confidence intervals around (
 > \\[ CI_{M_1} = M_1 \pm (t_{CRITICAL}) (SE_{M_1}) = 2.000 \pm (3.182) (1.225) = [ −1.898, 5.898 ] \\]
 
 > \\[ CI_{M_2} = M_2 \pm (t_{CRITICAL}) (SE_{M_2}) = 6.000 \pm (3.182) (1.225) = [ 2.102, 9.898 ] \\]
+
+> For each group, the researcher estimates the true population mean (knowing that the estimates could be incorrect).
+
+Effect Size: The partial eta-squared statistic is a ratio of the within-subjects effect and the remaining variability (Sum of Squares) estimates after between-subjects error has been partialled out.
+
+> \\[ \text{Partial} \; \eta^2 = \frac{SS_{EFFECT}}{( SS_{EFFECT} + SS_{ERROR} )} = \frac{32.000}{( 32.000 + 9.000 )} = .780 \\]  
+> Thus, 78.0% of the variability among Outcome scores (after removing individual differences) is accounted for by repeated measures Factor.
 
 #### Summarizing in APA Style
 

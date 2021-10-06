@@ -36,11 +36,11 @@ The table of inferential statistics shows the key elements to be calculated.
 
 #### Formulas and Calculations
 
-**Mean Difference (Raw Effect):** The mean difference is the difference between the two sample means (raw effect).
+Mean Difference (Raw Effect): The mean difference is the difference between the two sample means (raw effect).
 
 > \\[ M_{DIFF} = M_1 - M_2 = 2.000 − 6.000 = −4.000 \\]
 
-**Within Groups Statistics:** When multiple groups are used, it is necessary to get an estimate of the pooled (combined) within group variabilities.
+Within Groups Statistics: When multiple groups are used, it is necessary to get an estimate of the pooled (combined) within group variabilities.
 
 > \\[ SS_1 = ( SD_1^2 ) ( df_1) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 
@@ -54,7 +54,7 @@ The table of inferential statistics shows the key elements to be calculated.
 
 > \\[ SD_{WITHIN} = \sqrt{MS_{WITHIN}} = \sqrt{6.000} = 2.449 \\]
 
-**Standard Error of the Difference:** The standard error of the difference is a function of the two groups’ individual standard errors. 
+Standard Error of the Difference: The standard error of the difference is a function of the two groups’ individual standard errors. 
 
 When the two sample sizes are equal:
 
@@ -64,20 +64,23 @@ Or an expanded version of the formula can be used when the two sample sizes are 
 
 > \\[ SE_{DIFF} = \sqrt{ \left( \frac{MS_{WITHIN}}{n_1} \right) + \left( \frac{MS_{WITHIN}}{n_2} \right) } = \sqrt{ \left( \frac{6.000}{4} \right) + \left( \frac{6.000}{4} \right) } = 1.732 \\]
 
-**Statistical Significance:** The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
+Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
 
 > \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.309 \\]
 > \\[ df = ( n_1 - 1 ) + ( n_2 - 1) = N - 2 = 8 - 2 = 6  \\]
 > With *df* = 6, *t<sub>CRITICAL</sub>* = 2.447  
-> Because *t* < *t<sub>CRITICAL</sub>*, *p* > .05
+> Because *t* < *t<sub>CRITICAL</sub>*, *p* > .05  
+> This would not be considered a statistically significant finding.
 
-**Effect Size:** Cohen’s *d* Statistic provides a standardized effect size for the difference between the two means.
+Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
-> \\[ d = \frac{M_{DIFF}}{SD_{WITHIN}} = \frac{-4.000}{2.449} = -1.630 \\]
+> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) = -4.000 \pm (2.447) (1.732) = [ −8.238, 0.238 ] \\]  
+> Thus, the researcher concludes that the true population mean difference is somewhere between -8.238 and -0.238 (knowing that the estimate could be wrong).
 
-**Confidence Interval:** For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the difference between the two means.
 
-> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) = -4.000 \pm (2.447) (1.732) = [ −8.238, 0.238 ] \\]
+> \\[ d = \frac{M_{DIFF}}{SD_{WITHIN}} = \frac{-4.000}{2.449} = -1.630 \\]  
+> Given Cohen's heuristics for interpreting effect sizes, this would be considered an extremely large effect.
 
 #### Summarizing in APA Style
 
