@@ -17,11 +17,6 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-> **Additional Resource: Data Entry**  
-[SPSS](../SPSS/using-software/onesampledata.md) | 
-[jamovi](../jamovi/using-software/onesampledata.md) | 
-[JASP](../JASP/using-software/onesampledata.md)
-
 #### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
@@ -38,11 +33,6 @@ The table of inferential statistics shows the key elements to be calculated.
 |:--------|------:|---------:|---------:|
 | Outcome | 4.000 |    1.394 |    6.606 |
 
-> **Additional Resource: Conducting Analyses**   
-[SPSS](../SPSS/using-software/intervals.md) | 
-[jamovi](../jamovi/using-software/intervals.md) | 
-[JASP](../JASP/using-software/intervals.md)
-
 #### Formulas and Calculations
 
 Standard Error of the Mean: The standard error of the mean provides an estimate of how spread out the distribution of all possible random sample means would be.
@@ -54,11 +44,6 @@ Confidence Interval: For this test, the appropriate confidence interval is aroun
 > With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
 > \\[ CI_M = M \pm (t_{CRITICAL}) (SE_M) = 4.000 \pm (2.365) (1.102) = [ 1.394, 6.606 ] \\]
 
-> **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/intervals.md) | 
-[jamovi](../jamovi/annotated-output/intervals.md) | 
-[JASP](../JASP/annotated-output/intervals.md)
-
 #### Summarizing in APA Style
 
 Confidence intervals provide a range estimate for a population value (e.g., the mean). Note that the width of the interval can be altered to reflect the level of confidence in the estimate. Both of the following versions present the required information and, therefore, either could be used.
@@ -68,8 +53,3 @@ Confidence intervals provide a range estimate for a population value (e.g., the 
 > The 8 participants scored well on the Outcome (*M* = 4.00, *SD* = 3.12), 95% CI \[1.39, 6.61\].
 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
-
-> **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](../Methods/statistical-analyses/) | 
-[Statistical Tables](../Methods/statistical-tables/) | 
-[Reporting Statistics](../Methods/reporting-statistics/)

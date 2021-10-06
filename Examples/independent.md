@@ -17,11 +17,6 @@ The following data set reflects a between-subjects design with one factor (that 
 | 7   | 2.00   | 4.00    |
 | 8   | 2.00   | 9.00    |
 
-> **Additional Resource: Data Entry**  
-[SPSS](../SPSS/using-software/multiplesampledata.md) | 
-[jamovi](../jamovi/using-software/multiplesampledata.md) | 
-[JASP](../JASP/using-software/multiplesampledata.md)
-
 #### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
@@ -38,11 +33,6 @@ The table of inferential statistics shows the key elements to be calculated.
 |         | t         |	df	  | p     | Mean Difference | SE Difference | Lower CI | Upper CI | Cohen's d | 
 |:--------|----------:|------:|------:|----------------:|--------------:|---------:|---------:|----------:|
 | Outcome |	   -2.309 | 6.000 | 0.060 |          -4.000 |         1.732 |   -8.238 |    0.238 |    -1.633 |
-
-> **Additional Resource: Conducting Analyses**   
-[SPSS](../SPSS/using-software/independent.md) | 
-[jamovi](../jamovi/using-software/independent.md) | 
-[JASP](../JASP/using-software/independent.md)
 
 #### Formulas and Calculations
 
@@ -89,11 +79,6 @@ Or an expanded version of the formula can be used when the two sample sizes are 
 
 > \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) = -4.000 \pm (2.447) (1.732) = [ −8.238, 0.238 ] \\]
 
-> **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/independent.md) | 
-[jamovi](../jamovi/annotated-output/independent.md) | 
-[JASP](../JASP/annotated-output/independent.md)
-
 #### Summarizing in APA Style
 
 For this analysis, the emphasis is on comparing the means from two groups. Here again the summary and the inferential statistics focus on the difference.
@@ -101,8 +86,3 @@ For this analysis, the emphasis is on comparing the means from two groups. Here 
 > An independent samples *t* test showed that the difference in Outcome scores between the first group (*n* = 4, *M* = 2.00, *SD* = 2.45) and the second group (*n* = 3, *M* = 6.00, *SD* = 2.45) was not statistically significant, *t*(6) = -2.31, *p* = .060, 95% CI \[-8.24, 0.24\], *d* = -1.63.
 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
-
-> **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](../Methods/statistical-analyses/) | 
-[Statistical Tables](../Methods/statistical-tables/) | 
-[Reporting Statistics](../Methods/reporting-statistics/)

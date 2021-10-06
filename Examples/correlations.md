@@ -13,11 +13,6 @@ The following data set reflects a within-subjects design with two outcome variab
 | 3   | 3.00     | 4.00     |
 | 4   | 5.00     | 9.00     |
 
-> **Additional Resource: Data Entry**  
-[SPSS](../SPSS/using-software/repeateddata.md) | 
-[jamovi](../jamovi/using-software/repeateddata.md) | 
-[JASP](../JASP/using-software/repeateddata.md)
-
 #### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
@@ -42,11 +37,6 @@ The table of inferential statistics shows the key elements to be calculated.
 |          | SS and SCP  |    9.000 |   18.000 |
 |          | COV         |    3.000 |    6.000 |
 
-> **Additional Resource: Conducting Analyses**   
-[SPSS](../SPSS/using-software/correlations.md) | 
-[jamovi](../jamovi/using-software/correlations.md) | 
-[JASP](../JASP/using-software/correlations.md)
-
 #### Formulas and Calculations
 
 Sum of Cross Products: The Sum of Cross Products (SCP) is not easily determined solely from the summary statistics of the output, but rather from the data.
@@ -61,11 +51,6 @@ Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a functi
 
 > \\[ r = \frac{COV}{(SD_X) (SD_Y)} = \frac{3.000}{(2.449) (2.449)} = .500 \\]
 
-> **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/correlations.md) | 
-[jamovi](../jamovi/annotated-output/correlations.md) | 
-[JASP](../JASP/annotated-output/correlations.md)
-
 #### Summarizing in APA Style
 
 Correlations provide a measure of statistical relationship between two variables. Note that correlations can be tested for statistical significance (and that this information should be summarized if it is available and of interest). Both of the following versions present the required information and, therefore, either could be used.
@@ -75,8 +60,3 @@ Correlations provide a measure of statistical relationship between two variables
 > For the participants (*N* = 4), the scores on Outcome 1 (*M* = 2.00, *SD* = 2.45) and Outcome 2 (*M* = 6.00, *SD* = 2.45) were moderately but not statistically significantly correlated, *r*(2) = .50, *p* = .500.
 
 Alternatively, means, standard deviations, and correlations could be presented in a table or figure associated with this paragraph.
-
-> **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](../Methods/statistical-analyses/) | 
-[Statistical Tables](../Methods/statistical-tables/) | 
-[Reporting Statistics](../Methods/reporting-statistics/)

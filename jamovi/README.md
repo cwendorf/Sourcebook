@@ -20,9 +20,6 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [Repeated Measures ANOVA](./using-software/repeated.md)
 - [ANOVA (Factorial ANOVA)](./using-software/factorial.md)
 
-> View the Complete Chapter:  
-> [Using Software](./using-software/complete.md)
-
 ### Annotated Output
 
 This chapter is intended to facilitate the connection between standard introductory statistics concepts and their implementation in jamovi. It shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and jamovi output. 
@@ -38,9 +35,6 @@ This chapter is intended to facilitate the connection between standard introduct
 - [Repeated Measures ANOVA](./annotated-output/repeated.md)
 - [ANOVA (Factorial ANOVA)](./annotated-output/factorial.md)
 
-> View the Complete Chapter:  
-> [Annotated Output](./annotated-output/complete.md)
-
 ### Blank Output
 
 This chapter is used as worksheets for class problems. Students fill in their answers on these sheets, thus making clear the links between non-computer (“hand”) calculations and the jamovi output.
@@ -55,6 +49,3 @@ This chapter is used as worksheets for class problems. Students fill in their an
 - [Post Hoc Tests (OneWay ANOVA)](./blank-output/posthocs.md)
 - [Repeated Measures ANOVA](./blank-output/repeated.md)
 - [ANOVA (Factorial ANOVA)](./blank-output/factorial.md)
-
-> View the Complete Chapter:  
-> [Blank Output](./blank-output/complete.md)

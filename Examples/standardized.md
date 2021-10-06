@@ -17,11 +17,6 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-> **Additional Resource: Data Entry**  
-[SPSS](../SPSS/using-software/onesampledata.md) | 
-[jamovi](../jamovi/using-software/onesampledata.md) | 
-[JASP](../JASP/using-software/onesampledata.md)
-
 #### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
@@ -43,11 +38,6 @@ The following table of descriptive statistics show some of the key elements to b
 |         | N   | Mean  | Std. Deviation |
 |:--------|----:|------:|---------------:|
 | Outcome | 8   | 4.000 | 3.117          |
-
-> **Additional Resource: Conducting Analyses**   
-[SPSS](../SPSS/using-software/standardized.md) | 
-[jamovi](../jamovi/using-software/standardized.md) | 
-[JASP](../JASP/using-software/standardized.md)
 
 #### Formulas and Calculations
 
@@ -103,16 +93,6 @@ standard deviation.
 
 > \\[ SD = \sqrt{MS} = \sqrt{1.000} = 1.000 \\]
 
-> **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/) | 
-[jamovi](../jamovi/annotated-output/) | 
-[JASP](../JASP/annotated-output/)
-
 #### Summarizing in APA Style
 
 Standardized scores are typically NOT presented in the summary of the data. Rather, they are often a first step in the calculations. As such, APA style is not presented here.
-
-> **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](../Methods/statistical-analyses/) | 
-[Statistical Tables](../Methods/statistical-tables/) | 
-[Reporting Statistics](../Methods/reporting-statistics/)

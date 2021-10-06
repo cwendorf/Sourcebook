@@ -15,6 +15,3 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [ANOVA (OneWay ANOVA)](./oneway.md)
 - [Repeated Measures ANOVA](./repeated.md)
 - [ANOVA (Factorial ANOVA)](./factorial.md)
-
-> View the Complete Chapter:  
-> [Using Software](./complete.md)

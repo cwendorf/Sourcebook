@@ -17,11 +17,6 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-> **Additional Resource: Data Entry**  
-[SPSS](../SPSS/using-software/onesampledata.md) | 
-[jamovi](../jamovi/using-software/onesampledata.md) | 
-[JASP](../JASP/using-software/onesampledata.md)
-
 #### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
@@ -44,11 +39,6 @@ The table of descriptive statistics shows the key elements to be calculated.
 |:--------|----:|------:|---------------:|
 | Outcome |   8 | 4.000 |          3.117 |
 
-> **Additional Resource: Conducting Analyses**   
-[SPSS](../SPSS/using-software/descriptives.md) | 
-[jamovi](../jamovi/using-software/descriptives.md) | 
-[JASP](../JASP/using-software/descriptives.md)
-
 #### Formulas and Calculations
 
 Mean: The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
@@ -67,11 +57,6 @@ Standard Deviation: Standard Deviation is a function of the Mean Squares. It is 
 
 > \\[ SD = \sqrt{MS} = \sqrt{9.714} = 3.117 \\]
 
-> **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/descriptives.md) | 
-[jamovi](../jamovi/annotated-output/descriptives.md) | 
-[JASP](../JASP/annotated-output/descriptives.md)
-
 #### Summarizing in APA Style
 
 The purpose of the descriptive statistics is to provide the reader with an idea about the basic elements of the group(s) being studied. Note that these also form the basis of the in-text presentation for most statistical analyses. Both of the following versions present the required information and, therefore, either could be used.
@@ -81,8 +66,3 @@ The purpose of the descriptive statistics is to provide the reader with an idea 
 > The eight participants had a mean Outcome of 4.00 (*SD* = 3.12).
 
 Alternatively, sample sizes, means, and standard deviations could be presented in a table or figure associated with this paragraph.
-
-> **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](../Methods/statistical-analyses/) | 
-[Statistical Tables](../Methods/statistical-tables/) | 
-[Reporting Statistics](../Methods/reporting-statistics/)

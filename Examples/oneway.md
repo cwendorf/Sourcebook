@@ -21,11 +21,6 @@ The following data set reflects a between-subjects design with one factor (with 
 | 11  | 3.00   | 4.00    |
 | 12  | 3.00   | 9.00    |
 
-> **Additional Resource: Data Entry**  
-[SPSS](../SPSS/using-software/multiplesampledata.md) | 
-[jamovi](../jamovi/using-software/multiplesampledata.md) | 
-[JASP](../JASP/using-software/multiplesampledata.md)
-
 #### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
@@ -45,11 +40,6 @@ The table of inferential statistics shows the key elements to be calculated.
 | Between |	  56.000 |     2 |   28.000 |    4.667 |  0.041 |    0.509 |
 | Within  |   54.000 |     9 |    6.000 |
 | Total   |  110.000 |    11 |          | 
-
-> **Additional Resource: Conducting Analyses**   
-[SPSS](../SPSS/using-software/oneway.md) | 
-[jamovi](../jamovi/using-software/oneway.md) | 
-[JASP](../JASP/using-software/oneway.md)
 
 #### Formulas and Calculations
 
@@ -99,11 +89,6 @@ Confidence Intervals: For ANOVA, calculate the confidence intervals around (cent
 
 > \\[ CI_{M_3} = M_3 \pm (t_{CRITICAL}) (SE_{M_3}) = 7.000 \pm (3.182) (1.225) = [ 3.102, 10.898 ] \\]
 
-> **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/oneway.md) | 
-[jamovi](../jamovi/annotated-output/oneway.md) | 
-[JASP](../JASP/annotated-output/oneway.md)
-
 #### Summarizing in APA Style
 
 The ANOVA provides an omnibus test of the differences across multiple groups. Because the ANOVA tests the overall differences among the groups, the  discusses the differences only in general.
@@ -111,8 +96,3 @@ The ANOVA provides an omnibus test of the differences across multiple groups. Be
 > A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67, *p* = .041, *eta<sup>2</sup>* = .51.
 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
-
-> **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](../Methods/statistical-analyses/) | 
-[Statistical Tables](../Methods/statistical-tables/) | 
-[Reporting Statistics](../Methods/reporting-statistics/)

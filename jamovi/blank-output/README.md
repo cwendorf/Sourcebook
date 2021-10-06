@@ -12,6 +12,3 @@ This chapter is used as worksheets for class problems. Students fill in their an
 - [Post Hoc Tests (OneWay ANOVA)](./posthocs.md)
 - [Repeated Measures ANOVA](./repeated.md)
 - [ANOVA (Factorial ANOVA)](./factorial.md)
-
-> View the Complete Chapter:  
-> [Blank Output](./complete.md)

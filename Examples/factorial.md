@@ -25,11 +25,6 @@ The following data set reflects a between-subjects Factorial design with two fac
 | 15  | 2.00    | 2.00    | 8.00    |
 | 16  | 2.00    | 2.00    | 3.00    |
 
-> **Additional Resource: Data Entry**  
-[SPSS](../SPSS/using-software/factorialdata.md) | 
-[jamovi](../jamovi/using-software/factorialdata.md) | 
-[JASP](../JASP/using-software/factorialdata.md)
-
 #### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
@@ -52,11 +47,6 @@ The table of inferential statistics shows the key elements to be calculated.
 | Interaction |	  36.000 |     1 |   36.000 |    6.000 |  0.031 |         0.333 |
 | Within      |   72.000 |    12 |    6.000 |
 | Total       |  128.000 |    15 |
-
-> **Additional Resource: Conducting Analyses**   
-[SPSS](../SPSS/using-software/factorial.md) | 
-[jamovi](../jamovi/using-software/factorial.md) | 
-[JASP](../JASP/using-software/factorial.md)
 
 #### Formulas and Calculations
 
@@ -162,11 +152,6 @@ For the Interaction:
 
 Confidence Intervals: For Factorial ANOVA, calculate the confidence intervals around (centered on) each mean separately (not shown here).
 
-> **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/factorial.md) | 
-[jamovi](../jamovi/annotated-output/factorial.md) | 
-[JASP](../JASP/annotated-output/factorial.md)
-
 #### Summarizing in APA Style
 
 The Factorial ANOVA provides statistics for all of the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One-Way ANOVA.
@@ -174,8 +159,3 @@ The Factorial ANOVA provides statistics for all of the main effects and interact
 > A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, *F*(1,12) = 0.67, *p* = .430, partial *eta<sup>2</sup>* = .05, nor Factor B, *F*(1,12) = 2.67, *p* = .128, partial *eta<sup>2</sup>* = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, *F*(1,12) = 6.00, *p* = .031, partial *eta<sup>2</sup>* = .33.
 
 Means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
-
-> **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](../Methods/statistical-analyses/) | 
-[Statistical Tables](../Methods/statistical-tables/) | 
-[Reporting Statistics](../Methods/reporting-statistics/)

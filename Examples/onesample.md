@@ -17,11 +17,6 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-> **Additional Resource: Data Entry**  
-[SPSS](../SPSS/using-software/onesampledata.md) | 
-[jamovi](../jamovi/using-software/onesampledata.md) | 
-[JASP](../JASP/using-software/onesampledata.md)
-
 #### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
@@ -37,11 +32,6 @@ The table of inferential statistics shows the key elements to be calculated.
 |         | t         |	df	  | p     | Mean Difference | Lower CI | Upper CI | Cohen's d | 
 |:--------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
 | Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
-
-> **Additional Resource: Conducting Analyses**   
-[SPSS](../SPSS/using-software/onesample.md) | 
-[jamovi](../jamovi/using-software/onesample.md) | 
-[JASP](../JASP/using-software/onesample.md)
 
 #### Formulas and Calculations
 
@@ -67,11 +57,6 @@ Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the
 
 > \\[ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 \\]
 
-> **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/onesample.md) | 
-[jamovi](../jamovi/annotated-output/onesample.md) | 
-[JASP](../JASP/annotated-output/onesample.md)
-
 #### Summarizing in APA Style
 
 In this case, a sample mean has been compared to a user-specified test value (or a population mean). Thus, the summary and the inferential statistics focus on that difference.
@@ -79,8 +64,3 @@ In this case, a sample mean has been compared to a user-specified test value (or
 > A one sample *t* test showed that the difference in Outcome scores between the current sample (*N* = 8, *M* = 4.00, *SD* = 3.12) and the hypothesized value (7.00) was statistically significant, *t*(7) = -2.72, *p* = .030, 95% CI \[-5.61, -.39\], *d* = -0.96.
 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
-
-> **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](../Methods/statistical-analyses/) | 
-[Statistical Tables](../Methods/statistical-tables/) | 
-[Reporting Statistics](../Methods/reporting-statistics/)

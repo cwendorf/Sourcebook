@@ -13,11 +13,6 @@ The following data set reflects a within-subjects (repeated measures) design wit
 | 3   | 3.00     | 4.00     |
 | 4   | 5.00     | 9.00     |
 
-> **Additional Resource: Data Entry**  
-[SPSS](../SPSS/using-software/repeateddata.md) | 
-[jamovi](../jamovi/using-software/repeateddata.md) | 
-[JASP](../JASP/using-software/repeateddata.md)
-
 #### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
@@ -42,11 +37,6 @@ The tables of inferential statistics show the key elements to be calculated.
 |:--------|---------:|------:|---------:|---------:|-------:|--------------:|
 | Effect  |	  32.000 |     1 |   32.000 |   10.667 |  0.047 |         0.780 |
 | Error   |    9.000 |     3 |    3.000 |
-
-> **Additional Resource: Conducting Analyses**   
-[SPSS](../SPSS/using-software/repeated.md) | 
-[jamovi](../jamovi/using-software/repeated.md) | 
-[JASP](../JASP/using-software/repeated.md)
 
 #### Formulas and Calculations
 
@@ -110,11 +100,6 @@ Confidence Intervals: For RMD ANOVA, calculate the confidence intervals around (
 
 > \\[ CI_{M_2} = M_2 \pm (t_{CRITICAL}) (SE_{M_2}) = 6.000 \pm (3.182) (1.225) = [ 2.102, 9.898 ] \\]
 
-> **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/repeated.md) | 
-[jamovi](../jamovi/annotated-output/repeated.md) | 
-[JASP](../JASP/annotated-output/repeated.md)
-
 #### Summarizing in APA Style
 
 The RMD ANOVA tests for overall differences across the repeated measures. As such, its summary parallels that of the One-Way ANOVA.
@@ -122,8 +107,3 @@ The RMD ANOVA tests for overall differences across the repeated measures. As suc
 > A repeated measures ANOVA showed that the difference in Outcome scores (*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was statistically significant, *F*(1,3) = 10.67, *p* = .047, partial *eta<sup>2</sup>* = .78.
 
 Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
-
-> **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](../Methods/statistical-analyses/) | 
-[Statistical Tables](../Methods/statistical-tables/) | 
-[Reporting Statistics](../Methods/reporting-statistics/)

@@ -17,11 +17,6 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-> **Additional Resource: Data Entry**  
-[SPSS](../SPSS/using-software/onesampledata.md) | 
-[jamovi](../jamovi/using-software/onesampledata.md) | 
-[JASP](../JASP/using-software/onesampledata.md)
-
 #### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
@@ -48,11 +43,6 @@ The table of descriptive statistics shows the key elements to be calculated.
 | 50th percentile |     4.000 |
 | 75th percentile |     5.500 |   
 
-> **Additional Resource: Conducting Analyses**   
-[SPSS](../SPSS/using-software/frequencies.md) | 
-[jamovi](../jamovi/using-software/descriptives.md) | 
-[JASP](../JASP/using-software/descriptives.md)
-
 #### Formulas and Calculations
 
 Elements of the Frequency Table: The frequency table provides information about the scores in the data set and the numbers (and percentages) of times those scores occurred.
@@ -73,11 +63,6 @@ Thus, the score at the 50<sup>th</sup> percentile is the 4.5<sup>th</sup> score 
 
 > Similarly, a score of .75 is at the 25<sup>th</sup> percentile and a score of 6.5 is at the 75<sup>th</sup> percentile. Importantly, in some cases, the score values are non-integer interpolated values.
 
-> **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/descriptives.md) | 
-[jamovi](../jamovi/annotated-output/descriptives.md) | 
-[JASP](../JASP/annotated-output/descriptives.md)
-
 #### Summarizing in APA Style
 
 Though not often reported, simple summary statistics like the median and quartiles provide the reader with basic frequency information about the variable under investigation. Both of the following versions present the required information and, therefore, either could be used.
@@ -87,8 +72,3 @@ Though not often reported, simple summary statistics like the median and quartil
 > The participants (*N* = 8) had a *Mdn* Outcome score of 4.00 (IQR = 0.75 – 6.50).
 
 Alternatively, frequencies and percentiles could be presented in a table or figure associated with this paragraph.
-
-> **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](../Methods/statistical-analyses/) | 
-[Statistical Tables](../Methods/statistical-tables/) | 
-[Reporting Statistics](../Methods/reporting-statistics/)

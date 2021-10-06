@@ -8,9 +8,6 @@ This chapter provides an overview of the basic types of statistical analyses. Th
 - [Understanding Statistical Significance Tests](./statistical-analyses/significance.md)
 - [Understanding Effect Size Measures](./statistical-analyses/effects.md)
 
-> View the Complete Chapter:  
-> [Statistical Analyses](./statistical-analyses/complete.md)
-
 ### Statistical Tables
 
 This chapter provides basic statistical tables. Tables included are the Standard Normal, Student's (t), F, Tukey's HSD, and power tables for Cohen's d and Eta-Squared. 
@@ -22,9 +19,6 @@ This chapter provides basic statistical tables. Tables included are the Standard
 - [Power Table for Eta Squared](./statistical-tables/powereta.md)
 - [Values of Tukey's HSD Statistic](./statistical-tables/hsd.md)
 
-> View the Complete Chapter:  
-> [Statistical Tables](./statistical-tables/complete.md)
-
 ### Reporting Statistics
 
 This chapter describes basic rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Specific examples of mini Results summaries are provided. Sample data tables are provided for more complex examples.
@@ -33,6 +27,3 @@ This chapter describes basic rules for presenting statistical results in APA sty
 - [Summary of Parametric Statistics](./reporting-statistics/summary.md)
 - [Examples of APA Style Results in the Text](./reporting-statistics/text.md)
 - [Examples of APA Style Results in Tables](./reporting-statistics/tables.md)
-
-> View the Complete Chapter:  
-> [Reporting Statistics](./reporting-statistics/complete.md)

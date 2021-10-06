@@ -8,7 +8,7 @@
 
 ### Overview
 
-This online sourcebook is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. It uses instructions, screenshots, and summaries to work through basic problems, highlighting their implementation in common statistical software.
+This online Sourcebook is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. It uses instructions, screenshots, and summaries to work through basic problems, highlighting their implementation in common statistical software.
 
 <p align="center"><kbd><img src="AnnotatedOutput.jpg"></kbd></p>
 

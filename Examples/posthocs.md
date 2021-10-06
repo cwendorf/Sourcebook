@@ -21,11 +21,6 @@ The following data set reflects a between-subjects design with one factor (with 
 | 11  | 3.00   | 4.00    |
 | 12  | 3.00   | 9.00    |
 
-> **Additional Resource: Data Entry**  
-[SPSS](../SPSS/using-software/multiplesampledata.md) | 
-[jamovi](../jamovi/using-software/multiplesampledata.md) | 
-[JASP](../JASP/using-software/multiplesampledata.md)
-
 #### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
@@ -51,11 +46,6 @@ The table of inferential statistics shows the key elements to be calculated.
 | Level1  |	Level2  |          -4.000 |        1.732 |   -2.309 | 0.106 |   -8.836 |    0.836 |
 | Level1  |	Level3  |          -5.000 |        1.732 |   -2.887 | 0.043 |   -9.836 |   -0.164 |
 | Level2  |	Level3  |          -1.000 |        1.732 |   -0.577 | 0.835 |   -5.836 |    3.836 | 
-
-> **Additional Resource: Conducting Analyses**   
-[SPSS](../SPSS/using-software/posthocs.md) | 
-[jamovi](../jamovi/using-software/posthocs.md) | 
-[JASP](../JASP/using-software/posthocs.md)
 
 #### Formulas and Calculations
 
@@ -92,11 +82,6 @@ Confidence Intervals: For *HSD*, calculate the confidence intervals around (cent
 
 > \\[ CI_{2vs3} = ( M_2 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -1.000 \pm (2.792) (1.732) = [ −5.836, 3.836 ] \\]
 
-> **Additional Resource: Annotated Output**  
-[SPSS](../SPSS/annotated-output/posthocs.md) | 
-[jamovi](../jamovi/annotated-output/posthocs.md) | 
-[JASP](../JASP/annotated-output/posthocs.md)
-
 #### Summarizing in APA Style
 
 Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups. Notice that the post hoc summary duplicates the presentation of the omnibus ANOVA statistics.
@@ -104,8 +89,3 @@ Post hoc tests build on the ANOVA results and provide a more focused comparison 
 > A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67, *p* = .041, *eta<sup>2</sup>* = .51. Tukey’s HSD tests showed that only the third group scored statistically significantly different than the first group. However, the other comparisons were not statistically significant.
 
 Alternatively, means, standard deviations, and confidence intervals – either for the group means or for the post hoc comparisons – could be presented in a table or figure associated with this paragraph.
-
-> **Additional Resource: Interpreting Analyses**   
-[Statistical Analyses](../Methods/statistical-analyses/) | 
-[Statistical Tables](../Methods/statistical-tables/) | 
-[Reporting Statistics](../Methods/reporting-statistics/)
