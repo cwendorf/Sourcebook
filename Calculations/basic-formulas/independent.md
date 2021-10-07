@@ -30,6 +30,7 @@ Statistical Significance: The *t* statistic is the ratio of the mean difference 
 > \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} \\]
 > \\[ df = ( n_1 - 1 ) + ( n_2 - 1) \\]
 
+
 Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
 > \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) \\]
