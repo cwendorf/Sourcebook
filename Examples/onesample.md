@@ -47,17 +47,17 @@ Statistical Significance: The *t* statistic is the ratio of the mean difference 
 
 > \\[ t = \frac{M_{DIFF}}{SE_M} = \frac{-3.000}{1.102} = -2.722 \\]
 > With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
-> Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05
+> Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05  
 > This would be considered a statistically significant finding.
 
 Confidence Interval: For this design, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
-> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -3.000 \pm (2.365) (1.102) = [ -5.606, -0.394 ] \\]  
+> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -3.000 \pm (2.365) (1.102) = [ -5.606, -0.394 ] \\]
 > Thus, the researcher concludes that the true population mean difference is somewhere between -5.606 and -0.394 (knowing that the estimate could be wrong).
 
 Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
 
-> \\[ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 \\]  
+> \\[ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 \\]
 > Given Cohen's heuristics for interpreting effect sizes, this would be considered a large effect.
 
 #### Summarizing in APA Style

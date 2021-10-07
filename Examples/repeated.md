@@ -85,8 +85,8 @@ Within-Subjects Effect Statistics: The statistics for the effect (or change) ove
 Statistical Significance: The *F* statistic is the ratio of the within-subjects effect and the within-subjects error variance estimates. 
 
 > \\[ F = \frac{MS_{EFFECT}}{MS_{ERROR}} = \frac{32.000}{3.000} = 10.667 \\]
-> With *df<sub>EFFECT</sub>* = 1 and *df<sub>ERROR</sub>* = 3, *F<sub>CRITICAL</sub>* = 10.128
-> Because *F* > *F<sub>CRITICAL</sub>*, *p* < .05
+> With *df<sub>EFFECT</sub>* = 1 and *df<sub>ERROR</sub>* = 3, *F<sub>CRITICAL</sub>* = 10.128  
+> Because *F* > *F<sub>CRITICAL</sub>*, *p* < .05  
 > This would be considered a statistically significant finding.
 
 Confidence Intervals: For RMD ANOVA, calculate the confidence intervals around (centered on) each mean separately.
