@@ -1,4 +1,4 @@
-## Understanding Examples
+## Examples
 
 ### Worked Examples
 

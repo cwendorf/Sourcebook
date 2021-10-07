@@ -1,4 +1,4 @@
-## Understanding Statistical Methods 
+## Statistical Methods 
 
 ### Statistical Analyses
 

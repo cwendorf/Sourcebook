@@ -1,4 +1,4 @@
-## Understanding jamovi 
+## jamovi 
 
 ### Using the Software
 
