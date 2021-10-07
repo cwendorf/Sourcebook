@@ -6,11 +6,11 @@ This chapter provides a set of basic formulas. The important procedures for each
 
 - [Frequencies](./basic-formulas/frequencies.md)
 - [Descriptives](./basic-formulas/descriptives.md)
-- [Standardized Scores](./worked-examples/standardized.md)
+- [Standardized Scores](./basic-formulas/standardized.md)
 - [Correlations](./basic-formulas/correlations.md)
 - [Confidence Intervals](./basic-formulas/intervals.md)
 - [One Sample t Test](./basic-formulas/onesample.md)
-- [Paired Samples t Test](.basic-formulas/paired.md)
+- [Paired Samples t Test](./basic-formulas/paired.md)
 - [Independent Samples t Test](./basic-formulas/independent.md)
 - [One Way ANOVA](./basic-formulas/oneway.md)
 - [Post Hoc Comparisons](./basic-formulas/posthocs.md)
