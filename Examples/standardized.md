@@ -60,20 +60,15 @@ This is repeated for each score in the distribution. In software programs, these
 
 Percentile Rank: The 50th percentile (the Median) and the 25th and 75th percentiles (collectively known as the Interquartile Range) are the most commonly calculated. Assuming a perfectly normal distribution:
 
-> From the Standard Normal Distribution table: for PR = .250, z = -.680
-
-> From the Standard Normal Distribution table: for PR = .500, z = 0.000
-
+> From the Standard Normal Distribution table: for PR = .250, z = -.680  
+> From the Standard Normal Distribution table: for PR = .500, z = 0.000  
 > From the Standard Normal Distribution table: for PR = .750, z = +.680
 
 Percentile Point: Percentiles provide the scores associated with particular percentile ranks. These can be estimated using the z score formula and the descriptive information from the original variable:
 
-> For PR = .250: -.680 = (Y - 4.000) / 3.117; Y = 1.880
-
-> For PR = .500: 0.000 = (Y - 4.000) / 3.117; Y = 4.000
-
-> For PR = .750: 0.000 = (Y - 4.000) / 3.117; Y = 6.120
-
+> For PR = .250: -.680 = (Y - 4.000) / 3.117; Y = 1.880  
+> For PR = .500: 0.000 = (Y - 4.000) / 3.117; Y = 4.000  
+> For PR = .750: 0.000 = (Y - 4.000) / 3.117; Y = 6.120  
 > Thus, we estimate the scores at the 25th, 50th, and 75th percentiles to be approximately 1.880, 4.000, and 6.120 respectively. These are accurate estimates only if the distribution is perfectly normal.
 
 Mean (of the z Scores): The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:

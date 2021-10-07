@@ -43,15 +43,10 @@ Mean Difference (Raw Effect): The mean difference is the difference between the 
 Within Groups Statistics: When multiple groups are used, it is necessary to get an estimate of the pooled (combined) within group variabilities.
 
 > \\[ SS_1 = ( SD_1^2 ) ( df_1) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
-
 > \\[ SS_2 = ( SD_2^2 ) ( df_2) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
-
 > \\[ SS_{WITHIN} = SS_1 + SS_ 2 = 18.000 + 18.000 = 36.000 \\]
-
 > \\[ df_{WITHIN} = df_1 + df_ 2 = 3 + 3 = 6 \\]
-
 > \\[ MS_{WITHIN} = \frac{SS_{WITHIN}}{df_{WITHIN}} = \frac{36.000}{6} = 6.000 \\]
-
 > \\[ SD_{WITHIN} = \sqrt{MS_{WITHIN}} = \sqrt{6.000} = 2.449 \\]
 
 Standard Error of the Difference: The standard error of the difference is a function of the two groups’ individual standard errors. 

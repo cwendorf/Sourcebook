@@ -52,9 +52,7 @@ The table of inferential statistics shows the key elements to be calculated.
 Mean Differences: Mean Differences (raw effects) are the differences between the means for all pairs of groups. Half of the possible pairwise comparisons are redundant and do not need to be calculated (though the mean differences will have the opposite signs because of subtraction order if they were calculated).
 
 > \\[ M_1 - M_2 = 2.000 − 6.000 =  −4.000 \\]
-
 > \\[ M_1 - M_3 = 2.000 − 7.000 = −5.000 \\]
-
 > \\[ M_2 - M_3 = 6.000 − 7.000 = −1.000 \\]
 
 Standard Error of the Difference: These standard errors are for the difference between the two group means in each comparison. The values are a function of the MS<sub>WITHIN</sub> (from the ANOVA) and the sample sizes. \[In this case, because all groups are of the same size, the standard error for each comparison is the same.\]
@@ -80,11 +78,8 @@ Statistical Significance: The *HSD* statistic is a ratio of the mean difference 
 Confidence Intervals: For *HSD*, calculate the confidence intervals around (centered on) each mean difference separately.
 
 > \\[ CI_{1vs2} = ( M_1 - M_2 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -4.000 \pm (2.792) (1.732) = [ −8.836, 0.836 ] \\]
-
 > \\[ CI_{1vs3} = ( M_1 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -5.000 \pm (2.792) (1.732) = [ −9.836, −0.164 ] \\]
-
 > \\[ CI_{2vs3} = ( M_2 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -1.000 \pm (2.792) (1.732) = [ −5.836, 3.836 ] \\]
-
 > For each comparison, the researcher estimates the true population mean difference (knowing that the estimates could be incorrect).
 
 #### Summarizing in APA Style
