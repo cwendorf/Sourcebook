@@ -121,39 +121,39 @@ Statistical Significance: The *F* statistic is the ratio of the between-and with
 For the Factor A Main Effect:
 
 > \\[ F = \frac{MS_{FACTORA}}{MS_{ERROR}} = \frac{4.000}{6.000} = 0.667 \\]
-> With *df<sub>FACTORA</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747  
-> Because *F<sub>FACTORA</sub>* < *F<sub>CRITICAL</sub>*, *p* > .05  
+> With *df<sub>FACTORA</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747
+> Because *F<sub>FACTORA</sub>* < *F<sub>CRITICAL</sub>*, *p* > .05
 > This would not be considered a statistically significant finding.
 
 For the Factor B Main Effect:
 
 > \\[ F = \frac{MS_{FACTORB}}{MS_{ERROR}} = \frac{16.000}{6.000} = 2.667 \\]
-> With *df<sub>FACTORB</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747  
-> Because *F<sub>FACTORB</sub>* < *F<sub>CRITICAL</sub>*, *p* > .05  
+> With *df<sub>FACTORB</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747
+> Because *F<sub>FACTORB</sub>* < *F<sub>CRITICAL</sub>*, *p* > .05
 > This would not be considered a statistically significant finding.
 
 For the Interaction:
 
 > \\[ F = \frac{MS_{INTER}}{MS_{ERROR}} = \frac{36.000}{6.000} = 6.000 \\]
-> With *df<sub>INTER</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747  
-> Because *F<sub>INTER</sub>* > *F<sub>CRITICAL</sub>*, *p* < .05  
+> With *df<sub>INTER</sub>* = 1 and *df<sub>ERROR</sub>* = 12, *F<sub>CRITICAL</sub>* = 4.747
+> Because *F<sub>INTER</sub>* > *F<sub>CRITICAL</sub>*, *p* < .05
 > This would be considered a statistically significant finding.
 
 Effect Size: The partial eta-squared statistic is a ratio of the between-subjects effect and the remaining variability (Sum of Squares) estimates after within-subjects error has been partialled out.
 
 For the Factor A Main Effect:
 
-> \\[ \text{Partial} \; \eta^2 = \frac{SS_{FACTORA}}{( SS_{FACTORA} + SS_{ERROR} )} = \frac{4.000}{( 4.000 + 72.000 )} = 0.053 \\]  
+> \\[ \text{Partial} \; \eta^2 = \frac{SS_{FACTORA}}{( SS_{FACTORA} + SS_{ERROR} )} = \frac{4.000}{( 4.000 + 72.000 )} = 0.053 \\]
 > Thus, 5.3% of the variability among the scores is accounted for by Factor A.
 
 For the Factor B Main Effect:
 
-> \\[ \text{Partial} \; \eta^2 = \frac{SS_{FACTORB}}{( SS_{FACTORB} + SS_{ERROR} )} = \frac{16.000}{( 16.000 + 72.000 )} = 0.182 \\]  
+> \\[ \text{Partial} \; \eta^2 = \frac{SS_{FACTORB}}{( SS_{FACTORB} + SS_{ERROR} )} = \frac{16.000}{( 16.000 + 72.000 )} = 0.182 \\]
 > Thus, 18.2% of the variability among the scores is accounted for by Factor B.
 
 For the Interaction:
 
-> \\[ \text{Partial} \; \eta^2 = \frac{SS_{INTER}}{( SS_{INTER} + SS_{ERROR} )} = \frac{36.000}{( 36.000 + 72.000 )} = 0.333 \\]  
+> \\[ \text{Partial} \; \eta^2 = \frac{SS_{INTER}}{( SS_{INTER} + SS_{ERROR} )} = \frac{36.000}{( 36.000 + 72.000 )} = 0.333 \\]
 > Thus, 33.3% of the variability among the scores is accounted for by interaction of Factor A and Factor B.
 
 Confidence Intervals: For Factorial ANOVA, calculate the confidence intervals around (centered on) each mean separately (not shown here).

@@ -44,18 +44,18 @@ Mean Difference (Raw Effect): The Mean Difference is the difference between the 
 Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 
 > \\[ t = \frac{M_{DIFF}}{SE_M} = \frac{-4.000}{1.225} = -3.226 \\]
-> With *df* = 3, *t<sub>CRITICAL</sub>* = 3.182  
+> With *df* = 3, *t<sub>CRITICAL</sub>* = 3.182
 > Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05
 > This would be considered a statistically significant finding.
 
 Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
-> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -4.000 \pm (3.182) (1.225) = [ −7.898, −0.102 ] \\]  
+> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -4.000 \pm (3.182) (1.225) = [ −7.898, −0.102 ] \\]
 > Thus, the researcher concludes that the true population mean difference is somewhere between -7.898 and -0.102 (knowing that the estimate could be wrong).
 
 Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
 
-> \\[ d = \frac{M_{DIFF}}{SD} = \frac{-4.000}{2.449} = -1.633 \\]  
+> \\[ d = \frac{M_{DIFF}}{SD} = \frac{-4.000}{2.449} = -1.633 \\]
 > Given Cohen's heuristics for interpreting effect sizes, this would be considered an extremely large effect.
 
 #### Summarizing in APA Style
