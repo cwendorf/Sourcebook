@@ -72,9 +72,9 @@ Statistical Significance: The *F* statistic is the ratio of the between- and wit
 Confidence Intervals: For ANOVA, calculate the confidence intervals around (centered on) each mean separately.
 
 > Because each group has 3 *df*, *t<sub>CRITICAL</sub>* = ±3.182  
-> \\[ CI_{M_1} = M_1 \pm (t_{CRITICAL}) (SE_{M_1}) = 2.000 \pm (3.182) (1.225) = [ −1.898, 5.898 ] \\]  
-> \\[ CI_{M_2} = M_2 \pm (t_{CRITICAL}) (SE_{M_2}) = 6.000 \pm (3.182) (1.225) = [ 2.102, 9.898 ] \\]  
-> \\[ CI_{M_3} = M_3 \pm (t_{CRITICAL}) (SE_{M_3}) = 7.000 \pm (3.182) (1.225) = [ 3.102, 10.898 ] \\] 
+> \\[ CI_{M_1} = M_1 \pm (t_{CRITICAL}) (SE_{M_1}) = 2.000 \pm (3.182) (1.225) = [ −1.898, 5.898 ] \\]
+> \\[ CI_{M_2} = M_2 \pm (t_{CRITICAL}) (SE_{M_2}) = 6.000 \pm (3.182) (1.225) = [ 2.102, 9.898 ] \\]
+> \\[ CI_{M_3} = M_3 \pm (t_{CRITICAL}) (SE_{M_3}) = 7.000 \pm (3.182) (1.225) = [ 3.102, 10.898 ] \\]
 > For each group, the researcher estimates the true population mean (knowing that the estimates could be incorrect).
 
 Effect Size: The Eta-Squared statistic is a ratio of the between group and the total group variability (Sum of Squares) estimates.

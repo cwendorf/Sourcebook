@@ -51,12 +51,10 @@ Within Groups Statistics: When multiple groups are used, it is necessary to get 
 
 Standard Error of the Difference: The standard error of the difference is a function of the two groups’ individual standard errors. 
 
-When the two sample sizes are equal:
-
+> When the two sample sizes are equal:
 > \\[ SE_{DIFF} = \sqrt{ SE_1^2 + SE_2^2 } = \sqrt{ 1.225^2 + 1.225^2 } = 1.732 \\]
 
-Or an expanded version of the formula can be used when the two sample sizes are either equal or unequal:
-
+> Or an expanded version of the formula can be used when the two sample sizes are either equal or unequal:
 > \\[ SE_{DIFF} = \sqrt{ \left( \frac{MS_{WITHIN}}{n_1} \right) + \left( \frac{MS_{WITHIN}}{n_2} \right) } = \sqrt{ \left( \frac{6.000}{4} \right) + \left( \frac{6.000}{4} \right) } = 1.732 \\]
 
 Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
