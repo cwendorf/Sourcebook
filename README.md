@@ -17,7 +17,7 @@ This online Sourcebook is intended to facilitate the connection between standard
 The Sourcebook contains the following materials:
 
 - [**Methods**](./Methods) - Contains a statistics overview, statistical tables, and APA style for reporting
-- [**Examples**](./Examples) - Contains complete worked examples with data, calculations, and summaries
+- [**Calculations**](./Calculations) - Contains formulas and complete worked examples
 - [**SPSS**](./SPSS) - Contains instructions, annotated output, and blank output for SPSS
 - [**jamovi**](./jamovi) - Contains instructions, annotated output, and blank output for jamovi
 - [**JASP**](./JASP) - Contains instructions, annotated output, and blank output for JASP

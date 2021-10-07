@@ -1,4 +1,4 @@
-## Worked Examples
+## Calculations: Worked Examples
 
 ### Paired Samples t Test
 

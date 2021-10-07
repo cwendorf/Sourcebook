@@ -1,6 +1,4 @@
-## Examples
-
-### Worked Examples
+## Calculations: Worked Examples
 
 This chapter provides a set of worked examples. The raw data, generic computer output, formulas and calculations, and summaries in APA style are provided for each type of research design.
 
