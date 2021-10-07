@@ -68,8 +68,8 @@ Statistical Significance: The *t* statistic is the ratio of the mean difference 
 
 > \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.309 \\]
 > \\[ df = ( n_1 - 1 ) + ( n_2 - 1) = N - 2 = 8 - 2 = 6  \\]
-> With *df* = 6, *t<sub>CRITICAL</sub>* = 2.447
-> Because *t* < *t<sub>CRITICAL</sub>*, *p* > .05
+> With *df* = 6, *t<sub>CRITICAL</sub>* = 2.447  
+> Because *t* < *t<sub>CRITICAL</sub>*, *p* > .05  
 > This would not be considered a statistically significant finding.
 
 Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
