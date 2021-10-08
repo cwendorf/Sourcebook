@@ -84,8 +84,8 @@ Confidence Intervals: For *HSD*, calculate the confidence intervals around (cent
 
 #### Summarizing in APA Style
 
-Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups. Notice that the post hoc summary duplicates the presentation of the omnibus ANOVA statistics.
+Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups and usually follows a presentation of the ANOVA (which already includes the descriptive information). The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the confidence intervals (and can be presented on its own). Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
 
-> A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67, *p* = .041, *eta<sup>2</sup>* = .51. Tukey’s HSD tests showed that only the third group scored statistically significantly different than the first group. However, the other comparisons were not statistically significant.
+> Tukey's HSD tests showed that the first group scored statistically significantly different than the third group, *t*(9) = -2.89, p = 043. However, the other comparisons were not statistically significant (*p*s > .05).
 
-Alternatively, means, standard deviations, and confidence intervals – either for the group means or for the post hoc comparisons – could be presented in a table or figure associated with this paragraph.
+> A series of Tukey's HSD comparisons revealed that the first group (*n* = 3, *M* = 2.00, *SD* = 2.45) scored substantially lower Outcome scores than the third group (*n* = 3, *M* = 7.00, *SD* = 2.45), 95% CI [-9.84, -.16], *t*(9) = -2.89, p = 043. However, the other comparisons revealed effectively little to no difference between the other groups (*p*s > .05).

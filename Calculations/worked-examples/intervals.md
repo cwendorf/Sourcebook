@@ -47,10 +47,8 @@ Confidence Interval: For this test, the appropriate confidence interval is aroun
 
 #### Summarizing in APA Style
 
-Confidence intervals provide a range estimate for a population value (e.g., the mean). Note that the width of the interval can be altered to reflect the level of confidence in the estimate. Both of the following versions present the required information and, therefore, either could be used.
+Confidence intervals provide a range estimate for a population value (e.g., the mean). Note that the width of the interval can be altered to reflect the level of confidence in the estimate. Both of the following versions present the required information, though the second focuses more on the interpretation of the statistic.
 
-> The participants (*N* = 8) had a mean Outcome score of 4.00 (*SD* = 3.12), 95% CI \[1.39, 6.61\].
+> The eight participants had a mean Outcome score of 4.00 (SD = 3.12), 95% CI [1.39, 6.61].
 
-> The 8 participants scored well on the Outcome (*M* = 4.00, *SD* = 3.12), 95% CI \[1.39, 6.61\].
-
-Alternatively, means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+> The participants (*N* = 8) scored low on the Outcome (M = 4.00, SD = 3.12), 95% CI [1.39, 6.61].

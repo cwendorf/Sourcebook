@@ -133,8 +133,9 @@ Confidence Intervals: For Factorial ANOVA, calculate the confidence intervals ar
 
 #### Summarizing in APA Style
 
-The Factorial ANOVA provides statistics for all of the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One-Way ANOVA.
+The Factorial ANOVA provides statistics for the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One Way ANOVA. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the effect size. Typically, the means, standard deviations, and confidence intervals would be presented in a table or figure associated with this text.
 
-> A 2 (Factor A) x 2 (Factor B) ANOVA was conducted on the Outcome scores. Neither Factor A, *F*(1,12) = 0.67, *p* = .430, partial *eta<sup>2</sup>* = .05, nor Factor B, *F*(1,12) = 2.67, *p* = .128, partial *eta<sup>2</sup>* = .18, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, *F*(1,12) = 6.00, *p* = .031, partial *eta<sup>2</sup>* = .33.
+> A 2 (Factor A) x 2 (Factor B) ANOVA showed that neither Factor A, *F*(1,12) = 0.67, *p* = .430, nor Factor B, *F*(1,12) = 2.67, *p* = .128, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, *F*(1,12) = 6.00, *p* = .031.
 
-Means, standard deviations, and confidence intervals could be presented in a table or figure associated with this paragraph.
+> Analyses revealed that neither Factor A, partial *eta*<sup>2</sup> = .05, *F*(1,12) = 0.67, *p* = .430, nor Factor B, partial *eta*<sup>2</sup> = .18, *F*(1,12) = 2.67, *p* = .128, had an appreciable impact on the Outcome. However, the interaction had a large impact on the Outcome, partial *eta*<sup>2</sup> = .33, *F*(1,12) = 6.00, *p* = .031.
+
