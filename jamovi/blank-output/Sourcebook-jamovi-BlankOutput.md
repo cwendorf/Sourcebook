@@ -56,9 +56,9 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### One-Sample T-Test
 
-| ||||Mean Difference|95% Confidence Interval||
+| |||||95% Confidence Interval||
 | :- | :-: | :-: | :-: | :-: | :-: |
-|Variable:|Statistic|df|p||Lower|Upper|
+|**Variable:**|**Statistic**|**df**|**p**|**Mean Difference**|**Lower**|**Upper**|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Descriptives
@@ -71,15 +71,16 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### One-Sample T-Test
 
-| ||||MeanDifference||95% Confidence Interval|
-| :- | :-: | :-: | :-: | :-: | :-: | :-: |
-|` `Variable:|Statistic|df|p||Cohen’s d|Lower|Upper|
+| ||||||95% Confidence Interval||
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|**Variable:**|**Statistic**|**df**|**p**|**Mean Difference**|**Cohen’s d**|**Lower**|**Upper**|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
+
 *Note.* All tests, hypothesis is population mean is different from \_\_\_\_\_\_
 
 #### Descriptives
 
-|` `Variable:|N|Mean|Median|SD|SE|
+|Variable:|N|Mean|Median|SD|SE|
 | :- | :-: | :-: | :-: | :-: | :-: |
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 
@@ -89,12 +90,12 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 | ||||MeanDifference|SE<br>Difference||95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|` `Variables:|Statistic|df|p|||Cohen’s d|Lower|Upper|
+|Variables:|Statistic|df|p|||Cohen’s d|Lower|Upper|
 |\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Descriptives
 
-|` `Variable:|N|Mean|Median|SD|SE|
+|Variable:|N|Mean|Median|SD|SE|
 | :- | :-: | :-: | :-: | :-: | :-: |
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
@@ -105,7 +106,7 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 | ||||MeanDifference|SE<br>Difference||95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|` `Variables:|Statistic|df|p|||Cohen’s d|Lower|Upper|
+|Variables:|Statistic|df|p|||Cohen’s d|Lower|Upper|
 |\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Group Descriptives
