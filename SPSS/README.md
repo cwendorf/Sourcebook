@@ -7,8 +7,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [One Sample Data](./using-software/onesampledata.md)
 - [Repeated Measures Data](./using-software/repeateddata.md)
 - [Multiple Sample Data](./using-software/multiplesampledata.md)
-- [Factorial Data](./using-software/factorialdata.md)  
-
+- [Factorial Data](./using-software/factorialdata.md)
 - [Frequencies (Frequencies and Descriptives)](./using-software/frequencies.md)
 - [Descriptives (Standardized Scores and Transformations)](./using-software/standardized.md)
 - [Correlations (Bivariate)](./using-software/correlations.md)

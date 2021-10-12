@@ -5,8 +5,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [One Sample Data](./onesampledata.md)
 - [Repeated Measures Data](./repeateddata.md)
 - [Multiple Sample Data](./multiplesampledata.md)
-- [Factorial Data](./factorialdata.md)  
-
+- [Factorial Data](./factorialdata.md)
 - [Descriptives (Frequencies and Descriptive Statistics)](./descriptives.md)
 - [Correlations (Bivariate)](./correlations.md)
 - [T Test (Confidence Intervals)](./intervals.md)

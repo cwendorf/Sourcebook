@@ -7,8 +7,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [One Sample Data](./using-software/onesampledata.md)
 - [Repeated Measures Data](./using-software/repeateddata.md)
 - [Multiple Sample Data](./using-software/multiplesampledata.md)
-- [Factorial Data](./using-software/factorialdata.md)  
-
+- [Factorial Data](./using-software/factorialdata.md)
 - [Descriptives (Frequencies and Descriptive Statistics)](./using-software/descriptives.md)
 - [Correlations (Bivariate)](./using-software/correlations.md)
 - [T Test (Confidence Intervals)](./using-software/intervals.md)

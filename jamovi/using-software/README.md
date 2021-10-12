@@ -5,8 +5,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [One Sample Data](./onesampledata.md)  
 - [Repeated Measures Data](./repeateddata.md)
 - [Multiple Sample Data](./multiplesampledata.md)
-- [Factorial Data](./factorialdata.md)  
-
+- [Factorial Data](./factorialdata.md)
 - [Descriptives (Frequencies and Descriptives)](./descriptives.md)
 - [Compute (Transformations and Standardized Scores)](./standardized.md)
 - [Correlations (Bivariate)](./correlations.md)
