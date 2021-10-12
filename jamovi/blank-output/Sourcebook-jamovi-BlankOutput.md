@@ -32,7 +32,6 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 |\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 |\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 
-
 ### Correlations (Bivariate)
 
 #### Descriptives
@@ -57,14 +56,14 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### One-Sample T-Test
 
-| ||||MeanDifference|95% Confidence Interval|
+| ||||Mean Difference|95% Confidence Interval||
 | :- | :-: | :-: | :-: | :-: | :-: |
-|` `Variable:|Statistic|df|p||Lower|Upper|
+|Variable:|Statistic|df|p||Lower|Upper|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Descriptives
 
-|` `Variable:|N|Mean|Median|SD|SE|
+|Variable:|N|Mean|Median|SD|SE|
 | :- | :-: | :-: | :-: | :-: | :-: |
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 
