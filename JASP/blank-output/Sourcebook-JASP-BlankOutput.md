@@ -62,7 +62,7 @@ Descriptive Statistics
 
 | ||||95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: |
-|` `Variable:|t|df|p|Lower|Upper|
+|Variable:|t|df|p|Lower|Upper|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Descriptives
@@ -77,14 +77,14 @@ Descriptive Statistics
 
 | ||||MeanDifference||95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
-|` `Variable:|t|df|p||Cohen’s d|Lower|Upper|
+|Variable:|t|df|p||Cohen’s d|Lower|Upper|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 *Note.* All tests, hypothesis is population mean is different from \_\_\_\_\_\_
 
 #### Descriptives
 
-|` `Variable:|N|Mean|SD|SE|
+|Variable:|N|Mean|SD|SE|
 | :- | :-: | :-: | :-: | :-: |
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 
@@ -94,7 +94,7 @@ Descriptive Statistics
 
 | ||||MeanDifference||95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
-|` `Variables:|t|df|p||Cohen’s d|Lower|Upper|
+|Variables:|t|df|p||Cohen’s d|Lower|Upper|
 |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Descriptives
@@ -110,7 +110,7 @@ Descriptive Statistics
 
 | ||||MeanDifference||95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
-|` `Variable:|t|df|p||Cohen’s d|Lower|Upper|
+|Variable:|t|df|p||Cohen’s d|Lower|Upper|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 *Note.* All tests, variances of groups assumed equal
