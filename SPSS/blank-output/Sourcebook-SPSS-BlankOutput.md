@@ -24,7 +24,6 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Variable:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 |N|Valid|\_\_\_\_\_\_\_\_\_\_|
 |Mean||\_\_\_\_\_\_\_\_\_\_|
 |Std. Deviation||\_\_\_\_\_\_\_\_\_\_|
@@ -69,7 +68,7 @@ Variable:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Test Value = \_\_\_\_\_\_\_
 
-| |t|df|Sig. (2-tailed)|Mean Difference|95% Confidence Interval of the Difference||
+| |t|df|Sig. (2-tailed)|Mean Difference|95% Confidence Interval <br>of the Difference||
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
 | | | | | |**Lower**|**Upper**|
 |Variable: \_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
@@ -91,7 +90,7 @@ Test Value = \_\_\_\_\_\_\_
 
 #### Paired Samples Test
 
-|||Mean|Std. Dev.|Std. Error Mean|95% Confidence Interval of the Difference||t|df|Sig. (2-tailed)|
+|||Mean|Std. Dev.|Std. Error Mean|95% Confidence Interval <br>of the Difference||t|df|Sig. (2-tailed)|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ||||||**Lower**|**Upper**||||
 |Pair 1|Variable 1 & Variable 2|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_\_|
@@ -107,7 +106,7 @@ Test Value = \_\_\_\_\_\_\_
 
 #### Independent Samples Test
 
-| | |t|df|Sig. (2-tailed)|Mean Difference|Std. Error Difference|95% Confidence Interval of the Difference||
+| | |t|df|Sig. (2-tailed)|Mean Difference|Std. Error Difference|95% Confidence Interval <br>of the Difference||
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | | | | | | |**Lower**|**Upper**|
 |Variable: \_\_\_\_\_\_\_\_\_|Equal variances assumed|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
@@ -117,7 +116,7 @@ Test Value = \_\_\_\_\_\_\_
 
 #### Descriptives
 
-||N|Mean|Std. Deviation|Std. Error|95% Confidence Interval for Mean|
+||N|Mean|Std. Deviation|Std. Error|95% Confidence Interval <br>for Mean|
 | :- | :-: | :-: | :-: | :-: | :-: |
 | | | | | |**Lower Bound**|**Upper Bound**|
 |Level 1|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
