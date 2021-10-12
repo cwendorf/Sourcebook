@@ -60,14 +60,14 @@ Descriptive Statistics
 
 #### One-Sample T-Test
 
-| ||||95% Confidence Interval|
-| :- | :-: | :-: | :-: | :-: |
-|Variable:|t|df|p|Lower|Upper|
+| ||||95% Confidence Interval||
+| :- | :-: | :-: | :-: | :-: | :-: |
+|**Variable:**|**t**|**df**|**p**|**Lower**|**Upper**|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Descriptives
 
-|` `Variable:|N|Mean|SD|SE|
+|Variable:|N|Mean|SD|SE|
 | :- | :-: | :-: | :-: | :-: |
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 
@@ -75,12 +75,12 @@ Descriptive Statistics
 
 #### One-Sample T-Test
 
-| ||||MeanDifference||95% Confidence Interval|
-| :- | :-: | :-: | :-: | :-: | :-: | :-: |
-|Variable:|t|df|p||Cohen’s d|Lower|Upper|
+||||||95% Confidence Interval|||
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|**Variable:**|**t**|**df**|**p**|**Mean Difference**|**Lower**|**Upper**|**Cohen’s d**|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
-*Note.* All tests, hypothesis is population mean is different from \_\_\_\_\_\_
+*Note.* For all tests, the alternative hypothesis specifies that the population mean is different from \_\_\_\_\_\_
 
 #### Descriptives
 
@@ -92,9 +92,9 @@ Descriptive Statistics
 
 #### Paired Samples T-Test
 
-| ||||MeanDifference||95% Confidence Interval|
-| :- | :-: | :-: | :-: | :-: | :-: | :-: |
-|Variables:|t|df|p||Cohen’s d|Lower|Upper|
+||||||95% Confidence Interval|||
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|**Variables:**|**t**|**df**|**p**|**Mean Difference**|**Lower**|**Upper**|**Cohen’s d**|
 |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Descriptives
@@ -108,9 +108,9 @@ Descriptive Statistics
 
 #### Independent Samples T-Test
 
-| ||||MeanDifference||95% Confidence Interval|
-| :- | :-: | :-: | :-: | :-: | :-: | :-: |
-|Variable:|t|df|p||Cohen’s d|Lower|Upper|
+||||||95% Confidence Interval|||
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|**Variable:**|**t**|**df**|**p**|**Mean Difference**|**Lower**|**Upper**|**Cohen’s d**|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 *Note.* All tests, variances of groups assumed equal
@@ -118,7 +118,7 @@ Descriptive Statistics
 #### Group Descriptives
 
 |Variable:|Group|N|Mean|SD|SE|
-| :-: | :-: | :-: | :-: | :-: | :-: |
+| :- | :-: | :-: | :-: | :-: | :-: |
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 ||\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 
@@ -128,8 +128,8 @@ Descriptive Statistics
 
 Variable: \_\_\_\_\_\_\_\_\_\_\_
 
-||Sum of Squares|df|Mean Square|F|p|η2|
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+||Sum of Squares|df|Mean Square|F|p|η<sup>2</sup>|
+| :- | :-: | :-: | :-: | :-: | :-: | :-: |
 |Factor: \_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Residual|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_||||
 
@@ -151,8 +151,8 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_
 
 Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
-|||Mean Difference|SE|t|pTUKEY|
-| :-: | :-: | :-: | :-: | :-: | :-: |
+|||Mean Difference|SE|t|p<sub>TUKEY</sub>|
+| :- | :- | :-: | :-: | :-: | :-: |
 |Level 1|Level 2|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 ||Level 3|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 |Level 2|Level 3|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
@@ -171,8 +171,8 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_
 
 #### Within Subjects ANOVA
 
-||Sum of Squares|df|Mean Square|F|p|η2|
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+||Sum of Squares|df|Mean Square|F|p|η<sup>2</sup>|
+| :- | :-: | :-: | :-: | :-: | :-: | :-: |
 |RM Factor 1|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Residual|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_||||
 
@@ -191,8 +191,8 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_
 
 Variable: \_\_\_\_\_\_\_\_\_\_\_
 
-||Sum of Squares|df|Mean Square|F|p|η2|
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+||Sum of Squares|df|Mean Square|F|p|η<sup>2</sup>|
+| :- | :-: | :-: | :-: | :-: | :-: | :-: |
 |Factor A|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Factor B|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Factor A \* Factor B|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
@@ -205,7 +205,7 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_
 Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
 |Factor A|Factor B|Mean|SD|N|
-| :-: | :-: | :-: | :-: | :-: |
+| :- | :- | :-: | :-: | :-: |
 |Level 1|Level 1|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 ||Level 2|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Level 2|Level 1|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
