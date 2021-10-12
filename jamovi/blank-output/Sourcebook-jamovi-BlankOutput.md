@@ -88,9 +88,9 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Paired Samples T-Test
 
-| ||||MeanDifference|SE<br>Difference||95% Confidence Interval|
+| |||||||95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Variables:|Statistic|df|p|||Cohen’s d|Lower|Upper|
+|Variables:|Statistic|df|p|Mean Difference|SE Difference|Cohen’s d|Lower|Upper|
 |\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Descriptives
@@ -104,9 +104,9 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Independent Samples T-Test
 
-| ||||MeanDifference|SE<br>Difference||95% Confidence Interval|
+| |||||||95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Variables:|Statistic|df|p|||Cohen’s d|Lower|Upper|
+|Variables:|Statistic|df|p|Mean Difference|SE Difference|Cohen’s d|Lower|Upper|
 |\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Group Descriptives
@@ -120,7 +120,7 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### ANOVA
 
-||Sum of Squares|df|Mean Square|F|p|η2|
+||Sum of Squares|df|Mean Square|F|p|η<sup>2</sup>|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |Factor: \_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Residuals|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_||||
@@ -139,9 +139,9 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
-|Comparison|Mean Difference|||||
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|Factor: \_\_\_|Factor: \_\_\_||SE|df|t|pTUKEY|
+|Comparison|||||||
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Factor: \_\_\_|Factor: \_\_\_|Mean Difference|SE|df|t|p<sub>TUKEY</sub>|
 |Level 1|Level 2|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 ||Level 3|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 |Level 2|Level 3|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
@@ -158,7 +158,7 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Within Subjects Effects
 
-||Sum of Squares|df|Mean Square|F|p|Partial η2|
+||Sum of Squares|df|Mean Square|F|p|Partial η<sup>2</sup>|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |RM Factor 1|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Residual|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_||||
@@ -167,7 +167,7 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Between Subjects Effects
 
-||Sum of Squares|df|Mean Square|F|p|Partial η2|
+||Sum of Squares|df|Mean Square|F|p|Partial η<sup>2</sup>|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |Residual|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_||||
 
@@ -185,7 +185,7 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### ANOVA
 
-||Sum of Squares|df|Mean Square|F|p|η2|
+||Sum of Squares|df|Mean Square|F|p|η<sup>2</sup>|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |Factor A|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Factor B|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
