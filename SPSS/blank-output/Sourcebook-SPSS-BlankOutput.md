@@ -25,14 +25,8 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Variable:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ||||
-<<<<<<< Updated upstream
 |:-|:-:|:-:|
 |N|Valid|\_\_\_\_\_\_\_\_\_\_|
-=======
-|:-:|:-:|:-:|
-|N|Valid|\_\_\_\_\_\_\_\_\_\_|
-| :- | :- | -: |
->>>>>>> Stashed changes
 |Mean||\_\_\_\_\_\_\_\_\_\_|
 |Std. Deviation||\_\_\_\_\_\_\_\_\_\_|
 |Variance||\_\_\_\_\_\_\_\_\_\_|
@@ -75,9 +69,10 @@ Variable:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### One-Sample Test
 
-||Test Value = \_\_\_\_\_\_\_|
-| :- | :-: |
-| |t|df|Sig. (2-tailed)|Mean Difference|95% Confidence Interval of the Difference|
+Test Value = \_\_\_\_\_\_\_
+
+| |t|df|Sig. (2-tailed)|Mean Difference|95% Confidence Interval of the Difference||
+| :- | :-: | :-: | :-: | :-: | :-: | :-: |
 | | | | | |Lower|Upper|
 |DV|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
