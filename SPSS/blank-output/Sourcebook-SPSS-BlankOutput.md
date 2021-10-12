@@ -141,20 +141,19 @@ Test Value = \_\_\_\_\_\_\_
 
 #### Multiple Comparisons
 
-Dependent Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+Dependent Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Comparison Procedure : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-|(I) IV|(J) IV|Mean Difference <br>(I-J)|||95% Confidence Interval|
-| :-: | :-: | :-: | :-: | :-: | :-: |
-||||Std. Error|Sig.|Lower Bound|Upper Bound|
+|(I) IV|(J) IV|Mean Difference <br>(I-J)|Std. Error|Sig.|95% Confidence Interval||
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+||||||Lower Bound|Upper Bound|
 |Level 1|Level 2|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
 ||Level 3|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
 |Level 2|Level 1|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
 ||Level 3|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
 |Level 3|Level 1|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
 ||Level 2|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
-
-*The mean difference is significant at the .05 level.*
 
 ### General Linear Model (Repeated Measures ANOVA)
 
@@ -182,9 +181,10 @@ Comparison Procedure : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Tests of Between-Subjects Effects
 
-| :-: |
-|Dependent Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+Dependent Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 |Source|Type III Sum of Squares|df|Mean Square|F|Sig.|Partial Eta Squared|
+| :-: | -: | -: | -: | -: | -: | -: |
 |Corrected Model|XXXXXXX|XXXXX|XXXXXXX|XXXXXXX|XXXX|XXXX|
 |Intercept|XXXXXXX|XXXXX|XXXXXXX|XXXXXXX|XXXX|XXXX|
 |Factor A|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
@@ -193,4 +193,3 @@ Comparison Procedure : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 |Error|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_||||
 |Total|XXXXXXX|XXXXX|||||
 |Corrected Total|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|||||
-
