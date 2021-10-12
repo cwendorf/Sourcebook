@@ -88,14 +88,14 @@ Test Value = \_\_\_\_\_\_\_
 
 |||N|Correlation|Sig.|
 | :- |:-: |:-: |:-: |:-: |
-|Pair 1|Variable 1 &Variable 2|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_|
+|Pair 1|Variable 1 & Variable 2|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_|
 
 #### Paired Samples Test
 
-|||Mean|Std. Dev.|Std. Error Mean|95% Confidence Interval of the Difference|t|df|Sig. (2-tailed)|
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|||Mean|Std. Dev.|Std. Error Mean|95% Confidence Interval of the Difference||t|df|Sig. (2-tailed)|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ||||||**Lower**|**Upper**||||
-|Pair 1|Variable 1 &Variable 2|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_\_|
+|Pair 1|Variable 1 & Variable 2|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_\_|
 
 ### T-Test (Independent Samples)
 
@@ -103,7 +103,7 @@ Test Value = \_\_\_\_\_\_\_
 
 | |Group|N|Mean|Std. Deviation|Std. Error Mean|
 | :- | :- | :-: | :-: | :-: | :-: |
-|DV|Level 1|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
+|Variable: \_\_\_\_\_\_\_\_\_|Level 1|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 | |Level 2|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 
 #### Independent Samples Test
@@ -111,7 +111,7 @@ Test Value = \_\_\_\_\_\_\_
 | | |t|df|Sig. (2-tailed)|Mean Difference|Std. Error Difference|95% Confidence Interval <br>of the Difference||
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | | | | | | |**Lower**|**Upper**|
-|DV|Equal variances assumed|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
+|Variable: \_\_\_\_\_\_\_\_\_|Equal variances assumed|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 | |Equal variances not assumed|XXXX|XXX|XXXX|XXXXX|XXXXXX|XXXXX|XXXXX|
 
 ### Oneway (OneWay ANOVA)
