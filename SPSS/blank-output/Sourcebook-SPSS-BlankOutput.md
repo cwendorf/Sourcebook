@@ -24,6 +24,8 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Variable:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+|||
+| :- | :-: | :-: |
 |N|Valid|\_\_\_\_\_\_\_\_\_\_|
 |Mean||\_\_\_\_\_\_\_\_\_\_|
 |Std. Deviation||\_\_\_\_\_\_\_\_\_\_|
@@ -68,9 +70,9 @@ Variable:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Test Value = \_\_\_\_\_\_\_
 
-| |t|df|Sig. (2-tailed)|Mean Difference|95% Confidence Interval <br>of the Difference||
+| |||||95% Confidence Interval <br>of the Difference||
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
-| | | | | |**Lower**|**Upper**|
+| |**t**|**df**|**Sig. (2-tailed)**|**Mean Difference**|**Lower**|**Upper**|
 |Variable: \_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 ### T-Test (Paired Samples)
@@ -78,21 +80,21 @@ Test Value = \_\_\_\_\_\_\_
 #### Paired Samples Statistics
 
 |||Mean|N|Std. Deviation|Std. Error Mean|
-| :- | :-: | :-: | :-: | :-: | :-: | 
+| :- | :- | :-: | :-: | :-: | :-: | 
 |Pair 1|Variable 1:<br>\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 ||Variable 2:<br>\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 
 #### Paired Samples Correlations
 
 |||N|Correlation|Sig.|
-| :- |:-: |:-: |:-: |:-: |
+| :- |:- |:-: |:-: |:-: |
 |Pair 1|Variable 1 & Variable 2|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_|
 
 #### Paired Samples Test
 
-|||Mean|Std. Dev.|Std. Error Mean|95% Confidence Interval <br>of the Difference||t|df|Sig. (2-tailed)|
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-||||||**Lower**|**Upper**||||
+||||||95% Confidence Interval <br>of the Difference|||||
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|||**Mean**|**Std. Dev.**|**Std. Error Mean**|**Lower**|**Upper**|**t**|**df**|**Sig. (2-tailed)**|
 |Pair 1|Variable 1 & Variable 2|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_\_|
 
 ### T-Test (Independent Samples)
@@ -106,9 +108,9 @@ Test Value = \_\_\_\_\_\_\_
 
 #### Independent Samples Test
 
-| | |t|df|Sig. (2-tailed)|Mean Difference|Std. Error Difference|95% Confidence Interval <br>of the Difference||
+| | ||||||95% Confidence Interval <br>of the Difference||
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| | | | | | | |**Lower**|**Upper**|
+| | |**t**|**df**|**Sig. (2-tailed)**|**Mean Difference**|**Std. Error Difference**|**Lower**|**Upper**|
 |Variable: \_\_\_\_\_\_\_\_\_|Equal variances assumed|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 | |Equal variances not assumed|XXXX|XXX|XXXX|XXXXX|XXXXXX|XXXXX|XXXXX|
 
@@ -116,9 +118,9 @@ Test Value = \_\_\_\_\_\_\_
 
 #### Descriptives
 
-||N|Mean|Std. Deviation|Std. Error|95% Confidence Interval <br>for Mean|
-| :- | :-: | :-: | :-: | :-: | :-: |
-| | | | | |**Lower Bound**|**Upper Bound**|
+||||||95% Confidence Interval <br>for Mean||
+| :- | :-: | :-: | :-: | :-: | :-: | :-: |
+| |**N**|**Mean**|**Std. Deviation**|**Std. Error**|**Lower Bound**|**Upper Bound**|
 |Level 1|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Level 2|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Level 3|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
@@ -140,9 +142,9 @@ Dependent Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Comparison Procedure : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-|(I) IV|(J) IV|Mean Difference|Std. Error|Sig.|95% Confidence Interval||
+|(I)|(J)|(I-J)|||95% Confidence Interval||
 | :- | :- | :-: | :-: | :-: | :-: | :-: |
-|||(I-J)|||**Lower Bound**|**Upper Bound**|
+|**IV**|**IV**|**Mean Difference**|**Std. Error**|**Sig.**|**Lower Bound**|**Upper Bound**|
 |Level 1|Level 2|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
 ||Level 3|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
 |Level 2|Level 1|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
