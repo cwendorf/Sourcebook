@@ -2,7 +2,7 @@
 
 ### ANOVA (Factorial ANOVA)
 
-#### Steps for Obtaining Factorial Inferential Statistics
+#### Obtaining Factorial Inferential Statistics
 
 1. First, enter factorial data
 (described elsewhere). 
@@ -13,7 +13,7 @@ option.
 
 <p align="center"><kbd><img src="image32.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test 
+#### Obtaining the Significance Test 
 
 3. A set of options will then 
 appear for you to choose the 
@@ -40,7 +40,7 @@ documents for printing.
 
 <p align="center"><kbd><img src="image33.png"></kbd></p>
 
-#### Steps for Obtaining Additional Statistics
+#### Obtaining Additional Statistics
 
 7. Choose an effect size
 measure from the "Effect 

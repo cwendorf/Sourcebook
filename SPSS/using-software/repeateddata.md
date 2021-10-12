@@ -1,8 +1,8 @@
 ## SPSS: Using the Software
 
-### Entering Repeated Measures Data 
+### Repeated Measures Data 
 
-#### Steps for Defining All Variables 
+#### Defining All Variables 
 
 1. First, click on the
  "Variable View" tab on the 
@@ -21,7 +21,7 @@
 
 <p align="center"><kbd><img src="image3.png"></kbd></p>
 
-#### Steps for Entering Data
+#### Entering Data
 
 3. Click on the "Data View" tab 
  on the bottom left-hand

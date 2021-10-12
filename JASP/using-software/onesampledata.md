@@ -1,8 +1,8 @@
 ## JASP: Using the Software
 
-### Entering One Sample Data 
+### One Sample Data 
 
-#### Steps for Entering Data on One Variable (Using a Spreadsheet)
+#### Entering Data on One Variable (Using a Spreadsheet)
 
 1. In the first row and first 
 cell, type the name of the 
@@ -24,7 +24,7 @@ sure to save it as a CSV
 
 <p align="center"><kbd><img src="image1.png"></kbd></p>
 
-#### Steps for Entering Data on One Variable (Using a Text Editor)
+#### Entering Data on One Variable (Using a Text Editor)
 
 4. In the first row, type the 
  name of the outcome variable 

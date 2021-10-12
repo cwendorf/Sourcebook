@@ -2,7 +2,7 @@
 
 ### Descriptives (Frequencies and Descriptive Statistics) 
 
-#### Steps for Obtaining Frequency-Related Statistics
+#### Obtaining Frequency-Related Statistics
 
 1. First, load the data file
 previously created 
@@ -17,7 +17,7 @@ option.
 
 <p align="center"><kbd><img src="image9.png"></kbd></p>
 
-#### Steps for Obtaining a Frequency Distribution
+#### Obtaining a Frequency Distribution
 
 3. A set of options will then 
 appear for you to choose 
@@ -43,7 +43,7 @@ of the window.
 
 <p align="center"><kbd><img src="image10.png"></kbd></p>
 
-#### Steps for Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 7. Though some basic summary statistics are displayed
 by default, you can make 

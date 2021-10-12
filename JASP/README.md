@@ -4,10 +4,11 @@
 
 This chapter provides step-by-step instructions on how to obtain basic statistical output using JASP, both visually with screenshots and via written instructions. Simple examples for most undergraduate-level between-subjects and within-subjects research designs are provided.
 
-- [Entering One Sample Data](./using-software/onesampledata.md)
-- [Entering Repeated Measures Data](./using-software/repeateddata.md)
-- [Entering Multiple Sample Data](./using-software/multiplesampledata.md)
-- [Entering Factorial Data](./using-software/factorialdata.md)
+- [One Sample Data](./using-software/onesampledata.md)
+- [Repeated Measures Data](./using-software/repeateddata.md)
+- [Multiple Sample Data](./using-software/multiplesampledata.md)
+- [Factorial Data](./using-software/factorialdata.md)  
+
 - [Descriptives (Frequencies and Descriptive Statistics)](./using-software/descriptives.md)
 - [Correlations (Bivariate)](./using-software/correlations.md)
 - [T Test (Confidence Intervals)](./using-software/intervals.md)

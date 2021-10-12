@@ -1,8 +1,8 @@
 ## jamovi: Using the Software
 
-### Entering Factorial Data 
+### Factorial Data 
 
-#### Steps for Defining Variables
+#### Defining Variables
 
 1. First, click on the "Data" 
 tab on the top of the
@@ -20,7 +20,7 @@ options.
 
 <p align="center"><kbd><img src="image6.png"></kbd></p>
 
-#### Steps for Setting Variable Properties
+#### Setting Variable Properties
 
 3. You will need to define
 multiple variables. Two
@@ -46,7 +46,7 @@ name.
 
 <p align="center"><kbd><img src="image9.png"></kbd></p>
 
-#### Steps for Entering Data
+#### Entering Data
  
 6. Enter the data for all of
 the participants. Notice 

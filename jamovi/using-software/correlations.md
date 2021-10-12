@@ -2,7 +2,7 @@
 
 ### Correlations (Bivariate) 
 
-#### Steps for Obtaining Correlational Statistics 
+#### Obtaining Correlational Statistics 
 
 1. First, enter data involving multiple variables 
 (described elsewhere). 
@@ -13,7 +13,7 @@ Correlation Matrix" option.
 
 <p align="center"><kbd><img src="image14.png"></kbd></p>
 
-#### Steps for Obtaining Correlations (and Significance Tests)
+#### Obtaining Correlations (and Significance Tests)
 
 3. A set of options will then 
 appear for you to choose 

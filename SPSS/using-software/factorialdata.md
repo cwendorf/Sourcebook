@@ -1,8 +1,8 @@
 ## SPSS: Using the Software
 
-### Entering Factorial Data 
+### Factorial Data 
 
-#### Steps for Defining All Variables 
+#### Defining All Variables 
 
 1. First, click on the
  "Variable View" tab on the 
@@ -27,7 +27,7 @@
 
 <p align="center"><kbd><img src="image8.png"></kbd></p>
 
-#### Steps for Providing Labels for All Values
+#### Providing Labels for All Values
 
 4. For categorical variables, 
  you should also provide
@@ -64,7 +64,7 @@
 
 <p align="center"><kbd><img src="image9.png"></kbd></p>
 
-#### Steps for Entering Data
+#### Entering Data
 
  7. Click on the "Data View" tab 
  on the bottom left-hand

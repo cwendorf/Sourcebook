@@ -2,7 +2,7 @@
 
 ### Repeated Measures ANOVA
 
-#### Steps for Obtaining Repeated Measures Inferential Statistics
+#### Obtaining Repeated Measures Inferential Statistics
 
 1. First, enter repeated
 measures data (described 
@@ -14,7 +14,7 @@ Measures ANOVA" option.
 
 <p align="center"><kbd><img src="image28.png"></kbd></p>
 
-#### Steps for Labeling the Within Subjects Variable/Factor
+#### Labeling the Within Subjects Variable/Factor
 
 3. A set of options will then 
 appear for you to choose the 
@@ -47,7 +47,7 @@ the factor.
 
 <p align="center"><kbd><img src="image29.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test
+#### Obtaining the Significance Test
 
 7. In the "Repeated Measures
 Cells" box, you will 
@@ -82,7 +82,7 @@ documents for printing.
 
 <p align="center"><kbd><img src="image30.png"></kbd></p>
 
-#### Steps for Obtaining Additional Statistics
+#### Obtaining Additional Statistics
 
 11. Choose an effect size
 measure from the "Effect 

@@ -2,10 +2,11 @@
 
 This chapter provides step-by-step instructions on how to obtain basic statistical output using SPSS, both visually with screenshots and via written instructions. Simple examples for most undergraduate-level between-subjects and within-subjects research designs are provided.
 
-- [Entering One Sample Data](./onesampledata.md)
-- [Entering Repeated Measures Data](./repeateddata.md)
-- [Entering Multiple Sample Data](./multiplesampledata.md)
-- [Entering Factorial Data](./factorialdata.md)
+- [One Sample Data](./onesampledata.md)
+- [Repeated Measures Data](./repeateddata.md)
+- [Multiple Sample Data](./multiplesampledata.md)
+- [Factorial Data](./factorialdata.md)  
+
 - [Frequencies (Frequencies and Descriptives)](./frequencies.md)
 - [Correlations (Bivariate)](./correlations.md)
 - [Descriptives (Standardized Scores and Transformations)](./standardized.md)

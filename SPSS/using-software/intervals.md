@@ -2,7 +2,7 @@
 
 ### Explore (Descriptives and Confidence Intervals) 
 
-#### Steps for Obtaining Exploratory-Related Statistics 
+#### Obtaining Exploratory-Related Statistics 
 
  1. First, enter the data
  (described elsewhere). 
@@ -15,7 +15,7 @@
 
 <p align="center"><kbd><img src="image21.png"></kbd></p>
 
-### Steps for Obtaining the Exploratory Statistics
+### Obtaining the Exploratory Statistics
 
 3. A dialogue box will then 
  appear for you to choose the 
@@ -41,7 +41,7 @@
 
 <p align="center"><kbd><img src="image22.png"></kbd></p>
 
-#### Steps for Altering the Confidence Interval
+#### Altering the Confidence Interval
 
 7. If you wish to alter the 
  width of the confidence
@@ -63,7 +63,7 @@
 
 <p align="center"><kbd><img src="image23.png"></kbd></p>
 
-#### Steps for Obtaining a Graph of the Confidence Intervals 
+#### Obtaining a Graph of the Confidence Intervals 
 
 10 .First, enter the data
  (described elsewhere). 
@@ -75,7 +75,7 @@
 
 <p align="center"><kbd><img src="image24.png"></kbd></p>
 
-#### Steps for Choosing the Graph Layout
+#### Choosing the Graph Layout
 
  12. A dialogue box will then 
  appear for you to choose the 
@@ -95,7 +95,7 @@
 
 <p align="center"><kbd><img src="image25.png"></kbd></p>
 
-#### Steps for Obtaining the Confidence Interval Graph
+#### Obtaining the Confidence Interval Graph
 
  16. A dialogue box will then 
  appear for you to choose 

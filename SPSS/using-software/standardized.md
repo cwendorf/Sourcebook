@@ -2,7 +2,7 @@
 
 ### Descriptives (Standardized Scores and Transformations) 
 
-#### Steps for Obtaining Descriptive-Related Statistics 
+#### Obtaining Descriptive-Related Statistics 
 
 1. First, enter the data
  (described elsewhere). 
@@ -15,7 +15,7 @@
 
 <p align="center"><kbd><img src="image15.png"></kbd></p>
 
-#### Steps for Obtaining Standardized (z) Scores 
+#### Obtaining Standardized (z) Scores 
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -44,7 +44,7 @@
 
 <p align="center"><kbd><img src="image16.png"></kbd></p>
 
-#### Steps for Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 7. To obtain summary
  statistics, select 
@@ -65,7 +65,7 @@
 
 <p align="center"><kbd><img src="image17.png"></kbd></p>
 
-#### Steps for Viewing the Standardized Scores  
+#### Viewing the Standardized Scores  
 
 10. After clicking on "OK" in
  the original dialogue box, 
@@ -84,7 +84,7 @@
 
 <p align="center"><kbd><img src="image18.png"></kbd></p>
 
-### Steps for Obtaining the Compute Menu
+### Obtaining the Compute Menu
 
 12. In addition to (or instead 
  of) calculating
@@ -101,7 +101,7 @@
 
 <p align="center"><kbd><img src="image19.png"></kbd></p>
 
-### Steps for Calculating Other Transformations 
+### Calculating Other Transformations 
 
  14. A dialogue box will then 
  appear for you to choose 

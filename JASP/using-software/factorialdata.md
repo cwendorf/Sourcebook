@@ -1,8 +1,8 @@
 ## JASP: Using the Software
 
-### Entering Factorial Data 
+### Factorial Data 
 
-#### Steps for Entering Data (Using a Spreadsheet)
+#### Entering Data (Using a Spreadsheet)
 
 1. In the first row, type the 
  names of the variables you 
@@ -32,7 +32,7 @@
 
 <p align="center"><kbd><img src="image7.png"></kbd></p>
 
-#### Steps for Entering Data (Using a Text Editor)
+#### Entering Data (Using a Text Editor)
 
 5. In the first row, type the 
  names of the variables you 

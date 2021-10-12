@@ -2,7 +2,7 @@
 
 ### T Test (Independent Samples) 
 
-#### Steps for Obtaining Two-Sample Inferential Statistics
+#### Obtaining Two-Sample Inferential Statistics
 
 1. First, load the two sample 
  data file that you 
@@ -17,7 +17,7 @@
 
 <p align="center"><kbd><img src="image20.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test
+#### Obtaining the Significance Test
 
 3. A set of options will then 
  appear for you to choose the 
@@ -41,7 +41,7 @@
 
 <p align="center"><kbd><img src="image21.png"></kbd></p>
 
-#### Steps for Obtaining Additional Statistics
+#### Obtaining Additional Statistics
 
 7. Select the options that are
  important for you: "Location 

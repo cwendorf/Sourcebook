@@ -4,10 +4,11 @@
 
 This chapter provides step-by-step instructions on how to obtain basic statistical output using jamovi, both visually with screenshots and via written instructions. Simple examples for most undergraduate level between-subjects and within-subjects research designs are provided.
 
-- [Entering One Sample Data](./using-software/onesampledata.md)  
-- [Entering Repeated Measures Data](./using-software/repeateddata.md)
-- [Entering Multiple Sample Data](./using-software/multiplesampledata.md)
-- [Entering Factorial Data](./using-software/factorialdata.md)
+- [One Sample Data](./using-software/onesampledata.md)  
+- [Repeated Measures Data](./using-software/repeateddata.md)
+- [Multiple Sample Data](./using-software/multiplesampledata.md)
+- [Factorial Data](./using-software/factorialdata.md)  
+
 - [Descriptives (Frequencies and Descriptives)](./using-software/descriptives.md)
 - [Compute (Transformations and Standardized Scores)](./using-software/standardized.md)
 - [Correlations (Bivariate)](./using-software/correlations.md)

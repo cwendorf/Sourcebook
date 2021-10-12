@@ -2,7 +2,7 @@
 
 ### ANOVA (OneWay ANOVA)
 
-#### Steps for Obtaining Multiple Sample Inferential  Statistics
+#### Obtaining Multiple Sample Inferential  Statistics
 
 1. First, enter multiple group
 data (described elsewhere).
@@ -13,7 +13,7 @@ option.
 
 <p align="center"><kbd><img src="image25.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test
+#### Obtaining the Significance Test
 
 3. A set of options will then 
 appear for you to choose the 
@@ -37,7 +37,7 @@ documents for printing.
 
 <p align="center"><kbd><img src="image26.png"></kbd></p>
 
-#### Steps for Obtaining Additional Statistics
+#### Obtaining Additional Statistics
 
 7. Choose an effect size
 measure from the "Effect 

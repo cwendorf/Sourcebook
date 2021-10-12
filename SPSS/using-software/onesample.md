@@ -2,7 +2,7 @@
 
 ### T Test (One Sample) 
 
-#### Steps for Obtaining One-Sample Inferential Statistics
+#### Obtaining One-Sample Inferential Statistics
 
  1. First, enter the data
  (described elsewhere). 
@@ -15,7 +15,7 @@
 
 <p align="center"><kbd><img src="image30.png"></kbd></p>
 
-### Steps for Obtaining the Significance Test 
+### Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose the 
@@ -42,7 +42,7 @@
 
 <p align="center"><kbd><img src="image31.png"></kbd></p>
 
-### Steps for Altering the Confidence Interval
+### Altering the Confidence Interval
 
 7. If you wish to alter the 
  width of the confidence

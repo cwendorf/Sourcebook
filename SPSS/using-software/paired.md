@@ -2,7 +2,7 @@
 
 ### T Test (Paired Samples) 
 
-#### Steps for Obtaining Paired-Sample Statistics
+#### Obtaining Paired-Sample Statistics
 
 1. First, enter the data
  (described elsewhere). 
@@ -15,7 +15,7 @@
 
 <p align="center"><kbd><img src="image33.png"></kbd></p>
 
-### Steps for Obtaining the Significance Test 
+### Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -39,7 +39,7 @@
 
 <p align="center"><kbd><img src="image34.png"></kbd></p>
 
-#### Steps for Altering the Confidence Interval 
+#### Altering the Confidence Interval 
  
 5. If you wish to alter the 
  width of the confidence

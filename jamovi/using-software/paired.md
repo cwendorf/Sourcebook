@@ -2,7 +2,7 @@
 
 ### T Test (Paired Samples) 
 
-#### Steps for Obtaining Paired Sample Inferential Statistics
+#### Obtaining Paired Sample Inferential Statistics
 
 1. First, enter paired samples
 or repeated measures data
@@ -15,7 +15,7 @@ option.
 
 <p align="center"><kbd><img src="image19.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test
+#### Obtaining the Significance Test
 
 3. A set of options will then 
 appear for you to choose 
@@ -40,7 +40,7 @@ printing.
 
 <p align="center"><kbd><img src="image20.png"></kbd></p>
 
-#### Steps for Obtaining Additional Statistics 
+#### Obtaining Additional Statistics 
 
 6. If you wish to view (and 
 alter) the width of the

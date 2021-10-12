@@ -41,7 +41,7 @@ The table of inferential statistics shows the key elements to be calculated.
 | Within  |   54.000 |     9 |    6.000 |
 | Total   |  110.000 |    11 |          | 
 
-#### Formulas and Calculations
+#### Calculations
 
 Within Groups Statistics: Within-groups error statistics are a function of the within group variabilities.
 
@@ -82,7 +82,7 @@ Effect Size: The Eta-Squared statistic is a ratio of the between group and the t
 > \\[ \eta^2 = \frac{SS_{BETWEEN}}{( SS_{BETWEEN} + SS_{WITHIN} )} = \frac{56.000}{( 56.000 + 54.000 )} = .509 \\]
 > Thus, 50.9% of the variability among all of the scores in the study is accounted for by group membership.
 
-#### Summarizing in APA Style
+#### APA Style Summary
 
 The ANOVA provides an omnibus test of the differences across multiple groups. Because the ANOVA tests the overall differences among the groups, the text discusses the differences in general. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the effect size. Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
 

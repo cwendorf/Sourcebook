@@ -2,7 +2,7 @@
 
 ### T Test (Independent Samples) 
 
-#### Steps for Obtaining Two-Sample Inferential Statistics
+#### Obtaining Two-Sample Inferential Statistics
 
 1. First, enter the data
  (described elsewhere). 
@@ -16,7 +16,7 @@
 
 <p align="center"><kbd><img src="image36.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test 
+#### Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -41,7 +41,7 @@
 
 <p align="center"><kbd><img src="image37.png"></kbd></p>
 
-#### Steps for Defining the Groups to be Analyzed
+#### Defining the Groups to be Analyzed
 
 6. In order to tell SPSS which
  two groups you wish to 
@@ -75,7 +75,7 @@
 
 <p align="center"><kbd><img src="image38.png"></kbd></p>
 
-#### Steps for Altering the Confidence Interval
+#### Altering the Confidence Interval
 
 10. If you wish to alter the 
  width of the confidence

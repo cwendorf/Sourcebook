@@ -37,7 +37,7 @@ The table of inferential statistics shows the key elements to be calculated.
 |          | SS and SCP  |    9.000 |   18.000 |
 |          | COV         |    3.000 |    6.000 |
 
-#### Formulas and Calculations
+#### Calculations
 
 Sum of Cross Products: The Sum of Cross Products (SCP) is not easily determined solely from the summary statistics of the output, but rather from the data.
 
@@ -51,7 +51,7 @@ Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a functi
 
 > \\[ r = \frac{COV}{(SD_X) (SD_Y)} = \frac{3.000}{(2.449) (2.449)} = .500 \\]
 
-#### Summarizing in APA Style
+#### APA Style Summary
 
 Correlations provide a measure of statistical relationship between two variables. Note that correlations can also have inferential information associated with them (and that this information should be summarized if it is available and of interest).
 

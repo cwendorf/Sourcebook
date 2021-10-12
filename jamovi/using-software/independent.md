@@ -2,7 +2,7 @@
 
 ### T Test (Independent Samples) 
 
-#### Steps for Obtaining Two Sample Inferential Statistics
+#### Obtaining Two Sample Inferential Statistics
 
 1. First, enter two sample data 
 (described elsewhere). 
@@ -14,7 +14,7 @@ option.
 
 <p align="center"><kbd><img src="image22.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test
+#### Obtaining the Significance Test
 
 3. A set of options will then 
 appear for you to choose the 
@@ -38,7 +38,7 @@ documents for printing.
 
 <p align="center"><kbd><img src="image23.png"></kbd></p>
 
- #### Steps for Obtaining Additional Statistics
+ #### Obtaining Additional Statistics
 
 7. If you wish to view (and 
 alter) the width of the

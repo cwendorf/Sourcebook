@@ -2,7 +2,7 @@
 
 ### Compute (Transformations and Standardized Scores)
 
-#### Steps for Obtaining the Compute Menu
+#### Obtaining the Compute Menu
 
 1. First, enter the data (described elsewhere).
 
@@ -12,7 +12,7 @@
 
 <p align="center"><kbd><img src="compute1.png"></kbd></p>
 
-#### Steps for Computing Transformations
+#### Computing Transformations
 
 4. Type in the new you wish to give the new variable (here it is “trOutcome).
 
@@ -26,7 +26,7 @@
 
 <p align="center"><kbd><img src="compute2.png"></kbd></p>
 
-#### Steps for Viewing the Transformed Scores
+#### Viewing the Transformed Scores
 
 9. Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
 
@@ -34,7 +34,7 @@
 
 <p align="center"><kbd><img src="compute3.png"></kbd></p>
 
-#### Steps for Obtaining Standardized Scores
+#### Obtaining Standardized Scores
 
 11.	In addition, you can obtain standardized scores. First, enter the data (described elsewhere).
 
@@ -44,7 +44,7 @@
 
 <p align="center"><kbd><img src="compute4.png"></kbd></p>
 
-#### Steps for Computing Standardized Scores
+#### Computing Standardized Scores
 
 14.	Type in the new you wish to give the new variable (here it is “zOutcome).
 
@@ -58,7 +58,7 @@
 
 <p align="center"><kbd><img src="compute5.png"></kbd></p>
 
-#### Steps for Viewing the Standardized Scores
+#### Viewing the Standardized Scores
 
 19.	Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
 

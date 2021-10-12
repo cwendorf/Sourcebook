@@ -33,7 +33,7 @@ The table of inferential statistics shows the key elements to be calculated.
 |:--------|----------:|------:|------:|----------------:|--------------:|---------:|---------:|----------:|
 | Outcome |	   -3.266 | 3.000 | 0.047 |          -4.000 |         1.225 |   -7.898 |   -0.102 |    -1.633 |
 
-#### Formulas and Calculations
+#### Calculations
 
 For the Paired Samples t test, the focus is on the change variable. As a result, it is the only variable that is used in the calculations below.
 
@@ -58,7 +58,7 @@ Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the
 > \\[ d = \frac{M_{DIFF}}{SD} = \frac{-4.000}{2.449} = -1.633 \\]
 > Given Cohen's heuristics for interpreting effect sizes, this would be considered an extremely large effect.
 
-#### Summarizing in APA Style
+#### APA Style Summary
 
 For this analysis, the differences between two measurements on one set of people are being compared. Thus, the summary and the inferential statistics focus on that difference. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the confidence interval and effect size. Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
 

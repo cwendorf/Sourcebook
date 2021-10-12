@@ -2,7 +2,7 @@
 
 ### Frequencies (Frequencies and Descriptives) 
 
-#### Steps for Obtaining Frequency-Related Statistics
+#### Obtaining Frequency-Related Statistics
 
 1. First, enter the data
  (described elsewhere). 
@@ -15,7 +15,7 @@
 
 <p align="center"><kbd><img src="image11.png"></kbd></p>
 
-#### Steps for Obtaining a Frequency Distribution
+#### Obtaining a Frequency Distribution
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -42,7 +42,7 @@
 
 <p align="center"><kbd><img src="image12.png"></kbd></p>
 
-#### Steps for Obtaining Summary Statistics 
+#### Obtaining Summary Statistics 
  
 7. To obtain summary
  statistics, select 
@@ -63,7 +63,7 @@
 
 <p align="center"><kbd><img src="image13.png"></kbd></p>
 
-#### Steps for Obtaining a Histogram 
+#### Obtaining a Histogram 
 
 10. To obtain a histogram, click 
  on the "Charts" button.

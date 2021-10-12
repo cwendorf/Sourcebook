@@ -2,7 +2,7 @@
 
 ### ANOVA (OneWay ANOVA) 
 
-#### Steps for Obtaining Multiple-Sample Inferential Statistics
+#### Obtaining Multiple-Sample Inferential Statistics
 
 1. First, load the two sample 
  data file that you 
@@ -16,7 +16,7 @@
 
 <p align="center"><kbd><img src="image23.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test
+#### Obtaining the Significance Test
 
 3. A set of options will then 
  appear for you to choose the 
@@ -40,7 +40,7 @@
 
 <p align="center"><kbd><img src="image24.png"></kbd></p>
 
-#### Steps for Obtaining Additional Statistics
+#### Obtaining Additional Statistics
 
 7. Though some basic summary
  statistics are displayed by
@@ -73,7 +73,7 @@
 
 <p align="center"><kbd><img src="image25.png"></kbd></p>
 
-#### Steps for Obtaining Post Hoc Tests
+#### Obtaining Post Hoc Tests
 
 11. If you wish to obtain post 
  hoc tests for the purpose of 

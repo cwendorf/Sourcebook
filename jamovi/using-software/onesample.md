@@ -2,7 +2,7 @@
 
 ### T Test (One Sample) 
 
-#### Steps for Obtaining One Sample Inferential Statistics
+#### Obtaining One Sample Inferential Statistics
 
 1. First, enter the data
 (described elsewhere). 
@@ -13,7 +13,7 @@ Sample T-Test" option.
 
 <p align="center"><kbd><img src="image16.png"></kbd></p>
 
-#### Steps for Obtaining Significance Tests
+#### Obtaining Significance Tests
 
 3. A set of options will then 
 appear for you to choose 
@@ -36,7 +36,7 @@ printing.
 
 <p align="center"><kbd><img src="image17.png"></kbd></p>
 
-#### Steps for Obtaining Additional Statistics
+#### Obtaining Additional Statistics
 
 6. Be sure to enter a known or
 hypothesized mean into the 

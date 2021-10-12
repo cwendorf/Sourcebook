@@ -39,7 +39,7 @@ The following table of descriptive statistics show some of the key elements to b
 |:--------|----:|------:|---------------:|
 | Outcome | 8   | 4.000 | 3.117          |
 
-#### Formulas and Calculations
+#### Calculations
 
 Standardized (z) Score: A standardized score is a deviation score divided by the standard deviation. For the first score in the distribution:
 
@@ -88,6 +88,6 @@ standard deviation.
 
 > \\[ SD = \sqrt{MS} = \sqrt{1.000} = 1.000 \\]
 
-#### Summarizing in APA Style
+#### APA Style Summary
 
 Standardized scores are typically NOT presented in the summary of the data. Rather, they are often a first step in the calculations. As such, APA style is not presented here.

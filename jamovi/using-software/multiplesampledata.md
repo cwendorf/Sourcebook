@@ -1,8 +1,8 @@
 ## jamovi: Using the Software
 
-### Entering Multiple Sample Data 
+### Multiple Sample Data 
 
-#### Steps for Defining Variables
+#### Defining Variables
 
 1. First, click on the "Data" tab on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
 
@@ -10,7 +10,7 @@
 
 <p align="center"><kbd><img src="image6.png"></kbd></p>
 
-#### Steps for Setting Variable Properties
+#### Setting Variable Properties
 
 3. You will need to define multiple variables. One variable will represent the Factor (Independent Variable) and the other will represent the Outcome (Dependent) Variable.
 
@@ -31,7 +31,7 @@ name.
 
 <p align="center"><kbd><img src="image7.png"></kbd></p>
 
-#### Steps for Entering Data
+#### Entering Data
 
 6. Enter the data for all of
 the participants. Notice 

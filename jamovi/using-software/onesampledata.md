@@ -1,8 +1,8 @@
 ## jamovi: Using the Software
 
-### Entering One Sample Data
+### One Sample Data
 
-#### Steps for Defining Variables
+#### Defining Variables
 
 1. First, click on the "Data" tab on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
 
@@ -10,7 +10,7 @@
 
 <p align="center"><kbd><img src="image1.png"></kbd></p>
 
-#### Steps for Setting Variable Properties
+#### Setting Variable Properties
 
 3. Type in the name of the variable in the top box (previously labeled "A").
 
@@ -20,7 +20,7 @@
 
 <p align="center"><kbd><img src="image2.png"></kbd></p>
 
-#### Steps for Entering Data
+#### Entering Data
 
 6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
 

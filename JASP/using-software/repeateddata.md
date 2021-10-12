@@ -1,8 +1,8 @@
 ## JASP: Using the Software
 
-### Entering Repeated Measures Data 
+### Repeated Measures Data 
 
-#### Steps for Entering Data (Using a Spreadsheet)
+#### Entering Data (Using a Spreadsheet)
 
 1. For repeated measures data,
  the columns represent the
@@ -27,7 +27,7 @@
 
 <p align="center"><kbd><img src="image3.png"></kbd></p>
 
-#### Steps for Entering Data (Using a Text Editor)
+#### Entering Data (Using a Text Editor)
 
 4. For repeated measures data,
  the columns represent the

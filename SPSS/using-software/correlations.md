@@ -2,7 +2,7 @@
 
 ### Correlations (Bivariate) 
 
-#### Steps for Obtaining Correlational Statistics
+#### Obtaining Correlational Statistics
 
 1. First, enter data involving
  multiple variables. This 
@@ -15,7 +15,7 @@
 
 <p align="center"><kbd><img src="image27.png"></kbd></p>
 
-#### Steps for Obtaining the Correlations (and Significance Tests
+#### Obtaining the Correlations (and Significance Tests)
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -50,7 +50,7 @@
 
 <p align="center"><kbd><img src="image28.png"></kbd></p>
 
-#### Steps for Obtaining Descriptive Statistics
+#### Obtaining Descriptive Statistics
 
 7. If you wish to get the 
  descriptive statistics as
@@ -81,7 +81,7 @@
 
 ### T Test (One Sample) 
 
-#### Steps for Obtaining One-Sample Inferential Statistics
+#### Obtaining One-Sample Inferential Statistics
 
  1. First, enter the data
  (described elsewhere). 
@@ -94,7 +94,7 @@
 
 <p align="center"><kbd><img src="image30.png"></kbd></p>
 
-### Steps for Obtaining the Significance Test 
+### Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose the 
@@ -121,7 +121,7 @@
 
 <p align="center"><kbd><img src="image31.png"></kbd></p>
 
-### Steps for Altering the Confidence Interval
+### Altering the Confidence Interval
 
 7. If you wish to alter the 
  width of the confidence
@@ -147,7 +147,7 @@
 
 ### T Test (Paired Samples) 
 
-#### Steps for Obtaining Paired-Sample Statistics
+#### Obtaining Paired-Sample Statistics
 
 1. First, enter the data
  (described elsewhere). 
@@ -160,7 +160,7 @@
 
 <p align="center"><kbd><img src="image33.png"></kbd></p>
 
-### Steps for Obtaining the Significance Test 
+### Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -184,7 +184,7 @@
 
 <p align="center"><kbd><img src="image34.png"></kbd></p>
 
-#### Steps for Altering the Confidence Interval 
+#### Altering the Confidence Interval 
  
 5. If you wish to alter the 
  width of the confidence
@@ -210,7 +210,7 @@
 
 ### T Test (Independent Samples) 
 
-#### Steps for Obtaining Two-Sample Inferential Statistics
+#### Obtaining Two-Sample Inferential Statistics
 
 1. First, enter the data
  (described elsewhere). 
@@ -224,7 +224,7 @@
 
 <p align="center"><kbd><img src="image36.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test 
+#### Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -249,7 +249,7 @@
 
 <p align="center"><kbd><img src="image37.png"></kbd></p>
 
-#### Steps for Defining the Groups to be Analyzed
+#### Defining the Groups to be Analyzed
 
 6. In order to tell SPSS which
  two groups you wish to 
@@ -283,7 +283,7 @@
 
 <p align="center"><kbd><img src="image38.png"></kbd></p>
 
-#### Steps for Altering the Confidence Interval
+#### Altering the Confidence Interval
 
 10. If you wish to alter the 
  width of the confidence
@@ -309,7 +309,7 @@
 
 ### One-Way (OneWay ANOVA) 
 
-#### Steps for Obtaining Multiple-Sample Inferential Statistics
+#### Obtaining Multiple-Sample Inferential Statistics
 
 1. First, enter the data. This
  is done in the same manner 
@@ -326,7 +326,7 @@
 
 <p align="center"><kbd><img src="image40.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test
+#### Obtaining the Significance Test
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -358,7 +358,7 @@
 
 <p align="center"><kbd><img src="image41.png"></kbd></p>
 
-#### Steps for Obtaining Descriptive Statistics
+#### Obtaining Descriptive Statistics
 
  7. If you wish to get the 
  means, standard
@@ -390,7 +390,7 @@
 
 ### Post Hoc Tests (OneWay ANOVA) 
 
-#### Steps for Obtaining Multiple-Sample Inferential Statistics
+#### Obtaining Multiple-Sample Inferential Statistics
 
 1. First, enter the data. This
  is done in the same manner 
@@ -406,7 +406,7 @@
 
 <p align="center"><kbd><img src="image40.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test 
+#### Obtaining the Significance Test 
  
 3. A dialogue box will then 
  appear for you to choose the 
@@ -436,7 +436,7 @@
 
 <p align="center"><kbd><img src="image41.png"></kbd></p>
 
-#### Steps for Obtaining Descriptive Statistics
+#### Obtaining Descriptive Statistics
 
 7. If you wish to get the 
  means, standard deviations,
@@ -462,7 +462,7 @@
 
 <p align="center"><kbd><img src="image42.png"></kbd></p>
 
-#### Steps for Obtaining Post Hoc Tests
+#### Obtaining Post Hoc Tests
 
 10. If you wish to obtain post 
  hoc tests for the purpose of 
@@ -489,7 +489,7 @@
 
 ### General Linear Model (Repeated Measures ANOVA) 
 
-#### Steps for Obtaining Repeated Measures Inferential Statistics
+#### Obtaining Repeated Measures Inferential Statistics
 
 1. First, enter the repeated
  measures data. This is 
@@ -503,7 +503,7 @@
 
 <p align="center"><kbd><img src="image44.png"></kbd></p>
 
-#### Steps for Labeling the Within-Subjects Variable/Factor 
+#### Labeling the Within-Subjects Variable/Factor 
 
 3. A dialogue box will then 
  appear for you to create 
@@ -537,7 +537,7 @@
 
 <p align="center"><kbd><img src="image45.png"></kbd></p>
 
-#### Steps for Creating the Within-Subjects Factor
+#### Creating the Within-Subjects Factor
 
 6. It is then important that
  you finalize the creation
@@ -562,7 +562,7 @@
 
 <p align="center"><kbd><img src="image46.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test
+#### Obtaining the Significance Test
 
 9. A dialogue box will then 
  appear for you to define 
@@ -592,7 +592,7 @@
 
 <p align="center"><kbd><img src="image47.png"></kbd></p>
 
-#### Steps for Obtaining Descriptive Statistics
+#### Obtaining Descriptive Statistics
 
  12. If you wish to get the 
  means, standard
@@ -620,7 +620,7 @@
 
 <p align="center"><kbd><img src="image48.png"></kbd></p>
 
-### Steps for Obtaining Confidence Intervals
+### Obtaining Confidence Intervals
 
  15. If you wish to get the 
  confidence intervals for 
@@ -649,7 +649,7 @@
 
 ### Univariate Analysis of Variance (Factorial ANOVA) 
 
-#### Steps for Obtaining Factorial Inferential Statistics
+#### Obtaining Factorial Inferential Statistics
 
 1. First, enter the data
  (described elsewhere). 
@@ -662,7 +662,7 @@
 
 <p align="center"><kbd><img src="image50.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test 
+#### Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -696,7 +696,7 @@
 
 <p align="center"><kbd><img src="image51.png"></kbd></p>
 
-#### Steps for Obtaining Descriptive Statistics
+#### Obtaining Descriptive Statistics
 
 7. If you wish to get the means 
  and standard deviations
@@ -728,7 +728,7 @@
 
 <p align="center"><kbd><img src="image52.png"></kbd></p>
 
-#### Steps for Obtaining Confidence Intervals
+#### Obtaining Confidence Intervals
 
 12.If you wish to get the 
  confidence intervals for 

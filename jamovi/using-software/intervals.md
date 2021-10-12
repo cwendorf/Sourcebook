@@ -2,7 +2,7 @@
 
 ### T Test (Confidence Intervals) 
 
-#### Steps for Obtaining One Sample Inferential Statistics
+#### Obtaining One Sample Inferential Statistics
 
 1. First, enter the data (described elsewhere). 
 
@@ -10,7 +10,7 @@
 
 <p align="center"><kbd><img src="confint1.png"></kbd></p>
 
-#### Steps for Choosing the Variable
+#### Choosing the Variable
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -20,7 +20,7 @@
 
 <p align="center"><kbd><img src="confint2.png"></kbd></p>
 
-#### Steps for Obtaining the Statistics
+#### Obtaining the Statistics
 
 6. To get the confidence interval for the mean, make sure the “Test Value” is set to zero.
 

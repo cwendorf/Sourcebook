@@ -2,7 +2,7 @@
 
 ### General Linear Model (Repeated Measures ANOVA) 
 
-#### Steps for Obtaining Repeated Measures Inferential Statistics
+#### Obtaining Repeated Measures Inferential Statistics
 
 1. First, enter the repeated
  measures data. This is 
@@ -16,7 +16,7 @@
 
 <p align="center"><kbd><img src="image44.png"></kbd></p>
 
-#### Steps for Labeling the Within-Subjects Variable/Factor 
+#### Labeling the Within-Subjects Variable/Factor 
 
 3. A dialogue box will then 
  appear for you to create 
@@ -50,7 +50,7 @@
 
 <p align="center"><kbd><img src="image45.png"></kbd></p>
 
-#### Steps for Creating the Within-Subjects Factor
+#### Creating the Within-Subjects Factor
 
 6. It is then important that
  you finalize the creation
@@ -75,7 +75,7 @@
 
 <p align="center"><kbd><img src="image46.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test
+#### Obtaining the Significance Test
 
 9. A dialogue box will then 
  appear for you to define 
@@ -105,7 +105,7 @@
 
 <p align="center"><kbd><img src="image47.png"></kbd></p>
 
-#### Steps for Obtaining Descriptive Statistics
+#### Obtaining Descriptive Statistics
 
  12. If you wish to get the 
  means, standard
@@ -133,7 +133,7 @@
 
 <p align="center"><kbd><img src="image48.png"></kbd></p>
 
-### Steps for Obtaining Confidence Intervals
+### Obtaining Confidence Intervals
 
  15. If you wish to get the 
  confidence intervals for 

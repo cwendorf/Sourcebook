@@ -2,7 +2,7 @@
 
 ### Univariate Analysis of Variance (Factorial ANOVA) 
 
-#### Steps for Obtaining Factorial Inferential Statistics
+#### Obtaining Factorial Inferential Statistics
 
 1. First, enter the data
  (described elsewhere). 
@@ -15,7 +15,7 @@
 
 <p align="center"><kbd><img src="image50.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test 
+#### Obtaining the Significance Test 
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -49,7 +49,7 @@
 
 <p align="center"><kbd><img src="image51.png"></kbd></p>
 
-#### Steps for Obtaining Descriptive Statistics
+#### Obtaining Descriptive Statistics
 
 7. If you wish to get the means 
  and standard deviations
@@ -81,7 +81,7 @@
 
 <p align="center"><kbd><img src="image52.png"></kbd></p>
 
-#### Steps for Obtaining Confidence Intervals
+#### Obtaining Confidence Intervals
 
 12.If you wish to get the 
  confidence intervals for 

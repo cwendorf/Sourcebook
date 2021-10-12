@@ -34,7 +34,7 @@ The table of inferential statistics shows the key elements to be calculated.
 |:--------|----------:|------:|------:|----------------:|--------------:|---------:|---------:|----------:|
 | Outcome |	   -2.309 | 6.000 | 0.060 |          -4.000 |         1.732 |   -8.238 |    0.238 |    -1.633 |
 
-#### Formulas and Calculations
+#### Calculations
 
 Mean Difference (Raw Effect): The mean difference is the difference between the two sample means (raw effect).
 
@@ -75,7 +75,7 @@ Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the
 > \\[ d = \frac{M_{DIFF}}{SD_{WITHIN}} = \frac{-4.000}{2.449} = -1.630 \\]
 > Given Cohen's heuristics for interpreting effect sizes, this would be considered an extremely large effect.
 
-#### Summarizing in APA Style
+#### APA Style Summary
 
 For this analysis, the emphasis is on comparing the means from two groups. Here again the summary and the inferential statistics focus on the difference. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the confidence interval and effect size. Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
 

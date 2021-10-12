@@ -2,7 +2,7 @@
 
 ### One-Way (OneWay ANOVA) 
 
-#### Steps for Obtaining Multiple-Sample Inferential Statistics
+#### Obtaining Multiple-Sample Inferential Statistics
 
 1. First, enter the data. This
  is done in the same manner 
@@ -19,7 +19,7 @@
 
 <p align="center"><kbd><img src="image40.png"></kbd></p>
 
-#### Steps for Obtaining the Significance Test
+#### Obtaining the Significance Test
 
 3. A dialogue box will then 
  appear for you to choose 
@@ -51,7 +51,7 @@
 
 <p align="center"><kbd><img src="image41.png"></kbd></p>
 
-#### Steps for Obtaining Descriptive Statistics
+#### Obtaining Descriptive Statistics
 
  7. If you wish to get the 
  means, standard

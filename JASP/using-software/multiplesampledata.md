@@ -1,8 +1,8 @@
 ## JASP: Using the Software
 
-### Entering Multiple Sample Data 
+### Multiple Sample Data 
 
-#### Steps for Entering Data (Using a Spreadsheet)
+#### Entering Data (Using a Spreadsheet)
 
 1. In the first row, type the 
 names of the variables you 
@@ -34,7 +34,7 @@ each additional person.
 
 <p align="center"><kbd><img src="image5.png"></kbd></p>
 
-#### Steps for Entering Data (Using a Text Editor)
+#### Entering Data (Using a Text Editor)
 
 5. In the first row, type the 
  names of the variables you 

@@ -2,7 +2,7 @@
 
 ### Correlations (Bivariate) 
 
-#### Steps for Obtaining Correlational Statistics
+#### Obtaining Correlational Statistics
 
 1. First, load the data file
  containing multiple
@@ -17,7 +17,7 @@
 
 <p align="center"><kbd><img src="image12.png"></kbd></p>
 
-#### Steps for Obtaining the Correlations (and Significance Tests)
+#### Obtaining the Correlations (and Significance Tests)
 
 3. A set of options will then 
  appear for you to choose the 

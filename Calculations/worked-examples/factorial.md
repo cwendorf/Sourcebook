@@ -48,7 +48,7 @@ The table of inferential statistics shows the key elements to be calculated.
 | Within      |   72.000 |    12 |    6.000 |
 | Total       |  128.000 |    15 |
 
-#### Formulas and Calculations
+#### Calculations
 
 Error (Within Groups) Statistics: Within-groups error statistics are a function of the within group variabilities.
 
@@ -131,7 +131,7 @@ Effect Size: The partial eta-squared statistic is a ratio of the between-subject
 
 Confidence Intervals: For Factorial ANOVA, calculate the confidence intervals around (centered on) each mean separately (not shown here).
 
-#### Summarizing in APA Style
+#### APA Style Summary
 
 The Factorial ANOVA provides statistics for the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One Way ANOVA. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the effect size. Typically, the means, standard deviations, and confidence intervals would be presented in a table or figure associated with this text.
 
