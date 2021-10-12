@@ -15,7 +15,7 @@
 |50th percentile|\_\_\_\_\_\_\_\_\_\_|
 |75th percentile|\_\_\_\_\_\_\_\_\_\_|
 
-**Frequencies**
+#### Frequencies
 
 Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -35,7 +35,7 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Correlations (Bivariate)
 
-**Descriptives**
+#### Descriptives
 
 | |Variable:<br>\_\_\_\_\_\_\_\_\_|Variable:<br>\_\_\_\_\_\_\_\_\_|
 | :- | :-: | :-: |
@@ -44,7 +44,7 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 |Mean|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Std. Deviation|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 
-**Correlation Matrix**
+#### Correlation Matrix
 
 | | |Variable:<br>\_\_\_\_\_\_\_\_\_|Variable:<br>\_\_\_\_\_\_\_\_\_|
 | :- | :- | :-: | :-: |
@@ -55,14 +55,14 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### T-Test (Confidence Intervals)
 
-**One-Sample T-Test**
+#### One-Sample T-Test
 
 | ||||MeanDifference|95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: | :-: |
 |` `Variable:|Statistic|df|p||Lower|Upper|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
-**Descriptives**
+#### Descriptives
 
 |` `Variable:|N|Mean|Median|SD|SE|
 | :- | :-: | :-: | :-: | :-: | :-: |
@@ -70,7 +70,7 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### T-Test (One Sample)
 
-**One-Sample T-Test**
+#### One-Sample T-Test
 
 | ||||MeanDifference||95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -78,7 +78,7 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 *Note.* All tests, hypothesis is population mean is different from \_\_\_\_\_\_
 
-**Descriptives**
+#### Descriptives
 
 |` `Variable:|N|Mean|Median|SD|SE|
 | :- | :-: | :-: | :-: | :-: | :-: |
@@ -86,14 +86,14 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### T-Test (Paired Samples)
 
-**Paired Samples T-Test**
+#### Paired Samples T-Test
 
 | ||||MeanDifference|SE<br>Difference||95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |` `Variables:|Statistic|df|p|||Cohen’s d|Lower|Upper|
 |\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
-**Descriptives**
+#### Descriptives
 
 |` `Variable:|N|Mean|Median|SD|SE|
 | :- | :-: | :-: | :-: | :-: | :-: |
@@ -102,14 +102,14 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### T-Test (Independent Samples)
 
-**Independent Samples T-Test**
+#### Independent Samples T-Test
 
 | ||||MeanDifference|SE<br>Difference||95% Confidence Interval|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |` `Variables:|Statistic|df|p|||Cohen’s d|Lower|Upper|
 |\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
-**Group Descriptives**
+#### Group Descriptives
 
 |Variable:|Group|N|Mean|Median|SD|SE|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -118,14 +118,14 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### ANOVA (OneWay ANOVA)
 
-**ANOVA**
+#### ANOVA
 
 ||Sum of Squares|df|Mean Square|F|p|η2|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |Factor: \_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Residuals|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_||||
 
-**Descriptives**
+#### Descriptives
 
 |Factor: \_\_\_\_\_\_\_\_\_|N|Mean|SD|
 | :- | :-: | :-: | :-: |
@@ -135,7 +135,9 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Post Hoc Tests (OneWay ANOVA)
 
-Post Hoc Comparisons - Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+#### Post Hoc Comparisons
+
+Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
 |Comparison|Mean Difference|||||
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -144,7 +146,7 @@ Post Hoc Comparisons - Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ||Level 3|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 |Level 2|Level 3|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 
-**Descriptives **
+#### Descriptives
 
 |Factor: \_\_\_\_\_\_\_\_\_|N|Mean|SD|
 | :- | :-: | :-: | :-: |
@@ -154,22 +156,24 @@ Post Hoc Comparisons - Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Repeated Measures ANOVA
 
-**Within Subjects Effects**
+#### Within Subjects Effects
 
 ||Sum of Squares|df|Mean Square|F|p|Partial η2|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |RM Factor 1|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Residual|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_||||
+
 *Note.* Type 3 Sum of Squares
 
-**Between Subjects Effects**
+#### Between Subjects Effects
 
 ||Sum of Squares|df|Mean Square|F|p|Partial η2|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |Residual|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_||||
+
 *Note.* Type 3 Sum of Squares
 
-**Descriptives**
+#### Descriptives
 
 |Factor: \_\_\_\_\_\_\_\_\_|N|Mean|SD|
 | :- | :-: | :-: | :-: |
@@ -179,7 +183,7 @@ Post Hoc Comparisons - Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### ANOVA (Factorial ANOVA)
 
-**ANOVA** 
+#### ANOVA
 
 ||Sum of Squares|df|Mean Square|F|p|η2|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -188,7 +192,7 @@ Post Hoc Comparisons - Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 |Factor A \* Factor B|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Residual|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_||||
 
-**Descriptives**
+#### Descriptives
 
 |Factor A|Factor B|N|Mean|SD|
 | :-: | :-: | :-: | :-: | :-: |
