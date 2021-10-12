@@ -56,8 +56,8 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### One-Sample T-Test
 
-| |||||95% Confidence Interval||
-| :- | :-: | :-: | :-: | :-: | :-: |
+|||||||95% Confidence Interval||
+| :- | :-: | :-: | :-: | :-: | :-: | :-: |
 |**Variable:**|**Statistic**|**df**|**p**|**Mean Difference**|**Lower**|**Upper**|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
@@ -71,9 +71,9 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### One-Sample T-Test
 
-| ||||||95% Confidence Interval||
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|**Variable:**|**Statistic**|**df**|**p**|**Mean Difference**|**Cohen’s d**|**Lower**|**Upper**|
+|||||||95% Confidence Interval|||
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|**Variable:**|**Statistic**|**df**|**p**|**Mean Difference**|**Lower**|**Upper**|**Cohen’s d**|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 *Note.* All tests, hypothesis is population mean is different from \_\_\_\_\_\_
@@ -88,9 +88,9 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Paired Samples T-Test
 
-| |||||||95% Confidence Interval|
+| ||||||95% Confidence Interval||
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Variables:|Statistic|df|p|Mean Difference|SE Difference|Cohen’s d|Lower|Upper|
+|**Variables:**|**Statistic**|**df**|**p**|**Mean Difference**|**SE Difference**|**Lower**|**Upper**|**Cohen’s d**|
 |\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Descriptives
@@ -104,9 +104,9 @@ Frequencies for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Independent Samples T-Test
 
-| |||||||95% Confidence Interval|
+| ||||||95% Confidence Interval||
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Variables:|Statistic|df|p|Mean Difference|SE Difference|Cohen’s d|Lower|Upper|
+|**Variables:**|**Statistic**|**df**|**p**|**Mean Difference**|**SE Difference**|**Lower**|**Upper**|**Cohen’s d**|
 |\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 #### Group Descriptives
@@ -141,7 +141,7 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 |Comparison|||||||
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Factor: \_\_\_|Factor: \_\_\_|Mean Difference|SE|df|t|p<sub>TUKEY</sub>|
+|**Factor: \_\_\_**|**Factor: \_\_\_**|**Mean Difference**|**SE**|**df**|**t**|**p**<sub>**TUKEY**</sub>|
 |Level 1|Level 2|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 ||Level 3|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 |Level 2|Level 3|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
