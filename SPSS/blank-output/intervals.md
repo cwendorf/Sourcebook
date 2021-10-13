@@ -5,8 +5,8 @@
 #### Case Processing Summary
 
 ||Valid||Missing||Total||
-||N|Percent|N|Percent|N|Percent|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
+||**N**|**Percent**|**N**|**Percent**|**N**|**Percent**|
 |Variable: \_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_|
 
 #### Descriptives
