@@ -38,7 +38,7 @@ documents for printing.
 
 <p align="center"><kbd><img src="image23.png"></kbd></p>
 
- #### Obtaining Additional Statistics
+#### Obtaining Additional Statistics
 
 7. If you wish to view (and 
 alter) the width of the
