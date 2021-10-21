@@ -15,16 +15,18 @@ vignette: >
 
 
 
-## One Sample t Test
+## EASI: Annotated Output
 
-### Entering Data
+### One Sample t Test
+
+#### Entering Data
 
 
 ```r
 Outcome <- c(0,0,3,5,4,7,4,9)
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 
 ```r
@@ -37,7 +39,7 @@ describeMeans(Outcome)
 ## Outcome   8.000   4.000   3.117   0.151  -0.467
 ```
 
-### Obtaining Inferential Statistics
+#### Obtaining Inferential Statistics
 
 
 ```r

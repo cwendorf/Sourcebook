@@ -1,7 +1,9 @@
 
-## Factorial ANOVA
+## EASI: Using the Software
 
-### Entering Data
+### Factorial ANOVA
+
+#### Entering Data
 
 Enter the data in vectors that assign variable names. Notice that each participant has scores on both the Factors and Outcome Variables. There will be as many scores as people. On the categorical Factors, you will use numbers to represent the categories (or “levels”) of the variables.
 
@@ -18,7 +20,7 @@ FactorA <- factor(FactorA,levels=c(1,2),labels=c("A1","A2"))
 FactorB <- factor(FactorB,levels=c(1,2),labels=c("B1","B2"))
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 Get the mean and standard deviation for the dependent variable for each of the levels.
 
@@ -26,7 +28,7 @@ Get the mean and standard deviation for the dependent variable for each of the l
 
 ```
 
-### Obtaining Inferential Statistics
+#### Obtaining Inferential Statistics
 
 ```{r}
 

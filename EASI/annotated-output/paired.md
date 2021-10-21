@@ -15,9 +15,11 @@ vignette: >
 
 
 
-## Paired Samples t Test
+## EASI: Annotated Output
 
-### Entering Data
+### Paired Samples t Test
+
+#### Entering Data
 
 
 ```r
@@ -25,7 +27,7 @@ Outcome1 <- c(0,0,3,5)
 Outcome2 <- c(4,7,4,9)
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 
 ```r
@@ -39,7 +41,7 @@ describeMeans(Outcome1,Outcome2)
 ## Outcome2   4.000   6.000   2.449   0.544  -2.944
 ```
 
-### Obtaining Inferential Statistics
+#### Obtaining Inferential Statistics
 
 
 ```r

@@ -1,7 +1,9 @@
 
-## One Sample t Test
+## EASI: Using the Software
 
-### Entering Data
+### One Sample t Test
+
+#### Entering Data
 
 Enter the data in a vector that assigns a variable name.
 
@@ -9,7 +11,7 @@ Enter the data in a vector that assigns a variable name.
 Outcome <- c(0,0,3,5,4,7,4,9)
 ```
 
-### Viewing the Data
+#### Viewing the Data
 
 Create and display a data frame to view the data set.
 

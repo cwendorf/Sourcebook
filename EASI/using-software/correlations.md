@@ -1,7 +1,9 @@
 
-## Correlations
+## EASI: Using the Software
 
-### Entering Data
+### Correlations
+
+#### Entering Data
 
 Enter the data in vectors that assign variable names.
 
@@ -10,7 +12,7 @@ Outcome1 <- c(0,0,3,5)
 Outcome2 <- c(4,7,4,9)
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 Get the means and standard deviations for the variables.
 
@@ -30,7 +32,7 @@ Get the correlation matrix for the variables.
 describeCorrelations(Outcome1,Outcome2)
 ```
 
-### Obtaining Inferential Statistics
+#### Obtaining Inferential Statistics
 
 Get the correlation and its confidence interval.
 

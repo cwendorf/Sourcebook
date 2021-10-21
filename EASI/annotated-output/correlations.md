@@ -13,11 +13,11 @@ vignette: >
 
 
 
+## EASI: Annotated Output
 
+### Correlations
 
-## Correlations
-
-### Entering Data
+#### Entering Data
 
 
 ```r
@@ -25,7 +25,7 @@ Outcome1 <- c(0,0,3,5)
 Outcome2 <- c(4,7,4,9)
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 
 ```r
@@ -63,7 +63,7 @@ describeCorrelations(Outcome1,Outcome2)
 ## Outcome2    0.500    1.000
 ```
 
-### Obtaining Inferential Statistics
+#### Obtaining Inferential Statistics
 
 
 ```r

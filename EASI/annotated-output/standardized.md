@@ -15,16 +15,18 @@ vignette: >
 
 
 
-## Standardized Scores
+## EASI: Annotated Output
 
-### Entering Data
+### Standardized Scores
+
+#### Entering Data
 
 
 ```r
 Outcome <- c(0,0,3,5,4,7,4,9)
 ```
 
-### Computing Transformations
+#### Computing Transformations
 
 
 ```r
@@ -48,7 +50,7 @@ data.frame(Outcome,trOutcome)
 ## 8       9        10
 ```
 
-### Computing Standardized Scores
+#### Computing Standardized Scores
 
 
 ```r

@@ -15,9 +15,11 @@ vignette: >
 
 
 
-## Factorial ANOVA
+## EASI: Annotated Output
 
-### Entering Data
+### Factorial ANOVA
+
+#### Entering Data
 
 
 ```r
@@ -26,10 +28,10 @@ FactorB <- c(1,1,1,1,2,2,2,2,1,1,1,1,2,2,2,2)
 Outcome <- c(0,0,3,5,4,7,4,9,9,6,4,9,3,6,8,3)
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 
 
-### Obtaining Inferential Statistics
+#### Obtaining Inferential Statistics
 
 

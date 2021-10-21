@@ -15,9 +15,11 @@ vignette: >
 
 
 
-## Post Hoc Tests
+## EASI: Annotated Output
 
-### Entering Data
+### Post Hoc Tests
+
+#### Entering Data
 
 
 ```r
@@ -26,7 +28,7 @@ Outcome <- c(0,0,3,5,4,7,4,9,9,6,4,9)
 Factor <- factor(Factor,levels=c(1,2,3),labels=c("Level1","Level2","Level3"))
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 
 ```r
@@ -41,7 +43,7 @@ describeMeans(Outcome~Factor)
 ## Level3   4.000   7.000   2.449  -0.544  -2.944
 ```
 
-### Obtaining Inferential Statistics
+#### Obtaining Inferential Statistics
 
 
 ```r

@@ -1,7 +1,9 @@
 
-## Paired Samples t Test
+## EASI: Using the Software
 
-### Entering Data
+### Paired Samples t Test
+
+#### Entering Data
 
 Enter the data in vectors that assign variable names.
 
@@ -10,7 +12,7 @@ Outcome1 <- c(0,0,3,5)
 Outcome2 <- c(4,7,4,9)
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 Get the means and standard deviations for the variables.
 
@@ -18,7 +20,7 @@ Get the means and standard deviations for the variables.
 describeMeans(Outcome1,Outcome2)
 ```
 
-### Obtaining Inferential Statistics
+#### Obtaining Inferential Statistics
 
 Get the mean difference and its confidence interval.
 

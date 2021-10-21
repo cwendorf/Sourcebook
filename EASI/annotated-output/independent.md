@@ -15,9 +15,11 @@ vignette: >
 
 
 
-## Independent Samples t Test
+## EASI: Annotated Output
 
-### Entering Data
+### Independent Samples t Test
+
+#### Entering Data
 
 
 ```r
@@ -26,7 +28,7 @@ Outcome <- c(0,0,3,5,4,7,4,9)
 Factor <- factor(Factor,levels=c(1,2),labels=c("Level1","Level2"))
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 
 ```r
@@ -40,7 +42,7 @@ describeMeans(Outcome~Factor)
 ## Level2   4.000   6.000   2.449   0.544  -2.944
 ```
 
-### Obtaining Inferential Statistics
+#### Obtaining Inferential Statistics
 
 
 ```r

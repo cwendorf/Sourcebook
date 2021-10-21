@@ -1,7 +1,9 @@
 
-## One Way ANOVA
+## EASI: Using the Software
 
-### Entering Data
+### One Way ANOVA
+
+#### Entering Data
 
 
 Enter the data in vectors that assign variable names. On the categorical Factor, you will use numbers to represent the categories (or “levels”) of the variable.
@@ -17,7 +19,7 @@ Declare which variable is considered a Factor. In addition to specifying how man
 Factor <- factor(Factor,levels=c(1,2,3),labels=c("Level1","Level2","Level3"))
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 Get the mean and standard deviation of the dependent variable for each of the levels.
 
@@ -25,7 +27,7 @@ Get the mean and standard deviation of the dependent variable for each of the le
 describeMeans(Outcome~Factor)
 ```
 
-### Obtaining Inferential Statistics
+#### Obtaining Inferential Statistics
 
 Get the analysis of variance source table.
 

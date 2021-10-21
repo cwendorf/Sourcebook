@@ -15,16 +15,18 @@ vignette: >
 
 
 
-## Descriptives
+## EASI: Annotated Output
 
-### Entering Data
+### Descriptives
+
+#### Entering Data
 
 
 ```r
 Outcome <- c(0,0,3,5,4,7,4,9)
 ```
 
-###  Obtaining a Frequency Distribution
+####  Obtaining a Frequency Distribution
 
 
 ```r
@@ -42,7 +44,7 @@ describeFrequencies(Outcome)
 ## 9   1.000   0.125   8.000   1.000
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 
 ```r

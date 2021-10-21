@@ -1,7 +1,9 @@
 
-## Post Hoc Tests
+## EASI: Using the Software
 
-### Entering Data
+### Post Hoc Tests
+
+#### Entering Data
 
 Enter the data in vectors that assign variable names. On the categorical Factors, you will use numbers to represent the categories (or “levels”) of the variable.
 
@@ -16,7 +18,7 @@ Declare which variable is considered a Factor. In addition to specifying how man
 Factor <- factor(Factor,levels=c(1,2,3),labels=c("Level1","Level2","Level3"))
 ```
 
-### Obtaining Summary Statistics
+#### Obtaining Summary Statistics
 
 Get the mean and standard deviation for the dependent variable for each of the levels.
 
@@ -24,7 +26,7 @@ Get the mean and standard deviation for the dependent variable for each of the l
 describeMeans(Outcome~Factor)
 ```
 
-### Obtaining Inferential Statistics
+#### Obtaining Inferential Statistics
 
 Get all pairwise mean difference and their confidence intervals.
 

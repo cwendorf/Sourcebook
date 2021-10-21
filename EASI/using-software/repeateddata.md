@@ -1,7 +1,9 @@
 
-## Repeated Measures ANOVA
+## EASI: Using the Software
 
-### Entering Data
+### Repeated Measures ANOVA
+
+#### Entering Data
 
 Enter the data in vectors that assign variable names.
 
@@ -10,7 +12,7 @@ Outcome1 <- c(0,0,3,5)
 Outcome2 <- c(4,7,4,9)
 ```
 
-### Viewing the Data
+#### Viewing the Data
 
 Create and display a data frame to view the data set.
 

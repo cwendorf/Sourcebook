@@ -1,7 +1,9 @@
 
-## Standardized Scores
+## EASI: Using the Software
 
-### Entering Data
+### Standardized Scores
+
+#### Entering Data
 
 Enter the data in a vector that assigns a variable name.
 
@@ -9,7 +11,7 @@ Enter the data in a vector that assigns a variable name.
 Outcome <- c(0,0,3,5,4,7,4,9)
 ```
 
-### Computing Transformations
+#### Computing Transformations
 
 Use a formula to calculate a new vector with the transformed scores. 
 
@@ -23,7 +25,7 @@ Create and display a data frame to view the data set.
 data.frame(Outcome,trOutcome)
 ```
 
-### Computing Standardized Scores
+#### Computing Standardized Scores
 
 Create a new variable vector containing the standardized scores.
 
