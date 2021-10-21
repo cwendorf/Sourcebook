@@ -21,6 +21,8 @@ The Sourcebook contains the following materials:
 - [**SPSS**](./SPSS) - Contains instructions, annotated output, and blank output for SPSS
 - [**jamovi**](./jamovi) - Contains instructions, annotated output, and blank output for jamovi
 - [**JASP**](./JASP) - Contains instructions, annotated output, and blank output for JASP
+- [**EASI**](./EASI) - Contains instructions and annotated output for EASI (an R package)
+
 
 ### Citation
 
