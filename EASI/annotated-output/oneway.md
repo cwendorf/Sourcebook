@@ -54,7 +54,7 @@ describeMeansOmnibus(Outcome~Factor)
 ## $`Source Table for the Factor`
 ##              SS      df      MS
 ## Between  56.000   2.000  28.000
-## Within   53.978   9.000   5.998
+## Within   54.000   9.000   6.000
 ```
 
 
@@ -65,7 +65,7 @@ testMeansOmnibus(Outcome~Factor)
 ```
 ## $`Hypothesis Test for the Factor`
 ##              F     dfb     dfw       p
-## Factor   4.668   2.000   9.000   0.041
+## Factor   4.667   2.000   9.000   0.041
 ```
 
 
@@ -76,5 +76,5 @@ estimateMeansEffect(Outcome~Factor)
 ```
 ## $`Proportion of Variance Accounted For by the Factor`
 ##            Est      LL      UL
-## Factor   0.509   0.016   0.666
+## Factor   0.509   0.016   0.665
 ```

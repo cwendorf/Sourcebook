@@ -51,9 +51,9 @@ describeMeansOmnibus(Outcome1,Outcome2)
 ```
 ## $`Source Table for the Factor`
 ##              SS      df      MS
-## Subject  26.989   3.000   8.996
+## Subject  27.000   3.000   9.000
 ## Factor   32.000   1.000  32.000
-## Error     8.996   3.000   2.999
+## Error     9.000   3.000   3.000
 ```
 
 
@@ -64,7 +64,7 @@ testMeansOmnibus(Outcome1,Outcome2)
 ```
 ## $`Hypothesis Test for the Factor`
 ##              F     dff     dfe       p
-## Factor  10.670   1.000   3.000   0.047
+## Factor  10.667   1.000   3.000   0.047
 ```
 
 
@@ -75,5 +75,5 @@ estimateMeansEffect(Outcome1,Outcome2)
 ```
 ## $`Proportion of Variance Accounted For by the Factor`
 ##            Est      LL      UL
-## Factor   0.781   0.011   0.870
+## Factor   0.780   0.011   0.870
 ```
