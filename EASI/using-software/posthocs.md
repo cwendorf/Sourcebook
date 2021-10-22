@@ -28,16 +28,16 @@ describeMeans(Outcome~Factor)
 
 #### Obtaining Inferential Statistics
 
-Get all pairwise mean difference and their confidence intervals.
+Get all pairwise mean difference and their confidence intervals while adjusting them for multiple comparisons.
 
 ```{r}
-estimateMeansPairwise(Outcome~Factor)
+estimateMeansPairwise(Outcome~Factor,posthoc=TRUE)
 ```
 
-Test all pairwise mean differences for statistical significance.
+Test all pairwise mean differences for statistical significance while adjusting them for multiple comparisons.
 
 ```{r}
-testMeansPairwise(Outcome~Factor)
+testMeansPairwise(Outcome~Factor,posthoc=TRUE)
 ```
 
 Get standardized mean differences for all pairwise comparisons.
