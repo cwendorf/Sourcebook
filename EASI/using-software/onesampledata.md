@@ -1,7 +1,7 @@
 
 ## EASI: Using the Software
 
-### One Sample t Test
+### One Sample Data
 
 #### Entering Data
 

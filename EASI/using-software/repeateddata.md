@@ -1,7 +1,7 @@
 
 ## EASI: Using the Software
 
-### Repeated Measures ANOVA
+### Repeated Measures Data
 
 #### Entering Data
 

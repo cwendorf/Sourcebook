@@ -1,7 +1,7 @@
 
 ## EASI: Using the Software
 
-### Independent Samples t Test
+### Multiple Sample Data
 
 #### Entering Data
 

@@ -2,7 +2,7 @@
 
 ## EASI: Using the Software
 
-### Factorial ANOVA
+### Factorial Data
 
 #### Entering Data
 
