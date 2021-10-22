@@ -21,8 +21,8 @@ describeFrequencies(Outcome)
 
 #### Obtaining Summary Statistics
 
-Get the five number summary for the variable.
+Get the percentiles for the variable.
 
 ```{r}
-describeBoxes(Outcome)
+describePercentiles(Outcome)
 ```

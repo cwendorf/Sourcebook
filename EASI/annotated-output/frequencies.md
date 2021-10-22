@@ -46,13 +46,12 @@ describeFrequencies(Outcome)
 
 #### Obtaining Summary Statistics
 
-
 ```r
-describeBoxes(Outcome)
+describePercentiles(Outcome)
 ```
 
 ```
-## $`Boxplot Statistics for the Variable`
-##              LW      LH     Mdn      UH      UW
-## Outcome   0.000   1.500   4.000   6.000   9.000
+## $`Percentiles for the Data`
+##              0%     25%     50%     75%    100%
+## Outcome   0.000   2.250   4.000   5.500   9.000
 ```
