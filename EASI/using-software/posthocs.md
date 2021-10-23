@@ -31,17 +31,17 @@ describeMeans(Outcome~Factor)
 Get all pairwise mean difference and their confidence intervals while adjusting them for multiple comparisons.
 
 ```{r}
-estimateMeansPairwise(Outcome~Factor,posthoc=TRUE)
+estimateMeansPosthoc(Outcome~Factor)
 ```
 
 Test all pairwise mean differences for statistical significance while adjusting them for multiple comparisons.
 
 ```{r}
-testMeansPairwise(Outcome~Factor,posthoc=TRUE)
+testMeansPosthoc(Outcome~Factor)
 ```
 
 Get standardized mean differences for all pairwise comparisons.
 
 ```{r}
-estimateStandardizedMeansPairwise(Outcome~Factor)
+estimateStandardizedMeansPosthoc(Outcome~Factor)
 ```

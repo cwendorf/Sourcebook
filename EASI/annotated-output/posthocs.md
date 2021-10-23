@@ -47,11 +47,11 @@ describeMeans(Outcome~Factor)
 
 
 ```r
-estimateMeansPairwise(Outcome~Factor,posthoc=TRUE)
+estimateMeansPosthoc(Outcome~Factor)
 ```
 
 ```
-## $`Confidence Intervals for the Pairwise Mean Comparisons`
+## $`Confidence Intervals for the Mean Posthoc Comparisons`
 ##                    Diff      SE      df      LL      UL
 ## Level1 v Level2   4.000   1.732   9.000  -0.836   8.836
 ## Level1 v Level3   5.000   1.732   9.000   0.164   9.836
@@ -60,11 +60,11 @@ estimateMeansPairwise(Outcome~Factor,posthoc=TRUE)
 
 
 ```r
-testMeansPairwise(Outcome~Factor,posthoc=TRUE)
+testMeansPosthoc(Outcome~Factor)
 ```
 
 ```
-## $`Hypothesis Tests for the Pairwise Mean Comparisons`
+## $`Hypothesis Tests for the Mean Posthoc Comparisons`
 ##                    Diff      SE      df       t       p
 ## Level1 v Level2   4.000   1.732   9.000   2.309   0.106
 ## Level1 v Level3   5.000   1.732   9.000   2.887   0.043
@@ -73,11 +73,11 @@ testMeansPairwise(Outcome~Factor,posthoc=TRUE)
 
 
 ```r
-estimateStandardizedMeansPairwise(Outcome~Factor)
+estimateStandardizedMeansPosthoc(Outcome~Factor)
 ```
 
 ```
-## $`Confidence Intervals for the Standardized Mean Pairwise Comparisons`
+## $`Confidence Intervals for the Standardized Mean Posthoc Comparisons`
 ##                       d      SE      LL      UL
 ## Level1 v Level2   1.633   0.943  -0.215   3.481
 ## Level1 v Level3   2.042   1.007   0.068   4.015
