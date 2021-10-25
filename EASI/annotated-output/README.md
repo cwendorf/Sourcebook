@@ -13,4 +13,3 @@ This chapter is intended to facilitate the connection between standard introduct
 - [ANOVA (OneWay ANOVA)](./oneway.md)
 - [Post Hoc Tests (OneWay ANOVA)](./posthocs.md)
 - [Repeated Measures ANOVA](./repeated.md)
-- [ANOVA (Factorial ANOVA)](./factorial.md)
