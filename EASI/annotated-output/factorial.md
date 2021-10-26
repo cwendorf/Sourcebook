@@ -15,13 +15,6 @@ vignette: >
 
 
 
-```{echo=FALSE}
-<style>
-div.red { background-color:#eeeeee; border-width: 1px; border-color: red; padding: 20px;}
-</style>
-```
-
-
 ## EASI: Annotated Output
 
 ### Factorial ANOVA
@@ -48,9 +41,6 @@ describeMeans(Outcome)
 ## Outcome  16.000   5.000   2.921  -0.147  -0.742
 ```
 
-
-<div class = "red">
-
 > \\[ SS_1 = ( SD_1^2 ) ( df_1 ) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 > \\[ SS_2 = ( SD_2^2 ) ( df_2 ) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 > \\[ SS_3 = ( SD_3^2 ) ( df_3 ) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
@@ -58,8 +48,6 @@ describeMeans(Outcome)
 > \\[ SS_{ERROR} = SS_1 + SS_2 + SS_3 + SS_4 = 18.000 + 18.000 + 18.000 + 18.000 = 72.000 \\]
 > \\[ df_{ERROR} = df_1 + df_2 + df_3 +df_4 = 3 + 3 + 3 + 3 = 12 \\]
 > \\[ MS_{ERROR} = \frac{SS_{ERROR}}{df_{ERROR}} = \frac{72.000}{12} = 6.000 \\]
-
-</div>
 
 #### Obtaining Inferential Statistics
 
