@@ -1,29 +1,7 @@
----
-title: "Statistics for Social Science"
-author: "Craig A. Wendorf"
-date: "2021-10-21"
-output: 
-  rmarkdown::html_vignette:
-    keep_md: TRUE
-vignette: >
-  %\VignetteIndexEntry{Correlations}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
----
-
-
 
 ## EASI: Annotated Output
 
 ### Correlations
-
-#### Entering Data
-
-
-```r
-Outcome1 <- c(0,0,3,5)
-Outcome2 <- c(4,7,4,9)
-```
 
 #### Obtaining Summary Statistics
 
@@ -51,6 +29,13 @@ describeCovariances(Outcome1,Outcome2)
 ## Outcome2    3.000    6.000
 ```
 
+> Sum of Cross Products: The Sum of Cross Products (SCP) is not easily determined solely from the summary statistics of the output, but rather from the data.
+
+> \\[ SCP = \sum ( X - M_X ) ( Y - M_Y ) = ( 0 - 2.000 ) ( 4 - 6.000 ) + ( 0 - 2.000 )( 7 - 6.000 ) + ( 3 - 2.000 )( 4 - 6.000 ) + (5 - 2.000)(9 - 6.000) = 9.000 \\]
+
+> Covariance: The Covariance is a function of the Sum of Cross Products and the sample size:
+
+> \\[ COV = \frac{SCP}{(N - 1)} = \frac{9.000}{(4 - 1)} = 3.000 \\]
 
 ```r
 describeCorrelations(Outcome1,Outcome2)
@@ -62,6 +47,10 @@ describeCorrelations(Outcome1,Outcome2)
 ## Outcome1    1.000    0.500
 ## Outcome2    0.500    1.000
 ```
+
+> Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a function of the Covariance and the Standard Deviations of both variables:
+
+> \\[ r = \frac{COV}{(SD_X) (SD_Y)} = \frac{3.000}{(2.449) (2.449)} = .500 \\]
 
 #### Obtaining Inferential Statistics
 

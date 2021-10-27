@@ -1,33 +1,9 @@
----
-title: "Statistics for Social Science"
-author: "Craig A. Wendorf"
-date: "2021-10-21"
-output: 
-  rmarkdown::html_vignette:
-    keep_md: TRUE
-vignette: >
-  %\VignetteIndexEntry{One Sample t Test}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
----
-
-
-
-
 
 ## EASI: Annotated Output
 
 ### One Sample t Test
 
-#### Entering Data
-
-
-```r
-Outcome <- c(0,0,3,5,4,7,4,9)
-```
-
 #### Obtaining Summary Statistics
-
 
 ```r
 describeMeans(Outcome)
@@ -41,7 +17,6 @@ describeMeans(Outcome)
 
 #### Obtaining Inferential Statistics
 
-
 ```r
 estimateMeans(Outcome,mu=7)
 ```
@@ -52,6 +27,19 @@ estimateMeans(Outcome,mu=7)
 ## Outcome  -3.000   1.102   7.000  -5.606  -0.394
 ```
 
+> Standard Error of the Mean: The standard error of the mean provides an estimate of how spread out the distribution of all possible random sample means would be.
+
+> \\[ SE_M = \frac{SD}{\sqrt{N}} = \frac{3.117}{\sqrt{8}} = 1.102 \\]
+
+> Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
+
+> \\[ M_{DIFF} = M - \mu = 4.000 − 7.000 = −3.000 \\]
+
+
+Confidence Interval: For this design, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+
+> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -3.000 \pm (2.365) (1.102) = [ -5.606, -0.394 ] \\]
+> Thus, the researcher concludes that the true population mean difference is somewhere between -5.606 and -0.394 (knowing that the estimate could be wrong).
 
 ```r
 testMeans(Outcome,mu=7)
@@ -63,6 +51,12 @@ testMeans(Outcome,mu=7)
 ## Outcome  -3.000   1.102   7.000  -2.722   0.030
 ```
 
+> Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
+
+> \\[ t = \frac{M_{DIFF}}{SE_M} = \frac{-3.000}{1.102} = -2.722 \\]
+> With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
+> Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05  
+> This would be considered a statistically significant finding.
 
 ```r
 estimateStandardizedMeans(Outcome,mu=7)
@@ -73,3 +67,8 @@ estimateStandardizedMeans(Outcome,mu=7)
 ##               d      SE      LL      UL
 ## Outcome  -0.962   0.438  -1.792  -0.089
 ```
+
+> Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
+
+> \\[ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 \\]
+> Given Cohen's heuristics for interpreting effect sizes, this would be considered a large effect.

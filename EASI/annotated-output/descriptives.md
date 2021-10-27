@@ -1,33 +1,9 @@
----
-title: "Statistics for Social Science"
-author: "Craig A. Wendorf"
-date: "2021-10-21"
-output: 
-  rmarkdown::html_vignette:
-    keep_md: TRUE
-vignette: >
-  %\VignetteIndexEntry{Descriptives}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
----
-
-
-
-
 
 ## EASI: Annotated Output
 
 ### Descriptives
 
-#### Entering Data
-
-
-```r
-Outcome <- c(0,0,3,5,4,7,4,9)
-```
-
 ####  Obtaining a Frequency Distribution
-
 
 ```r
 describeFrequencies(Outcome)
@@ -46,7 +22,6 @@ describeFrequencies(Outcome)
 
 #### Obtaining Summary Statistics
 
-
 ```r
 describeMeans(Outcome)
 ```
@@ -56,3 +31,19 @@ describeMeans(Outcome)
 ##               N       M      SD    Skew    Kurt
 ## Outcome   8.000   4.000   3.117   0.151  -0.467
 ```
+
+> Mean: The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
+
+> \\[ M = \frac{\sum(fY)}{N} = \frac{(2 \times 0) + (1 \times 3) + (2 \times 4) + (1 \times 5) + (1 \times 7) + (1 \times 8)}{8} = 4.000 \\]
+
+> Sum of Squares: The Sum of Squares is the basic measure of the variability of the scores. Formally, it is the sum of the weighted deviations of the scores about the mean.
+
+> \\[ SS = \sum f (Y - M) = 2 (0 - 4)^2 + 1(3 - 4)^2 + 2(4 - 4)^2 + 1(5 - 4)^2 + 1(7 - 4)^2 + 1(8 - 4)^2 = 68.000 \\]
+
+> Mean Squares: Mean Squares (also known as Variance) is a function of the Sum of Squares. It is calculated as an unbiased estimate of the population variance.
+
+> \\[ MS = \frac{SS}{(N - 1)} = \frac{68.000}{7} = 9.714 \\]
+
+> Standard Deviation: Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population standard deviation.
+
+> \\[ SD = \sqrt{MS} = \sqrt{9.714} = 3.117 \\]
