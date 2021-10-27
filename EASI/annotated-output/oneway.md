@@ -31,7 +31,6 @@ describeMeansOmnibus(Outcome~Factor)
 ```
 
 > Within Groups Statistics: Within-groups error statistics are a function of the within group variabilities.
-
 > \\[ SS_1 = ( SD_1^2 ) ( df_1 ) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 > \\[ SS_2 = ( SD_2^2 ) ( df_2 ) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
 > \\[ SS_3 = ( SD_3^2 ) ( df_3) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
@@ -39,12 +38,7 @@ describeMeansOmnibus(Outcome~Factor)
 > \\[ df_{WITHIN} = df_1 + df_2 + df_3 = 3 + 3 + 3 = 9 \\]
 > \\[ MS_{WITHIN} = \frac{SS_{WITHIN}}{df_{WITHIN}} = \frac{54.000}{9} = 6.000 \\]
 
-> Grand (or Total) Mean: A grand mean can be determined by taking the weighted average of all of the group means.
-
-> \\[ M_{TOTAL} = \frac{\sum n_{GROUP} (M_{GROUP})}{N} = \frac{ 4 (2.000) + 4 (6.000) + 4 (7.000) }{( 4 + 4 + 4 )} = 5.000 \\]
-
 > Between Groups Statistics: The between-groups effect statistics are a function of the group (level) means and sample sizes.
-
 > \\[ SS_{BETWEEN} = \sum n_{GROUP} (M_{GROUP} - M_{TOTAL})^2 = 4 ( 2.000 - 5.000 )^2 + 4 ( 6.000 - 5.000 )^2 + 4 ( 7.000 - 5.000 )^2 = 56.000  \\]
 > \\[ df_{BETWEEN} = \text{# groups} − 1 = 3 − 1 = 2 \\]
 > \\[ MS_{BETWEEN} = \frac{SS_{BETWEEN}}{df_{BETWEEN}} = \frac{56.000}{2} = 28.000 \\]
@@ -60,7 +54,6 @@ testMeansOmnibus(Outcome~Factor)
 ```
 
 > Statistical Significance: The *F* statistic is the ratio of the between- and within-group variance estimates. 
-
 > \\[ F = \frac{MS_{BETWEEN}}{MS_{WITHIN}} = \frac{28.000}{6.000} = 4.667 \\]
 > With *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9, *F<sub>CRITICAL</sub>* = 4.256  
 > Because *F* > *F<sub>CRITICAL</sub>*, *p* < .05  
@@ -77,6 +70,5 @@ estimateMeansEffect(Outcome~Factor)
 ```
 
 > Effect Size: The Eta-Squared statistic is a ratio of the between group and the total group variability (Sum of Squares) estimates.
-
 > \\[ \eta^2 = \frac{SS_{BETWEEN}}{( SS_{BETWEEN} + SS_{WITHIN} )} = \frac{56.000}{( 56.000 + 54.000 )} = .509 \\]
 > Thus, 50.9% of the variability among all of the scores in the study is accounted for by group membership.

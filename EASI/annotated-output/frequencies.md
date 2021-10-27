@@ -37,7 +37,6 @@ describePercentiles(Outcome)
 ## Outcome   0.000   2.250   4.000   5.500   9.000
 ```
 > Percentiles: Percentiles provide the scores associated with particular percentile ranks. The 50<sup>th</sup> percentile (the Median) and the 25<sup>th</sup> and 75<sup>th</sup> percentiles (collectively known as the Interquartile Range) are the most commonly calculated.
-
 > For example, the 50<sup>th</sup> percentile is the score in the following position:  
 \\[ \text{Position} = PR ( N + 1 ) = .50 ( 8 + 1 ) = 4.5\\]
 Thus, the score at the 50<sup>th</sup> percentile is the 4.5<sup>th</sup> score in the frequency distribution – a score of 4.
