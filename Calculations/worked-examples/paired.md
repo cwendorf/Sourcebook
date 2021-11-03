@@ -43,7 +43,7 @@ Mean Difference (Raw Effect): The Mean Difference is the difference between the 
 
 Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 
-> \\[ t = \frac{M_{DIFF}}{SE_M} = \frac{-4.000}{1.225} = -3.226 \\]
+> \\[ t = \frac{M_{DIFF}}{SE_M} = \frac{-4.000}{1.225} = -3.266 \\]
 > With *df* = 3, *t<sub>CRITICAL</sub>* = 3.182  
 > Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05  
 > This would be considered a statistically significant finding.
