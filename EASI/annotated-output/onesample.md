@@ -49,9 +49,7 @@ testMeans(Outcome,mu=7)
 
 > Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 > \\[ t = \frac{M_{DIFF}}{SE_M} = \frac{-3.000}{1.102} = -2.722 \\]
-> With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
-> Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05  
-> This would be considered a statistically significant finding.
+> The *t* statistic follows a non-normal (studentized or *t*) distribution that depends on degrees of freedom. Here, df = N – 1 = 8 – 1 = 7. A *t* with 7 df that equals -2.722 has a two-tailed probability (*p*) of .030, a statistically significant finding.
 
 ```r
 estimateStandardizedMeans(Outcome,mu=7)

@@ -55,9 +55,7 @@ testMeansOmnibus(Outcome~Factor)
 
 > Statistical Significance: The *F* statistic is the ratio of the between- and within-group variance estimates. 
 > \\[ F = \frac{MS_{BETWEEN}}{MS_{WITHIN}} = \frac{28.000}{6.000} = 4.667 \\]
-> With *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9, *F<sub>CRITICAL</sub>* = 4.256  
-> Because *F* > *F<sub>CRITICAL</sub>*, *p* < .05  
-> This would be considered a statistically significant finding.
+> An *F* with 2 and 9 df that equals 4.667 has a two-tailed probability (*p*) of .041, a statistically significant finding.
 
 ```r
 estimateMeansEffect(Outcome~Factor)

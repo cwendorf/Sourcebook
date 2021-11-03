@@ -18,7 +18,6 @@ describeMeans(Outcome~Factor)
 
 #### Obtaining Inferential Statistics
 
-
 ```r
 estimateMeanDifference(Outcome~Factor)
 ```
@@ -63,9 +62,7 @@ testMeanDifference(Outcome~Factor)
 > Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
 > \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.309 \\]
 > \\[ df = ( n_1 - 1 ) + ( n_2 - 1) = N - 2 = 8 - 2 = 6  \\]
-> With *df* = 6, *t<sub>CRITICAL</sub>* = 2.447  
-> Because *t* < *t<sub>CRITICAL</sub>*, *p* > .05  
-> This would not be considered a statistically significant finding.
+> The *t* statistic follows a non-normal (studentized or *t*) distribution that depends on degrees of freedom. A *t* with 6 df that equals -2.309 has a two-tailed probability (*p*) of .060, a finding that is not statistically significant.
 
 ```r
 estimateStandardizedMeanDifference(Outcome~Factor)
