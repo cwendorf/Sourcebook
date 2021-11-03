@@ -48,7 +48,7 @@ testMeanDifference(Outcome1,Outcome2)
 ```
 
 > Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
-> \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.225} = -3.226 \\]
+> \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{4.000}{1.225} = 3.267 \\]
 > The *t* statistic follows a non-normal (studentized or *t*) distribution that depends on degrees of freedom. Here, *df* = *N* – 1 = 4 – 1 = 3. A *t* with 3 *df* that equals -3.266 has a two-tailed probability (*p*) of .047, a statistically significant finding.
 
 ```r
