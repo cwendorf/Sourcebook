@@ -42,9 +42,9 @@ estimateMeansPosthoc(Outcome~Factor)
 
 > Confidence Intervals: For *HSD*, calculate the confidence intervals around (centered on) each mean difference separately.  
 > Because the ANOVA has *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9, *HSD<sub>CRITICAL</sub>* = 2.792
-> \\[ CI_{1vs2} = ( M_2 - M_1 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = 4.000 \pm (2.792) (1.732) = [ -0.836, 8.836] \\]
-> \\[ CI_{1vs3} = ( M_3 - M_1 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = 5.000 \pm (2.792) (1.732) = [ 0.164,9.836 ] \\]
-> \\[ CI_{2vs3} = ( M_3 - M_2 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = 1.000 \pm (2.792) (1.732) = [ -3.836,5.836 ] \\]
+> \\[ CI_{1vs2} = M_{DIFF} \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = 4.000 \pm (2.792) (1.732) = [ -0.836, 8.836] \\]
+> \\[ CI_{1vs3} = M_{DIFF} \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = 5.000 \pm (2.792) (1.732) = [ 0.164,9.836 ] \\]
+> \\[ CI_{2vs3} = M_{DIFF} \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = 1.000 \pm (2.792) (1.732) = [ -3.836,5.836 ] \\]
 > For each comparison, the researcher estimates the true population mean difference (knowing that the estimates could be incorrect).
 
 ```r
@@ -61,13 +61,13 @@ testMeansPosthoc(Outcome~Factor)
 
 > Statistical Significance: The *HSD* statistic is a ratio of the mean difference to the standard error of the difference. There is one statistic for each of the comparisons.
 
-> \\[ HSD_{1vs2} = \frac{( M_1 - M_2 )}{SE_{DIFF}} = \frac{4.000}{1.732} = 2.309 \\]
+> \\[ HSD_{1vs2} = \frac{ M_{DIFF} }{SE_{DIFF}} = \frac{4.000}{1.732} = 2.309 \\]
 > An HSD of 2.309 (with *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9 like in the ANOVA source table) has a two-tailed probability (*p*) of .106, which is not a statistically significant finding.
 
-> \\[ HSD_{1vs3} = \frac{( M_1 - M_3 )}{SE_{DIFF}} = \frac{5.000}{1.732} = 2.887 \\]
+> \\[ HSD_{1vs3} = \frac{ M_{DIFF} }{SE_{DIFF}} = \frac{5.000}{1.732} = 2.887 \\]
 > An HSD of 2.887 (with *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9 like in the ANOVA source table) has a two-tailed probability (*p*) of .043, which is a statistically significant finding.
 
-> \\[ HSD_{2vs3} = \frac{( M_2 - M_3 )}{SE_{DIFF}} = \frac{1.000}{1.732} = 0.577 \\]
+> \\[ HSD_{2vs3} = \frac{ M_{DIFF} }{SE_{DIFF}} = \frac{1.000}{1.732} = 0.577 \\]
 > An HSD of 0.577 (with *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9 like in the ANOVA source table) has a two-tailed probability (*p*) of .835, which is not a statistically significant finding.
 
 ```r
