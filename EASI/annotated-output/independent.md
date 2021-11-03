@@ -46,8 +46,8 @@ estimateMeanDifference(Outcome~Factor)
 > \\[ SE_{DIFF} = \sqrt{ \left( \frac{MS_{WITHIN}}{n_1} \right) + \left( \frac{MS_{WITHIN}}{n_2} \right) } = \sqrt{ \left( \frac{6.000}{4} \right) + \left( \frac{6.000}{4} \right) } = 1.732 \\]
 
 > Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
-> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) = -4.000 \pm (2.447) (1.732) = [ −8.238, 0.238 ] \\]
-> Thus, the researcher concludes that the true population mean difference is somewhere between -8.238 and -0.238 (knowing that the estimate could be wrong).
+> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) = 4.000 \pm (2.447) (1.732) = [ −0.237, 8.237 ] \\]
+> Thus, the researcher concludes that the true population mean difference is somewhere between -0.238 and 8.237 (knowing that the estimate could be wrong).
 
 ```r
 testMeanDifference(Outcome~Factor)
@@ -60,7 +60,7 @@ testMeanDifference(Outcome~Factor)
 ```
 
 > Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
-> \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.310 \\]
+> \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{4.000}{1.732} = 2.310 \\]
 > \\[ df = ( n_1 - 1 ) + ( n_2 - 1) = N - 2 = 8 - 2 = 6  \\]
 > The *t* statistic follows a non-normal (studentized or *t*) distribution that depends on degrees of freedom. A *t* with 6 *df* that equals 2.310 has a two-tailed probability (*p*) of .060, a finding that is not statistically significant.
 
@@ -75,5 +75,5 @@ estimateStandardizedMeanDifference(Outcome~Factor)
 ```
 
 > Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the difference between the two means.
-> \\[ d = \frac{M_{DIFF}}{SD_{WITHIN}} = \frac{-4.000}{2.449} = -1.630 \\]
+> \\[ d = \frac{M_{DIFF}}{SD_{WITHIN}} = \frac{4.000}{2.449} = 1.633 \\]
 > Given Cohen's heuristics for interpreting effect sizes, this would be considered an extremely large effect.

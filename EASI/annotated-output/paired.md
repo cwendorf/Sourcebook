@@ -29,13 +29,13 @@ estimateMeanDifference(Outcome1,Outcome2)
 ```
 
 > Mean Difference (Raw Effect): The Mean Difference is the difference between the two sample means above.
-> \\[ M_{DIFF} = M_1 - M_2 = 2.000 − 6.000 = −4.000 \\]
+> \\[ M_{DIFF} = M_2 - M_1 = 6.000 − 2.000 = 4.000 \\]
 
 > The Standard Error is not determinable from the summary statistics and is therefore not shown here.
 
 > Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
-> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_{DIFF}) = -4.000 \pm (3.182) (1.225) = [ −7.898, −0.102 ] \\]
-> Thus, the researcher concludes that the true population mean difference is somewhere between -7.898 and -0.102 (knowing that the estimate could be wrong).
+> \\[ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_{DIFF}) = 4.000 \pm (3.182) (1.225) = [ 0.102, 7.898 ] \\]
+> Thus, the researcher concludes that the true population mean difference is somewhere between 0.102 and 7.898 (knowing that the estimate could be wrong).
 
 ```r
 testMeanDifference(Outcome1,Outcome2)
@@ -49,7 +49,7 @@ testMeanDifference(Outcome1,Outcome2)
 
 > Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 > \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{4.000}{1.225} = 3.267 \\]
-> The *t* statistic follows a non-normal (studentized or *t*) distribution that depends on degrees of freedom. Here, *df* = *N* – 1 = 4 – 1 = 3. A *t* with 3 *df* that equals -3.266 has a two-tailed probability (*p*) of .047, a statistically significant finding.
+> The *t* statistic follows a non-normal (studentized or *t*) distribution that depends on degrees of freedom. Here, *df* = *N* – 1 = 4 – 1 = 3. A *t* with 3 *df* that equals 3.267 has a two-tailed probability (*p*) of .047, a statistically significant finding.
 
 ```r
 estimateStandardizedMeanDifference(Outcome1,Outcome2)
@@ -62,5 +62,5 @@ estimateStandardizedMeanDifference(Outcome1,Outcome2)
 ```
 
 > Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
-> \\[ d = \frac{M_{DIFF}}{SD} = \frac{-4.000}{2.449} = -1.633 \\]
+> \\[ d = \frac{M_{DIFF}}{SD} = \frac{4.000}{2.449} = 1.633 \\]
 > Given Cohen's heuristics for interpreting effect sizes, this would be considered an extremely large effect.
