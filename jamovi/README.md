@@ -1,5 +1,10 @@
 ## jamovi 
 
+### Finding the Software
+
+This section explains how to use jamovi to analyze the basic examples. jamovi can be acquired here:  
+[https://www.jamovi.org/](https://www.jamovi.org/)
+
 ### Using the Software
 
 This chapter provides step-by-step instructions on how to obtain basic statistical output using jamovi, both visually with screenshots and via written instructions. Simple examples for most undergraduate level between-subjects and within-subjects research designs are provided.

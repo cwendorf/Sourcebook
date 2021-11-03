@@ -1,5 +1,10 @@
 ## JASP
 
+### Finding the Software
+
+This section explains how to use JASP to analyze the basic examples. JASP can be acquired here:  
+[https://jasp-stats.org/](https://jasp-stats.org/)
+
 ### Using the Software
 
 This chapter provides step-by-step instructions on how to obtain basic statistical output using JASP, both visually with screenshots and via written instructions. Simple examples for most undergraduate-level between-subjects and within-subjects research designs are provided.

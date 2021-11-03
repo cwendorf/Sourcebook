@@ -1,5 +1,10 @@
 ## EASI (R Package) 
 
+### Finding the Software
+
+This section explains how to use the R package EASI to analyze the basic examples. EASI can be acquired here:  
+[https://cwendorf.github.io/EASI/](https://cwendorf.github.io/EASI/)
+
 ### Using the Software
 
 This chapter provides step-by-step instructions on how to obtain basic statistical output using EASI (an R package). Simple examples for most undergraduate level between-subjects and within-subjects research designs are provided.

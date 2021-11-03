@@ -1,5 +1,10 @@
 ## SPSS
 
+### Finding the Software
+
+This section explains how to use IBM SPSS Statistics to analyze the basic examples. SPSS can be acquired here:  
+[https://www.ibm.com/products/spss-statistics](https://www.ibm.com/products/spss-statistics)
+
 ### Using the Software
 
 This chapter provides step-by-step instructions on how to obtain basic statistical output using SPSS, both visually with screenshots and via written instructions. Simple examples for most undergraduate-level between-subjects and within-subjects research designs are provided.
