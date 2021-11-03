@@ -59,7 +59,7 @@ testMeansOmnibus(Outcome1,Outcome2)
 
 > Statistical Significance: The *F* statistic is the ratio of the within-subjects effect and the within-subjects error variance estimates. 
 > \\[ F = \frac{MS_{EFFECT}}{MS_{ERROR}} = \frac{32.000}{3.000} = 10.667 \\]
-> An *F* with 1 and 3 df that equals 10.667 has a two-tailed probability (*p*) of .047, a statistically significant finding.
+> An *F* with 1 and 3 *df* that equals 10.667 has a two-tailed probability (*p*) of .047, a statistically significant finding.
 
 ```r
 estimateMeansEffect(Outcome1,Outcome2)

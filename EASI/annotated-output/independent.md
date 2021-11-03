@@ -39,7 +39,7 @@ estimateMeanDifference(Outcome~Factor)
 > \\[ MS_{WITHIN} = \frac{SS_{WITHIN}}{df_{WITHIN}} = \frac{36.000}{6} = 6.000 \\]
 > \\[ SD_{WITHIN} = \sqrt{MS_{WITHIN}} = \sqrt{6.000} = 2.449 \\]
 
-> Standard Error of the Difference: The standard error of the difference is a function of the two groups’ individual standard errors. 
+> Standard Error of the Difference: The standard error of the difference is a function of the two groups’ individual standard errors.  
 > When the two sample sizes are equal:
 > \\[ SE_{DIFF} = \sqrt{ SE_1^2 + SE_2^2 } = \sqrt{ 1.225^2 + 1.225^2 } = 1.732 \\]
 > Or an expanded version of the formula can be used when the two sample sizes are either equal or unequal:
@@ -60,9 +60,9 @@ testMeanDifference(Outcome~Factor)
 ```
 
 > Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
-> \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.309 \\]
+> \\[ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.310 \\]
 > \\[ df = ( n_1 - 1 ) + ( n_2 - 1) = N - 2 = 8 - 2 = 6  \\]
-> The *t* statistic follows a non-normal (studentized or *t*) distribution that depends on degrees of freedom. A *t* with 6 df that equals -2.309 has a two-tailed probability (*p*) of .060, a finding that is not statistically significant.
+> The *t* statistic follows a non-normal (studentized or *t*) distribution that depends on degrees of freedom. A *t* with 6 *df* that equals 2.310 has a two-tailed probability (*p*) of .060, a finding that is not statistically significant.
 
 ```r
 estimateStandardizedMeanDifference(Outcome~Factor)
