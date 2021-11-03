@@ -62,4 +62,6 @@ testCorrelations(Outcome1,Outcome2)
 ## Outcome1 & Outcome2   0.500   0.612   2.000   0.816   0.500
 ```
 
+> Statistical Significance: The *t* statistic is the test of the correlation against a value of zero.
+> \\[ t = \frac{r}{ sqrt{ ( 1 - r^2 ) ( N - 2 ) }} = 0.816 \\]
 > The *t* statistic follows a non-normal (studentized or *t*) distribution that depends on degrees of freedom. Here, df = N – 2 = 4 – 2 = 2. A t with 2 df that equals .816 has a two-tailed probability (*p*) of .500, which is not a statistically significant finding.
