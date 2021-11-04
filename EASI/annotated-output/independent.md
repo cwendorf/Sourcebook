@@ -29,7 +29,7 @@ estimateMeanDifference(Outcome~Factor)
 ```
 
 > Mean Difference (Raw Effect): The mean difference is the difference between the two sample means (raw effect).
-> \\[ M_{DIFF} = M_1 - M_2 = 2.000 − 6.000 = −4.000 \\]
+> \\[ M_{DIFF} = M_2 - M_1 = 6.000 − 2.000 = 4.000 \\]
 
 > Within Groups Statistics: When multiple groups are used, it is necessary to get an estimate of the pooled (combined) within group variabilities.
 > \\[ SS_1 = ( SD_1^2 ) ( df_1) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
