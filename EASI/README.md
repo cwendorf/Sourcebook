@@ -24,6 +24,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [ANOVA (OneWay ANOVA)](./using-software/oneway.md)
 - [Post Hoc Tests (OneWay ANOVA)](./using-software/posthocs.md)
 - [Repeated Measures ANOVA](./using-software/repeated.md)
+- [Factorial ANOVA](./using-software/factorial.md)
 
 ### Annotated Output
 
@@ -40,3 +41,4 @@ This chapter is intended to facilitate the connection between standard introduct
 - [ANOVA (OneWay ANOVA)](./annotated-output/oneway.md)
 - [Post Hoc Tests (OneWay ANOVA)](./annotated-output/posthocs.md)
 - [Repeated Measures ANOVA](./annotated-output/repeated.md)
+- [Factorial ANOVA](./annotated-output/factorial.md)
