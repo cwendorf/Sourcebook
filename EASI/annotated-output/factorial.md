@@ -40,11 +40,11 @@ describeMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 
 ```
 ## $`Source Table for the Effects: Between Subjects`
-##                   SS      df      MS
-## Group         16.000   1.000  16.000
-## Factor         4.000   1.000   4.000
-## Group:Factor  36.000   1.000  36.000
-## Residuals     72.000  12.000   6.000
+##                      SS      df      MS
+## FactorA           4.000   1.000   4.000
+## FactorB          16.000   1.000  16.000
+## FactorA:FactorB  36.000   1.000  36.000
+## Residuals        72.000  12.000   6.000
 ```
 
 > For the Model:  
@@ -72,10 +72,10 @@ testMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 
 ```
 ## $`Hypothesis Tests for the Effects: Between Subjects`
-##                    F       p
-## Group          2.667   0.128
-## Factor         0.667   0.430
-## Group:Factor   6.000   0.031
+##                       F       p
+## FactorA           0.667   0.430
+## FactorB           2.667   0.128
+## FactorA:FactorB   6.000   0.031
 ```
 
 > For the Factor A Main Effect:  
@@ -96,10 +96,10 @@ describeMeansEffectMultifactor(Outcome~FactorA,by=FactorB)
 
 ```
 ## $`Proportion of Variance Accounted for by the Effects: Between Subjects`
-##                EtaSq ParEtaSq
-## Group          0.125    0.182
-## Factor         0.031    0.053
-## Group:Factor   0.281    0.333
+##                   EtaSq ParEtaSq
+## FactorA           0.031    0.053
+## FactorB           0.125    0.182
+## FactorA:FactorB   0.281    0.333
 ```
 
 > For the Factor A Main Effect:  
