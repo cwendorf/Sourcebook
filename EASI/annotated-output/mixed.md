@@ -67,7 +67,7 @@ describeMeansOmnibusMultifactor(Outcome1,Outcome2,Outcome3,by=Factor)
 ## $`Source Table for the Effects: Within Subjects`
 ##                      SS      df      MS
 ## Measures         37.333   2.000  18.667
-## Factor:Measures  21.333   2.000  10.667
+## Measures:Factor  21.333   2.000  10.667
 ## Residuals        20.000  12.000   1.667
 ```
 
@@ -78,13 +78,13 @@ testMeansOmnibusMultifactor(Outcome1,Outcome2,Outcome3,by=Factor)
 
 ```
 ## $`Hypothesis Tests for the Effects: Between Subjects`
-##                 F       p
-## Factor      0.182   0.685
+##              F       p
+## Factor   0.182   0.685
 ## 
 ## $`Hypothesis Tests for the Effects: Within Subjects`
 ##                       F       p
 ## Measures         11.200   0.002
-## Factor:Measures   6.400   0.013
+## Measures:Factor   6.400   0.013
 ```
 
 
@@ -94,12 +94,11 @@ describeMeansEffectMultifactor(Outcome1,Outcome2,Outcome3,by=Factor)
 
 ```
 ## $`Proportion of Variance Accounted for by the Effects: Between Subjects`
-##             EtaSq ParEtaSq
-## Factor      0.029    0.029
+##          EtaSq ParEtaSq
+## Factor   0.029    0.029
 ## 
 ## $`Proportion of Variance Accounted for by the Effects: Within Subjects`
 ##                   EtaSq ParEtaSq
 ## Measures          0.475    0.651
-## Factor:Measures   0.271    0.516
+## Measures:Factor   0.271    0.516
 ```
-
