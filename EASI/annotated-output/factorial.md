@@ -39,13 +39,21 @@ describeMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 ```
 
 ```
-## $`Source Table for the Effects: Between Subjects`
+## $`Source Table: Between Subjects`
 ##                    SS      df      MS
-## Blocks          4.000   1.000   4.000
-## Factor         16.000   1.000  16.000
+## Factor          4.000   1.000   4.000
+## Blocks         16.000   1.000  16.000
 ## Factor:Blocks  36.000   1.000  36.000
 ## Residual       72.000  12.000   6.000
 ```
+> Error/Residual (Within Groups) Statistics:    
+> \\[ SS_1 = ( SD_1^2 ) ( df_1 ) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
+> \\[ SS_2 = ( SD_2^2 ) ( df_2 ) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
+> \\[ SS_3 = ( SD_3^2 ) ( df_3 ) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
+> \\[ SS_4 = ( SD_4^2 ) ( df_4 ) = ( 2.44949^2 ) ( 3 ) = 18.000 \\]
+> \\[ SS_{ERROR} = SS_1 + SS_2 + SS_3 + SS_4 = 18.000 + 18.000 + 18.000 + 18.000 = 72.000 \\]
+> \\[ df_{ERROR} = df_1 + df_2 + df_3 +df_4 = 3 + 3 + 3 + 3 = 12 \\]
+> \\[ MS_{ERROR} = \frac{SS_{ERROR}}{df_{ERROR}} = \frac{72.000}{12} = 6.000 \\]
 
 > For the Model:  
 > \\[ SS_{MODEL} = \sum n_{GROUP} (M_{GROUP} - M_{TOTAL})^2 = 4 ( 2.000 - 5.000 )^2 + 4 ( 7.000 - 5.000 )^2 + 4 ( 6.000 - 5.000 )^2 + 4 ( 5.000 - 5.000 )^2 = 56.000  \\]
@@ -56,7 +64,7 @@ describeMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 > \\[ df_{FACTORA} = \text{# levels} − 1 = 2 − 1 = 1 \\]
 > \\[ MS_{FACTORA} = \frac{SS_{FACTORA}}{df_{FACTORA}} = \frac{4.000}{1} = 4.000 \\]
 
-> For Factor B:  
+> For Factor B (The blocking variable):  
 > \\[ SS_{FACTORB} = \sum n_{LEVEL} (M_{LEVEL} - M_{TOTAL})^2 = 8 ( 4.000 - 5.000 )^2 + 8 ( 6.000 - 5.000 )^2 = 16.000 \\]
 > \\[ df_{FACTORB} = \text{# levels} − 1 = 2 − 1 = 1 \\]
 > \\[ MS_{FACTORB} = \frac{SS_{FACTORB}}{df_{FACTORB}} = \frac{16.000}{1} = 16.000 \\]
@@ -71,10 +79,10 @@ testMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 ```
 
 ```
-## $`Hypothesis Tests for the Effects: Between Subjects`
+## $`Hypothesis Tests: Between Subjects`
 ##                     F     df1     df2       p
-## Blocks          0.667   1.000  12.000   0.430
-## Factor          2.667   1.000  12.000   0.128
+## Factor          0.667   1.000  12.000   0.430
+## Blocks          2.667   1.000  12.000   0.128
 ## Factor:Blocks   6.000   1.000  12.000   0.031
 ```
 
@@ -97,8 +105,8 @@ estimateMeansEffectMultifactor(Outcome~FactorA,by=FactorB)
 ```
 ## $`Proportion of Variance Accounted For: Between Subjects`
 ##                   Est      LL      UL
-## Blocks          0.053   0.000   0.302
-## Factor          0.182   0.000   0.442
+## Factor          0.053   0.000   0.302
+## Blocks          0.182   0.000   0.442
 ## Factor:Blocks   0.333   0.019   0.562
 ```
 
