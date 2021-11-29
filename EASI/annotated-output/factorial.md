@@ -40,11 +40,11 @@ describeMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 
 ```
 ## $`Source Table for the Effects: Between Subjects`
-##                      SS      df      MS
-## FactorA           4.000   1.000   4.000
-## FactorB          16.000   1.000  16.000
-## FactorA:FactorB  36.000   1.000  36.000
-## Residuals        72.000  12.000   6.000
+##                    SS      df      MS
+## Blocks          4.000   1.000   4.000
+## Factor         16.000   1.000  16.000
+## Factor:Blocks  36.000   1.000  36.000
+## Residual       72.000  12.000   6.000
 ```
 
 > For the Model:  
@@ -72,10 +72,10 @@ testMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 
 ```
 ## $`Hypothesis Tests for the Effects: Between Subjects`
-##                       F       p
-## FactorA           0.667   0.430
-## FactorB           2.667   0.128
-## FactorA:FactorB   6.000   0.031
+##                     F     df1     df2       p
+## Blocks          0.667   1.000  12.000   0.430
+## Factor          2.667   1.000  12.000   0.128
+## Factor:Blocks   6.000   1.000  12.000   0.031
 ```
 
 > For the Factor A Main Effect:  
@@ -91,15 +91,15 @@ testMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 > An *F* with 2 and 9 *df* that equals 6.000 has a two-tailed probability (*p*) of .031, a statistically significant finding.
 
 ```r
-describeMeansEffectMultifactor(Outcome~FactorA,by=FactorB)
+estimateMeansEffectMultifactor(Outcome~FactorA,by=FactorB)
 ```
 
 ```
-## $`Proportion of Variance Accounted for by the Effects: Between Subjects`
-##                   EtaSq ParEtaSq
-## FactorA           0.031    0.053
-## FactorB           0.125    0.182
-## FactorA:FactorB   0.281    0.333
+## $`Proportion of Variance Accounted For: Between Subjects`
+##                   Est      LL      UL
+## Blocks          0.053   0.000   0.302
+## Factor          0.182   0.000   0.442
+## Factor:Blocks   0.333   0.019   0.562
 ```
 
 > For the Factor A Main Effect:  
