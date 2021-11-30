@@ -42,7 +42,7 @@ Test the main effects for statistical significance.
 testMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 ```
 
-Get the proportion of variance account for by the main effects.
+Get the proportion of variance accounted for by the main effects.
 
 ```r
 estimateMeansEffectMultifactor(Outcome~FactorA,by=FactorB)

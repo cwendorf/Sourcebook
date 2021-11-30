@@ -34,7 +34,7 @@ Test the main effect for statistical significance.
 testMeansOmnibus(Outcome1,Outcome2)
 ```
 
-Get the proportion of variance account for by the main effect.
+Get the proportion of variance accounted for by the main effect.
 
 ```{r}
 estimateMeansEffect(Outcome1,Outcome2)
