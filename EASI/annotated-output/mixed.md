@@ -1,26 +1,9 @@
----
-title: "Statistics for Social Science"
-author: "Craig A. Wendorf"
-date: "2021-11-22"
-output: 
-  rmarkdown::html_vignette:
-    keep_md: TRUE
-vignette: >
-  %\VignetteIndexEntry{Mixed Design ANOVA}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
----
-
-
-
-
 
 ## EASI: Annotated Output
 
 ### Mixed Design ANOVA
 
 #### Entering Data
-
 
 ```r
 Factor <- c(1,1,1,1,2,2,2,2)
@@ -87,18 +70,6 @@ testMeansOmnibusMultifactor(Outcome1,Outcome2,Outcome3,by=Factor)
 ## Measures:Factor   6.400   0.013
 ```
 
-
 ```r
-describeMeansEffectMultifactor(Outcome1,Outcome2,Outcome3,by=Factor)
-```
-
-```
-## $`Proportion of Variance Accounted for by the Effects: Between Subjects`
-##          EtaSq ParEtaSq
-## Factor   0.029    0.029
-## 
-## $`Proportion of Variance Accounted for by the Effects: Within Subjects`
-##                   EtaSq ParEtaSq
-## Measures          0.475    0.651
-## Measures:Factor   0.271    0.516
+estimateMeansOmnibusMultifactor(Outcome1,Outcome2,Outcome3,by=Factor)
 ```

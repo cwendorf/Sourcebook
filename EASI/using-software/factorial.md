@@ -45,5 +45,5 @@ testMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 Get the proportion of variance accounted for by the main effects.
 
 ```r
-estimateMeansEffectMultifactor(Outcome~FactorA,by=FactorB)
+estimateMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 ```

@@ -58,7 +58,7 @@ testMeansOmnibus(Outcome~Factor)
 > An *F* with 2 and 9 *df* that equals 4.667 has a two-tailed probability (*p*) of .041, a statistically significant finding.
 
 ```r
-estimateMeansEffect(Outcome~Factor)
+estimateMeansOmnibus(Outcome~Factor)
 ```
 
 ```

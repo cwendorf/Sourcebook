@@ -99,7 +99,7 @@ testMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 > An *F* with 2 and 9 *df* that equals 6.000 has a two-tailed probability (*p*) of .031, a statistically significant finding.
 
 ```r
-estimateMeansEffectMultifactor(Outcome~FactorA,by=FactorB)
+estimateMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)
 ```
 
 ```

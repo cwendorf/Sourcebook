@@ -62,7 +62,7 @@ testMeansOmnibus(Outcome1,Outcome2)
 > An *F* with 1 and 3 *df* that equals 10.667 has a two-tailed probability (*p*) of .047, a statistically significant finding.
 
 ```r
-estimateMeansEffect(Outcome1,Outcome2)
+estimateMeansOmnibus(Outcome1,Outcome2)
 ```
 
 ```
