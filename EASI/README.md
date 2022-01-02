@@ -2,33 +2,38 @@
 
 ### Finding the Software
 
-This section explains how to use the R package EASI to analyze the basic examples. EASI can be acquired here:  
+This section uses the R package EASI to analyze the basic examples. EASI can be acquired here:  
 [https://cwendorf.github.io/EASI/](https://cwendorf.github.io/EASI/)
 
-### Using the Software
+### Data Entry
 
-This chapter provides step-by-step instructions on how to obtain basic statistical output using EASI (an R package). Simple examples for most undergraduate level between-subjects and within-subjects research designs are provided.
+This chapter shows how to enter the data for most undergraduate level between-subjects and within-subjects research designs.
 
-- [One Sample Data](./using-software/onesampledata.md)  
-- [Repeated Measures Data](./using-software/repeateddata.md)
-- [Multiple Sample Data](./using-software/multiplesampledata.md)
-- [Factorial Data](./using-software/factorialdata.md)
-- [Frequencies](./using-software/frequencies.md)
-- [Descriptives](./using-software/descriptives.md)
-- [Transformations and Standardized Scores](./using-software/standardized.md)
-- [Correlations (Bivariate)](./using-software/correlations.md)
-- [T Test (Confidence Intervals)](./using-software/intervals.md)
-- [T Test (One Sample)](./using-software/onesample.md)
-- [T Test (Paired Samples)](./using-software/paired.md)
-- [T Test (Independent Samples)](./using-software/independent.md)
-- [ANOVA (OneWay ANOVA)](./using-software/oneway.md)
-- [Post Hoc Tests (OneWay ANOVA)](./using-software/posthocs.md)
-- [Repeated Measures ANOVA](./using-software/repeated.md)
-- [Factorial ANOVA](./using-software/factorial.md)
+- [One Sample Data](./data-entry/onesampledata.md)  
+- [Repeated Measures Data](./data-entry/repeateddata.md)
+- [Multiple Sample Data](./data-entry/multiplesampledata.md)
+- [Factorial Data](./data-entry/factorialdata.md)
+
+### Data Analysis
+
+This chapter provides step-by-step instructions on how to obtain basic statistical output using the software.
+
+- [Frequencies](./data-analysis/frequencies.md)
+- [Descriptives](./data-analysis/descriptives.md)
+- [Transformations and Standardized Scores](./data-analysis/standardized.md)
+- [Correlations (Bivariate)](./data-analysis/correlations.md)
+- [T Test (Confidence Intervals)](./data-analysis/intervals.md)
+- [T Test (One Sample)](./data-analysis/onesample.md)
+- [T Test (Paired Samples)](./data-analysis/paired.md)
+- [T Test (Independent Samples)](./data-analysis/independent.md)
+- [ANOVA (OneWay ANOVA)](./data-analysis/oneway.md)
+- [Post Hoc Tests (OneWay ANOVA)](./data-analysis/posthocs.md)
+- [Repeated Measures ANOVA](./data-analysis/repeated.md)
+- [Factorial ANOVA](./data-analysis/factorial.md)
 
 ### Annotated Output
 
-This chapter is intended to facilitate the connection between standard introductory statistics concepts and their implementation in EASI. It shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and EASI output. 
+This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. 
 
 - [Frequencies](./annotated-output/frequencies.md)
 - [Descriptives](./annotated-output/descriptives.md)

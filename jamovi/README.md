@@ -2,32 +2,37 @@
 
 ### Finding the Software
 
-This section explains how to use jamovi to analyze the basic examples. jamovi can be acquired here:  
+This section uses jamovi to analyze the basic examples. jamovi can be acquired here:  
 [https://www.jamovi.org/](https://www.jamovi.org/)
 
-### Using the Software
+### Data Entry
 
-This chapter provides step-by-step instructions on how to obtain basic statistical output using jamovi, both visually with screenshots and via written instructions. Simple examples for most undergraduate level between-subjects and within-subjects research designs are provided.
+This chapter shows how to enter the data for most undergraduate level between-subjects and within-subjects research designs.
 
-- [One Sample Data](./using-software/onesampledata.md)  
-- [Repeated Measures Data](./using-software/repeateddata.md)
-- [Multiple Sample Data](./using-software/multiplesampledata.md)
-- [Factorial Data](./using-software/factorialdata.md)
-- [Descriptives (Frequencies and Descriptives)](./using-software/descriptives.md)
-- [Compute (Transformations and Standardized Scores)](./using-software/standardized.md)
-- [Correlations (Bivariate)](./using-software/correlations.md)
-- [T Test (Confidence Intervals)](./using-software/intervals.md)
-- [T Test (One Sample)](./using-software/onesample.md)
-- [T Test (Paired Samples)](./using-software/paired.md)
-- [T Test (Independent Samples)](./using-software/independent.md)
-- [ANOVA (OneWay ANOVA)](./using-software/oneway.md)
-- [Post Hoc Tests (OneWay ANOVA)](./using-software/posthocs.md)
-- [Repeated Measures ANOVA](./using-software/repeated.md)
-- [ANOVA (Factorial ANOVA)](./using-software/factorial.md)
+- [One Sample Data](./data-entry/onesampledata.md)  
+- [Repeated Measures Data](./data-entry/repeateddata.md)
+- [Multiple Sample Data](./data-entry/multiplesampledata.md)
+- [Factorial Data](./data-entry/factorialdata.md)
+
+### Data Analysis
+
+This chapter provides step-by-step instructions on how to obtain basic statistical output using the software.
+
+- [Descriptives (Frequencies and Descriptives)](./data-analysis/descriptives.md)
+- [Compute (Transformations and Standardized Scores)](./data-analysis/standardized.md)
+- [Correlations (Bivariate)](./data-analysis/correlations.md)
+- [T Test (Confidence Intervals)](./data-analysis/intervals.md)
+- [T Test (One Sample)](./data-analysis/onesample.md)
+- [T Test (Paired Samples)](./data-analysis/paired.md)
+- [T Test (Independent Samples)](./data-analysis/independent.md)
+- [ANOVA (OneWay ANOVA)](./data-analysis/oneway.md)
+- [Post Hoc Tests (OneWay ANOVA)](./data-analysis/posthocs.md)
+- [Repeated Measures ANOVA](./data-analysis/repeated.md)
+- [ANOVA (Factorial ANOVA)](./data-analysis/factorial.md)
 
 ### Annotated Output
 
-This chapter is intended to facilitate the connection between standard introductory statistics concepts and their implementation in jamovi. It shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and jamovi output. 
+This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. 
 
 - [Descriptives (Frequencies and Descriptives)](./annotated-output/descriptives.md)
 - [Correlations (Bivariate)](./annotated-output/correlations.md)
@@ -42,7 +47,7 @@ This chapter is intended to facilitate the connection between standard introduct
 
 ### Blank Output
 
-This chapter is used as worksheets for class problems. Students fill in their answers on these sheets, thus making clear the links between non-computer (“hand”) calculations and the jamovi output.
+This chapter contains worksheets where students fill in their calculations, thus making clear the links between their calculations and the computer output.
 
 - [Descriptives (Frequencies and Descriptives)](./blank-output/descriptives.md)
 - [Correlations (Bivariate)](./blank-output/correlations.md)

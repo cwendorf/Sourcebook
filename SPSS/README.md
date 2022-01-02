@@ -2,32 +2,37 @@
 
 ### Finding the Software
 
-This section explains how to use IBM SPSS Statistics to analyze the basic examples. SPSS can be acquired here:  
+This section uses IBM SPSS Statistics to analyze the basic examples. SPSS can be acquired here:  
 [https://www.ibm.com/products/spss-statistics](https://www.ibm.com/products/spss-statistics)
 
-### Using the Software
+### Data Entry
 
-This chapter provides step-by-step instructions on how to obtain basic statistical output using SPSS, both visually with screenshots and via written instructions. Simple examples for most undergraduate-level between-subjects and within-subjects research designs are provided.
+This chapter shows how to enter the data for most undergraduate level between-subjects and within-subjects research designs.
 
-- [One Sample Data](./using-software/onesampledata.md)
-- [Repeated Measures Data](./using-software/repeateddata.md)
-- [Multiple Sample Data](./using-software/multiplesampledata.md)
-- [Factorial Data](./using-software/factorialdata.md)
-- [Frequencies (Frequencies and Descriptives)](./using-software/frequencies.md)
-- [Descriptives (Standardized Scores and Transformations)](./using-software/standardized.md)
-- [Correlations (Bivariate)](./using-software/correlations.md)
-- [Explore (Descriptives and Confidence Intervals)](./using-software/intervals.md)
-- [T Test (One Sample)](./using-software/onesample.md)
-- [T Test (Paired Samples)](./using-software/paired.md)
-- [T Test (Independent Samples)](./using-software/independent.md)
-- [One-Way (OneWay ANOVA)](./using-software/oneway.md)
-- [Post Hoc Tests (OneWay ANOVA)](./using-software/posthocs.md)
-- [General Linear Model (Repeated Measures ANOVA)](./using-software/repeated.md)
-- [Univariate Analysis of Variance (Factorial ANOVA)](./using-software/factorial.md)
+- [One Sample Data](./data-entry/onesampledata.md)
+- [Repeated Measures Data](./data-entry/repeateddata.md)
+- [Multiple Sample Data](./data-entry/multiplesampledata.md)
+- [Factorial Data](./data-entry/factorialdata.md)
+
+### Data Analysis
+
+This chapter provides step-by-step instructions on how to obtain basic statistical output using the software.
+
+- [Frequencies (Frequencies and Descriptives)](./data-analysis/frequencies.md)
+- [Descriptives (Standardized Scores and Transformations)](./data-analysis/standardized.md)
+- [Correlations (Bivariate)](./data-analysis/correlations.md)
+- [Explore (Descriptives and Confidence Intervals)](./data-analysis/intervals.md)
+- [T Test (One Sample)](./data-analysis/onesample.md)
+- [T Test (Paired Samples)](./data-analysis/paired.md)
+- [T Test (Independent Samples)](./data-analysis/independent.md)
+- [One-Way (OneWay ANOVA)](./data-analysis/oneway.md)
+- [Post Hoc Tests (OneWay ANOVA)](./data-analysis/posthocs.md)
+- [General Linear Model (Repeated Measures ANOVA)](./data-analysis/repeated.md)
+- [Univariate Analysis of Variance (Factorial ANOVA)](./data-analysis/factorial.md)
 
 ### Annotated Output
 
-This chapter is intended to facilitate the connection between standard introductory statistics concepts and their implementation in SPSS. It shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and SPSS output.
+This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. 
 
 - [Descriptives (Frequencies and Descriptives)](./annotated-output/descriptives.md)
 - [Correlations (Bivariate)](./annotated-output/correlations.md)
@@ -42,7 +47,7 @@ This chapter is intended to facilitate the connection between standard introduct
 
 ### Blank Output
 
-This chapter is used as a set of worksheets for class problems. Students fill in their answers on these sheets, thus making clear the links between non-computer (“hand”) calculations and the SPSS output.
+This chapter contains worksheets where students fill in their calculations, thus making clear the links between their calculations and the computer output.
 
 - [Frequencies (Frequencies and Descriptives)](./blank-output/frequencies.md)
 - [Correlations (Bivariate)](./blank-output/correlations.md)
