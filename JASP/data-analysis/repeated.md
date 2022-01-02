@@ -1,4 +1,4 @@
-## JASP: Using the Software
+## JASP: Data Analysis
 
 ### Repeated Measures ANOVA 
 

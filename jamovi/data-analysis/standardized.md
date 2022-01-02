@@ -1,4 +1,4 @@
-## jamovi: Using the Software
+## jamovi: Data Analysis
 
 ### Compute (Transformations and Standardized Scores)
 
