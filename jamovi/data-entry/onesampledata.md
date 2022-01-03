@@ -8,7 +8,7 @@
 
 2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options.
 
-<p align="center"><kbd><img src="image1.png"></kbd></p>
+<p align="center"><kbd><img src="onesample1.png"></kbd></p>
 
 #### Setting Variable Properties
 
@@ -18,10 +18,10 @@
 
 5. To hide the setup menu, click on the large UP arrow button to the right of the variable name.
 
-<p align="center"><kbd><img src="image2.png"></kbd></p>
+<p align="center"><kbd><img src="onesample2.png"></kbd></p>
 
 #### Entering Data
 
 6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
 
-<p align="center"><kbd><img src="image3.png"></kbd></p>
+<p align="center"><kbd><img src="onesample3.png"></kbd></p>

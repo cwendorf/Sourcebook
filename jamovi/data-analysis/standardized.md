@@ -10,7 +10,7 @@
 
 3. Select the “Compute” option from the menu. This will bring up a new set of options.
 
-<p align="center"><kbd><img src="compute1.png"></kbd></p>
+<p align="center"><kbd><img src="standardized1.png"></kbd></p>
 
 #### Computing Transformations
 
@@ -24,7 +24,7 @@
 
 8. To hide the setup menu, click on the large UP arrow button to the right of the variable name.
 
-<p align="center"><kbd><img src="compute2.png"></kbd></p>
+<p align="center"><kbd><img src="standardized2.png"></kbd></p>
 
 #### Viewing the Transformed Scores
 
@@ -32,7 +32,7 @@
 
 10.	These variables can be used in subsequent analyses. You can follow the previous tutorials to get descriptive statistics for these variables.
 
-<p align="center"><kbd><img src="compute3.png"></kbd></p>
+<p align="center"><kbd><img src="standardized3.png"></kbd></p>
 
 #### Obtaining Standardized Scores
 
@@ -42,7 +42,7 @@
 
 13.	Select the “Compute” option from the menu. This will bring up a new set of options.
 
-<p align="center"><kbd><img src="compute4.png"></kbd></p>
+<p align="center"><kbd><img src="standardized4.png"></kbd></p>
 
 #### Computing Standardized Scores
 
@@ -56,7 +56,7 @@
 
 18.	To hide the setup menu, click on the large UP arrow button to the right of the variable name.
 
-<p align="center"><kbd><img src="compute5.png"></kbd></p>
+<p align="center"><kbd><img src="standardized5.png"></kbd></p>
 
 #### Viewing the Standardized Scores
 
@@ -64,4 +64,4 @@
 
 20.	These variables can be used in subsequent analyses. You can follow the previous tutorials to get descriptive statistics for these variables.
 
-<p align="center"><kbd><img src="compute6.png"></kbd></p>
+<p align="center"><kbd><img src="standardized6.png"></kbd></p>

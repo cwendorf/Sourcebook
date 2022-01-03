@@ -8,7 +8,7 @@
 
 2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options. 
 
-<p align="center"><kbd><img src="image1.png"></kbd></p>
+<p align="center"><kbd><img src="repeated1.png"></kbd></p>
 
 #### Setting Variable Properties
 
@@ -18,7 +18,7 @@
 
 5. To hide the setup menu, click on the large UP arrow button to the right of the variable name. 
 
-<p align="center"><kbd><img src="image4.png"></kbd></p>
+<p align="center"><kbd><img src="repeated2.png"></kbd></p>
 
 #### Entering Data
 
@@ -26,4 +26,4 @@
 
 7. Notice that each individual (i.e., the rows) have values for each instance of the within-subjects variable (i.e., the columns). 
 
-<p align="center"><kbd><img src="image5.png"></kbd></p>
+<p align="center"><kbd><img src="repeated3.png"></kbd></p>

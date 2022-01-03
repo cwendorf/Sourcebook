@@ -8,7 +8,7 @@
 
 2. On the “Analysis” tab, select the “T-Tests -> One Sample T-Test” option. 
 
-<p align="center"><kbd><img src="confint1.png"></kbd></p>
+<p align="center"><kbd><img src="intervals1.png"></kbd></p>
 
 #### Choosing the Variable
 
@@ -18,7 +18,7 @@
 
 5. Output will automatically appear on the right side of the window. Output can be copied and pasted into other documents for printing.
 
-<p align="center"><kbd><img src="confint2.png"></kbd></p>
+<p align="center"><kbd><img src="intervals2.png"></kbd></p>
 
 #### Obtaining the Statistics
 
@@ -28,6 +28,6 @@
 
 8. Similarly, select other options that are important for you: “Descriptives” will offer a mean and standard deviation for the variable; and “Descriptives plots” will provide a graph of the confidence interval.
 
-9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other documents for printing.
+9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
 
-<p align="center"><kbd><img src="confint3.png"></kbd></p>
+<p align="center"><kbd><img src="intervals3.png"></kbd></p>
