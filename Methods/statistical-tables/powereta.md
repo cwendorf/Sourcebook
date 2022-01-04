@@ -48,7 +48,7 @@ Tabled Values are Probabilities for a Single-Factor Design, df<sub>EFFECT</sub> 
 | **240** | .669 | .938 | .999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 | **360** | .847 | .991 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 
-### Power Table for Eta-Squared (Continued)
+### Power Table for Eta-Squared
 
 Tabled Values are Probabilities for a Single-Factor Design, df<sub>EFFECT</sub> = 3, α = .05, *n* = Sample Size per Condition
 
@@ -96,7 +96,7 @@ Tabled Values are Probabilities for a Single-Factor Design, df<sub>EFFECT</sub> 
 | **240** | .743 | .971 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 | **360** | .906 | .998 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 
-### Power Table for Eta-Squared (Continued)
+### Power Table for Eta-Squared
 
 Tabled Values are Probabilities for a Single-Factor Design, df<sub>EFFECT</sub> = 2, α = .01, *n* = Sample Size per Condition
 
@@ -144,7 +144,7 @@ Tabled Values are Probabilities for a Single-Factor Design, df<sub>EFFECT</sub> 
 | **240** | .431 | .823 | .994 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 | **360** | .662 | .962 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 
-### Power Table for Eta-Squared (Continued)
+### Power Table for Eta-Squared
 
 Tabled Values are Probabilities for a Single-Factor Design, df<sub>EFFECT</sub> = 3, α = .01, *n* = Sample Size per Condition
 
