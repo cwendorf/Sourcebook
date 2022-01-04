@@ -1,8 +1,6 @@
-## JASP: Data Analysis
+## JASP: T Test (Paired Samples) 
 
-### T Test (Paired Samples) 
-
-#### Obtaining Paired-Sample Inferential Statistics
+### Obtaining Paired-Sample Inferential Statistics
 
 1. First, load the paired samples or repeated measures data file that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="paired1.png"></kbd></p>
 
-#### Obtaining the Significance Test
+### Obtaining the Significance Test
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -20,7 +18,7 @@
 
 <p align="center"><kbd><img src="paired2.png"></kbd></p>
 
-#### Obtaining Additional Statistics
+### Obtaining Additional Statistics
 
 6. Select the options that are important for you: "Location parameter" will display the size of the difference between the two means; "Effect size" will display Cohen's d; and "Descriptives" will offer means and standard deviations for each variable.
 

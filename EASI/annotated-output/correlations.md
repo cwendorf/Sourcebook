@@ -1,9 +1,7 @@
 
-## EASI: Annotated Output
+## EASI: Correlations
 
-### Correlations
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 ```r
 describeMeans(Outcome1,Outcome2)
@@ -50,7 +48,7 @@ describeCorrelations(Outcome1,Outcome2)
 > Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a function of the Covariance and the Standard Deviations of both variables:
 > \\[ r = \frac{COV}{(SD_X) (SD_Y)} = \frac{3.000}{(2.449) (2.449)} = .500 \\]
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 ```r
 testCorrelations(Outcome1,Outcome2)

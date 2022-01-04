@@ -1,8 +1,6 @@
-## SPSS: Data Analysis
+## SPSS: Frequencies (Frequencies and Descriptives) 
 
-### Frequencies (Frequencies and Descriptives) 
-
-#### Obtaining Frequency-Related Statistics
+### Obtaining Frequency-Related Statistics
 
 1. First, enter the data (described elsewhere). 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="frequencies1.png"></kbd></p>
 
-#### Obtaining a Frequency Distribution
+### Obtaining a Frequency Distribution
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="frequencies2.png"></kbd></p>
 
-#### Obtaining Summary Statistics 
+### Obtaining Summary Statistics 
  
 7. To obtain summary statistics, select "Statistics." Another dialogue box will appear.
 
@@ -32,7 +30,7 @@
 
 <p align="center"><kbd><img src="frequencies3.png"></kbd></p>
 
-#### Obtaining a Histogram 
+### Obtaining a Histogram 
 
 10. To obtain a histogram, click on the "Charts" button. Another dialogue box will appear.
 

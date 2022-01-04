@@ -1,8 +1,6 @@
-## jamovi: Data Analysis
+## jamovi: T Test (One Sample) 
 
-### T Test (One Sample) 
-
-#### Obtaining One Sample Inferential Statistics
+### Obtaining One Sample Inferential Statistics
 
 1. First, enter the data (described elsewhere). 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="onesample1.png"></kbd></p>
 
-#### Obtaining Significance Tests
+### Obtaining Significance Tests
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -20,7 +18,7 @@
 
 <p align="center"><kbd><img src="onesample2.png"></kbd></p>
 
-#### Obtaining Additional Statistics
+### Obtaining Additional Statistics
 
 6. Be sure to enter a known or hypothesized mean into the "Test Value" field. If you do not enter a value here, jamovi will automatically use zero as the comparison mean.
 

@@ -1,8 +1,6 @@
-## JASP: Data Entry
+## JASP: Repeated Measures Data 
 
-### Repeated Measures Data 
-
-#### Entering Data (Using a Spreadsheet)
+### Entering Data (Using a Spreadsheet)
 
 1. For repeated measures data, the columns represent the different instances of the within-subjects variable. In the example here, each column is a measurement of the same outcome variable (with the first row labeled accordingly).
 
@@ -12,7 +10,7 @@
 
 <p align="center"><kbd><img src="repeated1.png"></kbd></p>
 
-#### Entering Data (Using a Text Editor)
+### Entering Data (Using a Text Editor)
 
 4. For repeated measures data, the columns represent the different instances of the within-subjects variable. In the example here, each column is a measurement of the same outcome variable (with the first row labeled accordingly).
 

@@ -1,9 +1,7 @@
 
-## EASI: Annotated Output
+## EASI: Factorial ANOVA
 
-### Factorial ANOVA
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 ```r
 describeMeansBy(Outcome~FactorA,by=FactorB)
@@ -32,7 +30,7 @@ describeMeansBy(Outcome~FactorA,by=FactorB)
 > \\[ M_{B1} = \frac{\sum n_{GROUP} (M_{GROUP})}{N_{LEVEL}} = \frac{ 4 (2.000) + 4 (6.000) }{( 4 + 4 )} = 4.000 \\]
 > \\[ M_{B2} = \frac{\sum n_{GROUP} (M_{GROUP})}{N_{LEVEL}} = \frac{ 4 (7.000) + 4 (5.000) }{( 4 + 4 )} = 4.000 \\]
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 ```r
 describeMeansOmnibusMultifactor(Outcome~FactorA,by=FactorB)

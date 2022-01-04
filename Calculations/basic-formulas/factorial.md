@@ -1,8 +1,6 @@
-## Calculations: Basic Formulas
+## Calculations: Factorial ANOVA
 
-### Factorial ANOVA
-
-#### Formulas
+### Formulas
 
 Error (Within Groups) Statistics: Within-groups error statistics are a function of the within group variabilities.
 

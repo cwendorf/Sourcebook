@@ -1,15 +1,13 @@
-## SPSS: Blank Output
+## SPSS: Correlations (Bivariate)
 
-### Correlations (Bivariate)
-
-#### Descriptive Statistics
+### Descriptive Statistics
 
 | |Mean|Std. Deviation|N|
 | :- | :-: | :-: | :-: |
 |Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 |Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 
-#### Correlations
+### Correlations
 
 | | |Variable:<br>\_\_\_\_\_\_\_\_\_|Variable:<br>\_\_\_\_\_\_\_\_\_|
 | :- | :- | :-: | :-: |

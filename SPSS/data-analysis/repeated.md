@@ -1,8 +1,6 @@
-## SPSS: Data Analysis
+## SPSS: General Linear Model (Repeated Measures ANOVA) 
 
-### General Linear Model (Repeated Measures ANOVA) 
-
-#### Obtaining Repeated Measures Inferential Statistics
+### Obtaining Repeated Measures Inferential Statistics
 
 1. First, enter the repeated measures data. This is described elsewhere. 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="repeated1.png"></kbd></p>
 
-#### Labeling the Within-Subjects Variable/Factor 
+### Labeling the Within-Subjects Variable/Factor 
 
 3. A dialogue box will then appear for you to create the repeated measures factor. This box is necessary because SPSS does not yet know which columns you wish to identify as repeated measurements of the same underlying factor. 
 
@@ -20,7 +18,7 @@
 
 <p align="center"><kbd><img src="repeated2.png"></kbd></p>
 
-#### Creating the Within-Subjects Factor
+### Creating the Within-Subjects Factor
 
 6. It is then important that you finalize the creation of the within-subjects factor by clicking on the "Add" button. This officially declares the new factor in SPSS.
 
@@ -30,7 +28,7 @@
 
 <p align="center"><kbd><img src="repeated3.png"></kbd></p>
 
-#### Obtaining the Significance Test
+### Obtaining the Significance Test
 
 9. A dialogue box will then appear for you to define which columns/variables reflect the levels of the within-subjects factor.
 
@@ -40,7 +38,7 @@
 
 <p align="center"><kbd><img src="repeated4.png"></kbd></p>
 
-#### Obtaining Descriptive Statistics
+### Obtaining Descriptive Statistics
 
  12. If you wish to get the means, standard deviations, standard errors, and 95% confidence  intervals for each group, select the "Options" button.
 

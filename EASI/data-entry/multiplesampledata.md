@@ -1,9 +1,7 @@
 
-## EASI: Data Entry
+## EASI: Multiple Sample Data
 
-### Multiple Sample Data
-
-#### Entering Data
+### Entering Data
 
 Enter the data in vectors that assign variable names. On the categorical Factor, you will use numbers to represent the categories (or “levels”) of the variable.
 
@@ -18,7 +16,7 @@ Declare which variable is considered a Factor. In addition to specifying how man
 Factor <- factor(Factor,levels=c(1,2),labels=c("Level1","Level2"))
 ```
 
-#### Viewing the Data
+### Viewing the Data
 
 Create and display a data frame to view the data set.
 

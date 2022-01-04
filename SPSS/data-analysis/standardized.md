@@ -1,8 +1,6 @@
-## SPSS: Data Analysis
+## SPSS: Descriptives (Standardized Scores and Transformations) 
 
-### Descriptives (Standardized Scores and Transformations) 
-
-#### Obtaining Descriptive-Related Statistics 
+### Obtaining Descriptive-Related Statistics 
 
 1. First, enter the data (described elsewhere). 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="standardized1.png"></kbd></p>
 
-#### Obtaining Standardized (z) Scores 
+### Obtaining Standardized (z) Scores 
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="standardized2.png"></kbd></p>
 
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 7. To obtain summary statistics, select "Options." Another dialogue box will appear.
 
@@ -32,7 +30,7 @@
 
 <p align="center"><kbd><img src="standardized3.png"></kbd></p>
 
-#### Viewing the Standardized Scores  
+### Viewing the Standardized Scores  
 
 10. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 

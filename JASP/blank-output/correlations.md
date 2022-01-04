@@ -1,19 +1,6 @@
-## JASP: Blank Output
+## JASP: Correlations (Bivariate)
 
-### Correlations (Bivariate)
-
-#### Descriptives
-
-Pearson Correlations	
-
-| | |Variable:<br>\_\_\_\_\_\_\_\_\_|Variable:<br>\_\_\_\_\_\_\_\_\_|
-| :- | :- | :-: | :-: |
-|Variable:<br>\_\_\_\_\_\_\_\_\_|Pearson’s r|XXXXX|\_\_\_\_\_\_\_|
-||p-value|XXXXX|\_\_\_\_\_\_\_|
-|Variable:<br>\_\_\_\_\_\_\_\_\_|Pearson’s r||XXXXX|
-||p-value||XXXXX|
-
-#### Descriptives
+### Descriptives
 
 Descriptive Statistics
 
@@ -23,3 +10,14 @@ Descriptive Statistics
 |Missing|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
 |Mean|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Std. Deviation|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
+
+### Descriptives
+
+Pearson Correlations	
+
+| | |Variable:<br>\_\_\_\_\_\_\_\_\_|Variable:<br>\_\_\_\_\_\_\_\_\_|
+| :- | :- | :-: | :-: |
+|Variable:<br>\_\_\_\_\_\_\_\_\_|Pearson’s r|XXXXX|\_\_\_\_\_\_\_|
+||p-value|XXXXX|\_\_\_\_\_\_\_|
+|Variable:<br>\_\_\_\_\_\_\_\_\_|Pearson’s r||XXXXX|
+||p-value||XXXXX|

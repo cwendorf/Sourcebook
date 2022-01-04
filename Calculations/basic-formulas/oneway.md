@@ -1,8 +1,6 @@
-## Calculations: Basic Formulas
+## Calculations: One-Way ANOVA
 
-### One-Way ANOVA
-
-#### Formulas
+### Formulas
 
 Within Groups Statistics: Within-groups error statistics are a function of the within group variabilities.
 

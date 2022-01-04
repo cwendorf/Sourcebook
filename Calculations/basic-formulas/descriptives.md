@@ -1,8 +1,6 @@
-## Calculations: Basic Formulas
+## Calculations: Descriptives
 
-### Descriptives
-
-#### Formulas 
+### Formulas 
 
 Mean: The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
 

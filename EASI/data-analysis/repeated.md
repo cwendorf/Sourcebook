@@ -1,9 +1,7 @@
 
-## EASI: Data Analysis
+## EASI: Repeated Measures ANOVA
 
-### Repeated Measures ANOVA
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 Get the means and standard deviations for the variables.
 
@@ -11,7 +9,7 @@ Get the means and standard deviations for the variables.
 describeMeans(Outcome1,Outcome2)
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 Get the analysis of variance source table.
 

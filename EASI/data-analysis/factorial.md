@@ -1,9 +1,7 @@
 
-## EASI: Data Analysis
+## EASI: Factorial ANOVA
 
-### Factorial ANOVA
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 Get the mean and standard deviation of the dependent variable for each of the levels. The "by" option tells EASI how to split the data.
 
@@ -11,7 +9,7 @@ Get the mean and standard deviation of the dependent variable for each of the le
 describeMeansBy(Outcome~FactorA,by=FactorB)
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 Get the analysis of variance source table.
 

@@ -1,8 +1,13 @@
-## JASP: Blank Output
+## JASP: Repeated Measures ANOVA
 
-### Repeated Measures ANOVA
+### Descriptives 
 
-#### Within Subjects ANOVA
+|RM Factor 1|Mean|SD|N|
+| :- | :-: | :-: | :-: |
+|Level 1|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
+|Level 2|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
+
+### Within Subjects ANOVA
 
 ||Sum of Squares|df|Mean Square|F|p|η<sup>2</sup>|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -10,10 +15,3 @@
 |Residual|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_||||
 
 *Note.* Type III Sum of Squares
-
-#### Descriptives 
-
-|RM Factor 1|Mean|SD|N|
-| :- | :-: | :-: | :-: |
-|Level 1|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
-|Level 2|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|

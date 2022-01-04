@@ -1,9 +1,7 @@
 
-## EASI: Data Analysis
+## EASI: Paired Samples t Test
 
-### Paired Samples t Test
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 Get the means and standard deviations for the variables.
 
@@ -11,7 +9,7 @@ Get the means and standard deviations for the variables.
 describeMeans(Outcome1,Outcome2)
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 Get the mean difference and its confidence interval.
 

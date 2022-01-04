@@ -1,9 +1,7 @@
 
-## EASI: Data Analysis
+## EASI: Confidence Intervals
 
-### Confidence Intervals
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 Get the mean and standard deviation for the variable.
 
@@ -11,7 +9,7 @@ Get the mean and standard deviation for the variable.
 describeMeans(Outcome)
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 Get the mean and its confidence interval.
 

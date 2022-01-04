@@ -1,9 +1,7 @@
 
-## EASI: Annotated Output
+## EASI: One Way ANOVA
 
-### One Way ANOVA
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 ```r
 describeMeans(Outcome~Factor)
@@ -17,7 +15,7 @@ describeMeans(Outcome~Factor)
 ## Level3   4.000   7.000   2.449  -0.544  -2.944
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 ```r
 describeMeansOmnibus(Outcome~Factor)

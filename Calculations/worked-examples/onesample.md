@@ -1,8 +1,6 @@
-## Calculations: Worked Examples
+## Calculations: One Sample t Test
 
-### One Sample t Test
-
-#### Data
+### Data
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
 
@@ -17,7 +15,7 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-#### Computer Output
+### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
 
@@ -33,7 +31,7 @@ The table of inferential statistics shows the key elements to be calculated.
 |:--------|----------:|------:|------:|----------------:|---------:|---------:|----------:|
 | Outcome |	   -2.722 | 7.000 | 0.030 |          -3.000 |   -5.606 |    -.394 |     -.963 |
 
-#### Calculations
+### Calculations
 
 Standard Error of the Mean: The standard error of the mean provides an estimate of how spread out the distribution of all possible random sample means would be.
 
@@ -60,7 +58,7 @@ Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the
 > \\[ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 \\]
 > Given Cohen's heuristics for interpreting effect sizes, this would be considered a large effect.
 
-#### APA Style Summary
+### APA Style Summary
 
 For this analysis, a sample mean has been compared to a user-specified test value (or a population mean). Thus, the summary and the inferential statistics focus on that difference. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the confidence interval and effect size.
 

@@ -1,8 +1,12 @@
-## jamovi: Blank Output
+## jamovi: T-Test (One Sample)
 
-### T-Test (One Sample)
+### Descriptives
 
-#### One-Sample T-Test
+|Variable:|N|Mean|Median|SD|SE|
+| :- | :-: | :-: | :-: | :-: | :-: |
+|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
+
+### One-Sample T-Test
 
 ||||||95% Confidence Interval|||
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -10,9 +14,3 @@
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 *Note.* All tests, hypothesis is population mean is different from \_\_\_\_\_\_
-
-#### Descriptives
-
-|Variable:|N|Mean|Median|SD|SE|
-| :- | :-: | :-: | :-: | :-: | :-: |
-|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|

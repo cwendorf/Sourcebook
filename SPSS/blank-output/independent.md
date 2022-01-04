@@ -1,15 +1,13 @@
-## SPSS: Blank Output
+## SPSS: T-Test (Independent Samples)
 
-### T-Test (Independent Samples)
-
-#### Group Statistics
+### Group Statistics
 
 | |Group|N|Mean|Std. Deviation|Std. Error Mean|
 | :- | :- | :-: | :-: | :-: | :-: |
 |Variable: \_\_\_\_\_\_\_\_\_|Level 1|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 | |Level 2|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 
-#### Independent Samples Test
+### Independent Samples Test
 
 | | ||||||95% Confidence Interval <br>of the Difference||
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |

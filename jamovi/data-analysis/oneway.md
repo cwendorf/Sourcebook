@@ -1,8 +1,6 @@
-## jamovi: Data Analysis
+## jamovi: ANOVA (OneWay ANOVA)
 
-### ANOVA (OneWay ANOVA)
-
-#### Obtaining Multiple Sample Inferential Statistics
+### Obtaining Multiple Sample Inferential Statistics
 
 1. First, enter multiple group data (described elsewhere).
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="oneway1.png"></kbd></p>
 
-#### Obtaining the Significance Test
+### Obtaining the Significance Test
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="oneway2.png"></kbd></p>
 
-#### Obtaining Additional Statistics
+### Obtaining Additional Statistics
 
 7. Choose an effect size measure from the "Effect Size" list.
 

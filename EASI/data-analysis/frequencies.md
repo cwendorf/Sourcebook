@@ -1,9 +1,7 @@
 
-## EASI: Data Analysis
+## EASI: Frequencies
 
-### Frequencies
-
-####  Obtaining a Frequency Distribution
+###  Obtaining a Frequency Distribution
 
 Get the frequency distribution for the variable.
 
@@ -11,7 +9,7 @@ Get the frequency distribution for the variable.
 describeFrequencies(Outcome)
 ```
 
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 Get the percentiles for the variable.
 

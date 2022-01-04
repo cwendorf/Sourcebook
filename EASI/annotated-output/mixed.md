@@ -1,9 +1,7 @@
 
-## EASI: Annotated Output
+## EASI: Mixed Design ANOVA
 
-### Mixed Design ANOVA
-
-#### Entering Data
+### Entering Data
 
 ```r
 Factor <- c(1,1,1,1,2,2,2,2)
@@ -13,7 +11,7 @@ Outcome3 <- c(4,9,6,9,3,3,6,8)
 Factor <- factor(Factor,levels=c(1,2),labels=c("Level1","Level2"))
 ```
 
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 
 ```r
@@ -34,7 +32,7 @@ describeMeansBy(Outcome1,Outcome2,Outcome3,by=Factor)
 ## Outcome3   4.000   5.000   2.449   0.544  -2.944
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 
 ```r

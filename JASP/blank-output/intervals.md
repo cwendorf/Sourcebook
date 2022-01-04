@@ -1,16 +1,14 @@
-## JASP: Blank Output
+## JASP: T-Test (Confidence Intervals)
 
-### T-Test (Confidence Intervals)
+### Descriptives
 
-#### One-Sample T-Test
+|Variable:|N|Mean|SD|SE|
+| :- | :-: | :-: | :-: | :-: |
+|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
+
+### One-Sample T-Test
 
 | ||||95% Confidence Interval||
 | :- | :-: | :-: | :-: | :-: | :-: |
 |**Variable:**|**t**|**df**|**p**|**Lower**|**Upper**|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
-
-#### Descriptives
-
-|Variable:|N|Mean|SD|SE|
-| :- | :-: | :-: | :-: | :-: |
-|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|

@@ -1,6 +1,4 @@
-## Statistical Methods: Reporting Statistics
-
-### Summary of Parametric Statistics
+## Methods: Summary of Parametric Statistics
 
 | **Statistic** | **Purpose** | **APA Style** | **Description** |
 | --- | --- | --- | --- |

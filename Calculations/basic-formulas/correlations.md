@@ -1,8 +1,6 @@
-## Calculations: Basic Formulas
+## Calculations: Correlations
 
-### Correlations
-
-#### Formulas 
+### Formulas 
 
 Sum of Cross Products: The Sum of Cross Products (SCP) is not easily determined solely from the summary statistics of the output, but rather from the data.
 

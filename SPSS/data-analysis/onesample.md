@@ -1,8 +1,6 @@
-## SPSS: Data Analysis
+## SPSS: T Test (One Sample) 
 
-### T Test (One Sample) 
-
-#### Obtaining One-Sample Inferential Statistics
+### Obtaining One-Sample Inferential Statistics
 
  1. First, enter the data (described elsewhere). 
 

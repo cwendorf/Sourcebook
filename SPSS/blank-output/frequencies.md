@@ -1,8 +1,6 @@
-## SPSS: Blank Output
+## SPSS: Frequencies (Frequencies and Descriptives)
 
-### Frequencies (Frequencies and Descriptives)
-
-#### Frequencies
+### Frequencies
 
 Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -20,7 +18,7 @@ Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 | |\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 | |Total|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_| |
 
-#### Statistics
+### Statistics
 
 Variable:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

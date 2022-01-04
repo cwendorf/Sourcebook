@@ -1,8 +1,6 @@
-## Calculations: Worked Examples
+## Calculations: Post Hoc Comparisons
 
-### Post Hoc Comparisons
-
-#### Data
+### Data
 
 The following data set reflects a between-subjects design with one factor (with three levels). The data are presented in the format suitable for entry into statistical software.
 
@@ -21,7 +19,7 @@ The following data set reflects a between-subjects design with one factor (with 
 | 11  | 3.00   | 4.00    |
 | 12  | 3.00   | 9.00    |
 
-#### Computer Output
+### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
 
@@ -47,7 +45,7 @@ The table of inferential statistics shows the key elements to be calculated.
 | Level1  |	Level3  |          -5.000 |        1.732 |   -2.887 | 0.043 |   -9.836 |   -0.164 |
 | Level2  |	Level3  |          -1.000 |        1.732 |   -0.577 | 0.835 |   -5.836 |    3.836 | 
 
-#### Calculations
+### Calculations
 
 Mean Differences: Mean Differences (raw effects) are the differences between the means for all pairs of groups. Half of the possible pairwise comparisons are redundant and do not need to be calculated (though the mean differences will have the opposite signs because of subtraction order if they were calculated).
 
@@ -82,7 +80,7 @@ Confidence Intervals: For *HSD*, calculate the confidence intervals around (cent
 > \\[ CI_{2vs3} = ( M_2 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -1.000 \pm (2.792) (1.732) = [ −5.836, 3.836 ] \\]
 > For each comparison, the researcher estimates the true population mean difference (knowing that the estimates could be incorrect).
 
-#### APA Style Summary
+### APA Style Summary
 
 Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups and usually follows a presentation of the ANOVA (which already includes the descriptive information). The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the confidence intervals (and can be presented on its own). Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
 

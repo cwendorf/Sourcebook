@@ -1,8 +1,6 @@
-## jamovi: Data Analysis
+## jamovi: T Test (Paired Samples) 
 
-### T Test (Paired Samples) 
-
-#### Obtaining Paired Sample Inferential Statistics
+### Obtaining Paired Sample Inferential Statistics
 
 1. First, enter paired samples or repeated measures data (described elsewhere). 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="paired1.png"></kbd></p>
 
-#### Obtaining the Significance Test
+### Obtaining the Significance Test
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -20,7 +18,7 @@
 
 <p align="center"><kbd><img src="paired2.png"></kbd></p>
 
-#### Obtaining Additional Statistics 
+### Obtaining Additional Statistics 
 
 6. If you wish to view (and alter) the width of the confidence interval, check the "Confidence Interval" box. 
 

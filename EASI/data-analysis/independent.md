@@ -1,9 +1,7 @@
 
-## EASI: Data Analysis
+## EASI: Independent Samples t Test
 
-### Independent Samples t Test
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 Get the mean and standard deviation of the dependent variable for each of the levels.
 
@@ -11,7 +9,7 @@ Get the mean and standard deviation of the dependent variable for each of the le
 describeMeans(Outcome~Factor)
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 Get the mean difference and its confidence interval.
 

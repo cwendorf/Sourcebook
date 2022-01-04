@@ -1,8 +1,6 @@
-## SPSS: Data Analysis
+## SPSS: Correlations (Bivariate) 
 
-### Correlations (Bivariate) 
-
-#### Obtaining Correlational Statistics
+### Obtaining Correlational Statistics
 
 1. First, enter data involving multiple variables. This is described elsewhere.
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="correlations1.png"></kbd></p>
 
-#### Obtaining the Correlations (and Significance Tests)
+### Obtaining the Correlations (and Significance Tests)
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="correlations2.png"></kbd></p>
 
-#### Obtaining Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 7. If you wish to get the descriptive statistics as well, select the "Options" button.
 

@@ -1,8 +1,6 @@
-## Calculations: Basic Formulas
+## Calculations: Independent Samples t Test
 
-### Independent Samples t Test
-
-#### Formulas
+### Formulas
 
 Mean Difference (Raw Effect): The mean difference is the difference between the two sample means (raw effect).
 

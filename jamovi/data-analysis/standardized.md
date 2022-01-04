@@ -1,8 +1,6 @@
-## jamovi: Data Analysis
+## jamovi: Compute (Transformations and Standardized Scores)
 
-### Compute (Transformations and Standardized Scores)
-
-#### Obtaining the Compute Menu
+### Obtaining the Compute Menu
 
 1. First, enter the data (described elsewhere).
 
@@ -12,7 +10,7 @@
 
 <p align="center"><kbd><img src="standardized1.png"></kbd></p>
 
-#### Computing Transformations
+### Computing Transformations
 
 4. Type in the new you wish to give the new variable (here it is “trOutcome).
 
@@ -26,7 +24,7 @@
 
 <p align="center"><kbd><img src="standardized2.png"></kbd></p>
 
-#### Viewing the Transformed Scores
+### Viewing the Transformed Scores
 
 9. Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
 
@@ -34,7 +32,7 @@
 
 <p align="center"><kbd><img src="standardized3.png"></kbd></p>
 
-#### Obtaining Standardized Scores
+### Obtaining Standardized Scores
 
 11.	In addition, you can obtain standardized scores. First, enter the data (described elsewhere).
 
@@ -44,7 +42,7 @@
 
 <p align="center"><kbd><img src="standardized4.png"></kbd></p>
 
-#### Computing Standardized Scores
+### Computing Standardized Scores
 
 14.	Type in the new you wish to give the new variable (here it is “zOutcome).
 
@@ -58,7 +56,7 @@
 
 <p align="center"><kbd><img src="standardized5.png"></kbd></p>
 
-#### Viewing the Standardized Scores
+### Viewing the Standardized Scores
 
 19.	Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
 

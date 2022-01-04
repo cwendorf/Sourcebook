@@ -1,8 +1,6 @@
-## JASP: Data Entry
+## JASP: Multiple Sample Data 
 
-### Multiple Sample Data 
-
-#### Entering Data (Using a Spreadsheet)
+### Entering Data (Using a Spreadsheet)
 
 1. In the first row, type the names of the variables you wish to analyze. One variable will represent the Factor (Independent Variable) and the other will represent the Outcome (Dependent) Variable.
 
@@ -14,7 +12,7 @@
 
 <p align="center"><kbd><img src="multiple1.png"></kbd></p>
 
-#### Entering Data (Using a Text Editor)
+### Entering Data (Using a Text Editor)
 
 5. In the first row, type the names of the variables you wish to analyze (with names separated by commas). One variable will represent the Factor (Independent Variable) and the other will represent the Outcome (Dependent) Variable.
 

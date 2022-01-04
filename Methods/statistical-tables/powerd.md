@@ -1,4 +1,4 @@
-## Statistical Methods: Statistical Tables
+## Methods: Cohen&#39;s *d*
 
 ### Power Table for Cohen&#39;s *d*
 
@@ -48,7 +48,7 @@ Tabled Values are Probabilities for a One-Sample Design, α = .05, *n* = Sample 
 | **240** | .338 | .870 | .996 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 | **360** | .473 | .966 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 
-#### Power Table for Cohen&#39;s *d* (Continued)
+### Power Table for Cohen&#39;s *d* (Continued)
 
 Tabled Values are Probabilities for a One-Sample Design, α = .01, *n* = Sample Size
 
@@ -96,7 +96,7 @@ Tabled Values are Probabilities for a One-Sample Design, α = .01, *n* = Sample 
 | **240** | .150 | .692 | .979 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 | **360** | .246 | .885 | .999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 
-#### Power Table for Cohen&#39;s *d* (Continued)
+### Power Table for Cohen&#39;s *d* (Continued)
 
 Tabled Values are Probabilities for a Dependent-Samples Design, α = .05, *n* = Sample Size
 
@@ -144,7 +144,7 @@ Tabled Values are Probabilities for a Dependent-Samples Design, α = .05, *n* = 
 | **240** | .339 | .871 | .996 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 | **360** | .474 | .966 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 
-#### Power Table for Cohen&#39;s *d* (Continued)
+### Power Table for Cohen&#39;s *d* (Continued)
 
 Tabled Values are Probabilities for a Dependent-Samples Design, α = .01, *n* = Sample Size
 
@@ -192,7 +192,7 @@ Tabled Values are Probabilities for a Dependent-Samples Design, α = .01, *n* = 
 | **240** | .151 | .696 | .980 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 | **360** | .247 | .887 | .999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 
-#### Power Table for Cohen&#39;s *d* (Continued)
+### Power Table for Cohen&#39;s *d* (Continued)
 
 Tabled Values are Probabilities for a Two-Sample Design, α = .05, *n* = Sample Size
 
@@ -240,7 +240,7 @@ Tabled Values are Probabilities for a Two-Sample Design, α = .05, *n* = Sample 
 | **240** | .193 | .590 | .907 | .992 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 | **360** | .268 | .764 | .980 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 | >.999 |
 
-#### Power Table for Cohen&#39;s *d* (Continued)
+### Power Table for Cohen&#39;s *d* (Continued)
 
 Tabled Values are Probabilities for a Two-Sample Design, α = .01, *n* = Sample Size
 

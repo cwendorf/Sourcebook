@@ -1,8 +1,6 @@
-## SPSS: Data Analysis
+## SPSS: Post Hoc Tests (OneWay ANOVA) 
 
-### Post Hoc Tests (OneWay ANOVA) 
-
-#### Obtaining Multiple-Sample Inferential Statistics
+### Obtaining Multiple-Sample Inferential Statistics
 
 1. First, enter the data. This is done in the same manner as entering two sample data (described elsewhere) but with additional groups.
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="posthoc1.png"></kbd></p>
 
-#### Obtaining the Significance Test 
+### Obtaining the Significance Test 
  
 3. A dialogue box will then appear for you to choose the variables of interest. 
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="posthoc2.png"></kbd></p>
 
-#### Obtaining Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 7. If you wish to get the means, standard deviations, standard errors, and 95%  confidence intervals for each group, select the "Options" button.
 
@@ -32,7 +30,7 @@
 
 <p align="center"><kbd><img src="posthoc3.png"></kbd></p>
 
-#### Obtaining Post Hoc Tests
+### Obtaining Post Hoc Tests
 
 10. If you wish to obtain post hoc tests for the purpose of making comparisons between  groups, click the "Post Hoc" button.
 

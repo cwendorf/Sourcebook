@@ -1,9 +1,7 @@
 
-## EASI: Data Analysis
+## EASI: Post Hoc Tests
 
-### Post Hoc Tests
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 Get the mean and standard deviation for the dependent variable for each of the levels.
 
@@ -11,7 +9,7 @@ Get the mean and standard deviation for the dependent variable for each of the l
 describeMeans(Outcome~Factor)
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 Get all pairwise mean difference and their confidence intervals while adjusting them for multiple comparisons.
 

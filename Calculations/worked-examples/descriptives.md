@@ -1,8 +1,6 @@
-## Calculations: Worked Examples
+## Calculations: Descriptives
 
-### Descriptives
-
-#### Data
+### Data
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
 
@@ -17,7 +15,7 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-#### Computer Output
+### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
 
@@ -39,7 +37,7 @@ The table of descriptive statistics shows the key elements to be calculated.
 |:--------|----:|------:|---------------:|
 | Outcome |   8 | 4.000 |          3.117 |
 
-#### Calculations
+### Calculations
 
 Mean: The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
 
@@ -57,7 +55,7 @@ Standard Deviation: Standard Deviation is a function of the Mean Squares. It is 
 
 > \\[ SD = \sqrt{MS} = \sqrt{9.714} = 3.117 \\]
 
-#### APA Style Summary
+### APA Style Summary
 
 The purpose of the descriptive statistics is to provide the reader with an idea about the basic elements of the group(s) being studied. Note that this also forms the basis of the in-text presentation of descriptive statistics for other inferential analyses. Both of the following versions present the required information, though the second focuses more on the interpretation of the statistic.
 

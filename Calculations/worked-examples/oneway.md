@@ -1,8 +1,6 @@
-## Calculations: Worked Examples
+## Calculations: One-Way ANOVA
 
-### One-Way ANOVA
-
-#### Data 
+### Data 
 
 The following data set reflects a between-subjects design with one factor (with three levels). The data are presented in the format suitable for entry into statistical software.
 
@@ -21,7 +19,7 @@ The following data set reflects a between-subjects design with one factor (with 
 | 11  | 3.00   | 4.00    |
 | 12  | 3.00   | 9.00    |
 
-#### Computer Output
+### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
 
@@ -41,7 +39,7 @@ The table of inferential statistics shows the key elements to be calculated.
 | Within  |   54.000 |     9 |    6.000 |
 | Total   |  110.000 |    11 |          | 
 
-#### Calculations
+### Calculations
 
 Within Groups Statistics: Within-groups error statistics are a function of the within group variabilities.
 
@@ -82,7 +80,7 @@ Effect Size: The Eta-Squared statistic is a ratio of the between group and the t
 > \\[ \eta^2 = \frac{SS_{BETWEEN}}{( SS_{BETWEEN} + SS_{WITHIN} )} = \frac{56.000}{( 56.000 + 54.000 )} = .509 \\]
 > Thus, 50.9% of the variability among all of the scores in the study is accounted for by group membership.
 
-#### APA Style Summary
+### APA Style Summary
 
 The ANOVA provides an omnibus test of the differences across multiple groups. Because the ANOVA tests the overall differences among the groups, the text discusses the differences in general. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the effect size. Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
 

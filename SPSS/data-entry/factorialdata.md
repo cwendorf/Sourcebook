@@ -1,8 +1,6 @@
-## SPSS: Data Entry
+## SPSS: Factorial Data 
 
-### Factorial Data 
-
-#### Defining All Variables 
+### Defining All Variables 
 
 1. First, click on the "Variable View" tab on the bottom left-hand corner of the screen. Generally speaking, this is where you will define all of the variables in the data set. 
 
@@ -12,7 +10,7 @@
 
 <p align="center"><kbd><img src="factorial1.png"></kbd></p>
 
-#### Providing Labels for All Values
+### Providing Labels for All Values
 
 4. For categorical variables, you should also provide labels for the different categories. Do this by clicking on the "values" cell for the variable of interest. A button will appear and clicking on this button will make another dialog box appear. 
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="factorial2.png"></kbd></p>
 
-#### Entering Data
+### Entering Data
 
  7. Click on the "Data View" tab on the bottom left-hand corner. In this view, you will be able to enter the data.
 

@@ -1,8 +1,6 @@
-## Statistical Methods: Statistical Analyses
+## Methods: Choosing Appropriate Inferential Statistics
 
-### Choosing Appropriate Inferential Statistics
-
-#### Basic Research Design and Statistics Terminology
+### Basic Research Design and Statistics Terminology
 
 - Factor: The variable that identifies the different groups or conditions in a study. This is referred to as the independent variable in an experiment.
 - Outcome Variable: The measured outcome of study. This is referred to as the dependent variable in an experiment. 
@@ -13,7 +11,7 @@
 - Standardized Effect Size: Standardizes the raw mean difference relative to the standard deviation within groups. Cohen&#39;s *d* is one example.
 - Variance Accounted For Effect Size: Standardizes the between group variability relative to the total variability. Eta<sup>2</sup> is one example.
 
-#### A Decision Tree for Basic Statistics
+### A Decision Tree for Basic Statistics
 
 Which type of effect size measure and statistical significance test (and to some extent, which type of confidence interval) should be calculated depends on the research design.
 

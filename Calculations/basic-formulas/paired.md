@@ -1,8 +1,6 @@
-## Calculations: Basic Formulas
+## Calculations: Paired Samples t Test
 
-### Paired Samples t Test
-
-#### Formulas
+### Formulas
 
 For the Paired Samples t test, the focus is on the change variable. As a result, it is the only variable that is used in the calculations below.
 

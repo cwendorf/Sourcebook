@@ -1,8 +1,6 @@
-## jamovi: Data Analysis
+## jamovi: Correlations (Bivariate) 
 
-### Correlations (Bivariate) 
-
-#### Obtaining Correlational Statistics 
+### Obtaining Correlational Statistics 
 
 1. First, enter data involving multiple variables (described elsewhere). 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="correlations1.png"></kbd></p>
 
-#### Obtaining Correlations (and Significance Tests)
+### Obtaining Correlations (and Significance Tests)
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 

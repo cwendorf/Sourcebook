@@ -1,8 +1,6 @@
-## SPSS: Data Entry
+## SPSS: Repeated Measures Data 
 
-### Repeated Measures Data 
-
-#### Defining All Variables 
+### Defining All Variables 
 
 1. First, click on the "Variable View" tab on the bottom left-hand corner of the screen. Generally speaking, this is where you will define all of the variables in the data set. 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="repeated1.png"></kbd></p>
 
-#### Entering Data
+### Entering Data
 
 3. Click on the "Data View" tab on the bottom left-hand corner. In this view, you will be able to enter the data.
 

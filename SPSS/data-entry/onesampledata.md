@@ -1,16 +1,12 @@
-## SPSS: Data Entry
+## SPSS: One Sample Data 
 
-### One Sample Data 
-
-#### Defining All Variables
+### Defining All Variables
 
  1. First, click on the "Variable View" tab on the bottom left-hand corner of the screen. Generally speaking, this is where you will define all of the variables in the data set. 
 
  2. Type in the "Name" of the variable in the first cell. You may wish to enter a "Label" (or longer name) for the variable.
 
 <p align="center"><kbd><img src="onesample1.png"></kbd></p>
-
----
 
 ### Entering Data
 

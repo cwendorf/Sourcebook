@@ -1,8 +1,6 @@
-## jamovi: Blank Output
+## jamovi: Correlations (Bivariate)
 
-### Correlations (Bivariate)
-
-#### Descriptives
+### Descriptives
 
 | |Variable:<br>\_\_\_\_\_\_\_\_\_|Variable:<br>\_\_\_\_\_\_\_\_\_|
 | :- | :-: | :-: |
@@ -11,7 +9,7 @@
 |Mean|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Std. Deviation|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 
-#### Correlation Matrix
+### Correlation Matrix
 
 | | |Variable:<br>\_\_\_\_\_\_\_\_\_|Variable:<br>\_\_\_\_\_\_\_\_\_|
 | :- | :- | :-: | :-: |

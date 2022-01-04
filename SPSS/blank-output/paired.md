@@ -1,21 +1,19 @@
-## SPSS: Blank Output
+## SPSS: T-Test (Paired Samples)
 
-### T-Test (Paired Samples)
-
-#### Paired Samples Statistics
+### Paired Samples Statistics
 
 |||Mean|N|Std. Deviation|Std. Error Mean|
 | :- | :- | :-: | :-: | :-: | :-: | 
 |Pair 1|Variable 1:<br>\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 ||Variable 2:<br>\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 
-#### Paired Samples Correlations
+### Paired Samples Correlations
 
 |||N|Correlation|Sig.|
 | :- |:- |:-: |:-: |:-: |
 |Pair 1|Variable 1 & Variable 2|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_|
 
-#### Paired Samples Test
+### Paired Samples Test
 
 ||||||95% Confidence Interval <br>of the Difference|||||
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |

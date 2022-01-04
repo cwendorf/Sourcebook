@@ -1,8 +1,6 @@
-## SPSS: Blank Output
+## SPSS: Oneway (OneWay ANOVA)
 
-### Oneway (OneWay ANOVA)
-
-#### Descriptives
+### Descriptives
 
 ||||||95% Confidence Interval <br>for Mean||
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -12,7 +10,7 @@
 |Level 3|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 |Total|\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
 
-#### ANOVA
+### ANOVA
 
 ||Sum of Squares|df|Mean Square|F|Sig.|
 | :- | :-: | :-: | :-: | :-: | :-: |

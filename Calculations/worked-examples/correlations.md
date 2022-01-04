@@ -1,8 +1,6 @@
-## Calculations: Worked Examples
+## Calculations: Correlations
 
-### Correlations
-
-#### Data
+### Data
 
 The following data set reflects a within-subjects design with two outcome variables. The data are presented in the format suitable for entry into statistical software.
 
@@ -13,7 +11,7 @@ The following data set reflects a within-subjects design with two outcome variab
 | 3   | 3.00     | 4.00     |
 | 4   | 5.00     | 9.00     |
 
-#### Computer Output
+### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
 
@@ -37,7 +35,7 @@ The table of inferential statistics shows the key elements to be calculated.
 |          | SS and SCP  |    9.000 |   18.000 |
 |          | COV         |    3.000 |    6.000 |
 
-#### Calculations
+### Calculations
 
 Sum of Cross Products: The Sum of Cross Products (SCP) is not easily determined solely from the summary statistics of the output, but rather from the data.
 
@@ -51,7 +49,7 @@ Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a functi
 
 > \\[ r = \frac{COV}{(SD_X) (SD_Y)} = \frac{3.000}{(2.449) (2.449)} = .500 \\]
 
-#### APA Style Summary
+### APA Style Summary
 
 Correlations provide a measure of statistical relationship between two variables. Note that correlations can also have inferential information associated with them (and that this information should be summarized if it is available and of interest).
 

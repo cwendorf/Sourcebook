@@ -1,8 +1,6 @@
-## JASP: Data Entry
+## JASP: Factorial Data 
 
-### Factorial Data 
-
-#### Entering Data (Using a Spreadsheet)
+### Entering Data (Using a Spreadsheet)
 
 1. In the first row, type the names of the variables you wish to analyze. You should represent the Factors (Independent Variables) and the Outcome (Dependent) Variable.
 
@@ -14,7 +12,7 @@
 
 <p align="center"><kbd><img src="factorial1.png"></kbd></p>
 
-#### Entering Data (Using a Text Editor)
+### Entering Data (Using a Text Editor)
 
 5. In the first row, type the names of the variables you wish to analyze. You should represent the Factors (Independent Variables) and the Outcome (Dependent) Variable.
 

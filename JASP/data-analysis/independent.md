@@ -1,8 +1,6 @@
-## JASP: Using the Software
+## JASP: T Test (Independent Samples) 
 
-### T Test (Independent Samples) 
-
-#### Obtaining Two-Sample Inferential Statistics
+### Obtaining Two-Sample Inferential Statistics
 
 1. First, load the two sample data file that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="independent1.png"></kbd></p>
 
-#### Obtaining the Significance Test
+### Obtaining the Significance Test
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="independent2.png"></kbd></p>
 
-#### Obtaining Additional Statistics
+### Obtaining Additional Statistics
 
 7. Select the options that are important for you: "Location parameter" will display the size of the difference between the two group's means; "Effect size" will display Cohen's d; and "Descriptives" will offer means and standard  deviations for each group. 
 

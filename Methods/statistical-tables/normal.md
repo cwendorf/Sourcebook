@@ -1,6 +1,6 @@
-## Statistical Methods: Statistical Tables
+## Methods: Standard Normal Distribution
 
-### Standard Normal Distribution
+### Percentiles of the Standard Normal Distribution
 
 Tabled Values are Percentile Rank (*PR*) and Two-Tailed Probabilities (*p*) for the Given Normal Deviate (*z*)
 
@@ -50,7 +50,7 @@ Tabled Values are Percentile Rank (*PR*) and Two-Tailed Probabilities (*p*) for 
 | **-2.600** | .005 | .009 | | **-1.740** | .041 | .082 | | **-0.880** | .189 | .379 | | **-0.020** | .492 | .984 |
 | **-2.580** | .005 | .010 | | **-1.720** | .043 | .085 | | **-0.860** | .195 | .390 | | **0.000** | .500 | 1.000 |
 
-#### Standard Normal Distribution (Continued)
+### Percentiles of the Standard Normal Distribution (Continued)
 
 Tabled Values are Percentile Rank (*PR*) and Two-Tailed Probabilities (*p*) for the Given Normal Deviate (*z*)
 

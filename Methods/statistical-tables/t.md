@@ -1,4 +1,4 @@
-## Statistical Methods: Statistical Tables
+## Methods: Student's *t* Distribution
 
 ### Values of the *t* Distribution
 

@@ -1,8 +1,14 @@
-## jamovi: Blank Output
+## jamovi: Repeated Measures ANOVA
 
-### Repeated Measures ANOVA
+### Descriptives
 
-#### Within Subjects Effects
+|Factor: \_\_\_\_\_\_\_\_\_|N|Mean|SD|
+| :- | :-: | :-: | :-: |
+|Level 1|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
+|Level 2|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
+|Level 3|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
+
+### Within Subjects Effects
 
 ||Sum of Squares|df|Mean Square|F|p|Partial η<sup>2</sup>|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -11,18 +17,10 @@
 
 *Note.* Type 3 Sum of Squares
 
-#### Between Subjects Effects
+### Between Subjects Effects
 
 ||Sum of Squares|df|Mean Square|F|p|Partial η<sup>2</sup>|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
 |Residual|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_||||
 
 *Note.* Type 3 Sum of Squares
-
-#### Descriptives
-
-|Factor: \_\_\_\_\_\_\_\_\_|N|Mean|SD|
-| :- | :-: | :-: | :-: |
-|Level 1|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
-|Level 2|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|
-|Level 3|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|

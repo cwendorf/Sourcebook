@@ -1,9 +1,7 @@
 
-## EASI: Annotated Output
+## EASI: Frequencies
 
-### Frequencies
-
-####  Obtaining a Frequency Distribution
+###  Obtaining a Frequency Distribution
 
 ```r
 describeFrequencies(Outcome)
@@ -25,7 +23,7 @@ describeFrequencies(Outcome)
 > The “Valid Percent” column provides the percentage of cases for each possible score divided by the total number of cases. Here, there were no missing scores, so the percent columns are equal.  
 > “Cumulative Percent” is the SUM of all percentages up to and including the row in question. For example, 62.5% of scores were a 4 or smaller. Similarly, 37.5% were a 3 or smaller.
 
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 ```r
 describePercentiles(Outcome)

@@ -1,8 +1,6 @@
-## SPSS: Data Analysis
+## SPSS: Univariate Analysis of Variance (Factorial ANOVA) 
 
-### Univariate Analysis of Variance (Factorial ANOVA) 
-
-#### Obtaining Factorial Inferential Statistics
+### Obtaining Factorial Inferential Statistics
 
 1. First, enter the data (described elsewhere). 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="factorial1.png"></kbd></p>
 
-#### Obtaining the Significance Test 
+### Obtaining the Significance Test 
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="factorial2.png"></kbd></p>
 
-#### Obtaining Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 7. If you wish to get the means and standard deviations for each group, select the "Options" button.
 
@@ -36,7 +34,7 @@
 
 <p align="center"><kbd><img src="factorial3.png"></kbd></p>
 
-#### Obtaining Confidence Intervals
+### Obtaining Confidence Intervals
 
 12. If you wish to get the confidence intervals for each mean, select the "EM Means" button. 
 

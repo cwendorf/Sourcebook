@@ -1,17 +1,15 @@
-## jamovi: Blank Output
+## jamovi: T-Test (Paired Samples)
 
-### T-Test (Paired Samples)
-
-#### Paired Samples T-Test
-
-| ||||||95% Confidence Interval||
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|**Variables:**|**Statistic**|**df**|**p**|**Mean Difference**|**SE Difference**|**Lower**|**Upper**|**Cohen’s d**|
-|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
-
-#### Descriptives
+### Descriptives
 
 |Variable:|N|Mean|Median|SD|SE|
 | :- | :-: | :-: | :-: | :-: | :-: |
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 |\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
+
+### Paired Samples T-Test
+
+| ||||||95% Confidence Interval||
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|**Variables:**|**Statistic**|**df**|**p**|**Mean Difference**|**SE Difference**|**Lower**|**Upper**|**Cohen’s d**|
+|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|

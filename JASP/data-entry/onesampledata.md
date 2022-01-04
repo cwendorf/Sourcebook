@@ -1,8 +1,6 @@
-## JASP: Data Entry
+## JASP: One Sample Data 
 
-### One Sample Data 
-
-#### Entering Data on One Variable (Using a Spreadsheet)
+### Entering Data on One Variable (Using a Spreadsheet)
 
 1. In the first row and first cell, type the name of the outcome variable you wish to analyze.
 
@@ -12,7 +10,7 @@
 
 <p align="center"><kbd><img src="onesample1.png"></kbd></p>
 
-#### Entering Data on One Variable (Using a Text Editor)
+### Entering Data on One Variable (Using a Text Editor)
 
 4. In the first row, type the name of the outcome variable you wish to analyze. 
 

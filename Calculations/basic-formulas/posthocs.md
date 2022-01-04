@@ -1,8 +1,6 @@
-## Calculations: Basic Formulas
+## Calculations: Post Hoc Comparisons
 
-### Post Hoc Comparisons
-
-#### Formulas 
+### Formulas 
 
 Mean Differences: Mean Differences (raw effects) are the differences between the means for all pairs of groups. Half of the possible pairwise comparisons are redundant and do not need to be calculated (though the mean differences will have the opposite signs because of subtraction order if they were calculated).
 

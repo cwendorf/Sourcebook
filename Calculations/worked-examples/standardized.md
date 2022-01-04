@@ -1,8 +1,6 @@
-## Calculations: Worked Examples
+## Calculations: Standardized Scores
 
-### Standardized Scores
-
-#### Data
+### Data
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
 
@@ -17,7 +15,7 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-#### Computer Output
+### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
 
@@ -39,7 +37,7 @@ The following table of descriptive statistics show some of the key elements to b
 |:--------|----:|------:|---------------:|
 | Outcome | 8   | 4.000 | 3.117          |
 
-#### Calculations
+### Calculations
 
 Standardized (z) Score: A standardized score is a deviation score divided by the standard deviation. For the first score in the distribution:
 
@@ -88,6 +86,6 @@ standard deviation.
 
 > \\[ SD = \sqrt{MS} = \sqrt{1.000} = 1.000 \\]
 
-#### APA Style Summary
+### APA Style Summary
 
 Standardized scores are typically NOT presented in the summary of the data. Rather, they are often a first step in the calculations. As such, APA style is not presented here.

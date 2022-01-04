@@ -1,8 +1,6 @@
-## JASP: Data Analysis
+## JASP: Correlations (Bivariate) 
 
-### Correlations (Bivariate) 
-
-#### Obtaining Correlational Statistics
+### Obtaining Correlational Statistics
 
 1. First, load the data file containing multiple variables that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="correlations1.png"></kbd></p>
 
-#### Obtaining the Correlations (and Significance Tests)
+### Obtaining the Correlations (and Significance Tests)
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 

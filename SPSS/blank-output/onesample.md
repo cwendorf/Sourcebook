@@ -1,14 +1,12 @@
-## SPSS: Blank Output
+## SPSS: T Test (One Sample)
 
-### T Test (One Sample)
-
-#### One-Sample Statistics
+### One-Sample Statistics
 
 ||N|Mean|Std. Deviation|Std. Error Mean|
 | :- | :-: | :-: | :-: | :-: |
 |Variable: \_\_\_\_\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|
 
-#### One-Sample Test
+### One-Sample Test
 
 Test Value = \_\_\_\_\_\_\_
 

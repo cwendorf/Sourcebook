@@ -1,8 +1,6 @@
-## SPSS: Data Analysis
+## SPSS: T Test (Independent Samples) 
 
-### T Test (Independent Samples) 
-
-#### Obtaining Two-Sample Inferential Statistics
+### Obtaining Two-Sample Inferential Statistics
 
 1. First, enter the data (described elsewhere). 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="independent1.png"></kbd></p>
 
-#### Obtaining the Significance Test 
+### Obtaining the Significance Test 
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 
@@ -20,7 +18,7 @@
 
 <p align="center"><kbd><img src="independent2.png"></kbd></p>
 
-#### Defining the Groups to be Analyzed
+### Defining the Groups to be Analyzed
 
 6. In order to tell SPSS which two groups you wish to compare, click on the "Define Groups" box. 
 
@@ -32,7 +30,7 @@
 
 <p align="center"><kbd><img src="independent3.png"></kbd></p>
 
-#### Altering the Confidence Interval
+### Altering the Confidence Interval
 
 10. If you wish to alter the width of the confidence interval, select the "Options" button.
 

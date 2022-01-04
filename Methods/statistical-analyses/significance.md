@@ -1,8 +1,6 @@
-## Statistical Methods: Statistical Analyses
+## Methods: Understanding Statistical Significance Tests
 
-### Understanding Statistical Significance Tests
-
-#### Purpose of a Statistical Significance Test
+### Purpose of a Statistical Significance Test
 
 A statistical significance (or null hypothesis significance) test is decision-making procedure. At its simplest, it uses the probability of an outcome to decide whether a hypothesis is reasonable.
 
@@ -10,7 +8,7 @@ A hypothesis is a statement regarding the outcome of a particular study. Most im
 
 In general, the test of a hypothesis is a question of conditional probability. The question is: What is the probability of my results assuming that the null hypothesis is true? If the probability is very low, we can then question whether the null hypothesis really is reasonable; that is we reject the null hypothesis. If the probability is high, we do not question the viability of the null; that is, we fail to reject the null hypothesis.
 
-#### Significance Tests Need Sampling Distributions
+### Significance Tests Need Sampling Distributions
 
 A *sampling distribution* is a theoretical probability distribution of all possible values of a sample statistic. In statistical terms, we are looking for the sample space – the set of all possible outcomes – and the probabilities of each of these outcomes.
 

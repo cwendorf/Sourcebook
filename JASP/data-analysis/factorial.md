@@ -1,8 +1,6 @@
-## JASP: Data Analysis
+## JASP: ANOVA (Factorial ANOVA) 
 
-### ANOVA (Factorial ANOVA) 
-
-#### Obtaining Factorial Inferential Statistics
+### Obtaining Factorial Inferential Statistics
 
 1. First, load the factorial data file that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="factorial1.png"></kbd></p>
 
-#### Obtaining the Significance Test
+### Obtaining the Significance Test
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="factorial2.png"></kbd></p>
 
-#### Obtaining Additional Statistics
+### Obtaining Additional Statistics
 
 7. Though some basic summary statistics are displayed by default, you can make changes by expanding the "Additional Options" drop-down menu.
 

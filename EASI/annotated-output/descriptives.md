@@ -1,9 +1,7 @@
 
-## EASI: Annotated Output
+## EASI: Descriptives
 
-### Descriptives
-
-####  Obtaining a Frequency Distribution
+###  Obtaining a Frequency Distribution
 
 ```r
 describeFrequencies(Outcome)
@@ -20,7 +18,7 @@ describeFrequencies(Outcome)
 ## 9   1.000   0.125   8.000   1.000
 ```
 
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 ```r
 describeMeans(Outcome)

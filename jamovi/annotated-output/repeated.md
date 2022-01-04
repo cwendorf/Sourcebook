@@ -1,5 +1,3 @@
-## jamovi: Annotated Output
-
-### Repeated Measures ANOVA
+## jamovi: Repeated Measures ANOVA
 
 <p align="center"><kbd><img src="repeated.png"></kbd></p>

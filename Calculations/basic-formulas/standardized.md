@@ -1,8 +1,6 @@
-## Calculations: Basic Formulas
+## Calculations: Standardized Scores
 
-### Standardized Scores
-
-#### Formulas
+### Formulas
 
 Standardized (z) Score: A standardized score is a deviation score divided by the standard deviation. 
 

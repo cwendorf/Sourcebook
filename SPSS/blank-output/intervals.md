@@ -1,15 +1,13 @@
-## SPSS: Blank Output
+## SPSS: Explore (Descriptives and Confidence Intervals)
 
-### Explore (Descriptives and Confidence Intervals)
-
-#### Case Processing Summary
+### Case Processing Summary
 
 ||Valid||Missing||Total||
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
 ||**N**|**Percent**|**N**|**Percent**|**N**|**Percent**|
 |Variable: \_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_|\_\_\_\_\_|
 
-#### Descriptives
+### Descriptives
 
 ||||Statistic|Std. Error|
 | :- | :- |:- | :-: | :-: |

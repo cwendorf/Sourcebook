@@ -1,8 +1,6 @@
-## SPSS: Data Analysis
+## SPSS: Explore (Descriptives and Confidence Intervals) 
 
-### Explore (Descriptives and Confidence Intervals) 
-
-#### Obtaining Exploratory-Related Statistics 
+### Obtaining Exploratory-Related Statistics 
 
  1. First, enter the data (described elsewhere). 
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="intervals2.png"></kbd></p>
 
-#### Altering the Confidence Interval
+### Altering the Confidence Interval
 
 7. If you wish to alter the width of the confidence interval, select the "Statistics" button. 
 
@@ -32,7 +30,7 @@
 
 <p align="center"><kbd><img src="intervals3.png"></kbd></p>
 
-#### Obtaining a Graph of the Confidence Intervals 
+### Obtaining a Graph of the Confidence Intervals 
 
 10. First, enter the data (described elsewhere). 
 
@@ -40,7 +38,7 @@
 
 <p align="center"><kbd><img src="intervals4.png"></kbd></p>
 
-#### Choosing the Graph Layout
+### Choosing the Graph Layout
 
  12. A dialogue box will then appear for you to choose the general graph layout of interest.
 
@@ -52,7 +50,7 @@
 
 <p align="center"><kbd><img src="intervals5.png"></kbd></p>
 
-#### Obtaining the Confidence Interval Graph
+### Obtaining the Confidence Interval Graph
 
  16. A dialogue box will then appear for you to choose the variables of interest to graph.
 

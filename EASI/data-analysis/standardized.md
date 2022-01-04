@@ -1,9 +1,7 @@
 
-## EASI: Data Analysis
+## EASI: Standardized Scores
 
-### Standardized Scores
-
-#### Computing Transformations
+### Computing Transformations
 
 Use a formula to calculate a new vector with the transformed scores. 
 
@@ -17,7 +15,7 @@ Create and display a data frame to view the data set.
 data.frame(Outcome,trOutcome)
 ```
 
-#### Computing Standardized Scores
+### Computing Standardized Scores
 
 Create a new variable vector containing the standardized scores.
 

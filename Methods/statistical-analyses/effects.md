@@ -1,15 +1,13 @@
-## Statistical Methods: Statistical Analyses
+## Methods: Understanding Effect Size Measures
 
-### Understanding Effect Size Measures
-
-#### Types of Effect Size Measures
+### Types of Effect Size Measures
 
 At the simplest level, effect size measures come in least two types which differ in purpose:
 
 1. Correlational indices: Statistics that communicate the size of the relationship (i.e., correlation) between two variables.
 2. Standardized difference indices: Statistics that communicate the size of the differences between two group averages.
 
-#### Correlation-Based Effect Size Measures
+### Correlation-Based Effect Size Measures
 
 Correlational indices of effect size use a statistic called a correlation (*r*) to describe the relationship between two variables. For example, if we wanted to know whether high school GPA is related to college GPA, we would calculate a correlation to indicate whether and to what extent these two are related to each other.
 
@@ -19,7 +17,7 @@ The number describes both the direction and size/strength of the correlation. If
 
 In some cases, the correlation-based measure is squared before it is presented (like with r2 or eta-squared). In these cases, the squared correlation is interpreted as the proportion of variance in one variable that is accounted for by the other variable. For example, we could say that high school GPA accounts for some percentage of college GPA. Note that the squared correlation can never be negative and ranges from 0 to 1 (or correspondingly from 0% to 100%).
 
-#### Standardized Difference Effect Sizes
+### Standardized Difference Effect Sizes
 
 Standardized differences start with difference between two group means (i.e., averages), but alter that difference to make it more interpretable across various studies and situations. For example, a control group and an experimental group might differ on some variable by four points on average, but unless we know more about the issue under study, we really have no way of knowing if the four-point difference is big or small.
 

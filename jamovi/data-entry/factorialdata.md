@@ -1,8 +1,6 @@
-## jamovi: Data Entry
+## jamovi: Factorial Data 
 
-### Factorial Data 
-
-#### Defining Variables
+### Defining Variables
 
 1. First, click on the "Data" tab on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="factorial1.png"></kbd></p>
 
-#### Setting Variable Properties
+### Setting Variable Properties
 
 3. You will need to define multiple variables. Two variables will represent the Factors (Independent Variables) and the other will represent the Outcome (Dependent) Variable.
 
@@ -20,7 +18,7 @@
 
 <p align="center"><kbd><img src="factorial2.png"></kbd></p>
 
-#### Entering Data
+### Entering Data
  
 6. Enter the data for all of the participants. Notice that each participant has scores on both of the Factors and on the Outcome Variable. There will be as many rows as people. 
 

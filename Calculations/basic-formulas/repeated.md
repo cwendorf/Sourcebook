@@ -1,8 +1,6 @@
-## Calculations: Basic Formulas
+## Calculations: Repeated Measures ANOVA
 
-### Repeated Measures ANOVA
-
-#### Formulas
+### Formulas
 
 Grand (or Total) Mean: Because sample sizes are equal, a grand mean can be determined by averaging the level means.
 

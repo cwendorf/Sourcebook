@@ -1,9 +1,7 @@
 
-## EASI: Data Analysis
+## EASI: One Way ANOVA
 
-### One Way ANOVA
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 Get the mean and standard deviation of the dependent variable for each of the levels.
 
@@ -11,7 +9,7 @@ Get the mean and standard deviation of the dependent variable for each of the le
 describeMeans(Outcome~Factor)
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 Get the analysis of variance source table.
 

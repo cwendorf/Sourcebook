@@ -1,9 +1,7 @@
 
-## EASI: Annotated Output
+## EASI: Confidence Intervals
 
-### Confidence Intervals
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 ```r
 describeMeans(Outcome)
@@ -15,7 +13,7 @@ describeMeans(Outcome)
 ## Outcome   8.000   4.000   3.117   0.151  -0.467
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 ```r
 estimateMeans(Outcome)

@@ -1,8 +1,6 @@
-## SPSS: Blank Output
+## SPSS: Post Hoc Tests (OneWay ANOVA)
 
-### Post Hoc Tests (OneWay ANOVA)
-
-#### Multiple Comparisons
+### Multiple Comparisons
 
 Dependent Variable: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

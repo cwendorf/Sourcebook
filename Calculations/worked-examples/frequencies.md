@@ -1,8 +1,6 @@
-## Calculations: Worked Examples
+## Calculations: Frequencies
 
-### Frequencies
-
-#### Data
+### Data
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
 
@@ -17,7 +15,7 @@ The following data set reflects one sample of eight individuals measured on one 
 | 7   | 4.00    |
 | 8   | 9.00    |
 
-#### Computer Output
+### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
 
@@ -43,7 +41,7 @@ The table of descriptive statistics shows the key elements to be calculated.
 | 50th percentile |     4.000 |
 | 75th percentile |     5.500 |   
 
-#### Calculations
+### Calculations
 
 Elements of the Frequency Table: The frequency table provides information about the scores in the data set and the numbers (and percentages) of times those scores occurred.
 
@@ -60,7 +58,7 @@ Thus, the score at the 50<sup>th</sup> percentile is the 4.5<sup>th</sup> score 
 
 > Similarly, a score of 2.25 is at the 25<sup>th</sup> percentile and a score of 5.50 is at the 75<sup>th</sup> percentile. Importantly, in some cases, the score values are non-integer interpolated values.
 
-#### APA Style Summary
+### APA Style Summary
 
 Though often not reported, simple summary statistics – like the median and quartiles – provide the reader with basic frequency information about the variable under investigation. Both of the following versions present the required information, though the second focuses more on the interpretation of the statistic.
 

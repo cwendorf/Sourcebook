@@ -1,9 +1,7 @@
 
-## EASI: Data Analysis
+## EASI: One Sample t Test
 
-### One Sample t Test
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 Get the mean and standard deviation for the variable.
 
@@ -11,7 +9,7 @@ Get the mean and standard deviation for the variable.
 describeMeans(Outcome)
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 Get the mean difference and its confidence interval.
 

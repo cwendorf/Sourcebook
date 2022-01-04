@@ -1,8 +1,6 @@
-## jamovi: Data Analysis
+## jamovi: Descriptives (Frequencies and Descriptives) 
 
-### Descriptives (Frequencies and Descriptives) 
-
-#### Obtaining Frequency-Related Statistics
+### Obtaining Frequency-Related Statistics
 
 1. First, enter the data (described elsewhere). 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="descriptives1.png"></kbd></p>
 
-#### Obtaining a Frequency Distribution
+### Obtaining a Frequency Distribution
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="descriptives2.png"></kbd></p>
 
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 7. Though some basic summary statistics are displayed by default, you can make changes by expanding the "Statistics" dropdown menu.
 

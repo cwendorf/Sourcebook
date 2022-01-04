@@ -1,8 +1,6 @@
-## JASP: Data Analysis
+## JASP: Repeated Measures ANOVA 
 
-### Repeated Measures ANOVA 
-
-#### Obtaining Repeated Measures Inferential Statistics
+### Obtaining Repeated Measures Inferential Statistics
 
 1. First, load the repeated measures data file that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="repeated1.png"></kbd></p>
 
-#### Labeling the Within-Subjects Variable/Factor
+### Labeling the Within-Subjects Variable/Factor
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="repeated2.png"></kbd></p>
 
-#### Obtaining the Significance Test
+### Obtaining the Significance Test
 
 7. In the "Repeated Measures Cells" box, you will indicate which measurements/columns in the data set reflect the instances of the repeated measurements.
 
@@ -34,7 +32,7 @@
 
 <p align="center"><kbd><img src="repeated3.png"></kbd></p>
 
-#### Obtaining Additional Statistics
+### Obtaining Additional Statistics
 
 11. Though some basic summary statistics are displayed by default, you can make changes by expanding the "Additional Options" drop-down menu.
 

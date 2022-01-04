@@ -1,8 +1,6 @@
-## Calculations: Worked Examples
+## Calculations: Repeated Measures ANOVA
 
-### Repeated Measures ANOVA
-
-#### Data
+### Data
 
 The following data set reflects a within-subjects (repeated measures) design with two levels of the factor. The data are presented in the format suitable for entry into statistical software.
 
@@ -13,7 +11,7 @@ The following data set reflects a within-subjects (repeated measures) design wit
 | 3   | 3.00     | 4.00     |
 | 4   | 5.00     | 9.00     |
 
-#### Computer Output
+### Computer Output
 
 The following tables represent typical output from statistical software. Options, labels, and layout vary from program to program.
 
@@ -38,7 +36,7 @@ The tables of inferential statistics show the key elements to be calculated.
 | Effect  |	  32.000 |     1 |   32.000 |   10.667 |  0.047 |         0.780 |
 | Error   |    9.000 |     3 |    3.000 |
 
-#### Calculations
+### Calculations
 
 Grand (or Total) Mean: Because sample sizes are equal, a grand mean can be determined by averaging the level means.
 
@@ -90,7 +88,7 @@ Effect Size: The partial eta-squared statistic is a ratio of the within-subjects
 > \\[ \text{Partial} \; \eta^2 = \frac{SS_{EFFECT}}{( SS_{EFFECT} + SS_{ERROR} )} = \frac{32.000}{( 32.000 + 9.000 )} = .780 \\]
 > Thus, 78.0% of the variability among Outcome scores (after removing individual differences) is accounted for by repeated measures Factor.
 
-#### APA Style Summary
+### APA Style Summary
 
 The RMD ANOVA tests for overall differences across the repeated measures. As such, its summary parallels that of the One Way ANOVA. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the effect size. Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
 

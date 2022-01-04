@@ -1,9 +1,7 @@
 
-## EASI: Annotated Output
+## EASI: Independent Samples t Test
 
-### Independent Samples t Test
-
-#### Obtaining Summary Statistics
+### Obtaining Summary Statistics
 
 ```r
 describeMeans(Outcome~Factor)
@@ -16,7 +14,7 @@ describeMeans(Outcome~Factor)
 ## Level2   4.000   6.000   2.449   0.544  -2.944
 ```
 
-#### Obtaining Inferential Statistics
+### Obtaining Inferential Statistics
 
 ```r
 estimateMeanDifference(Outcome~Factor)

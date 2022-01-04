@@ -1,8 +1,6 @@
-## JASP: Data Analysis
+## JASP: ANOVA (OneWay ANOVA Posthocs) 
 
-### ANOVA (OneWay ANOVA) 
-
-#### Obtaining Multiple-Sample Inferential Statistics
+### Obtaining Multiple-Sample Inferential Statistics
 
 1. First, load the two sample data file that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="posthocs1.png"></kbd></p>
 
-#### Obtaining the Significance Test
+### Obtaining the Significance Test
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="posthocs2.png"></kbd></p>
 
-#### Obtaining Additional Statistics
+### Obtaining Additional Statistics
 
 7. Though some basic summary statistics are displayed by default, you can make changes by expanding the "Additional Options" drop-down menu.
 
@@ -34,7 +32,7 @@
 
 <p align="center"><kbd><img src="posthocs3.png"></kbd></p>
 
-#### Obtaining Post Hoc Tests
+### Obtaining Post Hoc Tests
 
 11. If you wish to obtain post hoc tests for the purpose of making comparisons between groups, click the "Post Hoc Tests" drop-down button. 
 

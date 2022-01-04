@@ -1,8 +1,6 @@
-## SPSS: Data Analysis
+## SPSS: T Test (Paired Samples) 
 
-### T Test (Paired Samples) 
-
-#### Obtaining Paired-Sample Statistics
+### Obtaining Paired-Sample Statistics
 
 1. First, enter the data (described elsewhere). 
 
@@ -20,7 +18,7 @@
 
 <p align="center"><kbd><img src="paired2.png"></kbd></p>
 
-#### Altering the Confidence Interval 
+### Altering the Confidence Interval 
  
 5. If you wish to alter the width of the confidence interval, select the "Options" button.
 

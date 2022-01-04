@@ -1,9 +1,7 @@
 
-## EASI: Annotated Output
+## EASI: Standardized Scores
 
-### Standardized Scores
-
-#### Computing Transformations
+### Computing Transformations
 
 ```r
 trOutcome <- Outcome+1
@@ -25,7 +23,7 @@ data.frame(Outcome,trOutcome)
 ## 8       9        10
 ```
 
-#### Computing Standardized Scores
+### Computing Standardized Scores
 
 
 ```r

@@ -1,8 +1,6 @@
-## jamovi: Data Analysis
+## jamovi: Post Hoc Tests (OneWay ANOVA) 
 
-### Post Hoc Tests (OneWay ANOVA) 
-
-#### Obtaining Multiple Sample Inferential  Statistics
+### Obtaining Multiple Sample Inferential  Statistics
 
 1. First, enter multiple group data (described elsewhere).
 
@@ -10,7 +8,7 @@
 
 <p align="center"><kbd><img src="posthocs1.png"></kbd></p>
 
-#### Obtaining the Significance Test
+### Obtaining the Significance Test
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -22,7 +20,7 @@
 
 <p align="center"><kbd><img src="posthocs2.png"></kbd></p>
 
- #### Obtaining Post Hoc Tests
+ ### Obtaining Post Hoc Tests
 
 7. If you wish to obtain post hoc tests for the purpose of making comparisons between groups, click the "Post Hoc Tests" dropdown button. 
 

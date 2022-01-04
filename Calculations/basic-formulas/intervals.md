@@ -1,8 +1,6 @@
-## Calculations: Basic Formulas
+## Calculations: Confidence Intervals
 
-### Confidence Intervals
-
-#### Formulas
+### Formulas
 
 Standard Error of the Mean: The standard error of the mean provides an estimate of how spread out the distribution of all possible random sample means would be.
 
