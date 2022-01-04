@@ -37,7 +37,6 @@ This chapter shows the output from various types of analyses, describes how to i
 
 - [Frequencies](./annotated-output/frequencies.md)
 - [Descriptives](./annotated-output/descriptives.md)
-- [Transformations and Standardized Scores](./annotated-output/standardized.md)
 - [Correlations (Bivariate)](./annotated-output/correlations.md)
 - [T Test (Confidence Intervals)](./annotated-output/intervals.md)
 - [T Test (One Sample)](./annotated-output/onesample.md)
