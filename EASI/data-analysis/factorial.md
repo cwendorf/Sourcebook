@@ -1,7 +1,7 @@
 
 ## EASI: Factorial ANOVA
 
-### Obtaining Summary Statistics
+### Obtaining Descriptive Statistics
 
 Get the mean and standard deviation of the dependent variable for each of the levels. The "by" option tells EASI how to split the data.
 

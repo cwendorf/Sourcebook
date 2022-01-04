@@ -1,7 +1,7 @@
 
 ## EASI: One Sample t Test
 
-### Obtaining Summary Statistics
+### Obtaining Descriptive Statistics
 
 Get the mean and standard deviation for the variable.
 

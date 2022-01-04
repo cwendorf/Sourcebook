@@ -1,7 +1,7 @@
 
 ## EASI: Mixed Design ANOVA
 
-### Obtaining Summary Statistics
+### Obtaining Descriptive Statistics
 
 ```r
 describeMeansBy(Outcome1,Outcome2,Outcome3,by=Factor)

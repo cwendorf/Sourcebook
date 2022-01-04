@@ -1,7 +1,7 @@
 
 ## EASI: Post Hoc Tests
 
-### Obtaining Summary Statistics
+### Obtaining Descriptive Statistics
 
 Get the mean and standard deviation for the dependent variable for each of the levels.
 

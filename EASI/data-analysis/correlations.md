@@ -1,7 +1,7 @@
 
 ## EASI: Correlations
 
-### Obtaining Summary Statistics
+### Obtaining Descriptive Statistics
 
 Get the means and standard deviations for the variables.
 

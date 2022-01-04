@@ -1,7 +1,7 @@
 
 ## EASI: One Way ANOVA
 
-### Obtaining Summary Statistics
+### Obtaining Descriptive Statistics
 
 Get the mean and standard deviation of the dependent variable for each of the levels.
 

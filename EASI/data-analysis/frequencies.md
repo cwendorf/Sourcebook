@@ -9,7 +9,7 @@ Get the frequency distribution for the variable.
 describeFrequencies(Outcome)
 ```
 
-### Obtaining Summary Statistics
+### Obtaining Descriptive Statistics
 
 Get the percentiles for the variable.
 
