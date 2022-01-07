@@ -1,4 +1,6 @@
-# Sourcebook
+<a href="https://github.com/cwendorf/Sourcebook/">
+<img src="logo.png" height="60px;" align="left;" style="display: none;">
+</a>
 
 ## Basic Statistical Methods for Social Science
 
@@ -18,7 +20,6 @@ The Sourcebook contains the following materials:
 - [**jamovi**](./jamovi) - Contains instructions, annotated output, and blank output for jamovi
 - [**JASP**](./JASP) - Contains instructions, annotated output, and blank output for JASP
 - [**EASI**](./EASI) - Contains instructions and annotated output for EASI (an R package)
-
 
 ### Citation
 
