@@ -1,10 +1,6 @@
-<a href="https://cwendorf.github.io/Sourcebook/">
-<img src="logo.png" height="60px;" align="left;" style="display: none;">
-</a>
+# Sourcebook
 
-# Statistics for Social Science
-
-## A Sourcebook of Basic Statistical Methods
+## Basic Statistical Methods for Social Science
 
 ### Overview
 
@@ -26,4 +22,4 @@ The Sourcebook contains the following materials:
 
 ### Citation
 
-Wendorf, C. A. (2019). _Statistics for social science: A sourcebook of basic statistical methods._ [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
+Wendorf, C. A. (2019). _Sourcebook: Basic statistical methods for social science._ [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
