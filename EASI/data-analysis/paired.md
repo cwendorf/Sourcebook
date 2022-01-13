@@ -6,7 +6,7 @@
 Get the means and standard deviations for the variables.
 
 ```{r}
-describeMeans(Outcome1,Outcome2)
+describeMeans(RepeatedData)
 ```
 
 ### Obtaining Inferential Statistics
@@ -14,17 +14,17 @@ describeMeans(Outcome1,Outcome2)
 Get the mean difference and its confidence interval.
 
 ```{r}
-estimateMeanDifference(Outcome1,Outcome2)
+estimateMeanDifference(RepeatedData)
 ```
 
 Test the mean difference for statistical significance.
 
 ```{r}
-testMeanDifference(Outcome1,Outcome2)
+testMeanDifference(RepeatedData)
 ```
 
 Get the standardized effect size for the mean difference.
 
 ```{r}
-estimateStandardizedMeanDifference(Outcome1,Outcome2)
+estimateStandardizedMeanDifference(RepeatedData)
 ```

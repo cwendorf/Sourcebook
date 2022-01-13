@@ -18,3 +18,8 @@ Create and display a data frame to view the data set.
 RepeatedData <- data.frame(Outcome1,Outcome2)
 RepeatedData
 ```
+
+### Adding Additional Data
+
+If your data set has more than two variables, simply be sure to add more variables to account for the additional measurements.
+
