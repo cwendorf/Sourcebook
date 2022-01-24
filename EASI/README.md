@@ -3,7 +3,7 @@
 ### Finding the Software
 
 This section uses the R package EASI to analyze the basic examples. EASI can be acquired here:  
-[https://cwendorf.github.io/EASI/](https://cwendorf.github.io/EASI/)
+[https://github.com/cwendorf/EASI/](https://github.com/cwendorf/EASI/)
 
 ### Data Entry
 
