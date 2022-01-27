@@ -21,5 +21,4 @@ RepeatedData
 
 ### Adding Additional Data
 
-If your data set has more than two variables, simply be sure to add more variables to account for the additional measurements.
-
+If your data set has more than two variables, simply be sure to add more variables to account for the additional measurements. (You may want to name the data frame something unique to keep it separate from the other data sets.)
