@@ -6,7 +6,7 @@
 Get the means and standard deviations for the variables.
 
 ```{r}
-describeMeans(RepeatedData)
+describeMeans(PairedData)
 ```
 
 ### Obtaining Inferential Statistics
@@ -14,17 +14,17 @@ describeMeans(RepeatedData)
 Get the mean difference and its confidence interval.
 
 ```{r}
-estimateMeanDifference(RepeatedData)
+estimateMeanDifference(PairedData)
 ```
 
 Test the mean difference for statistical significance.
 
 ```{r}
-testMeanDifference(RepeatedData)
+testMeanDifference(PairedData)
 ```
 
 Get the standardized effect size for the mean difference.
 
 ```{r}
-estimateStandardizedMeanDifference(RepeatedData)
+estimateStandardizedMeanDifference(PairedData)
 ```

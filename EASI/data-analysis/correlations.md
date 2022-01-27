@@ -6,19 +6,19 @@
 Get the means and standard deviations for the variables.
 
 ```{r}
-describeMeans(Outcome1,Outcome2)
+describeMeans(CorrelationData)
 ```
 
 Get the covariance matrix for the variables.
 
 ```{r}
-describeCovariances(Outcome1,Outcome2)
+describeCovariances(CorrelationData)
 ```
 
 Get the correlation matrix for the variables.
 
 ```{r}
-describeCorrelations(Outcome1,Outcome2)
+describeCorrelations(CorrelationData)
 ```
 
 ### Obtaining Inferential Statistics
@@ -26,11 +26,11 @@ describeCorrelations(Outcome1,Outcome2)
 Get the correlation and its confidence interval.
 
 ```{r}
-estimateCorrelations(Outcome1,Outcome2)
+estimateCorrelations(CorrelationData)
 ```
 
 Test the correlation for statistical significance.
 
 ```{r}
-testCorrelations(Outcome1,Outcome2)
+testCorrelations(CorrelationData)
 ```
