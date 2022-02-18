@@ -22,3 +22,9 @@ Test all pairwise mean differences for statistical significance while adjusting 
 ```{r}
 testMeansPosthoc(Outcome~Factor)
 ```
+
+Get standardized mean differences for all pairwise comparisons.
+
+```{r}
+estimateStandardizedMeansPosthoc(Outcome~Factor)
+```
