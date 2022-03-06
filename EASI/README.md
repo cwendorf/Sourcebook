@@ -25,7 +25,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [Confidence Intervals](./data-analysis/intervals.md)
 - [One Sample t Test](./data-analysis/onesample.md)
 - [Paired Samples t Test](./data-analysis/paired.md)
-- [Independent Samples t Test)](./data-analysis/independent.md)
+- [Independent Samples t Test](./data-analysis/independent.md)
 - [OneWay ANOVA](./data-analysis/oneway.md)
 - [Post Hoc Tests](./data-analysis/posthocs.md)
 - [Repeated Measures ANOVA](./data-analysis/repeated.md)
