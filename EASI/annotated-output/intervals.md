@@ -1,3 +1,3 @@
-## EASI: T Test (Confidence Intervals)
+## EASI: Confidence Intervals
 
 <p align="center"><kbd><img src="intervals.png"></kbd></p>

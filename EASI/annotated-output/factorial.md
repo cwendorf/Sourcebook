@@ -1,3 +1,3 @@
-## EASI: ANOVA (Factorial ANOVA)
+## EASI: Factorial ANOVA
 
 <p align="center"><kbd><img src="factorial.png"></kbd></p>

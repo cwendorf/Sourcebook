@@ -1,3 +1,3 @@
-## EASI: ANOVA (OneWay ANOVA)
+## EASI: OneWay ANOVA
 
 <p align="center"><kbd><img src="oneway.png"></kbd></p>
