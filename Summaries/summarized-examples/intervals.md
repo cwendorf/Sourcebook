@@ -1,6 +1,6 @@
 ## Summaries: Confidence Intervals
 
-### APA Style Summary
+### APA Style
 
 Confidence intervals provide a range estimate for a population value (e.g., the mean). Note that the width of the interval can be altered to reflect the level of confidence in the estimate. Both of the following versions present the required information, though the second focuses more on the interpretation of the statistic.
 

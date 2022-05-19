@@ -1,6 +1,6 @@
 ## Summaries: One Sample t Test
 
-### APA Style Summary
+### APA Style
 
 For this analysis, a sample mean has been compared to a user-specified test value (or a population mean). Thus, the summary and the inferential statistics focus on that difference. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the confidence interval and effect size.
 

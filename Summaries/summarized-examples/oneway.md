@@ -1,6 +1,6 @@
 ## Summaries: One-Way ANOVA
 
-### APA Style Summary
+### APA Style
 
 The ANOVA provides an omnibus test of the differences across multiple groups. Because the ANOVA tests the overall differences among the groups, the text discusses the differences in general. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the effect size. Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
 

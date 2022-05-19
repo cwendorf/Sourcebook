@@ -1,6 +1,6 @@
 ## Summaries: Repeated Measures ANOVA
 
-### APA Style Summary
+### APA Style
 
 The RMD ANOVA tests for overall differences across the repeated measures. As such, its summary parallels that of the One Way ANOVA. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the effect size. Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
 

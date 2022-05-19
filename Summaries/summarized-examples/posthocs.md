@@ -1,6 +1,6 @@
 ## Summaries: Post Hoc Comparisons
 
-### APA Style Summary
+### APA Style
 
 Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups and usually follows a presentation of the ANOVA (which already includes the descriptive information). The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the confidence intervals (and can be presented on its own). Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
 

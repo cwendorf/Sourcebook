@@ -1,6 +1,6 @@
 ## Summaries: Correlations
 
-### APA Style Summary
+### APA Style
 
 Correlations provide a measure of statistical relationship between two variables. Note that correlations can also have inferential information associated with them (and that this information should be summarized if it is available and of interest).
 

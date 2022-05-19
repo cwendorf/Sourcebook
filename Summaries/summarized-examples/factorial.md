@@ -1,6 +1,6 @@
 ## Summaries: Factorial ANOVA
 
-### APA Style Summary
+### APA Style
 
 The Factorial ANOVA provides statistics for the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One Way ANOVA. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the effect size. Typically, the means, standard deviations, and confidence intervals would be presented in a table or figure associated with this text.
 

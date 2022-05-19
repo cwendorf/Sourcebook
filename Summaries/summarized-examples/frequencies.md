@@ -1,6 +1,6 @@
 ## Summaries: Frequencies
 
-### APA Style Summary
+### APA Style
 
 Though often not reported, simple summary statistics – like the median and quartiles – provide the reader with basic frequency information about the variable under investigation. Both of the following versions present the required information, though the second focuses more on the interpretation of the statistic.
 

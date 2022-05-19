@@ -1,6 +1,6 @@
 ## Summaries: Independent Samples t Test
 
-### APA Style Summary
+### APA Style
 
 For this analysis, the emphasis is on comparing the means from two groups. Here again the summary and the inferential statistics focus on the difference. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the confidence interval and effect size. Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
 
