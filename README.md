@@ -6,7 +6,7 @@
 
 ### Overview
 
-This online Sourcebook is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. It uses instructions, screenshots, and summaries to work through basic problems, highlighting their implementation in common statistical software.
+This online Sourcebook is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. It uses written instructions, screenshots, and simple formulas to work through basic problems, demonstrate software, and summarize the analyses.
 
 <p align="center"><kbd><img src="AnnotatedOutput.jpg"></kbd></p>
 
@@ -21,7 +21,7 @@ The Sourcebook contains the following materials:
 - [**EASI**](./EASI) - Contains instructions and annotated output for EASI (an R package)
 - [**Summaries**](./Methods) - Contains a statistics overview, an APA style guide, and APA summaries for the examples
 
-Readers who use this Sourcebook to work sequentially through topics of an undergraduate statistics course are encouraged to start on a special index page called [**Topics**](./Topics).
+Readers who use this Sourcebook to work sequentially through the topics of a typical undergraduate statistics course are encouraged to start in the special [**Topics**](./Topics) section.
 
 ### Citation
 
