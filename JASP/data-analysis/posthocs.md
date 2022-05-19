@@ -1,4 +1,4 @@
-## JASP: ANOVA (OneWay ANOVA Posthocs) 
+## JASP: Post Hoc Comparisons (OneWay ANOVA) 
 
 ### Obtaining Multiple-Sample Inferential Statistics
 

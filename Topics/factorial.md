@@ -12,6 +12,6 @@ The Factorial ANOVA provides statistics for the main effects and interactions in
 
 ### Worked Example and Summary
 
-- Statistical Table - [Critical Value of the F Distribution](../Calculations/statistical-tables/F.md)
+- Statistical Table - [Critical Values of the F Distribution](../Calculations/statistical-tables/F.md)
 - Worked Example - [Factorial ANOVA](../Calculations/worked-examples/factorial.md)
 - APA Style Summary - [Factorial ANOVA](../Summaries/summarized-examples/factorial.md)

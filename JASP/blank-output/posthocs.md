@@ -1,4 +1,4 @@
-## JASP: Post Hoc Tests (OneWay ANOVA)
+## JASP: Post Hoc Comparisons (OneWay ANOVA)
 
 ### Descriptives
 

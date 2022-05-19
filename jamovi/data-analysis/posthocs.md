@@ -1,4 +1,4 @@
-## jamovi: Post Hoc Tests (OneWay ANOVA) 
+## jamovi: Post Hoc Comparisons (OneWay ANOVA) 
 
 ### Obtaining Multiple Sample Inferential  Statistics
 

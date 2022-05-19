@@ -1,4 +1,4 @@
-## SPSS: Post Hoc Tests (OneWay ANOVA)
+## SPSS: Post Hoc Comparisons (OneWay ANOVA)
 
 ### Multiple Comparisons
 

@@ -11,6 +11,6 @@ Standardized scores represent a transformation of data that aid in interpretatio
 
 ### Worked Example and Summary
 
-- Statistical Table - Standard Normal Distribution](../Calculations/statistical-tables/normal.md)
+- Statistical Table - [Standard Normal Distribution](../Calculations/statistical-tables/normal.md)
 - Worked Example - [Standardized Scores](../Calculations/worked-examples/standardized.md)
 - APA Style Summary - [Standardized Scores](../Summaries/summarized-examples/standardized.md)
