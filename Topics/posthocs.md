@@ -12,6 +12,6 @@ Post hoc tests build on the ANOVA results and provide a more focused comparison 
 
 ### Worked Example and Summary
 
-- Statistical Table - [](../Calculations/statistical-tables/hsd.md)
+- Statistical Table - [Values of Tukey's HSD Statistic](../Calculations/statistical-tables/hsd.md)
 - Worked Example - [Post Hoc Comparisons](../Calculations/worked-examples/posthocs.md)
 - APA Style Summary - [Post Hoc Comparisons](../Summaries/summarized-examples/posthocs.md)

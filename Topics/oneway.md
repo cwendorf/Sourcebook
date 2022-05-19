@@ -12,6 +12,6 @@ The ANOVA provides an omnibus test of the differences across multiple groups.
 
 ### Worked Example and Summary
 
-- Statistical Table - [](../Calculations/statistical-tables/F.md)
+- Statistical Table - [Critical Value of the F Distribution](../Calculations/statistical-tables/F.md)
 - Worked Example - [One Way ANOVA](../Calculations/worked-examples/oneway.md)
 - APA Style Summary - [One Way ANOVA](../Summaries/summarized-examples/oneway.md)

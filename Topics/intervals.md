@@ -12,6 +12,6 @@ Confidence intervals provide a range estimate for a population value (e.g., the 
 
 ### Worked Example and Summary
 
-- Statistical Table - [](../Calculations/statistical-tables/t.md)
+- Statistical Table - [Values of the t Distribution](../Calculations/statistical-tables/t.md)
 - Worked Example - [Confidence Intervals](../Calculations/worked-examples/intervals.md)
 - APA Style Summary - [Confidence Intervals](../Summaries/summarized-examples/intervals.md)

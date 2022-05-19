@@ -12,6 +12,6 @@ Simple summary statistics – like the median and quartiles – provide the read
 
 ### Worked Example and Summary
 
-- Statistical Table - [](../Calculations/statistical-tables/t.md)
+- Statistical Table - [Values of the t Distribution](../Calculations/statistical-tables/t.md)
 - Worked Example - [Paired Samples t Test](../Calculations/worked-examples/paired.md)
 - APA Style Summary - [Paired Samples t Test](../Summaries/summarized-examples/paired.md)

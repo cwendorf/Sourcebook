@@ -12,6 +12,6 @@ The Independent Samples t Test compares the means from two groups.
 
 ### Worked Example and Summary
 
-- Statistical Table - [](../Calculations/statistical-tables/t.md)
+- Statistical Table - [Values of the t Distribution](../Calculations/statistical-tables/t.md)
 - Worked Example - [Independent Samples t Test](../Calculations/worked-examples/independent.md)
 - APA Style Summary - [Independent Samples t Test](../Summaries/summarized-examples/independent.md)

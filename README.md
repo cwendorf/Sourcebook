@@ -21,7 +21,7 @@ The Sourcebook contains the following materials:
 - [**EASI**](./EASI) - Contains instructions and annotated output for EASI (an R package)
 - [**Summaries**](./Methods) - Contains a statistics overview, an APA style guide, and APA summaries for the examples
 
-Readers who use this Sourcebook to work sequentially through a course are encouraged to start on a special index page under [**Topics**](./Topics).
+Readers who use this Sourcebook to work sequentially through topics of an undergraduate statistics course are encouraged to start on a special index page called [**Topics**](./Topics).
 
 ### Citation
 
