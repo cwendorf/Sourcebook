@@ -1,5 +1,16 @@
 ## Calculations
 
+### Statistical Tables
+
+This chapter provides statistical tables. Tables included are the Standard Normal, Student's (*t*), Snedecor's *F*, Tukey's *HSD*, and power tables for Cohen's *d* and *eta-Squared*. 
+
+- [Standard Normal Distribution](./statistical-tables/normal.md)
+- [Values of the *t* Distribution](./statistical-tables/t.md)
+- [Power Table for Cohen's *d*](./statistical-tables/powerd.md)
+- [Critical Values of the *F* Distribution](./statistical-tables/F.md)
+- [Power Table for *Eta-Squared*](./statistical-tables/powereta.md)
+- [Values of Tukey's *HSD* Statistic](./statistical-tables/hsd.md)
+
 ### Basic Formulas
 
 This chapter provides a set of basic formulas. The important procedures for each research design and subsequent analyses are outlined.
@@ -19,7 +30,7 @@ This chapter provides a set of basic formulas. The important procedures for each
 
 ### Worked Examples
 
-This chapter provides a set of worked examples. The raw data, generic computer output, formulas and calculations, and summaries in APA style are provided for each type of research design.
+This chapter provides a set of worked examples. The raw data, typical computer, and complete calculations are provided for each type of research design.
 
 - [Frequencies](./worked-examples/frequencies.md)
 - [Descriptives](./worked-examples/descriptives.md)

@@ -14,12 +14,14 @@ This online Sourcebook is intended to facilitate the connection between standard
 
 The Sourcebook contains the following materials:
 
-- [**Methods**](./Methods) - Contains a statistics overview, statistical tables, and APA style for reporting
-- [**Calculations**](./Calculations) - Contains formulas and complete worked examples
+- [**Calculations**](./Calculations) - Contains statistical tables, formulas, and complete worked examples
 - [**SPSS**](./SPSS) - Contains instructions, annotated output, and blank output for SPSS
 - [**jamovi**](./jamovi) - Contains instructions, annotated output, and blank output for jamovi
 - [**JASP**](./JASP) - Contains instructions, annotated output, and blank output for JASP
 - [**EASI**](./EASI) - Contains instructions and annotated output for EASI (an R package)
+- [**Summaries**](./Methods) - Contains a statistics overview, an APA style guide, and APA summaries for the examples
+
+Readers who use this Sourcebook to work sequentially through a course are encouraged to start on a special index page under [**Topics**](./Topics).
 
 ### Citation
 

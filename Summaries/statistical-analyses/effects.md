@@ -1,4 +1,4 @@
-## Methods: Understanding Effect Size Measures
+## Summaries: Understanding Effect Size Measures
 
 ### Types of Effect Size Measures
 

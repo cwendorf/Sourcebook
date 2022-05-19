@@ -1,4 +1,4 @@
-## Methods: Examples of APA Style Results in Tables
+## Summaries: Examples of APA Style Results in Tables
 
 In more complex examples – such as those with multiple outcome variables – it is often preferred to place statistical information in tables rather than in the text.
 

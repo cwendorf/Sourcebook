@@ -1,4 +1,4 @@
-## Methods: Summary of Parametric Statistics
+## Summaries: Summary of Parametric Statistic Reporting
 
 | **Statistic** | **Purpose** | **APA Style** | **Description** |
 | --- | --- | --- | --- |
@@ -10,8 +10,8 @@
 | Correlation | To provide a measure of the association between two variables measured in a sample. | *r*(df) = \_\_\_\_\_ | Indicates the strength of the relationship between two variables. |
 | Eta-Squared | To provide a standardized measure of an effect (defined as the relationship between two variables). | *eta*<sup>2</sup> = \_\_\_\_\_. | Indicates the proportion of variance in the dependent variable accounted for by the independent variable. |
 | **Confidence Intervals** ||||
-| CI for a Mean | To provide an interval estimate of the population mean. Can be derived from both the z and t distributions. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Indicates that there is the given probability that the interval specified covers the true population mean. |
-| CI for a Mean Difference | To provide an interval estimate of the population mean difference. Can be derived from both the z and t distributions. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Indicates that there is the given probability that the interval specified covers the true population mean difference. |
+| CI for a Mean | To provide an interval estimate of the population mean. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Estimates a range for the mean using a procedure that produces an accurate estimate the specified percentage of times. |
+| CI for a Mean Difference | To provide an interval estimate of the population mean difference. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Estimates a range for the mean difference using a procedure that produces an accurate estimate the specified percentage of times. |
 | **Statistical Significance Tests** ||||
 | One Sample t Test | To compare a single sample mean to a population mean when the population standard deviation is not known | *t*(df) = \_\_\_\_, *p* = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
 | Independent Samples t Test | To compare two sample means when the samples are from a single-factor between-subjects design. | *t*(df) = \_\_\_\_, *p* = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |

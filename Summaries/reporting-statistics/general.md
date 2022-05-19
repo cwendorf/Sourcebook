@@ -1,4 +1,4 @@
-## Methods: General Rules for APA Style Results Sections
+## Summaries: General Rules for APA Style Results Sections
 
 ### Overview
 

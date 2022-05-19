@@ -1,4 +1,4 @@
-## Methods: Understanding Statistical Significance Tests
+## Summaries: Understanding Statistical Significance Tests
 
 ### Purpose of a Statistical Significance Test
 
