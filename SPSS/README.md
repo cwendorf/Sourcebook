@@ -36,7 +36,7 @@ This chapter shows the output from various types of analyses, describes how to i
 
 - [Descriptives (Frequencies and Descriptives)](./annotated-output/descriptives.md)
 - [Correlations (Bivariate)](./annotated-output/correlations.md)
-- [T Test (Confidence Intervals)](./annotated-output/intervals.md)
+- [Explore (Descriptives and Confidence Intervals)](./annotated-output/intervals.md)
 - [T Test (One Sample)](./annotated-output/onesample.md)
 - [T Test (Paired Samples)](./annotated-output/paired.md)
 - [T Test (Independent Samples)](./annotated-output/independent.md)
