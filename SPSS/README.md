@@ -26,7 +26,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [T Test (Paired Samples)](./data-analysis/paired.md)
 - [T Test (Independent Samples)](./data-analysis/independent.md)
 - [One-Way (OneWay ANOVA)](./data-analysis/oneway.md)
-- [Post Hoc Tests (OneWay ANOVA)](./data-analysis/posthocs.md)
+- [Post Hoc Comparisons (OneWay ANOVA)](./data-analysis/posthocs.md)
 - [General Linear Model (Repeated Measures ANOVA)](./data-analysis/repeated.md)
 - [Univariate Analysis of Variance (Factorial ANOVA)](./data-analysis/factorial.md)
 
@@ -41,7 +41,7 @@ This chapter shows the output from various types of analyses, describes how to i
 - [T Test (Paired Samples)](./annotated-output/paired.md)
 - [T Test (Independent Samples)](./annotated-output/independent.md)
 - [ANOVA (OneWay ANOVA)](./annotated-output/oneway.md)
-- [Post Hoc Tests (OneWay ANOVA)](./annotated-output/posthocs.md)
+- [Post Hoc Comparisons (OneWay ANOVA)](./annotated-output/posthocs.md)
 - [Repeated Measures ANOVA](./annotated-output/repeated.md)
 - [ANOVA (Factorial ANOVA)](./annotated-output/factorial.md)
 
@@ -56,6 +56,6 @@ This chapter contains worksheets where students fill in their calculations, thus
 - [T Test (Paired Samples)](./blank-output/paired.md)
 - [T Test (Independent Samples)](./blank-output/independent.md)
 - [OneWay (OneWay ANOVA)](./blank-output/oneway.md)
-- [Post Hoc Tests (OneWay ANOVA)](./blank-output/posthocs.md)
+- [Post Hoc Comparisons (OneWay ANOVA)](./blank-output/posthocs.md)
 - [General Linear Model (Repeated Measures ANOVA)](./blank-output/repeated.md)
 - [ANOVA (Factorial ANOVA)](./blank-output/factorial.md)

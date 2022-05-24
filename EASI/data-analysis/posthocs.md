@@ -1,5 +1,5 @@
 
-## EASI: Post Hoc Tests
+## EASI: Post Hoc Comparisons
 
 ### Obtaining Descriptive Statistics
 
