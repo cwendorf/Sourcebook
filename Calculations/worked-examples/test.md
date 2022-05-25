@@ -23,7 +23,7 @@ Grand (or Total) Mean: A grand mean can be determined by taking the weighted ave
 Between Groups Statistics: The between-groups effect statistics are a function of the group (level) means and sample sizes.
 
 > $$ SS_{BETWEEN} = \sum n_{GROUP} (M_{GROUP} - M_{TOTAL})^2 = 4 ( 2.000 - 5.000 )^2 + 4 ( 6.000 - 5.000 )^2 + 4 ( 7.000 - 5.000 )^2 = 56.000  $$
-> $$ df_{BETWEEN} = \text{# groups} − 1 = 3 − 1 = 2 $$
+> $$ df_{BETWEEN} = \text{# groups} − 1 = 3 − 1 = 2 $$ $\break$
 > $$ MS_{BETWEEN} = \frac{SS_{BETWEEN}}{df_{BETWEEN}} = \frac{56.000}{2} = 28.000 $$
 
 Statistical Significance: The *F* statistic is the ratio of the between- and within-group variance estimates. 
