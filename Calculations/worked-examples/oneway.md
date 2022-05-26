@@ -65,6 +65,8 @@ Between Groups Statistics: The between-groups effect statistics are a function o
 >
 > $$ df_{BETWEEN} = \text{# groups} − 1 = 3 − 1 = 2 $$
 >
+> $$ df_{BETWEEN} = {# groups} − 1 = 3 − 1 = 2 $$
+>
 > $$ MS_{BETWEEN} = \frac{SS_{BETWEEN}}{df_{BETWEEN}} = \frac{56.000}{2} = 28.000 $$
 
 Statistical Significance: The *F* statistic is the ratio of the between- and within-group variance estimates. 
