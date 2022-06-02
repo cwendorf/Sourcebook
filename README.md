@@ -19,7 +19,7 @@ The Sourcebook contains the following materials:
 - [**jamovi**](./jamovi) - Contains instructions, annotated output, and blank output for jamovi
 - [**JASP**](./JASP) - Contains instructions, annotated output, and blank output for JASP
 - [**EASI**](./EASI) - Contains instructions and annotated output for EASI (an R package)
-- [**Summaries**](./Methods) - Contains a statistics overview, an APA style guide, and APA summaries for the examples
+- [**Summaries**](./Summaries) - Contains a statistics overview, an APA style guide, and APA summaries for the examples
 
 Readers who use this Sourcebook to work sequentially through the topics of a typical undergraduate statistics course are encouraged to start in the special [**Topics**](./Topics) section.
 
