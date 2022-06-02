@@ -21,7 +21,7 @@ The Sourcebook contains the following materials:
 - [**EASI**](./EASI) - Contains instructions and annotated output for EASI (an R package)
 - [**Summaries**](./Summaries) - Contains a statistics overview, an APA style guide, and APA summaries for the examples
 
-Readers who use this Sourcebook to work sequentially through the topics of a typical undergraduate statistics course are encouraged to start in the special [**Topics**](./Topics) section.
+Readers who use this Sourcebook to work sequentially through the topics of a typical undergraduate statistics course are encouraged to start in the special [**Topics**](./Topics) section (which focuses on the use of jamovi to teach a course).
 
 ### Citation
 
