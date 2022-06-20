@@ -25,5 +25,4 @@ Get the correlation, its test for statistical significance, and its confidence i
 
 ```{r}
 cor.test(Outcome1,Outcome2)
-cor.test(Outcome1,Outcome2,conf.level=.99)
 ```

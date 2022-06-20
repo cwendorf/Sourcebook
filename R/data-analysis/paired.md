@@ -23,5 +23,4 @@ t.test(Outcome1-Outcome2,mu=0,conf.level=.99)
 
 ```{r}
 t.test(Outcome1,Outcome2,paired=TRUE)
-t.test(Outcome1,Outcome2,paired=TRUE,conf.level=.99)
 ```

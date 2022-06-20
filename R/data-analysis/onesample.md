@@ -16,5 +16,4 @@ Test the mean difference for statistical significance and get its confidence int
 
 ```{r}
 t.test(Outcome,mu=7)
-t.test(Outcome,mu=7,conf.level=.99)
 ```

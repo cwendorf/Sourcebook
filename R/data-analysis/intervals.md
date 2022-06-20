@@ -15,5 +15,4 @@ Get the mean and its confidence interval.
 
 ```{r}
 t.test(Outcome)$conf.int
-t.test(Outcome,conf.level=.99)$conf.int
 ```
