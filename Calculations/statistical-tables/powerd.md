@@ -1,4 +1,4 @@
-## Methods: Cohen&#39;s *d*
+## Calculations: Cohen&#39;s *d*
 
 ### Power Table for Cohen&#39;s *d*
 

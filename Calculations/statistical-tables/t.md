@@ -1,4 +1,4 @@
-## Methods: Student's *t* Distribution
+## Calculations: Student's *t* Distribution
 
 ### Values of the *t* Distribution
 

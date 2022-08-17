@@ -1,4 +1,4 @@
-## Methods: Eta-Squared
+## Calculations: Eta-Squared
 
 ### Power Table for Eta-Squared
 

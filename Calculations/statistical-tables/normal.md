@@ -1,4 +1,4 @@
-## Methods: Standard Normal Distribution
+## Calculations: Standard Normal Distribution
 
 ### Values of the Standard Normal Distribution
 

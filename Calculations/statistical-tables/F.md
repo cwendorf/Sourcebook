@@ -1,4 +1,4 @@
-## Methods: F Distribution
+## Calculations: F Distribution
 
 ### Critical Values of the *F* Distribution
 

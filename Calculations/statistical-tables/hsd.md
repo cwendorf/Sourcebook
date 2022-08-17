@@ -1,4 +1,4 @@
-## Methods: Tukey&#39;s HSD
+## Calculations: Tukey&#39;s HSD
 
 ### Values of Tukey&#39;s HSD Statistic
 
