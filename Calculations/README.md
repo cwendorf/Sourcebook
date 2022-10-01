@@ -30,7 +30,7 @@ This chapter provides a set of basic formulas. The important procedures for each
 
 ### Worked Examples
 
-This chapter provides a set of worked examples. The raw data, typical computer, and complete calculations are provided for each type of research design.
+This chapter provides a set of worked examples. The raw data, typical computer output, and complete calculations are provided for each type of research design.
 
 - [Frequencies](./worked-examples/frequencies.md)
 - [Descriptives](./worked-examples/descriptives.md)
