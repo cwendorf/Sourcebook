@@ -25,4 +25,4 @@ Readers who use this Sourcebook to work sequentially through the topics of a typ
 
 ### Citation
 
-Wendorf, C. A. (2019). _Sourcebook: Basic statistical methods for social science._ [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
+Wendorf, C. A. (2022). _Sourcebook: Basic statistical methods for social science._ [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
