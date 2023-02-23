@@ -85,5 +85,5 @@ Confidence Intervals: For *HSD*, calculate the confidence intervals around (cent
 > $$ CI_{1vs3} = ( M_1 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -5.000 \pm (2.792) (1.732) = [ −9.836, −0.164 ] $$
 >
 > $$ CI_{2vs3} = ( M_2 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -1.000 \pm (2.792) (1.732) = [ −5.836, 3.836 ] $$
->S
+>
 > For each comparison, the researcher estimates the true population mean difference (knowing that the estimates could be incorrect).
