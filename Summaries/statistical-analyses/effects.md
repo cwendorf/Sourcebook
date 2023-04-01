@@ -34,7 +34,7 @@ Because the two types of measures are standardized, the size of the number can b
 One way to determine if these labels are accurate is to look at what tends to happen in real psychological research. In the case of social psychological research, the following numbers of studies tend to fall in the various categories:
 
 | **Label** | **Convention for Cohen&#39;s *d*** | **Convention for Correlation (*r*)** | **Convention for  Squared Correlation (*r<sup>2</sup>*)** | **Percentage of Social Psychology Studies** |
-| --- | --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: | :-: |
 | Small | 0.20 | 0.10 | 0.01 | 30% |
 | Medium | 0.50 | 0.24 | 0.06 | 45% |
 | Large | 0.80 | 0.37 | 0.14 | 25% |
