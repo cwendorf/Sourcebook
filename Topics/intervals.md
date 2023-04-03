@@ -1,4 +1,4 @@
-## Topics: Confidence Intervals
+## [Topics](../Topics) | [Confidence Intervals](../Topics/intervals.md)
 
 ### Overview
 

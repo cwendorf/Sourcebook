@@ -1,4 +1,4 @@
-## Topics: Paired Samples t Test
+## [Topics](../Topics) | [Paired Samples t Test](../Topics/paired.md)
 
 ### Overview
 

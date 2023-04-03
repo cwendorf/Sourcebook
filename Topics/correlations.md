@@ -1,7 +1,5 @@
 ## [Topics](../Topics) | [Correlations](../Topics/correlations.md)
 
-## Topics: Correlations
-
 ### Overview
 
 Correlations provide a measure of statistical relationship between two variables.
