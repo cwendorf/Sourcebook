@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: Correlations
+## Correlations
 
 ### Obtaining Descriptive Statistics
 
