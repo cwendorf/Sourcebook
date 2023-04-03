@@ -1,4 +1,4 @@
-## EASI (R Package) 
+# EASI (R Package) 
 
 ### Finding the Software
 

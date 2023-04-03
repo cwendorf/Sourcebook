@@ -1,4 +1,4 @@
-## JASP
+# JASP
 
 ### Finding the Software
 

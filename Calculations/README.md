@@ -1,4 +1,4 @@
-## Calculations
+# Calculations
 
 ### Statistical Tables
 

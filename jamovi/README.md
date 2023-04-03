@@ -1,4 +1,4 @@
-## jamovi 
+# jamovi 
 
 ### Finding the Software
 
