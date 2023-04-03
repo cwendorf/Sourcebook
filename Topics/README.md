@@ -1,4 +1,4 @@
-## [Topics](../Topics)
+## Topics
 
 ### Objectives
 
