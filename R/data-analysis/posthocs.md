@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: Post Hoc Comparisons
+## Post Hoc Comparisons
 
 ### Obtaining Descriptive Statistics
 

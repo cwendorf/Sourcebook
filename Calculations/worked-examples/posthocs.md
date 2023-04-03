@@ -1,4 +1,6 @@
-## Calculations: Post Hoc Comparisons
+# Calculations | Worked Examples
+
+## Post Hoc Comparisons
 
 ### Data
 

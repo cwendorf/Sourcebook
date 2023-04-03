@@ -1,4 +1,6 @@
-## SPSS: T Test (Paired Samples) 
+# SPSS | Data Analysis
+
+## T Test (Paired Samples) 
 
 ### Obtaining Paired-Sample Statistics
 

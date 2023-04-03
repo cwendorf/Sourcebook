@@ -1,4 +1,6 @@
-## Summaries: One Sample t Test
+# Summaries | Summarized Examples
+
+## One Sample t Test
 
 ### APA Style
 

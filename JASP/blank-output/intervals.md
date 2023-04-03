@@ -1,4 +1,6 @@
-## JASP: T-Test (Confidence Intervals)
+# JASP | Blank Output
+
+## T-Test (Confidence Intervals)
 
 ### Descriptives
 

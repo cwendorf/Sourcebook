@@ -1,4 +1,6 @@
-## Summaries: Descriptives
+# Summaries | Summarized Examples
+
+## Descriptives
 
 ### APA Style
 

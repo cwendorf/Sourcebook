@@ -1,3 +1,5 @@
-## EASI: Factorial ANOVA
+# EASI | Annotated Output
+
+## Factorial ANOVA
 
 <p align="center"><kbd><img src="factorial.png"></kbd></p>

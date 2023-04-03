@@ -1,4 +1,6 @@
-## JASP: One Sample Data 
+# JASP | Data Entry
+
+## One Sample Data 
 
 ### Entering Data on One Variable (Using a Spreadsheet)
 

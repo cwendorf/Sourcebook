@@ -1,4 +1,6 @@
-## Summaries: Correlations
+# Summaries | Summarized Examples
+
+## Correlations
 
 ### APA Style
 

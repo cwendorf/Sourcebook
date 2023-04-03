@@ -1,4 +1,6 @@
-## Summaries: General Rules for APA Style Results Sections
+# Summaries | Reporting Statistics
+
+## General Rules for APA Style Results Sections
 
 ### Overview
 

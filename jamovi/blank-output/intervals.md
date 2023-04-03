@@ -1,4 +1,6 @@
-## jamovi: T-Test (Confidence Intervals)
+# jamovi | Blank Output
+
+## T-Test (Confidence Intervals)
 
 ### Descriptives
 

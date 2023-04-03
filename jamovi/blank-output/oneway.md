@@ -1,4 +1,6 @@
-## jamovi: ANOVA (OneWay ANOVA)
+# jamovi | Blank Output
+
+## ANOVA (OneWay ANOVA)
 
 ### Descriptives
 

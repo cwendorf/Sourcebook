@@ -1,4 +1,6 @@
-## JASP: T-Test (Independent Samples)
+# JASP | Blank Output
+
+## T-Test (Independent Samples)
 
 ### Group Descriptives
 

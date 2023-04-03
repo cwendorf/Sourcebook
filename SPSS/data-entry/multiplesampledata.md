@@ -1,4 +1,6 @@
-## SPSS: Multiple Sample Data 
+# SPSS | Data Entry
+
+## Multiple Sample Data 
 
 ### Defining All Variables 
 

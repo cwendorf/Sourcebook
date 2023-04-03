@@ -1,4 +1,6 @@
-## SPSS: Univariate Analysis of Variance (Factorial ANOVA)
+# SPSS | Blank Output
+
+## Univariate Analysis of Variance (Factorial ANOVA)
 
 ### Tests of Between-Subjects Effects
 

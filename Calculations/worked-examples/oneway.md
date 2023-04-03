@@ -1,4 +1,6 @@
-## Calculations: One-Way ANOVA
+# Calculations | Worked Examples
+
+## One-Way ANOVA
 
 ### Data 
 

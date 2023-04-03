@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [Independent Samples t Test](../Topics/independent.md)
+# Topics | jamovi
+
+## Independent Samples t Test
 
 ### Overview
 

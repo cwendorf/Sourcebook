@@ -1,4 +1,6 @@
-## JASP: Post Hoc Comparisons (OneWay ANOVA)
+# JASP | Blank Output
+
+## Post Hoc Comparisons (OneWay ANOVA)
 
 ### Descriptives
 

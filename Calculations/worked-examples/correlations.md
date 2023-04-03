@@ -1,4 +1,6 @@
-## Calculations: Correlations
+# Calculations | Worked Examples
+
+## Correlations
 
 ### Data
 

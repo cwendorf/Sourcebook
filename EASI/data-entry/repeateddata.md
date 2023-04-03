@@ -1,5 +1,6 @@
+# EASI | Data Entry
 
-## EASI: Repeated Measures Data
+## Repeated Measures Data
 
 ### Entering Data
 

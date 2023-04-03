@@ -1,4 +1,6 @@
-## Summaries: Choosing Appropriate Inferential Statistics
+# Summaries | Statistical Analyses
+
+## Choosing Appropriate Inferential Statistics
 
 ### Basic Research Design and Statistics Terminology
 

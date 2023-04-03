@@ -1,4 +1,6 @@
-## Summaries: Confidence Intervals
+# Summaries | Summarized Examples
+
+## Confidence Intervals
 
 ### APA Style
 

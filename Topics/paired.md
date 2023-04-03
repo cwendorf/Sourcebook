@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [Paired Samples t Test](../Topics/paired.md)
+# Topics | jamovi
+
+## Paired Samples t Test
 
 ### Overview
 

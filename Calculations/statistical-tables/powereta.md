@@ -1,4 +1,6 @@
-## Calculations: Eta-Squared
+# Calculations | Statistical Tables
+
+## Eta-Squared
 
 ### Power Table for Eta-Squared
 

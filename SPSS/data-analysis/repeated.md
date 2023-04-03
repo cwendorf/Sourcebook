@@ -1,4 +1,6 @@
-## SPSS: General Linear Model (Repeated Measures ANOVA) 
+# SPSS | Data Analysis
+
+## General Linear Model (Repeated Measures ANOVA) 
 
 ### Obtaining Repeated Measures Inferential Statistics
 

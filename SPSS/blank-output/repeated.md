@@ -1,4 +1,6 @@
-## SPSS: General Linear Model (Repeated Measures ANOVA)
+# SPSS | Blank Output
+
+## General Linear Model (Repeated Measures ANOVA)
 
 ### Tests of Between-Subjects Effects
 

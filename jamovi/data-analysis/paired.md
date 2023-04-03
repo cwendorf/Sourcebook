@@ -1,4 +1,6 @@
-## jamovi: T Test (Paired Samples) 
+# jamovi | Data Analysis
+
+## T Test (Paired Samples) 
 
 ### Obtaining Paired Sample Inferential Statistics
 

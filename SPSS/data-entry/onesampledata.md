@@ -1,4 +1,6 @@
-## SPSS: One Sample Data 
+# SPSS | Data Entry
+
+## One Sample Data 
 
 ### Defining All Variables
 

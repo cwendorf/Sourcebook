@@ -1,4 +1,6 @@
-## JASP: T Test (Independent Samples) 
+# JASP | Data Analysis
+
+## T Test (Independent Samples) 
 
 ### Obtaining Two-Sample Inferential Statistics
 

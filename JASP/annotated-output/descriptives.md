@@ -1,3 +1,5 @@
-## JASP: Descriptives (Frequencies and Descriptives)
+# JASP | Annotated Output
+
+## Descriptives (Frequencies and Descriptives)
 
 <p align="center"><kbd><img src="descriptives.png"></kbd></p>

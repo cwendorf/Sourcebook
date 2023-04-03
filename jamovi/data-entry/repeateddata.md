@@ -1,4 +1,6 @@
-## jamovi: Repeated Measures Data
+# jamovi | Data Entry
+
+## Repeated Measures Data
 
 ### Defining Variables 
 

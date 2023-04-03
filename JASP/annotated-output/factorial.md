@@ -1,3 +1,5 @@
-## JASP: ANOVA (Factorial ANOVA)
+# JASP | Annotated Output
+
+## ANOVA (Factorial ANOVA)
 
 <p align="center"><kbd><img src="factorial.png"></kbd></p>

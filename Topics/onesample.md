@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [One Sample t Test](../Topics/onesample.md)
+# Topics | jamovi
+
+## One Sample t Test
 
 ### Overview
 

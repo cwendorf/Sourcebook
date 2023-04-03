@@ -1,4 +1,6 @@
-## Calculations: Descriptives
+# Calculations | Worked Examples
+
+## Descriptives
 
 ### Data
 

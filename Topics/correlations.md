@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [Correlations](../Topics/correlations.md)
+# Topics | jamovi
+
+## Correlations
 
 ### Overview
 

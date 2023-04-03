@@ -1,4 +1,6 @@
-## jamovi: Correlations (Bivariate) 
+# jamovi | Data Analysis
+
+## Correlations (Bivariate) 
 
 ### Obtaining Correlational Statistics 
 

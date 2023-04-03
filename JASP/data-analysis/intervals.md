@@ -1,4 +1,6 @@
-## JASP: T Test (Confidence Intervals) 
+# JASP | Data Analysis
+
+## T Test (Confidence Intervals) 
 
 ### Obtaining One-Sample Inferential Statistics
 

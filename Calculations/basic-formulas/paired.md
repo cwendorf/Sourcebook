@@ -1,4 +1,6 @@
-## Calculations: Paired Samples t Test
+# Calculations | Basic Formulas
+
+## Paired Samples t Test
 
 ### Formulas
 

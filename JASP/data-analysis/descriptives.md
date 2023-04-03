@@ -1,4 +1,6 @@
-## JASP: Descriptives (Frequencies and Descriptive Statistics) 
+# JASP | Data Analysis
+
+## Descriptives (Frequencies and Descriptive Statistics) 
 
 ### Obtaining Frequency-Related Statistics
 

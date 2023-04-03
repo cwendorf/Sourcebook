@@ -1,4 +1,6 @@
-## Calculations: Paired Samples t Test
+# Calculations | Worked Examples
+
+## Paired Samples t Test
 
 ### Data
 

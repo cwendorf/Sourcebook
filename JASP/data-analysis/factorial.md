@@ -1,4 +1,6 @@
-## JASP: ANOVA (Factorial ANOVA) 
+# JASP | Data Analysis
+
+## ANOVA (Factorial ANOVA) 
 
 ### Obtaining Factorial Inferential Statistics
 

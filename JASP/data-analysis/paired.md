@@ -1,4 +1,6 @@
-## JASP: T Test (Paired Samples) 
+# JASP | Data Analysis
+
+## T Test (Paired Samples) 
 
 ### Obtaining Paired-Sample Inferential Statistics
 

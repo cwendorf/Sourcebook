@@ -1,5 +1,6 @@
+# EASI | Data Analysis
 
-## EASI: Frequencies
+## Frequencies
 
 ###  Obtaining a Frequency Distribution
 

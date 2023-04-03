@@ -1,4 +1,6 @@
-## SPSS: Factorial Data 
+# SPSS | Data Entry
+
+## Factorial Data 
 
 ### Defining All Variables 
 

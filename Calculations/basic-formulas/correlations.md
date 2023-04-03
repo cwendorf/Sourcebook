@@ -1,4 +1,6 @@
-## Calculations: Correlations
+# Calculations | Basic Formulas
+
+## Correlations
 
 ### Formulas 
 

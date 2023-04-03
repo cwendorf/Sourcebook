@@ -1,4 +1,6 @@
-## jamovi: ANOVA (OneWay ANOVA)
+# jamovi | Data Analysis
+
+## ANOVA (OneWay ANOVA)
 
 ### Obtaining Multiple Sample Inferential Statistics
 

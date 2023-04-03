@@ -1,4 +1,6 @@
-## Summaries: Factorial ANOVA
+# Summaries | Summarized Examples
+
+## Factorial ANOVA
 
 ### APA Style
 

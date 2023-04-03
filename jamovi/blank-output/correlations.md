@@ -1,4 +1,6 @@
-## jamovi: Correlations (Bivariate)
+# jamovi | Blank Output
+
+## Correlations (Bivariate)
 
 ### Descriptives
 

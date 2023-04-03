@@ -1,4 +1,6 @@
-## Calculations: Student's *t* Distribution
+# Calculations | Statistical Tables
+
+## Student's *t* Distribution
 
 ### Values of the *t* Distribution
 

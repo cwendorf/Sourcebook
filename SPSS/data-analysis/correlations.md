@@ -1,4 +1,6 @@
-## SPSS: Correlations (Bivariate) 
+# SPSS | Data Analysis
+
+## Correlations (Bivariate) 
 
 ### Obtaining Correlational Statistics
 

@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [Standardized Scores](../Topics/standardized.md)
+# Topics | jamovi
+
+## Standardized Scores
 
 ### Overview
 

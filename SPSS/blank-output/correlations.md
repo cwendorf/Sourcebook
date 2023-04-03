@@ -1,4 +1,6 @@
-## SPSS: Correlations (Bivariate)
+# SPSS | Blank Output
+
+## Correlations (Bivariate)
 
 ### Descriptive Statistics
 

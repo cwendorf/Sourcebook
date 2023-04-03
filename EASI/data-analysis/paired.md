@@ -1,5 +1,6 @@
+# EASI | Data Analysis
 
-## EASI: Paired Samples t Test
+## Paired Samples t Test
 
 ### Obtaining Descriptive Statistics
 

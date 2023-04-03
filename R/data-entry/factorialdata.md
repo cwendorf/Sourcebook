@@ -1,6 +1,6 @@
+# R | Data Entry
 
-
-## R: Factorial Data
+## Factorial Data
 
 ### Entering Data
 

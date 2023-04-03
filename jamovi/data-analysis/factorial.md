@@ -1,4 +1,6 @@
-## jamovi: ANOVA (Factorial ANOVA)
+# jamovi | Data Analysis
+
+## ANOVA (Factorial ANOVA)
 
 ### Obtaining Factorial Inferential Statistics
 

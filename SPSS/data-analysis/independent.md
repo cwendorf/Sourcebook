@@ -1,4 +1,6 @@
-## SPSS: T Test (Independent Samples) 
+# SPSS | Data Analysis
+
+## T Test (Independent Samples) 
 
 ### Obtaining Two-Sample Inferential Statistics
 

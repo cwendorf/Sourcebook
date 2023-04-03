@@ -1,4 +1,6 @@
-## Calculations: Confidence Intervals
+# Calculations | Worked Examples
+
+## Confidence Intervals
 
 ### Data
 

@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: Descriptives
+## Descriptives
 
 ### Obtaining Descriptive Statistics
 

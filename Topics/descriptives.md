@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [Descriptives](../Topics/descriptives.md)
+# Topics | jamovi
+
+## Descriptives
 
 ### Objectives
 

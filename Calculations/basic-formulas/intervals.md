@@ -1,4 +1,6 @@
-## Calculations: Confidence Intervals
+# Calculations | Basic Formulas
+
+## Confidence Intervals
 
 ### Formulas
 

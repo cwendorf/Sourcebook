@@ -1,4 +1,6 @@
-## JASP: Descriptives (Frequencies and Descriptives)
+# JASP | Blank Output
+
+## Descriptives (Frequencies and Descriptives)
 
 ### Frequencies
 

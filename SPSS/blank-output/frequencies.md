@@ -1,4 +1,6 @@
-## SPSS: Frequencies (Frequencies and Descriptives)
+# SPSS | Blank Output
+
+## Frequencies (Frequencies and Descriptives)
 
 ### Frequencies
 

@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [Repeated Measures ANVOA](../Topics/repeated.md)
+# Topics | jamovi
+
+## Repeated Measures ANVOA
 
 ### Overview
 

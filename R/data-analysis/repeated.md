@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: Repeated Measures ANOVA
+## Repeated Measures ANOVA
 
 ### Obtaining Descriptive Statistics
 

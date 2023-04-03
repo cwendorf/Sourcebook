@@ -1,4 +1,6 @@
-## JASP: Correlations (Bivariate)
+# JASP | Blank Output
+
+## Correlations (Bivariate)
 
 ### Descriptives
 

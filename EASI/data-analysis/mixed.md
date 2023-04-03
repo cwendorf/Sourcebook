@@ -1,5 +1,6 @@
+# EASI | Data Analysis
 
-## EASI: Mixed Design ANOVA
+## Mixed Design ANOVA
 
 ### Obtaining Descriptive Statistics
 

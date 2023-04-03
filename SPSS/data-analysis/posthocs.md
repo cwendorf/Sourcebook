@@ -1,4 +1,6 @@
-## SPSS: Post Hoc Comparisons (OneWay ANOVA) 
+# SPSS | Data Analysis
+
+## Post Hoc Comparisons (OneWay ANOVA) 
 
 ### Obtaining Multiple-Sample Inferential Statistics
 

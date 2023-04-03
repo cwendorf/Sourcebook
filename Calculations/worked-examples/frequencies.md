@@ -1,4 +1,6 @@
-## Calculations: Frequencies
+# Calculations | Worked Examples
+
+## Frequencies
 
 ### Data
 

@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: Confidence Intervals
+## Confidence Intervals
 
 ### Obtaining Descriptive Statistics
 

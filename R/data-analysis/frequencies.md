@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: Frequencies
+## Frequencies
 
 ###  Obtaining a Frequency Distribution
 

@@ -1,4 +1,6 @@
-## JASP: Repeated Measures ANOVA
+# JASP | Blank Output
+
+## Repeated Measures ANOVA
 
 ### Descriptives 
 

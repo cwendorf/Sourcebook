@@ -1,4 +1,6 @@
-## JASP: Repeated Measures ANOVA 
+# JASP | Data Analysis
+
+## Repeated Measures ANOVA 
 
 ### Obtaining Repeated Measures Inferential Statistics
 

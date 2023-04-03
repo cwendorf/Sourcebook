@@ -1,4 +1,6 @@
-## Calculations: Standardized Scores
+# Calculations | Basic Formulas
+
+## Standardized Scores
 
 ### Formulas
 

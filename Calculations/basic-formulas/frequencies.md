@@ -1,4 +1,6 @@
-## Calculations: Frequencies
+# Calculations | Basic Formulas
+
+## Frequencies
 
 ### Formulas 
 

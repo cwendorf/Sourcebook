@@ -1,4 +1,6 @@
-## Calculations: One Sample t Test
+# Calculations | Basic Formulas
+
+## One Sample t Test
 
 ### Formulas
 

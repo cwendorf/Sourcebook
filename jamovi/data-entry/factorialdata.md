@@ -1,4 +1,6 @@
-## jamovi: Factorial Data 
+# jamovi | Data Entry
+
+## Factorial Data 
 
 ### Defining Variables
 

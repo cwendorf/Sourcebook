@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: One Way ANOVA
+## One Way ANOVA
 
 ### Obtaining Descriptive Statistics
 

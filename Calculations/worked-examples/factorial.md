@@ -1,4 +1,6 @@
-## Calculations: Factorial ANOVA
+# Calculations | Worked Examples
+
+## Factorial ANOVA
 
 ### Data
 

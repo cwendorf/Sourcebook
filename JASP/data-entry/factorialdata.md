@@ -1,4 +1,6 @@
-## JASP: Factorial Data 
+# JASP | Data Entry
+
+## Factorial Data 
 
 ### Entering Data (Using a Spreadsheet)
 

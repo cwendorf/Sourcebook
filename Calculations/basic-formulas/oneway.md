@@ -1,4 +1,6 @@
-## Calculations: One-Way ANOVA
+# Calculations | Basic Formulas
+
+## One-Way ANOVA
 
 ### Formulas
 

@@ -1,4 +1,6 @@
-## SPSS: Repeated Measures Data 
+# SPSS | Data Entry
+
+## Repeated Measures Data 
 
 ### Defining All Variables 
 

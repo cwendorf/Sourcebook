@@ -1,4 +1,6 @@
-## Summaries: Standardized Scores
+# Summaries | Summarized Examples
+
+## Standardized Scores
 
 ### APA Style
 

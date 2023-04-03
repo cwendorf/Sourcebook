@@ -1,4 +1,6 @@
-## JASP: T-Test (One Sample)
+# JASP | Blank Output
+
+## T-Test (One Sample)
 
 ### Descriptives
 

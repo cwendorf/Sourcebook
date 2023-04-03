@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [Frequencies](../Topics/frequencies.md)
+# Topics | jamovi
+
+## Frequencies
 
 ### Overview
 

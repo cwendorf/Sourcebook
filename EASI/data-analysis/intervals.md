@@ -1,5 +1,6 @@
+# EASI | Data Analysis
 
-## EASI: Confidence Intervals
+## Confidence Intervals
 
 ### Obtaining Descriptive Statistics
 

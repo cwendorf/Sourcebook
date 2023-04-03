@@ -1,5 +1,6 @@
+# R | Data Entry
 
-## R: One Sample Data
+## One Sample Data
 
 ### Entering Data
 

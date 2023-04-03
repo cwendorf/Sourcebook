@@ -1,4 +1,6 @@
-## Calculations: Factorial ANOVA
+# Calculations | Basic Formulas
+
+## Factorial ANOVA
 
 ### Formulas
 

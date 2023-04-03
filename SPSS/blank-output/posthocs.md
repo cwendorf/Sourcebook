@@ -1,4 +1,6 @@
-## SPSS: Post Hoc Comparisons (OneWay ANOVA)
+# SPSS | Blank Output
+
+## Post Hoc Comparisons (OneWay ANOVA)
 
 ### Multiple Comparisons
 

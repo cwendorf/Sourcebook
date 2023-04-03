@@ -1,4 +1,6 @@
-## Summaries: Paired Samples t Test
+# Summaries | Summarized Examples
+
+## Paired Samples t Test
 
 ### APA Style
 

@@ -1,4 +1,6 @@
-## SPSS: T-Test (Independent Samples)
+# SPSS | Blank Output
+
+## T-Test (Independent Samples)
 
 ### Group Statistics
 

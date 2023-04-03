@@ -1,4 +1,6 @@
-## SPSS: Descriptives (Standardized Scores and Transformations) 
+# SPSS | Data Analysis
+
+## Descriptives (Standardized Scores and Transformations) 
 
 ### Obtaining Descriptive-Related Statistics 
 

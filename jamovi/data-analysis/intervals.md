@@ -1,4 +1,6 @@
-## jamovi: T Test (Confidence Intervals) 
+# jamovi | Data Analysis
+
+## T Test (Confidence Intervals) 
 
 ### Obtaining One Sample Inferential Statistics
 

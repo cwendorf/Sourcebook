@@ -1,4 +1,6 @@
-## SPSS: One-Way (OneWay ANOVA) 
+# SPSS | Data Analysis
+
+## One-Way (OneWay ANOVA) 
 
 ### Obtaining Multiple-Sample Inferential Statistics
 

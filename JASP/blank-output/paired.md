@@ -1,4 +1,6 @@
-## JASP: T-Test (Paired Samples)
+# JASP | Blank Output
+
+## T-Test (Paired Samples)
 
 ### Descriptives
 

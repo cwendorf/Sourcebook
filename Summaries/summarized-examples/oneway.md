@@ -1,4 +1,6 @@
-## Summaries: One-Way ANOVA
+# Summaries | Summarized Examples
+
+## One-Way ANOVA
 
 ### APA Style
 

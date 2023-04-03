@@ -1,4 +1,6 @@
-## SPSS: Oneway (OneWay ANOVA)
+# SPSS | Blank Output
+
+## Oneway (OneWay ANOVA)
 
 ### Descriptives
 

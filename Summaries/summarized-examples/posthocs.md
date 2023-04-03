@@ -1,4 +1,6 @@
-## Summaries: Post Hoc Comparisons
+# Summaries | Summarized Examples
+
+## Post Hoc Comparisons
 
 ### APA Style
 

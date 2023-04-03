@@ -1,5 +1,6 @@
+# EASI | Data Entry
 
-## EASI: Multiple Sample Data
+## Multiple Sample Data
 
 ### Entering Data
 

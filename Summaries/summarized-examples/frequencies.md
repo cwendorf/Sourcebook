@@ -1,4 +1,6 @@
-## Summaries: Frequencies
+# Summaries | Summarized Examples
+
+## Frequencies
 
 ### APA Style
 

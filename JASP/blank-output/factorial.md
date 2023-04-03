@@ -1,4 +1,6 @@
-## JASP: ANOVA (Factorial ANOVA)
+# JASP | Blank Output
+
+## ANOVA (Factorial ANOVA)
 
 ### Descriptives
 

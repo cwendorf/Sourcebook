@@ -1,4 +1,6 @@
-## Summaries: Repeated Measures ANOVA
+# Summaries | Summarized Examples
+
+## Repeated Measures ANOVA
 
 ### APA Style
 

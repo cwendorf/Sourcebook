@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: Paired Samples t Test
+## Paired Samples t Test
 
 ### Obtaining Descriptive Statistics
 

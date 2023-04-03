@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [Factorial ANOVA](../Topics/factorial.md)
+# Topics | jamovi
+
+## Factorial ANOVA
 
 ### Overview
 

@@ -1,5 +1,6 @@
+# R | Data Entry
 
-## R: Repeated Measures Data
+## Repeated Measures Data
 
 ### Entering Data
 

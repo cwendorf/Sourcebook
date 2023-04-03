@@ -1,5 +1,6 @@
+# EASI | Data Analysis
 
-## EASI: Factorial ANOVA
+## Factorial ANOVA
 
 ### Obtaining Descriptive Statistics
 

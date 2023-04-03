@@ -1,4 +1,6 @@
-## JASP: ANOVA (OneWay ANOVA) 
+# JASP | Data Analysis
+
+## ANOVA (OneWay ANOVA) 
 
 ### Obtaining Multiple-Sample Inferential Statistics
 

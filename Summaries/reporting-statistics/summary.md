@@ -1,4 +1,6 @@
-## Summaries: Summary of Parametric Statistic Reporting
+# Summaries | Reporting Statistics
+
+## Summary of Parametric Statistic Reporting
 
 | **Statistic** | **Purpose** | **APA Style** | **Description** |
 | --- | --- | --- | --- |

@@ -1,4 +1,6 @@
-## jamovi: Post Hoc Comparisons (OneWay ANOVA)
+# jamovi | Blank Output
+
+## Post Hoc Comparisons (OneWay ANOVA)
 
 ### Descriptives
 

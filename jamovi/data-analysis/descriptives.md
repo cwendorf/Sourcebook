@@ -1,4 +1,6 @@
-## jamovi: Descriptives (Frequencies and Descriptives) 
+# jamovi | Data Analysis
+
+## Descriptives (Frequencies and Descriptives) 
 
 ### Obtaining Frequency-Related Statistics
 

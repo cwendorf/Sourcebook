@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: One Sample t Test
+## One Sample t Test
 
 ### Obtaining Descriptive Statistics
 

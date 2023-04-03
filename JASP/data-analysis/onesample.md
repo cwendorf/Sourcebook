@@ -1,4 +1,6 @@
-## JASP: T Test (One Sample) 
+# JASP | Data Analysis
+
+## T Test (One Sample) 
 
 ### Obtaining One-Sample Inferential Statistics
 

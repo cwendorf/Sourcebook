@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [Post Hoc Comparisons](../Topics/posthocs.md)
+# Topics | jamovi
+
+## Post Hoc Comparisons
 
 ### Overview
 

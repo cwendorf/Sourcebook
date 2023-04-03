@@ -1,4 +1,6 @@
-## Summaries: Understanding Effect Size Measures
+# Summaries | Statistical Analyses
+
+## Understanding Effect Size Measures
 
 ### Types of Effect Size Measures
 

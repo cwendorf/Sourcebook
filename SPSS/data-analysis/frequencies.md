@@ -1,4 +1,6 @@
-## SPSS: Frequencies (Frequencies and Descriptives) 
+# SPSS | Data Analysis
+
+## Frequencies (Frequencies and Descriptives) 
 
 ### Obtaining Frequency-Related Statistics
 

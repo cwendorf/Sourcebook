@@ -1,4 +1,6 @@
-## jamovi: Compute (Transformations and Standardized Scores)
+# jamovi | Data Analysis
+
+## Compute (Transformations and Standardized Scores)
 
 ### Obtaining the Compute Menu
 

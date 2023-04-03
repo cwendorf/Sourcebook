@@ -1,4 +1,6 @@
-## JASP: Multiple Sample Data 
+# JASP | Data Entry
+
+## Multiple Sample Data 
 
 ### Entering Data (Using a Spreadsheet)
 

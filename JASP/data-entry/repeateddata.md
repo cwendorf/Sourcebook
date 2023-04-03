@@ -1,4 +1,6 @@
-## JASP: Repeated Measures Data 
+# JASP | Data Entry
+
+## Repeated Measures Data 
 
 ### Entering Data (Using a Spreadsheet)
 

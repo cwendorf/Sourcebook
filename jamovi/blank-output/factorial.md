@@ -1,4 +1,6 @@
-## jamovi: ANOVA (Factorial ANOVA)
+# jamovi | Blank Output
+
+## ANOVA (Factorial ANOVA)
 
 ### Descriptives
 

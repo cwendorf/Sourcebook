@@ -1,5 +1,6 @@
+# EASI | Data Analysis
 
-## EASI: One Way ANOVA
+## One Way ANOVA
 
 ### Obtaining Descriptive Statistics
 

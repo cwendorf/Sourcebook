@@ -1,4 +1,6 @@
-## Calculations: Standardized Scores
+# Calculations | Worked Examples
+
+## Standardized Scores
 
 ### Data
 

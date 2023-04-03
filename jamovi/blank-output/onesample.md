@@ -1,4 +1,6 @@
-## jamovi: T-Test (One Sample)
+# jamovi | Blank Output
+
+## T-Test (One Sample)
 
 ### Descriptives
 

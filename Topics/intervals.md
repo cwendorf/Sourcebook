@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [Confidence Intervals](../Topics/intervals.md)
+# Topics | jamovi
+
+## Confidence Intervals
 
 ### Overview
 

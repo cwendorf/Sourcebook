@@ -1,5 +1,6 @@
+# EASI | Data Analysis
 
-## EASI: Repeated Measures ANOVA
+## Repeated Measures ANOVA
 
 ### Obtaining Descriptive Statistics
 

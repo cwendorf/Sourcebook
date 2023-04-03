@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: Mixed Design ANOVA
+## Mixed Design ANOVA
 
 ### Obtaining Descriptive Statistics
 

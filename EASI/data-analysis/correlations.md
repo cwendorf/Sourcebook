@@ -1,5 +1,6 @@
+# EASI | Data Analysis
 
-## EASI: Correlations
+## Correlations
 
 ### Obtaining Descriptive Statistics
 

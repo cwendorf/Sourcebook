@@ -1,6 +1,6 @@
+# EASI | Data Entry
 
-
-## EASI: Factorial Data
+## Factorial Data
 
 ### Entering Data
 

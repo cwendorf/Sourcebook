@@ -1,4 +1,6 @@
-## jamovi: T-Test (Paired Samples)
+# jamovi | Blank Output
+
+## T-Test (Paired Samples)
 
 ### Descriptives
 

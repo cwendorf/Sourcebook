@@ -1,4 +1,6 @@
-## jamovi: T Test (Independent Samples) 
+# jamovi | Data Analysis
+
+## T Test (Independent Samples) 
 
 ### Obtaining Two Sample Inferential Statistics
 

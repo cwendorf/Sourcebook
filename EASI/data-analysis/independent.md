@@ -1,5 +1,6 @@
+# EASI | Data Analysis
 
-## EASI: Independent Samples t Test
+## Independent Samples t Test
 
 ### Obtaining Descriptive Statistics
 

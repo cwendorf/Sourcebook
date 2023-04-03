@@ -1,4 +1,6 @@
-## Calculations: Descriptives
+# Calculations | Basic Formulas
+
+## Descriptives
 
 ### Formulas 
 

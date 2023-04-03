@@ -1,4 +1,6 @@
-## jamovi: Multiple Sample Data 
+# jamovi | Data Entry
+
+## Multiple Sample Data 
 
 ### Defining Variables
 

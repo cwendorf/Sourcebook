@@ -1,5 +1,6 @@
+# EASI | Data Analysis
 
-## EASI: Post Hoc Comparisons
+## Post Hoc Comparisons
 
 ### Obtaining Descriptive Statistics
 

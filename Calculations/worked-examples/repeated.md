@@ -1,4 +1,6 @@
-## Calculations: Repeated Measures ANOVA
+# Calculations | Worked Examples
+
+## Repeated Measures ANOVA
 
 ### Data
 

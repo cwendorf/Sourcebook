@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: Factorial ANOVA
+## Factorial ANOVA
 
 ### Obtaining Descriptive Statistics
 

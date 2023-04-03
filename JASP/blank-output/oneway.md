@@ -1,4 +1,6 @@
-## JASP: ANOVA (OneWay ANOVA)
+# JASP | Blank Output
+
+## ANOVA (OneWay ANOVA)
 
 ### Descriptives
 

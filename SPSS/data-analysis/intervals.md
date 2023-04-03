@@ -1,4 +1,6 @@
-## SPSS: Explore (Descriptives and Confidence Intervals) 
+# SPSS | Data Analysis
+
+## Explore (Descriptives and Confidence Intervals) 
 
 ### Obtaining Exploratory-Related Statistics 
 

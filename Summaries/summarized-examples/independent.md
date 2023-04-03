@@ -1,4 +1,6 @@
-## Summaries: Independent Samples t Test
+# Summaries | Summarized Examples
+
+## Independent Samples t Test
 
 ### APA Style
 

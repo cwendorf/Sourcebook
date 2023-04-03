@@ -1,5 +1,6 @@
+# EASI | Data Analysis
 
-## EASI: Standardized Scores
+## Standardized Scores
 
 ### Computing Transformations
 

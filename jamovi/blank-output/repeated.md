@@ -1,4 +1,6 @@
-## jamovi: Repeated Measures ANOVA
+# jamovi | Blank Output
+
+## Repeated Measures ANOVA
 
 ### Descriptives
 

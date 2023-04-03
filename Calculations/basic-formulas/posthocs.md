@@ -1,4 +1,6 @@
-## Calculations: Post Hoc Comparisons
+# Calculations | Basic Formulas
+
+## Post Hoc Comparisons
 
 ### Formulas 
 

@@ -1,4 +1,6 @@
-## SPSS: T-Test (Paired Samples)
+# SPSS | Blank Output
+
+## T-Test (Paired Samples)
 
 ### Paired Samples Statistics
 

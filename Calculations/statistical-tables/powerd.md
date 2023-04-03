@@ -1,4 +1,6 @@
-## Calculations: Cohen&#39;s *d*
+# Calculations | Statistical Tables
+
+## Cohen&#39;s *d*
 
 ### Power Table for Cohen&#39;s *d*
 

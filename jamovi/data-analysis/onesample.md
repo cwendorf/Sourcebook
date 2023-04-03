@@ -1,4 +1,6 @@
-## jamovi: T Test (One Sample) 
+# jamovi | Data Analysis
+
+## T Test (One Sample) 
 
 ### Obtaining One Sample Inferential Statistics
 

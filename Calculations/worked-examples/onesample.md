@@ -1,4 +1,6 @@
-## Calculations: One Sample t Test
+# Calculations | Worked Examples
+
+## One Sample t Test
 
 ### Data
 

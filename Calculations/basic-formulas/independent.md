@@ -1,4 +1,6 @@
-## Calculations: Independent Samples t Test
+# Calculations | Basic Formulas
+
+## Independent Samples t Test
 
 ### Formulas
 

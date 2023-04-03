@@ -1,4 +1,6 @@
-## Calculations: Independent Samples t Test
+# Calculations | Worked Examples
+
+## Independent Samples t Test
 
 ### Data
 

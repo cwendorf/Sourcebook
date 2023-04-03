@@ -1,4 +1,6 @@
-## jamovi: Repeated Measures ANOVA
+# jamovi | Data Analysis
+
+## Repeated Measures ANOVA
 
 ### Obtaining Repeated Measures Inferential Statistics
 

@@ -1,4 +1,6 @@
-## SPSS: Explore (Descriptives and Confidence Intervals)
+# SPSS | Blank Output
+
+## Explore (Descriptives and Confidence Intervals)
 
 ### Case Processing Summary
 

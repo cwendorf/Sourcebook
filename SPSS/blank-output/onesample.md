@@ -1,4 +1,6 @@
-## SPSS: T Test (One Sample)
+# SPSS | Blank Output
+
+## T Test (One Sample)
 
 ### One-Sample Statistics
 

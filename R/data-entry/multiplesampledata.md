@@ -1,5 +1,6 @@
+# R | Data Entry
 
-## R: Multiple Sample Data
+## Multiple Sample Data
 
 ### Entering Data
 

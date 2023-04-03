@@ -1,4 +1,6 @@
-## [Topics](../Topics) | [One-Way ANOVA](../Topics/oneway.md)
+# Topics | jamovi
+
+## One-Way ANOVA
 
 ### Overview
 

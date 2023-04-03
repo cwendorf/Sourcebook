@@ -1,4 +1,6 @@
-## Calculations: Standard Normal Distribution
+# Calculations | Statistical Tables
+
+## Standard Normal Distribution
 
 ### Values of the Standard Normal Distribution
 

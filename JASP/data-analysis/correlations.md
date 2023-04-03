@@ -1,4 +1,6 @@
-## JASP: Correlations (Bivariate) 
+# JASP | Data Analysis
+
+## Correlations (Bivariate) 
 
 ### Obtaining Correlational Statistics
 

@@ -1,4 +1,6 @@
-## jamovi: T-Test (Independent Samples)
+# jamovi | Blank Output
+
+## T-Test (Independent Samples)
 
 ### Group Descriptives
 

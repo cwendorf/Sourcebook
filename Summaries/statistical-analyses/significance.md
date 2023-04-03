@@ -1,4 +1,6 @@
-## Summaries: Understanding Statistical Significance Tests
+# Summaries | Statistical Analyses
+
+## Understanding Statistical Significance Tests
 
 ### Purpose of a Statistical Significance Test
 

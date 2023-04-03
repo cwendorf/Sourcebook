@@ -1,4 +1,6 @@
-## Calculations: F Distribution
+# Calculations | Statistical Tables
+
+## F Distribution
 
 ### Critical Values of the *F* Distribution
 

@@ -1,5 +1,6 @@
+# R | Data Analysis
 
-## R: Standardized Scores
+## Standardized Scores
 
 ### Computing Transformations
 
