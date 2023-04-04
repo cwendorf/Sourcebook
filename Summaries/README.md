@@ -10,7 +10,7 @@ This chapter provides an overview of the types of statistical analyses. This sta
 
 ### Reporting Statistics
 
-This chapter describes rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Specific examples of mini Results summaries are provided. Sample data tables are provided for more complex examples.
+This chapter describes rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Sample data tables are provided for more complex examples.
 
 - [General Rules for APA Style Results Sections](./reporting-statistics/general.md)
 - [Summary of Parametric Statistic Reporting](./reporting-statistics/summary.md)
@@ -18,7 +18,7 @@ This chapter describes rules for presenting statistical results in APA style. Al
 
 ### Summarized Examples
 
-This chapter provides a set of worked examples. The raw data, typical computer, and complete calculations are provided for each type of research design.
+This chapter provides a set of summarized examples. All findings from the calculations in the Sourcebook are summarized in mini-Results sections using the APA style rules above.
 
 - [Frequencies](./summarized-examples/frequencies.md)
 - [Descriptives](./summarized-examples/descriptives.md)
