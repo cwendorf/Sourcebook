@@ -38,10 +38,6 @@
       #nav {display: inline-block; font-weight: bold; font-size: 18px; margin: 12px 0px;}
       #nav a {text-decoration: none; margin: 10px 0px; padding: 12px 10px; color: black;}
       #nav a:hover {background: #ddd; color: red; }
-     
-      #repository {float: right; padding: 0px 0px;}
-      #repository i {text-decoration: none; margin: 0px 0px; padding: 2px 6px; color: black;}      
-      #repository i:hover {background: #ddd; color: red;}       
 
       #menuButton {float: right; padding: 0px 0px; }
       #menuButton i {text-decoration: none; margin: 0px 0px; padding: 8px 10px; color: black;}      
@@ -58,9 +54,9 @@
       #footer a {color: black; text-decoration: none; font-weight: bold;}
       #footer a:hover {color: red;}
 
-      #topButton {float: right;}
-      #topButton i {padding: 10px;}
-      #topButton i:hover {background: #ddd;}
+      #repository {float: right;}
+      #repository i {padding: 10px; color: black;}
+      #repository i:hover {background: #ddd; color: red;}
 
       @media (max-width: 850px) {
         div#nav {display: none;}
@@ -99,10 +95,6 @@
         </a> 
       </div>
 
-      <div id=repository>
-        <a href="{{ site.github.repository_url }}"><i class="fab fa-github-square fa-3x"></i></a>
-      </div>
-
       <div id=menuButton>
         <i class="fas fa-bars fa-2x" onClick="toggleDropdown()"></i>
       </div>      
@@ -130,7 +122,6 @@
         <li class=""><a href="{{ "/R/" | prepend: site.baseurl }}" alt="R" class="">R</a></li>
         <li class=""><a href="{{ "/EASI/" | prepend: site.baseurl }}" alt="EASI" class="">EASI</a></li>
         <li class=""><a href="{{ "/Summaries/" | prepend: site.baseurl }}" alt="Summaries" class="">Summaries</a></li>  
-        <li class="" style="border-top: 1px solid #aaa"><a href="{{ site.github.repository_url }}">Repository</a></li> 
       </ul>
 
     </div>   
@@ -144,7 +135,7 @@
     <div class=custom-footer>
     <div id=footer class="container-lg px-3 markdown-body">
   
-      <a id=topButton href="#top"><i class="fas fa-arrow-circle-up fa-2x"></i></a>
+      <a id=repository href="{{ site.github.repository_url }}"><i class="fab fa-github-square fa-3x"></i></a>
   
       <a href="mailto:cwendorf@uwsp.edu"><i class="fas fa-envelope-square" style="margin: 0px 12px 0px 2px;"></i>cwendorf@uwsp.edu</a>
       <br />
