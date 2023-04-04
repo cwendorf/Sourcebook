@@ -28,8 +28,8 @@ standard deviations) and the confidence intervals for the group means from the t
 
 This table is useful removing the basic descriptive statistics and all inferential statistics about group differences (the statistical significance tests, confidence intervals, and effect sizes) from the text.
 
-| | Level 1 | Level 2 | Difference |  |  | |  |
-|:--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| | Level 1 | Level 2 | Difference | | | |
+|:--|:-:|:-:|:-:|:-:|:-:|:-:|
 | **Variable** | ***M* (*SD*)** | ***M* (*SD*)** | ***t*(6)** | ***p*** | **95% CI** | **Cohen’s *d*** |
 | Outcome 1 | 2.00 (2.45) | 6.00 (2.45) | -2.31 | .060 | [-8.24, 0.24] | -1.63 |
 | Outcome 2 | 6.00 (2.45) | 7.00 (2.45) | -0.58 | .585 | [-5.24, 3.24] | -0.41 |
