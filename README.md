@@ -2,7 +2,7 @@
 <img src="logo.png" height="60px;" align="left;" style="display: none; margin: 0px; padding: 0px;">
 </a>
 
-## Basic Statistical Methods for Social Science
+# Basic Statistical Methods for Social Science
 
 ### Overview
 
