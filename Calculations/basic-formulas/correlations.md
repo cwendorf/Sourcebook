@@ -2,7 +2,7 @@
 
 ## Correlations
 
-### Formulas 
+### Preliminary Calculations
 
 Sum of Cross Products: The Sum of Cross Products (SCP) is not easily determined solely from the summary statistics of the output, but rather from the data.
 
@@ -11,6 +11,8 @@ Sum of Cross Products: The Sum of Cross Products (SCP) is not easily determined 
 Covariance: The Covariance is a function of the Sum of Cross Products and the sample size:
 
 > $$ COV = \frac{SCP}{(N - 1)} $$
+
+### Primary Statistics
 
 Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a function of the Covariance and the Standard Deviations of both variables:
 

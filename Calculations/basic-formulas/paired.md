@@ -2,13 +2,15 @@
 
 ## Paired Samples t Test
 
-### Formulas
+### Peliminary Calculations
 
 For the Paired Samples t test, the focus is on the change variable. As a result, it is the only variable that is used in the calculations below.
 
 Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
 
 > $$ M_{DIFF} = M - \mu $$
+
+### Primary Statistics
 
 Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 

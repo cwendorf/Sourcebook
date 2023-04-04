@@ -2,7 +2,19 @@
 
 ## One-Way ANOVA
 
-### Formulas
+### Peliminary Calculations
+
+Grand (or Total) Mean: A grand mean can be determined by taking the weighted average of all of the group means.
+
+> $$ M_{TOTAL} = \frac{\sum n_{GROUP} (M_{GROUP})}{N} $$
+
+Between Groups Statistics: The between-groups effect statistics are a function of the group (level) means and sample sizes.
+
+> $$ SS_{BETWEEN} = \sum n_{GROUP} (M_{GROUP} - M_{TOTAL})^2 $$
+>
+> $$ df_{BETWEEN} = \text{# groups} − 1 $$
+>
+> $$ MS_{BETWEEN} = \frac{SS_{BETWEEN}}{df_{BETWEEN}} $$
 
 Within Groups Statistics: Within-groups error statistics are a function of the within group variabilities.
 
@@ -18,17 +30,7 @@ Within Groups Statistics: Within-groups error statistics are a function of the w
 >
 > $$ MS_{WITHIN} = \frac{SS_{WITHIN}}{df_{WITHIN}} $$
 
-Grand (or Total) Mean: A grand mean can be determined by taking the weighted average of all of the group means.
-
-> $$ M_{TOTAL} = \frac{\sum n_{GROUP} (M_{GROUP})}{N} $$
-
-Between Groups Statistics: The between-groups effect statistics are a function of the group (level) means and sample sizes.
-
-> $$ SS_{BETWEEN} = \sum n_{GROUP} (M_{GROUP} - M_{TOTAL})^2 $$
->
-> $$ df_{BETWEEN} = \text{# groups} − 1 $$
->
-> $$ MS_{BETWEEN} = \frac{SS_{BETWEEN}}{df_{BETWEEN}} $$
+### Primary Statistics
 
 Statistical Significance: The *F* statistic is the ratio of the between- and within-group variance estimates. 
 

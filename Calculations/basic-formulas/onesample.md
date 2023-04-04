@@ -2,15 +2,17 @@
 
 ## One Sample t Test
 
-### Formulas
+### Peliminary Calculations
+
+Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
+
+> $$ M_{DIFF} = M - \mu $$
 
 Standard Error of the Mean: The standard error of the mean provides an estimate of how spread out the distribution of all possible random sample means would be.
 
 > $$ SE_M = \frac{SD}{\sqrt{N}} $$
 
-Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
-
-> $$ M_{DIFF} = M - \mu $$
+### Primary Statistics
 
 Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
 

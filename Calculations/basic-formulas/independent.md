@@ -2,7 +2,7 @@
 
 ## Independent Samples t Test
 
-### Formulas
+### Peliminary Calculations
 
 Mean Difference (Raw Effect): The mean difference is the difference between the two sample means (raw effect).
 
@@ -31,6 +31,8 @@ Standard Error of the Difference: The standard error of the difference is a func
 > Or an expanded version of the formula can be used when the two sample sizes are either equal or unequal:
 >
 > $$ SE_{DIFF} = \sqrt{ \left( \frac{MS_{WITHIN}}{n_1} \right) + \left( \frac{MS_{WITHIN}}{n_2} \right) } $$
+
+### Primary Statistics
 
 Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
 

@@ -2,11 +2,13 @@
 
 ## Descriptives
 
-### Formulas 
+### Central Tendency
 
 Mean: The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
 
 > $$ M = \frac{\sum(fY)}{N} $$
+
+### Variability
 
 Sum of Squares: The Sum of Squares is the basic measure of the variability of the scores. Formally, it is the sum of the weighted deviations of the scores about the mean.
 

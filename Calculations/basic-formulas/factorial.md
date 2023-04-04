@@ -2,23 +2,7 @@
 
 ## Factorial ANOVA
 
-### Formulas
-
-Error (Within Groups) Statistics: Within-groups error statistics are a function of the within group variabilities.
-
-> $$ SS_1 = ( SD_1^2 ) ( df_1 ) $$
->
-> $$ SS_2 = ( SD_2^2 ) ( df_2 ) $$
->
-> $$ SS_3 = ( SD_3^2 ) ( df_3 ) $$
->
-> $$ SS_4 = ( SD_4^2 ) ( df_4 ) $$
->
-> $$ SS_{ERROR} = SS_1 + SS_2 + SS_3 + SS_4 $$
->
-> $$ df_{ERROR} = df_1 + df_2 + df_3 +df_4 $$
->
-> $$ MS_{ERROR} = \frac{SS_{ERROR}}{df_{ERROR}} $$
+### Peliminary Calculations
 
 Grand (or Total) Mean: A grand mean can be determined by taking the weighted average of all of the group means.
 
@@ -37,6 +21,22 @@ Marginal Means: A level (marginal) mean can be determined by taking the weighted
 > $$ M_{B1} = \frac{\sum n_{GROUP} (M_{GROUP})}{N_{LEVEL}} $$
 >
 > $$ M_{B2} = \frac{\sum n_{GROUP} (M_{GROUP})}{N_{LEVEL}} $$
+
+Error (Within Groups) Statistics: Within-groups error statistics are a function of the within group variabilities.
+
+> $$ SS_1 = ( SD_1^2 ) ( df_1 ) $$
+>
+> $$ SS_2 = ( SD_2^2 ) ( df_2 ) $$
+>
+> $$ SS_3 = ( SD_3^2 ) ( df_3 ) $$
+>
+> $$ SS_4 = ( SD_4^2 ) ( df_4 ) $$
+>
+> $$ SS_{ERROR} = SS_1 + SS_2 + SS_3 + SS_4 $$
+>
+> $$ df_{ERROR} = df_1 + df_2 + df_3 +df_4 $$
+>
+> $$ MS_{ERROR} = \frac{SS_{ERROR}}{df_{ERROR}} $$
 
 Effect (Between Groups) Statistics: The Model statistics represent the overall differences among the groups. The Factor A and Factor B statistics are a function of the level (marginal) means and sample sizes. The interaction statistics reflect the between-groups variability not accounted for by the factors individually.
 
@@ -69,6 +69,8 @@ Effect (Between Groups) Statistics: The Model statistics represent the overall d
 > $$ df_{INTER} = df_{MODEL} - df_{FACTORA} - df_{FACTORB} $$
 >
 > $$ MS_{INTER} = \frac{SS_{INTER}}{df_{INTER}} $$
+
+### Primary Statistics
 
 Statistical Significance: The *F* statistic is the ratio of the between-and within-group variance estimates. 
 

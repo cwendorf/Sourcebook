@@ -2,7 +2,7 @@
 
 ## Repeated Measures ANOVA
 
-### Formulas
+### Peliminary Calculations
 
 Grand (or Total) Mean: Because sample sizes are equal, a grand mean can be determined by averaging the level means.
 
@@ -39,6 +39,8 @@ Within-Subjects Effect Statistics: The statistics for the effect (or change) ove
 > $$ df_{EFFECT} = \text{# levels} − 1 $$
 >
 > $$ MS_{EFFECT} = \frac{SS_{EFFECT}}{df_{EFFECT}} $$
+
+### Primary Statistics
 
 Statistical Significance: The *F* statistic is the ratio of the within-subjects effect and the within-subjects error variance estimates. 
 
