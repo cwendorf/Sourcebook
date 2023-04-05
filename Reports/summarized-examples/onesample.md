@@ -1,4 +1,4 @@
-# Summaries | Summarized Examples
+# Reports | Summarized Examples
 
 ## One Sample t Test
 
