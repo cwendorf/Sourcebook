@@ -1,4 +1,4 @@
-# Topics | jamovi
+# Topics | Introductory Statistics
 
 ## Confidence Intervals
 
@@ -16,4 +16,4 @@ Confidence intervals provide a range estimate for a population value (e.g., the 
 
 - Statistical Table - [Values of the t Distribution](../Calculations/statistical-tables/t.md)
 - Worked Example - [Confidence Intervals](../Calculations/worked-examples/intervals.md)
-- APA Style Summary - [Confidence Intervals](../Summaries/summarized-examples/intervals.md)
+- APA Style Summary - [Confidence Intervals](../Reports/summarized-examples/intervals.md)

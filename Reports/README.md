@@ -8,13 +8,13 @@ This chapter provides an overview of the types of statistical analyses. This sta
 - [Understanding Statistical Significance Tests](./statistical-analyses/significance.md)
 - [Understanding Effect Size Measures](./statistical-analyses/effects.md)
 
-### Reporting Statistics
+### APA Style
 
 This chapter describes rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Sample data tables are provided for more complex examples.
 
-- [General Rules for APA Style Results Sections](./reporting-statistics/general.md)
-- [Summary of Parametric Statistic Reporting](./reporting-statistics/summary.md)
-- [Examples of APA Style Results in Tables](./reporting-statistics/tables.md)
+- [General Rules for Results Sections](./apa-style/general.md)
+- [Summary of Parametric Statistic Reporting](./apa-style/summary.md)
+- [Examples of Results in Tables](./apa-style/tables.md)
 
 ### Summarized Examples
 

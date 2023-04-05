@@ -1,4 +1,4 @@
-# Topics | jamovi
+# Topics | Introductory Statistics
 
 ### Objectives
 

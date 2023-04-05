@@ -1,4 +1,4 @@
-# Topics | jamovi
+# Topics | Introductory Statistics
 
 ## Factorial ANOVA
 
@@ -16,4 +16,4 @@ The Factorial ANOVA provides statistics for the main effects and interactions in
 
 - Statistical Table - [Critical Values of the F Distribution](../Calculations/statistical-tables/F.md)
 - Worked Example - [Factorial ANOVA](../Calculations/worked-examples/factorial.md)
-- APA Style Summary - [Factorial ANOVA](../Summaries/summarized-examples/factorial.md)
+- APA Style Summary - [Factorial ANOVA](../Reports/summarized-examples/factorial.md)

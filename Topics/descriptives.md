@@ -1,4 +1,4 @@
-# Topics | jamovi
+# Topics | Introductory Statistics
 
 ## Descriptives
 
@@ -15,4 +15,4 @@ Descriptive statistics provide the reader with an idea about the basic elements 
 ### Worked Example and Summary
 
 - Worked Example - [Descriptives](../Calculations/worked-examples/descriptives.md)
-- APA Style Summary - [Descriptives](../Summaries/summarized-examples/descriptives.md)
+- APA Style Summary - [Descriptives](../Reports/summarized-examples/descriptives.md)

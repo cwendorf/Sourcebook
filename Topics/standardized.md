@@ -1,4 +1,4 @@
-# Topics | jamovi
+# Topics | Introductory Statistics
 
 ## Standardized Scores
 
@@ -15,4 +15,4 @@ Standardized scores represent a transformation of data that aid in interpretatio
 
 - Statistical Table - [Standard Normal Distribution](../Calculations/statistical-tables/normal.md)
 - Worked Example - [Standardized Scores](../Calculations/worked-examples/standardized.md)
-- APA Style Summary - [Standardized Scores](../Summaries/summarized-examples/standardized.md)
+- APA Style Summary - [Standardized Scores](../Reports/summarized-examples/standardized.md)

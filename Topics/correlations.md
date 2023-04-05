@@ -1,4 +1,4 @@
-# Topics | jamovi
+# Topics | Introductory Statistics
 
 ## Correlations
 
@@ -15,4 +15,4 @@ Correlations provide a measure of statistical relationship between two variables
 ### Worked Example and Summary
 
 - Worked Example - [Correlations](../Calculations/worked-examples/correlations.md)
-- APA Style Summary - [Correlations](../Summaries/summarized-examples/correlations.md)
+- APA Style Summary - [Correlations](../Reports/summarized-examples/correlations.md)

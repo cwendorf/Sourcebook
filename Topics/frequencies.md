@@ -1,4 +1,4 @@
-# Topics | jamovi
+# Topics | Introductory Statistics
 
 ## Frequencies
 
@@ -15,4 +15,4 @@ Simple summary statistics – like the median and quartiles – provide the read
 ### Worked Example and Summary
 
 - Worked Example - [Frequencies](../Calculations/worked-examples/frequencies.md)
-- APA Style Summary - [Frequencies](../Summaries/summarized-examples/frequencies.md)
+- APA Style Summary - [Frequencies](../Reports/summarized-examples/frequencies.md)

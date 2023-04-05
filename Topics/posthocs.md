@@ -1,4 +1,4 @@
-# Topics | jamovi
+# Topics | Introductory Statistics
 
 ## Post Hoc Comparisons
 
@@ -16,4 +16,4 @@ Post hoc tests build on the ANOVA results and provide a more focused comparison 
 
 - Statistical Table - [Values of Tukey's HSD Statistic](../Calculations/statistical-tables/hsd.md)
 - Worked Example - [Post Hoc Comparisons](../Calculations/worked-examples/posthocs.md)
-- APA Style Summary - [Post Hoc Comparisons](../Summaries/summarized-examples/posthocs.md)
+- APA Style Summary - [Post Hoc Comparisons](../Reports/summarized-examples/posthocs.md)

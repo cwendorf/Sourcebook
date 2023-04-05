@@ -1,4 +1,4 @@
-# Topics | jamovi
+# Topics | Introductory Statistics
 
 ## One-Way ANOVA
 
@@ -16,4 +16,4 @@ The ANOVA provides an omnibus test of the differences across multiple groups.
 
 - Statistical Table - [Critical Value of the F Distribution](../Calculations/statistical-tables/F.md)
 - Worked Example - [One Way ANOVA](../Calculations/worked-examples/oneway.md)
-- APA Style Summary - [One Way ANOVA](../Summaries/summarized-examples/oneway.md)
+- APA Style Summary - [One Way ANOVA](../Reports/summarized-examples/oneway.md)

@@ -1,4 +1,4 @@
-# Topics | jamovi
+# Topics | Introductory Statistics
 
 ## Paired Samples t Test
 
@@ -16,4 +16,4 @@ Simple summary statistics – like the median and quartiles – provide the read
 
 - Statistical Table - [Values of the t Distribution](../Calculations/statistical-tables/t.md)
 - Worked Example - [Paired Samples t Test](../Calculations/worked-examples/paired.md)
-- APA Style Summary - [Paired Samples t Test](../Summaries/summarized-examples/paired.md)
+- APA Style Summary - [Paired Samples t Test](../Reports/summarized-examples/paired.md)

@@ -1,4 +1,4 @@
-# Topics | jamovi
+# Topics | Introductory Statistics
 
 ## Repeated Measures ANVOA
 
@@ -16,4 +16,4 @@ The RMD ANOVA tests for overall differences across the repeated measures.
 
 - Statistical Table - [Critical Value of the F Distribution](../Calculations/statistical-tables/F.md)
 - Worked Example - [Repeated Measures ANOVA](../Calculations/worked-examples/repeated.md)
-- APA Style Summary - [Repeated Measures ANOVA](../Summaries/summarized-examples/repeated.md)
+- APA Style Summary - [Repeated Measures ANOVA](../Reports/summarized-examples/repeated.md)

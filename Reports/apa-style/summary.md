@@ -1,4 +1,4 @@
-# Summaries | Reporting Statistics
+# Reports | APA Style
 
 ## Summary of Parametric Statistic Reporting
 
