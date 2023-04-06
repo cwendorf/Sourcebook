@@ -1,4 +1,4 @@
-# Calculations | Statistical Tables
+# Introduction | Statistical Tables
 
 ## Cohen&#39;s *d*
 

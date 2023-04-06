@@ -1,4 +1,4 @@
-# Calculations | Basic Formulas
+# Introduction | Basic Formulas
 
 ## Repeated Measures ANOVA
 

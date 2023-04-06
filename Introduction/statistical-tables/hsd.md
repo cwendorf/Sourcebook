@@ -1,4 +1,4 @@
-# Calculations | Statistical Tables
+# Introduction | Statistical Tables
 
 ## Tukey&#39;s HSD
 

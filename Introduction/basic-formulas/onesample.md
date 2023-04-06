@@ -1,4 +1,4 @@
-# Calculations | Basic Formulas
+# Introduction | Basic Formulas
 
 ## One Sample t Test
 

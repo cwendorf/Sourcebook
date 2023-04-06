@@ -4,7 +4,7 @@
 
 ### Peliminary Calculations
 
-For the Paired Samples t test, the focus is on the change variable. As a result, it is the only variable that is used in the calculations below.
+For the Paired Samples t test, the focus is on the change variable. As a result, it is the only variable that is used in the Introduction below.
 
 Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
 
