@@ -1,4 +1,4 @@
-# Reports | Statistical Analyses
+# Introduction | Statistical Analyses
 
 ## Choosing Appropriate Inferential Statistics
 

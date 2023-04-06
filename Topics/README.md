@@ -25,3 +25,5 @@ This chapter organizes the material by topic rather than by purpose.
 - [Post Hoc Comparisons](./posthocs.md)
 - [Repeated Measures ANOVA](./repeated.md)
 - [Factorial ANOVA](./factorial.md)
+
+Readers who wish to use this Sourcebook to work sequentially through the topics of a typical undergraduate statistics course are encouraged to start in the special [**Topics**](./Topics) section (which focuses on the use of jamovi to teach a course).

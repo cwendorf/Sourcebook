@@ -1,13 +1,5 @@
 # Reports
 
-### Statistical Analyses
-
-This chapter provides an overview of the types of statistical analyses. This starts with the basic terminology of statistics. It also includes a decision tree for highlighting the typical tests of statistical significance, confidence intervals, and effects sizes used for common univariate research designs.
-
-- [Choosing Appropriate Inferential Statistics](./statistical-analyses/choosing.md)
-- [Understanding Statistical Significance Tests](./statistical-analyses/significance.md)
-- [Understanding Effect Size Measures](./statistical-analyses/effects.md)
-
 ### APA Style
 
 This chapter describes rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Sample data tables are provided for more complex examples.
