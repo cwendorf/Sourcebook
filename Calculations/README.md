@@ -4,7 +4,6 @@
 
 These pages are designed to address the following learning outcomes for use of this Sourcebook in teaching an undergraduate statistics course.
 
-- Input data into a software program (e.g, jamovi) for further analyses
 - Choose and implement the appropriate analyses given the research design
 - Demonstrate the connections between formulas, calculations, and computer output of analyses
 - Summarize and interpret statistical analyses in correct APA style
@@ -13,20 +12,18 @@ These pages are designed to address the following learning outcomes for use of t
 
 This chapter organizes the material by topic rather than by purpose.
 
-- [Frequencies](./frequencies.md)
-- [Descriptives](./descriptives.md)
-- [Transformations and Standardized Scores](./standardized.md)
-- [Correlations](./correlations.md)
-- [Confidence Intervals](./intervals.md)
-- [One Sample t Test](./onesample.md)
-- [Paired Samples t Test](./paired.md)
-- [Independent Samples t Test](./independent.md)
-- [OneWay ANOVA](./oneway.md)
-- [Post Hoc Comparisons](./posthocs.md)
-- [Repeated Measures ANOVA](./repeated.md)
-- [Factorial ANOVA](./factorial.md)
-
-Readers who wish to use this Sourcebook to work sequentially through the topics of a typical undergraduate statistics course are encouraged to start in the special [**Topics**](./Topics) section (which focuses on the use of jamovi to teach a course).
+- [Frequencies](./topic-listing/frequencies.md)
+- [Descriptives](./topic-listing/descriptives.md)
+- [Transformations and Standardized Scores](./topic-listing/standardized.md)
+- [Correlations](./topic-listing/correlations.md)
+- [Confidence Intervals](./topic-listing/intervals.md)
+- [One Sample t Test](./topic-listing/onesample.md)
+- [Paired Samples t Test](./topic-listing/paired.md)
+- [Independent Samples t Test](./topic-listing/independent.md)
+- [OneWay ANOVA](./topic-listing/oneway.md)
+- [Post Hoc Comparisons](./topic-listing/posthocs.md)
+- [Repeated Measures ANOVA](./topic-listing/repeated.md)
+- [Factorial ANOVA](./topic-listing/factorial.md)
 
 ### Worked Examples
 
