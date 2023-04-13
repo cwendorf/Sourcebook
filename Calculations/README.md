@@ -1,4 +1,4 @@
-# Topics | Introductory Statistics
+# Calculations
 
 ### Objectives
 
