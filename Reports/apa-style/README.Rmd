@@ -39,7 +39,6 @@ In complex studies, information can be presented in the text, in tables, or in f
 
 **Note.** All quotations pertaining to reporting results are taken from: American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th Ed.). Washington, DC: APA.
 
-
 ## Summary of Parametric Statistic Reporting
 
 | **Statistic** | **Purpose** | **APA Style** | **Description** |
@@ -63,7 +62,6 @@ In complex studies, information can be presented in the text, in tables, or in f
 | Factorial ANOVA | To compare four or more groups defined by a multiple variables in a factorial research design. | *F*(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
 
 **Note.** Many of the statistics from each of the categories are frequently and perhaps often appropriately presented in tables or figures rather than in the text.
-
 
 ## Examples of Results in Tables
 
