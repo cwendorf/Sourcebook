@@ -1,7 +1,7 @@
 # Reports | APA Style
 
-{% include general.md %}
+{% include_relative ./general.md %}
 
-{% include summary.md %}
+{% include_relative ./summary.md %}
 
-{% include table.md %}
+{% include_relative ./table.md %}
