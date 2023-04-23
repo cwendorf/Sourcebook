@@ -1,0 +1,101 @@
+# Reports | APA Style
+
+## General Rules for Results Sections
+
+### Overview
+
+The APA manual describes appropriate strategies for presenting statistical information. These guidelines were established to provide basic minimal standards and to provide some uniformity across studies.
+
+In general, your results section should effectively communicate the findings of the study. 
+
+- To provide context for the statistics that will follow, incorporate language about the variable(s) under study. 
+- To clarify what you did to analyze the results, identify the statistical procedures used.
+- To highlight the implications of the analyses for the hypotheses, provide simple interpretations of the analyses.
+
+### Statistical Information to Include
+
+Significance testing "is but a starting point and that additional reporting elements such as effect sizes, confidence intervals, and extensive description are needed to convey the most complete meaning of the results" (p. 87).
+
+1. Descriptive statistics are essential and "such a set usually includes at least the following: the per-cell sample sizes, bserved cell means (or frequencies of cases in each category for a categorical variable), and the cell standard deviations" (p. 88).
+2. For statistical significance tests, "include the obtained magnitude or value of the test statistic, the degrees of freedom, the probability of obtaining a value as extreme as or more extreme than the one obtained (the exact *p* value)" (p. 88).
+3. When possible, confidence intervals should be emphasized. "It can be extremely effective to include confidence intervals (for estimates of parameters; functions of parameters such as differences in means; and effect sizes) when reporting results." (p. 88).
+4. "For the reader to appreciate the magnitude or importance of a study's findings, it is almost always necessary to include some measure of effect size" (p. 89). These can be in the original (raw) units or in a standardized metric.
+
+### Information in Text versus Data Displays 
+
+In complex studies, information can be presented in the text, in tables, or in figures. Generally speaking, present the information in the manner that efficiently conveys the information and maximizes understanding.
+
+- Simple studies might not need to include a table or figure associated with the analyses. "The results of a single statistical test or a few group means and stnadard deviations can be presented in text" (p. 196).
+- The more analyses you have, the likely it is that they should be presented in a table or figure. "A table or figure is an effective choice to present the results of multiple statistical tests or many descriptive statistics" (p. 196). The table should be referred to in the text.
+
+**Note.** All quotations pertaining to reporting results are taken from: American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th Ed.). Washington, DC: APA.
+
+
+## Summary of Parametric Statistic Reporting
+
+| **Statistic** | **Purpose** | **APA Style** | **Description** |
+| --- | --- | --- | --- |
+| **Descriptive Statistics** ||||
+| Mean | To provide an estimate of the population from which the sample was selected. | *M* = \_\_\_\_\_ | Indicates the center point of the distribution and serves as the reference point for nearly all other statistics. |
+| Standard Deviation | To provide an estimate of the amount of variability/dispersion in the distribution of population scores. | *SD* = \_\_\_\_\_ | Indicates the variability of scores around their respective mean. Zero indicates no variability. |
+| **Measures of Effect Size** ||||
+| Cohen's d | To provide a standardized measure of an effect (defined as the difference between two means). | *d* = \_\_\_\_\_. | Indicates the size of the treatment effect relative to the within-group variability of scores. |
+| Correlation | To provide a measure of the association between two variables measured in a sample. | *r*(df) = \_\_\_\_\_ | Indicates the strength of the relationship between two variables. |
+| Eta-Squared | To provide a standardized measure of an effect (defined as the relationship between two variables). | *eta*<sup>2</sup> = \_\_\_\_\_. | Indicates the proportion of variance in the dependent variable accounted for by the independent variable. |
+| **Confidence Intervals** ||||
+| CI for a Mean | To provide an interval estimate of the population mean. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Estimates a range for the mean using a procedure that produces an accurate estimate the specified percentage of times. |
+| CI for a Mean Difference | To provide an interval estimate of the population mean difference. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Estimates a range for the mean difference using a procedure that produces an accurate estimate the specified percentage of times. |
+| **Statistical Significance Tests** ||||
+| One Sample t Test | To compare a single sample mean to a population mean when the population standard deviation is not known | *t*(df) = \_\_\_\_, *p* = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
+| Independent Samples t Test | To compare two sample means when the samples are from a single-factor between-subjects design. | *t*(df) = \_\_\_\_, *p* = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
+| Paired Samples t Test | To compare two sample means when the samples are from a single-factor within-subjects design. |*t*(df) = \_\_\_\_, *p* = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the two means significantly differ from each other. |
+| One-Way ANOVA | To compare two or more sample means when the means are from a single-factor between-subjects design. | *F*(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
+| Repeated Measures ANOVA | To compare two or more sample means when the means are from a single-factor within-subjects design. | *F*(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
+| Factorial ANOVA | To compare four or more groups defined by a multiple variables in a factorial research design. | *F*(df<sub>1</sub>,df<sub>2</sub>) = \_\_\_, p = \_\_\_\_. | A small probability is obtained when the statistic is sufficiently large, indicating that the set of means differ significantly from each other. |
+
+**Note.** Many of the statistics from each of the categories are frequently and perhaps often appropriately presented in tables or figures rather than in the text.
+
+
+## Examples of Results in Tables
+
+In more complex examples – such as those with multiple outcome variables – it is often preferred to place statistical information in tables rather than in the text.
+
+### Descriptive Statistics with Correlations 
+
+This table provides the reader with both the univariate descriptive statistics (the means and standard deviations) and the bivariate descriptive statistics (the correlations).
+
+| Variable | *n* | *M* | *SD* | 1 | 2 |
+|:--|:-:|:-:|:-:|:-:|:-:|
+| Outcome 1 | 4 | 2.00 | 2.45 | - | |
+| Outcome 2 | 4 | 6.00 | 2.45 | .50 | - |
+
+### Descriptive Statistics with Confidence Intervals 
+
+This table is useful for removing the basic descriptive statistics (the means and
+standard deviations) and the confidence intervals for the group means from the text.
+
+| | Level 1 ||| Level 2 |||
+|:--|:--:|:--:|:--:|:-:|:--:|:--:|
+| **Variable** | ***n*** | ***M* (*SD*)** | **95% CI** | ***n*** | ***M* (*SD*)** | **95% CI** |
+| Outcome 1 | 4 | 2.00 (2.45) | \[-.73, 4.73\] | 4 | 6.00 (2.45) | \[3.27, 8.73\] |
+| Outcome 2 | 4 | 6.00 (2.45) | \[3.27, 8.73\] | 4 | 7.00 (2.45) | \[4.27, 9.73\] |
+
+### Independent and Dependent Samples t Tests 
+
+This table is useful removing the basic descriptive statistics and all inferential statistics about group differences (the statistical significance tests, confidence intervals, and effect sizes) from the text.
+
+| | Level 1 | Level 2 | Difference | | | |
+|:--|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Variable** | ***M* (*SD*)** | ***M* (*SD*)** | ***t*(6)** | ***p*** | **95% CI** | **Cohen’s *d*** |
+| Outcome 1 | 2.00 (2.45) | 6.00 (2.45) | -2.31 | .060 | [-8.24, 0.24] | -1.63 |
+| Outcome 2 | 6.00 (2.45) | 7.00 (2.45) | -0.58 | .585 | [-5.24, 3.24] | -0.41 |
+
+### One Way and Repeated Measures ANOVAs with Post Hoc Tests 
+
+This table is useful for removing the descriptive and inferential statistics about group differences from the text, while also summarizing the post hoc tests.
+
+| | Level 1 | Level 2 | Level 3 | Differences | | |  |
+|:--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Variable** | ***M* (*SD*)** | ***M* (*SD*)** | ***M* (*SD*)** | ***F*(2, 6)** | ***p*** | ***eta*<sup>2</sup>** | **Tukey’s HSD** |
+| Outcome 1 | 2.00 (2.45) | 6.00 (2.45) | 7.00 (2.45) | 4.67 | .041 | .509 | 1 = 2 &lt; 3 |
+| Outcome 2 | 6.00 (2.45) | 7.00 (2.45) | 5.00 (2.45) | 0.67 | .537 | .129 | 1 = 2 = 3 |
