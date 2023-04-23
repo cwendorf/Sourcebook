@@ -1,3 +1,12 @@
+---
+title: "Reports | APA Style"
+author: "Craig A. Wendorf"
+site: bookdown::bookdown_site
+output: bookdown::bs4_book
+url: https://cwendorf.github.io/Sourcebook
+description: This page offers a summary of how to write reports in APA style.
+---
+
 # Reports | APA Style
 
 ## General Rules for Results Sections
