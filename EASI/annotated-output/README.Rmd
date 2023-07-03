@@ -1,11 +1,3 @@
----
-title: "EASI | Annotated Output"
-author: "Craig A. Wendorf"
-site: bookdown::bookdown_site
-output: bookdown::bs4_book
-url: https://cwendorf.github.io/Sourcebook
-description: This page provides annotated output for the examples using EASI.
----
 
 # EASI | Annotated Output
 
