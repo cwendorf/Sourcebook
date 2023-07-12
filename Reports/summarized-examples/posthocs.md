@@ -2,7 +2,7 @@
 
 ## Post Hoc Comparisons
 
-Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups and usually follows a presentation of the ANOVA (which already includes the descriptive information). The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the confidence intervals (and can be presented on its own). 
+Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups and usually follows a presentation of the ANOVA (which already includes the descriptive information). The first example focuses on statistical significance testing, whereas the second version includes and emphasizes interpretation of the confidence intervals (and can be presented on its own). 
 
 > Tukey's HSD tests showed that the first group scored statistically significantly different than the third group, *t*(9) = -2.89, p = 043. However, the other comparisons were not statistically significant (*p*s > .05).
 
