@@ -166,7 +166,7 @@ Confidence Intervals: For Factorial ANOVA, calculate the confidence intervals ar
 
 ### APA Style
 
-The Factorial ANOVA provides statistics for the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One Way ANOVA. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the effect size. 
+The Factorial ANOVA provides statistics for the main effects and interactions in a factorial design. Each effect would be summarized in a style analogous to a One Way ANOVA. The first example focuses on statistical significance testing, whereas the second version includes and emphasizes interpretation of the effect size. 
 
 > A 2 (Factor A) x 2 (Factor B) ANOVA showed that neither Factor A, *F*(1,12) = 0.67, *p* = .430, nor Factor B, *F*(1,12) = 2.67, *p* = .128, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, *F*(1,12) = 6.00, *p* = .031.
 
