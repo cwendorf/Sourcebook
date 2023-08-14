@@ -1,3 +1,11 @@
+---
+title: Sourcebook
+headerone: SPSS
+relatedone:
+  - title: Data Analysis | Factorial ANVOA
+    url: ../data-analysis/factorial
+---
+
 # SPSS | Data Entry
 
 ## Factorial Data 

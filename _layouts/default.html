@@ -1,152 +1,133 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
 
-    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+<!--Begin Meta Section-->
+
+<head>
+
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
     <title>Sourcebook</title>
-
     {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <script src="https://kit.fontawesome.com/277c075f99.js" crossorigin="anonymous"></script>
+   
+    <link rel="stylesheet" media="all" href="{{ '/assets/css/basic.css' | relative_url }}" />
+    <link rel="stylesheet" media="screen and (max-width:850px)" href="{{ '/assets/css/narrow.css' | relative_url }}" />
+    <link rel="stylesheet" media="screen and (min-width:851px)" href="{{ '/assets/css/wide.css' | relative_url }}" />
+
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <script src="https://kit.fontawesome.com/277c075f99.js" crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
 
     <script type="text/x-mathjax-config"> 
       MathJax.Hub.Config({ 
-          "HTML-CSS": { scale: 90, linebreaks: { automatic: true } },
-          CommonHTML: { scale: 90, linebreaks: { automatic: true } }, 
-          SVG: { scale: 90, linebreaks: { automatic: true } }, 
-          displayAlign: "left" });
+        "HTML-CSS": { scale: 90, linebreaks: { automatic: true } },
+        CommonHTML: { scale: 90, linebreaks: { automatic: true } }, 
+        SVG: { scale: 90, linebreaks: { automatic: true } }, 
+        displayAlign: "left" });
     </script>
-
-    <style>
-
-      .custom-header {background: #444; width: 100%; height: 70px; }
-      #header {padding: 10px 0px; height: auto; }
-
-      #site {float: left; display: inline-block; height: 50px; padding: 4px 20px 4px 0px; margin: 12px 0px; background: none; font-size: 28px; font-weight: bold; color: white; }
-      #site:hover {background: none; text-decoration: none;}
-      #site a {color: white;}
-
-      #nav {display: block; font-size: 18px; margin: 12px 0px;}
-      #nav a {text-decoration: none; margin: 10px 0px; padding: 12px 10px; color: red;}
-      #nav a:hover {background: none; color: red; text-decoration: underline;}
-
-      #menuButton {float: right; padding: 0px 0px; }
-      #menuButton i {text-decoration: none; margin: 0px 0px; padding: 8px 10px; color: white;}      
-      #menuButton i:hover {background: none; color: red;} 
-
-      #dropdown {display: none; top: 51px; right: 0px; background: #444; padding: 0px 0px; margin: 0px; width: 100%; }
-      #dropdown ul {list-style: none; padding: 0px; margin: 0px; width: 100%;}  
-      #dropdown li {width: 100%; text-align: center;}
-      #dropdown a {display: block; text-decoration: none; margin: 0px 0px; padding: 12px 10px; color: red; font-weight: bold; font-size: 18px;}
-      #dropdown a:hover {background: none; text-decoration: underline;}
-
-      .markdown-body h1 {font-size: 1.5em; margin: 0px; border-color: black; padding-bottom: 20px;}
-      .markdown-body h2 {font-size: 1.4em; border-color: #aaa; padding-bottom: 20px;}
-      .markdown-body h3 {font-size: 1.3em;}
-      .markdown-body h4 {font-size: 1.2em;}
-      .markdown-body hr {height: 1px; background-color: black;}
-      .markdown-body a {color: red;}
-
-      .custom-footer {background: #ccc; width: 100%;}      
-      #footer {padding: 10px 0px;}
-      #footer a {color: black; text-decoration: none;}
-      #footer a:hover {color: red; text-decoration: underline;}
-
-      #repository {float: right;}
-      #repository i {padding: 0px 2px; color: black;}
-      #repository i:hover {background: #ddd; color: red;}
-
-      thead th {background: #eee;}
-      tbody td {background: white;}
-
-      @media (max-width: 850px) {
-        div#nav {display: none;}
-        div#repository {display: none;}
-        #menuButton {display: block;}
-      }
-      @media (min-width: 851px) {
-        div#nav {display: block;}
-        div#repository {display: block;}
-        #menuButton {display: none;}
-      }
-
-    </style>
 
     <script language="javascript">
-      function toggleDropdown() {
-        var menu = document.getElementById('dropdown');
-        if (menu.style.display == "block") {
-          menu.style.display = "none";
-      } else {
-        menu.style.display = "block";
+      function toggleDiv(divone){
+        if(document.getElementById(divone).style.display == 'block'){
+          document.getElementById(divone).style.display = 'none';
+        }else{
+          document.getElementById(divone).style.display = 'block';
+        }
       }
-      }
+      function closeDiv(divtwo) {
+      document.getElementById(divtwo).style.display = 'none';
+        }
     </script>
 
-  </head>
+</head>
   
-  <body>
+<!--End Meta Section-->
 
-    <div class=custom-header>
-    <div id=header class="container-lg px-3 markdown-body">
-            
-      <div id=site>
-        <a href="{{ "/" | absolute_url }}" style="text-decoration: none;">
-          SOURCEBOOK
-        </a> 
-      </div>
+<body>
 
-      <div id=menuButton>
-        <i class="fas fa-bars fa-2x" onClick="toggleDropdown()"></i>
-      </div>      
+<!--Begin Title Section-->
 
-      <div id=nav>
-        <a href="{{ "/Introduction/" | prepend: site.baseurl }}" alt="Introduction">Introduction</a>
-        <a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS">SPSS</a>  
-        <a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi">jamovi</a>
-        <a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP">JASP</a>
-        <a href="{{ "/R/" | prepend: site.baseurl }}" alt="R">R</a>
-        <a href="{{ "/EASI/" | prepend: site.baseurl }}" alt="EASI">EASI</a>
-        <a href="{{ "/Reports/" | prepend: site.baseurl }}" alt="Reports">Reports</a> 
-      </div>
+  <div id=TitleContainer class=Container>
+  <div id=TitleContent class=Content>
+  
+    <a href="javascript:void(0);" onmousedown="toggleDiv('AreaContainer');"><i id=MenuButton class="fas fa-bars fa-2x"></i></a>
+    <span id=Title><a href="{{ "/" | absolute_url }}" style="text-decoration: none;">SOURCEBOOK</a></span>
+  
+  </div>
+  </div>
+  
+  <div id=AreaContainer class=Container>
+  <div id=AreaContent class=Content>
+  
+    <ul id=AreaMenu>
+      <li class=""><a href="{{ "/Intro/" | prepend: site.baseurl }}" alt="intro" class="">Intro</a></li>
+      <li class=""><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS" class="">SPSS</a></li>  
+      <li class=""><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi" class="">jamovi</a></li>
+      <li class=""><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP" class="">JASP</a></li>
+      <li class=""><a href="{{ "/R/" | prepend: site.baseurl }}" alt="R" class="">R</a></li>
+      <li class=""><a href="{{ "/EASI/" | prepend: site.baseurl }}" alt="EASI" class="">EASI</a></li>
+    </ul>
+    
+  </div>
+  </div>
 
-    </div>
-    </div>
+<!--End Title Section-->
 
-    <div id=dropdown>
+<!--Begin Main Section-->
 
-      <ul>
-        <li class=""><a href="{{ "/Introduction/" | prepend: site.baseurl }}" alt="Introduction" class="">Introduction</a></li>
-        <li class=""><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS" class="">SPSS</a></li>  
-        <li class=""><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi" class="">jamovi</a></li>
-        <li class=""><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP" class="">JASP</a></li>
-        <li class=""><a href="{{ "/R/" | prepend: site.baseurl }}" alt="R" class="">R</a></li>
-        <li class=""><a href="{{ "/EASI/" | prepend: site.baseurl }}" alt="EASI" class="">EASI</a></li>
-        <li class=""><a href="{{ "/Reports/" | prepend: site.baseurl }}" alt="Reports" class="">Reports</a></li>  
-      </ul>
+    <div id=MainContainer class=Container>
+    <div id=MainContent class=Content>
 
-    </div>   
-
-    <div class="container-lg px-3 my-5 markdown-body" >
+    <div id=Main>
            
       {{ content }}
    
     </div>
+
+    <div id=Sidebar>
     
-    <div class=custom-footer>
-    <div id=footer class="container-lg px-3 markdown-body">
-  
-      <a id=repository href="{{ site.github.repository_url }}"><i class="fab fa-github-square fa-3x"></i></a>
-  
-      <a href="mailto:cwendorf@uwsp.edu"><i class="fas fa-envelope-square" style="margin: 0px 12px 0px 2px;"></i>cwendorf@uwsp.edu</a>
-      <br />
-      <a href="https://cwendorf.github.io"><i class="fas fa-home" style="margin-right: 10px;"></i>https://cwendorf.github.io</a>  
-  
+      <hr id=FirstBreak>  
+
+      <h1>Related Articles</h1>
+
+      <h2>{{ page.headerone }}</h2>
+      <ul>
+        {% for relatedone in page.relatedone %}
+        <li><a href="{{ relatedone.url }}">{{ relatedone.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <h2>{{ page.headertwo }}</h2>
+      <ul>
+        {% for relatedtwo in page.relatedtwo %}
+        <li><a href="{{ relatedtwo.url }}">{{ relatedtwo.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+    </div>
+
     </div>
     </div>
-   
+
+<!--End Main Section-->
+
+<!--Begin Footer Section-->
+    
+  <div id=FooterContainer class=Container>
+  <div id=FooterContent class=Content>
+    
+      <ul id=address>
+      <li><a href="mailto:cwendorf@uwsp.edu"><i class="fas fa-copyright" style="margin: 0px 12px 0px 2px;"></i>Craig A. Wendorf</a></li>
+      <li><a href="https://cwendorf.github.io/Sourcebook"><i class="fas fa-home" style="margin-right: 10px;"></i>https://cwendorf.github.io/Sourcebook/</a></li>
+      </ul>	
+      
+  </div>
+  </div>
+
+<!--End Footer Section-->
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
     {% if site.google_analytics %}
@@ -160,6 +141,6 @@
     </script>
     {% endif %}
 
-  </body>
+</body>
 
 </html>

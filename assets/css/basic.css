@@ -1,0 +1,199 @@
+
+/* For All Screen Widths */
+
+/* Global Body Styles */
+
+body {
+    margin: auto;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 16px;
+    color: #333;
+    background: white;
+    line-height: 1.5;
+}
+.Container {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+.Content {
+    padding: 0px 10px;
+    margin: 0px auto;
+    display: block;
+}
+
+/* Title Section Styles */
+
+#TitleContainer {
+    background: #333;
+}
+#TitleContent {
+    display: block;
+}
+#Title {
+    display: block;
+    font-weight: bold;
+    padding: 10px 0px;
+    font-size: 32px;
+}
+#TitleContent A {
+    color: white;
+}
+#TitleContent A:hover {
+    color: #ddd;
+}
+
+/* Area Nav Section Styles */
+
+#AreaContainer {
+    background: #ddd;
+    font-weight: bold;
+}
+#AreaContent UL {
+    list-style: none;
+    margin: 0px auto;
+    padding: 0px;
+    margin-inline: 0px;
+    margin-block: 0px;
+    padding-inline: 0px;
+}
+#AreaContent LI {
+    text-align: center;
+}
+#AreaContent A {
+    color: red;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+}
+#AreaContent A:hover {
+    background: #ddd;
+    border-bottom: 2px solid red;
+}
+#AreaContent A.chosen {
+    background: #ddd;
+}
+
+/* Main Section Styles */
+
+#MainContent H1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 30px 0px 15 0px;
+    padding: 0px 0px 15px 0px;
+    border-bottom: 1px solid #888;
+}
+#MainContent H2 {
+    font-size: 24px; 
+    font-weight: bold;
+    clear: both;
+    margin: 30px 0px 15 0px;
+    padding: 0px;
+}
+#MainContent H3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin: 30px 0px 15 0px;
+    padding: 0px;
+}
+#MainContent P {
+    padding: 0px;
+    margin: 0px;
+}
+#MainContent IMG {
+    border: solid 1px #ddd;
+    max-width: 95%; 
+    margin: 10px 0px;
+    padding: 0px;
+}
+#MainContent A {
+    text-decoration: none;
+    border-bottom: 1px dashed red;
+    color: red;
+}
+#MainContent A:hover {
+    border-bottom: 1px solid red;
+    color: red;
+}
+
+/* Main Section Column Styles */
+
+#Main, #Sidebar {
+    display: block; 
+    width: 100%;
+}
+
+#Main table {
+    display: block;
+    width: 100%; 
+    overflow: auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+#Main thead th {
+    background: #eee;
+}
+#Main table th, #MainContainer table td {
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+}
+#Main blockquote, #Main pre {
+    padding: 5px 10px;
+    color: #666;
+    border-left: 2px solid #ddd;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#Main pre {
+    overflow: auto;
+    background-color: #f1f1f1;
+    border: none;
+    border-radius: 2px;
+    font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+}
+
+#Main p, #Main blockquote, #Main ul, #Main ol, #Main dl, #Main table, #Main pre {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+#Sidebar HR {
+    height: 2px; 
+    background-color: black; 
+    margin: 20px 0px;
+}
+#Sidebar UL {
+    list-style: none;
+    padding-inline-start: 0px;
+}
+
+#Main LI, #Sidebar LI {
+    margin-bottom: 5px;
+}
+
+/* Footer Section Styles */
+
+#FooterContainer {
+    background: #ddd;
+    color: black;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+}
+#FooterContent LI {
+    list-style: none;
+}
+#FooterContent UL#address {
+    font-size: 16px;
+    width: 260x;
+    padding: 10px 0px;
+    margin: 0px;
+}
+#FooterContent #address A {
+    color: #333;
+    text-decoration: none;
+}
+#FooterContent #address A:hover {
+    color: red;
+}

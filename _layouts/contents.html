@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+<!--Begin Meta Section-->
+
+<head>
+
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Sourcebook</title>
+    {% seo %}
+   
+    <link rel="stylesheet" media="all" href="{{ '/assets/css/basic.css' | relative_url }}" />
+    <link rel="stylesheet" media="screen and (max-width:850px)" href="{{ '/assets/css/narrow.css' | relative_url }}" />
+    <link rel="stylesheet" media="screen and (min-width:851px)" href="{{ '/assets/css/wide.css' | relative_url }}" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <script src="https://kit.fontawesome.com/277c075f99.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+
+    <script type="text/x-mathjax-config"> 
+      MathJax.Hub.Config({ 
+        "HTML-CSS": { scale: 90, linebreaks: { automatic: true } },
+        CommonHTML: { scale: 90, linebreaks: { automatic: true } }, 
+        SVG: { scale: 90, linebreaks: { automatic: true } }, 
+        displayAlign: "left" });
+    </script>
+
+    <script language="javascript">
+      function toggleDiv(divone){
+        if(document.getElementById(divone).style.display == 'block'){
+          document.getElementById(divone).style.display = 'none';
+        }else{
+          document.getElementById(divone).style.display = 'block';
+        }
+      }
+      function closeDiv(divtwo) {
+      document.getElementById(divtwo).style.display = 'none';
+        }
+    </script>
+
+</head>
+  
+<!--End Meta Section-->
+
+<body>
+
+<!--Begin Title Section-->
+
+  <div id=TitleContainer class=Container>
+  <div id=TitleContent class=Content>
+  
+    <a href="javascript:void(0);" onmousedown="toggleDiv('AreaContainer');"><i id=MenuButton class="fas fa-bars fa-2x"></i></a>
+    <span id=Title><a href="{{ "/" | absolute_url }}" style="text-decoration: none;">SOURCEBOOK</a></span>
+  
+  </div>
+  </div>
+  
+  <div id=AreaContainer class=Container>
+  <div id=AreaContent class=Content>
+  
+    <ul id=AreaMenu>
+      <li class=""><a href="{{ "/Intro/" | prepend: site.baseurl }}" alt="intro" class="">Intro</a></li>
+      <li class=""><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS" class="">SPSS</a></li>  
+      <li class=""><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi" class="">jamovi</a></li>
+      <li class=""><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP" class="">JASP</a></li>
+      <li class=""><a href="{{ "/R/" | prepend: site.baseurl }}" alt="R" class="">R</a></li>
+      <li class=""><a href="{{ "/EASI/" | prepend: site.baseurl }}" alt="EASI" class="">EASI</a></li>
+    </ul>
+    
+  </div>
+  </div>
+
+<!--End Title Section-->
+
+<!--Begin Main Section-->
+
+    <div id=MainContainer class=Container>
+    <div id=MainContent class=Content>
+           
+      {{ content }}
+   
+    </div>
+    </div>
+
+<!--End Main Section-->
+
+<!--Begin Footer Section-->
+    
+  <div id=FooterContainer class=Container>
+  <div id=FooterContent class=Content>
+    
+      <ul id=address>
+      <li><a href="mailto:cwendorf@uwsp.edu"><i class="fas fa-envelope-square" style="margin: 0px 12px 0px 2px;"></i>cwendorf@uwsp.edu</a></li>
+      <li><a href="https://cwendorf.github.io"><i class="fas fa-home" style="margin-right: 10px;"></i>https://cwendorf.github.io</a></li>
+      </ul>	
+      
+  </div>
+  </div>
+
+<!--End Footer Section-->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+
+</body>
+
+</html>

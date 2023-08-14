@@ -1,3 +1,11 @@
+---
+title: Sourcebook
+headerone: jamovi
+relatedone:
+  - title: Data Analysis | Factorial ANVOA
+    url: ../data-analysis/factorial
+---
+
 # jamovi | Data Entry
 
 ## Factorial Data 

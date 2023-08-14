@@ -1,3 +1,21 @@
+---
+title: Sourcebook
+headerone: Intro
+relatedone:
+  - title: Statistical Tables | Student's t
+    url: ../../Intro/statistical-tables/t
+  - title: Worked Examples | Paired Samples t Test
+    url: ../../Intro/worked-examples/paired
+headertwo: EASI
+relatedtwo:
+  - title: Data Entry | paired Data
+    url: ../data-entry/paireddata
+  - title: Data Analysis | Paired Samples t Test
+    url: ../data-analysis/paired
+  - title: Annotated Output | Paired Samples t Test
+    url: ../annotated-output/paired
+---
+
 # EASI | Data Analysis
 
 ## Paired Samples t Test

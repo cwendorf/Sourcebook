@@ -1,3 +1,11 @@
+---
+title: Sourcebook
+headerone: R
+relatedone:
+  - title: Data Analysis | Factorial ANVOA
+    url: ../data-analysis/factorial
+---
+
 # R | Data Entry
 
 ## Factorial Data

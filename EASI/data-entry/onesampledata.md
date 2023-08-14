@@ -1,3 +1,15 @@
+---
+title: Sourcebook
+headerone: EASI
+relatedone:
+  - title: Data Analysis | Frequencies and Descriptives
+    url: ../data-analysis/frequencies
+  - title: Data Analysis | Transformations and Standardized Scores
+    url: ../data-analysis/standardized
+  - title: Data Analysis | One Sample t Test
+    url: ../data-analysis/onesample
+---
+
 # EASI | Data Entry
 
 ## One Sample Data

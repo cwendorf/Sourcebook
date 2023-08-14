@@ -1,3 +1,11 @@
+---
+title: Sourcebook
+headerone: EASI
+relatedone:
+  - title: Data Analysis | Factorial ANVOA
+    url: ../data-analysis/factorial
+---
+
 # EASI | Data Entry
 
 ## Factorial Data

@@ -1,3 +1,15 @@
+---
+title: Sourcebook
+headerone: EASI
+relatedone:
+  - title: Data Analysis | Correlations
+    url: ../data-analysis/correlations
+  - title: Data Analysis | Paired Samples t Test
+    url: ../data-analysis/paired
+  - title: Data Analysis | Repeated Measures ANOVA
+    url: ../data-analysis/repeated
+---
+
 # EASI | Data Entry
 
 ## Repeated Measures Data

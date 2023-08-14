@@ -1,0 +1,28 @@
+
+/* For Narrower Screen Widths */
+
+
+/* Global Changes */
+
+.Container {min-width: 360px;}
+.Content {min-width: 360px;}
+
+/* Title Section Changes */
+
+#MenuButton {display: block; float: right; height: 30px; width: 32px; padding: 20px 20px;}
+#MenuButton:hover {background: rgba(160,160,160,.2);}
+
+/* Nav Section Changes */
+
+#AreaContainer {display: none; border-bottom: 1px solid #ccc;}
+#AreaContent LI {padding: 0px 0px; margin: 0px 0px;}
+#AreaContent A {display: inline-block; font-size: 20px; padding: 10px 0px;}
+
+/* Main Section Changes */
+
+#Main {margin-right: 0; margin-bottom: 20px; clear: both;}
+#Sidebar {width: 100%;}
+
+/* Footer Section Changes */
+
+

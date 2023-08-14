@@ -1,6 +1,20 @@
+---
+title: Sourcebook
+headerone: Intro
+relatedone:
+  - title: Worked Examples | Standardized Scores
+    url: ../../Intro/worked-examples/standardized
+headertwo: SPSS
+relatedtwo:
+  - title: Data Entry | One Sample Data
+    url: ../data-entry/onesampledata
+  - title: Data Analysis | Standardized Scores
+    url: ../data-analysis/standardized
+---
+
 # SPSS | Data Analysis
 
-## Descriptives (Standardized Scores and Transformations) 
+## Transformations and Standardized Scores 
 
 ### Obtaining Descriptive-Related Statistics 
 

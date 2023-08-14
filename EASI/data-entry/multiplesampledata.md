@@ -1,3 +1,15 @@
+---
+title: Sourcebook
+headerone: EASI
+relatedone:
+  - title: Data Analysis | Independent Samples t Test
+    url: ../data-analysis/independent
+  - title: Data Analysis | OneWay ANOVA
+    url: ../data-analysis/oneway
+  - title: Data Analysis | Post Hoc Comparisons
+    url: ../data-analysis/posthocs
+---
+
 # EASI | Data Entry
 
 ## Multiple Sample Data

@@ -1,3 +1,11 @@
+---
+title: Sourcebook
+headerone: JASP
+relatedone:
+  - title: Data Analysis | Factorial ANVOA
+    url: ../data-analysis/factorial
+---
+
 # JASP | Data Entry
 
 ## Factorial Data 

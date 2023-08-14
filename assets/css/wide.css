@@ -1,0 +1,25 @@
+
+/* For Wider Screen Widths */
+
+/* Global Changes */
+
+.Content {max-width: 1200px;}
+
+/* Title Section Changes */
+
+#MenuButton {display: none;}
+
+/* Nav Section Changes */
+
+#AreaContainer {border-bottom: 1px solid #ccc;}
+#AreaContent LI {float: left; padding: 0px 30px 0px 0px;}
+#AreaContent A {width: 100%; display: block; font-size: 20px; padding: 10px 0px;}
+
+/* Main Section Changes */
+
+#Main {margin-right: 0px; padding-right: 40px; float: left; max-width: -webkit-calc(100% - 340px); max-width: -moz-calc(100% - 340px); max-width: calc(100% - 340px);}
+#Sidebar {width: 300px; float: right;}
+#FirstBreak {display: none;}
+
+/* Footer Section Changes */
+

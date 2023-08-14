@@ -1,3 +1,17 @@
+---
+title: Sourcebook
+headerone: Intro
+relatedone:
+  - title: Worked Examples | Standardized Scores
+    url: ../../Intro/worked-examples/standardized
+headertwo: EASI
+relatedtwo:
+  - title: Data Entry | One Sample Data
+    url: ../data-entry/onesampledata
+  - title: Data Analysis | Standardized Scores
+    url: ../data-analysis/standardized
+---
+
 # EASI | Data Analysis
 
 ## Standardized Scores

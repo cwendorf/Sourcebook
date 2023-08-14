@@ -1,3 +1,17 @@
+---
+title: Sourcebook
+headerone: Intro
+relatedone:
+  - title: Worked Examples | Standardized Scores
+    url: ../../Intro/worked-examples/standardized
+headertwo: R
+relatedtwo:
+  - title: Data Entry | One Sample Data
+    url: ../data-entry/onesampledata
+  - title: Data Analysis | Standardized Scores
+    url: ../data-analysis/standardized
+---
+
 # R | Data Analysis
 
 ## Standardized Scores

@@ -1,6 +1,20 @@
+---
+title: Sourcebook
+headerone: Intro
+relatedone:
+  - title: Worked Examples | Standardized Scores
+    url: ../../Intro/worked-examples/standardized
+headertwo: jamovi
+relatedtwo:
+  - title: Data Entry | One Sample Data
+    url: ../data-entry/onesampledata
+  - title: Data Analysis | Standardized Scores
+    url: ../data-analysis/standardized
+---
+
 # jamovi | Data Analysis
 
-## Compute (Transformations and Standardized Scores)
+## Transformations and Standardized Scores
 
 ### Obtaining the Compute Menu
 
