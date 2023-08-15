@@ -6,14 +6,6 @@ relatedone:
     url: "https://github.com/cwendorf/EASI"
   - title: EASI | Quick Start Guide
     url: "https://github.com/cwendorf/EASI/tree/main/docs"
-headertwo: Chapter Downloads
-relatedtwo:
-  - title: EASI | Data Entry
-    url: 
-  - title: EASI | Data Analysis
-    url: 
-  - title: EASI | Annotated Output
-    url:
 ---
 
 # EASI (R Package) 

@@ -6,16 +6,6 @@ relatedone:
     url: "https://apastyle.apa.org/jars"
   - title: APA Style | Tables and Figures
     url: "https://apastyle.apa.org/style-grammar-guidelines/tables-figures"
-headertwo: Chapter Downloads
-relatedtwo:
-  - title: Intro | Statistical Analyses
-    url: 
-  - title: Intro | Statistical Tables
-    url: 
-  - title: Intro | APA Style
-    url:
-  - title: Intro | Worked Examples
-    url:
 ---
 
 # Intro

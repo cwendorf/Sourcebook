@@ -6,14 +6,6 @@ relatedone:
     url: "https://www.ibm.com/products/spss-statistics"
   - title: SPSS  | Support
     url: "https://www.ibm.com/products/spss-statistics/support"
-headertwo: Chapter Downloads
-relatedtwo:
-  - title: SPSS | Data Entry
-    url: 
-  - title: SPSS | Data Analysis
-    url: 
-  - title: SPSS | Annotated Output
-    url:
 ---
 
 # SPSS

@@ -6,14 +6,6 @@ relatedone:
     url: "https://www.r-project.org"
   - title: R | Manuals
     url: "https://cran.r-project.org/manuals.html"
-headertwo: Chapter Downloads
-relatedtwo:
-  - title: R | Data Entry
-    url: 
-  - title: R | Data Analysis
-    url: 
-  - title: R | Annotated Output
-    url:
 ---
 
 # R (Base Functions) 

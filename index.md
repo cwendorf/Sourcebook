@@ -1,17 +1,11 @@
 ---
 title: Sourcebook
-headerone: Contact Info
+headerone: External Links
 relatedone:
-  - title: Email | cwendorf@uwsp.edu
+  - title: Wendorf | Email
     url: "mailto:cwendorf@uwsp.edu"
-  - title: Website | cwendorf.github.io
+  - title: Wendorf | Home Page
     url: "https://cwendorf.github.io"
-headertwo: Chapter Downloads
-relatedtwo:
-  - title: Sourcebook | Cover and License
-    url: 
-  - title: Sourcebook | Contents
-    url: 
 ---
 
 # Basic Statistical Methods for Social Science

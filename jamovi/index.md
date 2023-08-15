@@ -8,14 +8,6 @@ relatedone:
     url: "https://cloud.jamovi.org"
   - title: jamovi | Manual
     url: "https://www.jamovi.org/user-manual.html"
-headertwo: Chapter Downloads
-relatedtwo:
-  - title: jamovi | Data Entry
-    url: 
-  - title: jamovi | Data Analysis
-    url: 
-  - title: jamovi | Annotated Output
-    url:
 ---
 
 # jamovi 

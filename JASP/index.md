@@ -6,14 +6,6 @@ relatedone:
     url: "https://jasp-stats.org"
   - title: JASP | Support
     url: "https://jasp-stats.org/support/"
-headertwo: Chapter Downloads
-relatedtwo:
-  - title: JASP | Data Entry
-    url: 
-  - title: JASP | Data Analysis
-    url: 
-  - title: JASP | Annotated Output
-    url:
 ---
 
 # JASP
