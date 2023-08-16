@@ -1,11 +1,6 @@
 ---
 title: Sourcebook
-headerone: External Links
-relatedone:
-  - title: SPSS | Download Software
-    url: "https://www.ibm.com/products/spss-statistics"
-  - title: SPSS  | Support
-    url: "https://www.ibm.com/products/spss-statistics/support"
+layout: contents
 ---
 
 # SPSS

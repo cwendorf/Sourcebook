@@ -1,11 +1,6 @@
 ---
 title: Sourcebook
-headerone: External Links
-relatedone:
-  - title: JASP | Download Software
-    url: "https://jasp-stats.org"
-  - title: JASP | Support
-    url: "https://jasp-stats.org/support/"
+layout: contents
 ---
 
 # JASP

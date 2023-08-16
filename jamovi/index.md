@@ -1,13 +1,6 @@
 ---
 title: Sourcebook
-headerone: External Links
-relatedone:
-  - title: jamovi | Download Software
-    url: "https://www.jamovi.org"
-  - title: jamovi | Cloud Access
-    url: "https://cloud.jamovi.org"
-  - title: jamovi | Manual
-    url: "https://www.jamovi.org/user-manual.html"
+layout: contents
 ---
 
 # jamovi 

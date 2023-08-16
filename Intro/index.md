@@ -1,11 +1,6 @@
 ---
 title: Sourcebook
-headerone: External Links
-relatedone:
-  - title: APA Style | Journal Article Reporting Standards
-    url: "https://apastyle.apa.org/jars"
-  - title: APA Style | Tables and Figures
-    url: "https://apastyle.apa.org/style-grammar-guidelines/tables-figures"
+layout: contents
 ---
 
 # Intro

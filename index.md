@@ -1,11 +1,6 @@
 ---
 title: Sourcebook
-headerone: External Links
-relatedone:
-  - title: Wendorf | Email
-    url: "mailto:cwendorf@uwsp.edu"
-  - title: Wendorf | Home Page
-    url: "https://cwendorf.github.io"
+layout: contents
 ---
 
 # Basic Statistical Methods for Social Science
@@ -24,9 +19,9 @@ This online Sourcebook is intended to facilitate the connection between standard
 
 The Sourcebook contains the following materials:
 
-- **Introduction** - Contains a statistical overview, statistical tables, an APA style guide, and worked examples
-- **SPSS** - Contains data entry and analysis instructions and annotated output for SPSS
-- **jamovi** - Contains data entry and analysis instructions and annotated output for jamovi
-- **JASP** - Contains data entry and analysis instructions and annotated output for JASP
-- **R** - Contains data entry and analysis instructions and annotated output for R (using base functions)
-- **EASI** - Contains data entry and analysis instructions and annotated output for EASI (an R package)
+- **Intro** - Contains a statistical overview, statistical tables, an APA style guide, and worked examples
+- **SPSS** - Contains data entry instructions, data analysis instructions, and annotated output for SPSS
+- **jamovi** - Contains data entry instructions, data analysis instructions, and annotated output for jamovi
+- **JASP** - Contains data entry instructions, data analysis instructions, and annotated output for JASP
+- **R** - Contains data entry instructions, data analysis instructions, and annotated output for R (using base functions)
+- **EASI** - Contains data entry instructions, data analysis instructions, and annotated output for EASI (an R package)

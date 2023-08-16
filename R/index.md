@@ -1,11 +1,6 @@
 ---
 title: Sourcebook
-headerone: External Links
-relatedone:
-  - title: R | Download Software
-    url: "https://www.r-project.org"
-  - title: R | Manuals
-    url: "https://cran.r-project.org/manuals.html"
+layout: contents
 ---
 
 # R (Base Functions) 
