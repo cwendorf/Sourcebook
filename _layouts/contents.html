@@ -77,13 +77,35 @@
 
 <!--Begin Main Section-->
 
-    <div id=MainContainer class=Container>
-    <div id=MainContent class=Content>
-           
-      {{ content }}
-   
-    </div>
-    </div>
+<div id=MainContainer class=Container>
+  <div id=MainContent class=Content>
+
+  <div id=Main>
+         
+    {{ content }}
+ 
+  </div>
+
+  <div id=Sidebar>
+  
+    <hr id=FirstBreak>
+
+    <h1>About</h1>
+
+    <h2>{{ page.headerone }}</h2>
+    <p>{{ page.descone }}</p>
+
+    <h2>{{ page.headertwo }}</h2>
+    <ul>
+      {% for relatedtwo in page.relatedtwo %}
+      <li><a href="{{ relatedtwo.url }}">{{ relatedtwo.title }}</a></li>
+      {% endfor %}
+    </ul>
+
+  </div>
+
+  </div>
+  </div>
 
 <!--End Main Section-->
 

@@ -1,6 +1,14 @@
 ---
 title: Sourcebook
 layout: contents
+headerone: Overview
+descone: "This chapter of the Sourcebook uses the R package EASI to analyze the basic examples."
+headertwo: Links
+relatedtwo:
+  - title: EASI | Download Software
+    url: "https://github.com/cwendorf/EASI"
+  - title: EASI | Quick Start Guide
+    url: "https://github.com/cwendorf/EASI/tree/main/docs"
 ---
 
 # EASI (R Package) 

@@ -1,6 +1,14 @@
 ---
 title: Sourcebook
 layout: contents
+headerone: Overview
+descone: "This chapter of the Sourcebook uses the software package SPSS to analyze the basic examples."
+headertwo: Links
+relatedtwo:
+  - title: SPSS | Download Software
+    url: "https://www.ibm.com/products/spss-statistics"
+  - title: SPSS  | Support
+    url: "https://www.ibm.com/products/spss-statistics/support"
 ---
 
 # SPSS

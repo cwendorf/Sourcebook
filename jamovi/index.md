@@ -1,6 +1,16 @@
 ---
 title: Sourcebook
 layout: contents
+headerone: Overview
+descone: "This chapter of the Sourcebook uses the software package jamovi to analyze the basic examples."
+headertwo: Links
+relatedtwo:
+  - title: jamovi | Download Software
+    url: "https://www.jamovi.org"
+  - title: jamovi | Cloud Access
+    url: "https://cloud.jamovi.org"
+  - title: jamovi | Manual
+    url: "https://www.jamovi.org/user-manual.html"
 ---
 
 # jamovi 

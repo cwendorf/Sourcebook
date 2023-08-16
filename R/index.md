@@ -1,6 +1,14 @@
 ---
 title: Sourcebook
 layout: contents
+headerone: Overview
+descone: "This chapter of the Sourcebook uses the software package R to analyze the basic examples."
+headertwo: Links
+relatedtwo:
+  - title: R | Download Software
+    url: "https://www.r-project.org"
+  - title: R | Manuals
+    url: "https://cran.r-project.org/manuals.html"
 ---
 
 # R (Base Functions) 
