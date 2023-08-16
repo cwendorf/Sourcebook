@@ -13,7 +13,7 @@ This online Sourcebook is intended to facilitate the connection between standard
 - Demonstrate the connections between formulas, calculations, and computer output of analyses
 - Summarize and interpret statistical analyses in correct APA style
 
-<p align="center"><kbd><img src="AnnotatedOutput.jpg"></kbd></p>
+<p align="center"><kbd><img src="assets/images/AnnotatedOutput.jpg"></kbd></p>
 
 ### Contents
 
