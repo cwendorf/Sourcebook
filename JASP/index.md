@@ -1,10 +1,9 @@
 ---
 title: Sourcebook
 layout: contents
-headerone: Overview
-descone: "This chapter of the Sourcebook uses the software package JASP to analyze the basic examples."
-headertwo: Links
-relatedtwo:
+header: Other Resources
+description: "This chapter of the Sourcebook uses the software package JASP to analyze the basic examples. Other materials related to JASP are available elsewhere on the internet."
+related:
   - title: JASP | Download Software
     url: "https://jasp-stats.org"
   - title: JASP | Support

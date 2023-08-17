@@ -1,10 +1,9 @@
 ---
 title: Sourcebook
 layout: contents
-headerone: Overview
-descone: "This chapter of the Sourcebook provides an overview of basic statistical methods and the materials needed to calculate and summarize them."
-headertwo: Links
-relatedtwo:
+header: Other Resources
+desc: "riptionThis chapter of the Sourcebook provides an overview of basic statistical with an end-goal of summarizing them in appropriate style. Other materials related to APA Style are available elsewhere on the internet."
+related:
   - title: APA Style | Journal Article Reporting Standards
     url: "https://apastyle.apa.org/jars"
   - title: APA Style | Tables and Figures

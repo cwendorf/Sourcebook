@@ -1,10 +1,9 @@
 ---
 title: Sourcebook
 layout: contents
-headerone: Citation
-descone: "Wendorf, C. A. (2022). Sourcebook: Basic statistical methods for social science. https://cwendorf.github.io/Sourcebook"
-headertwo: Links
-relatedtwo:
+header: About
+description: "Wendorf, C. A. (2022). Sourcebook: Basic statistical methods for social science. https://cwendorf.github.io/Sourcebook"
+related:
   - title: GitHub Respository
     url: "https://github.com/cwendorf/Sourcebook"
   - title: Creative Commons Attribution 4.0 International License

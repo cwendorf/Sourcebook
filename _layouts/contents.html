@@ -90,15 +90,13 @@
   
     <hr id=FirstBreak>
 
-    <h1>About</h1>
+    <h1>{{ page.header }}</h1>
 
-    <h2>{{ page.headerone }}</h2>
-    <p>{{ page.descone }}</p>
+    <p>{{ page.description }}</p>
 
-    <h2>{{ page.headertwo }}</h2>
     <ul>
-      {% for relatedtwo in page.relatedtwo %}
-      <li><a href="{{ relatedtwo.url }}">{{ relatedtwo.title }}</a></li>
+      {% for related in page.related %}
+      <li><a href="{{ related.url }}">{{ related.title }}</a></li>
       {% endfor %}
     </ul>
 
