@@ -2,7 +2,7 @@
 title: Sourcebook
 layout: contents
 header: Other Resources
-description: "This chapter of the Sourcebook provides an overview of basic statistical methods with an end-goal of summarizing them in appropriate style. Other materials related to APA Style are available elsewhere on the internet."
+description: "This section of the Sourcebook provides an overview of basic statistical methods with an end-goal of summarizing them in appropriate style. Other materials related to APA Style are available elsewhere on the internet."
 related:
   - title: APA Style | Journal Article Reporting Standards
     url: "https://apastyle.apa.org/jars"

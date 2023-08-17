@@ -2,7 +2,7 @@
 title: Sourcebook
 layout: contents
 header: Other Resources
-description: "This chapter of the Sourcebook uses the software package SPSS to analyze the basic examples. Other materials related to SPSS are available elsewhere on the internet."
+description: "This section of the Sourcebook uses the software package SPSS to analyze the basic examples. Other materials related to SPSS are available elsewhere on the internet."
 related:
   - title: SPSS | Download Software
     url: "https://www.ibm.com/products/spss-statistics"
