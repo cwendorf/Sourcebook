@@ -78,7 +78,7 @@ body {
 /* Main Section Styles */
 
 #MainContent H1 {
-    font-size: 29px;
+    font-size: 26px;
     font-weight: bold;
     margin: 20px 0px;
     padding: 0px 0px 15px 0px;
@@ -92,7 +92,7 @@ body {
     padding: 0px;
 }
 #MainContent H3 {
-    font-size: 17px;
+    font-size: 18px;
     font-weight: bold;
     color: #333;
     margin: 20px 0px;
