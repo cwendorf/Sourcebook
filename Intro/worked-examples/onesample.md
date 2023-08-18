@@ -3,7 +3,7 @@ title: Sourcebook
 headerone: Intro
 relatedone:
   - title: Statistical Tables | Student's t
-    url: ./t
+    url: ../statistical-tables/t
   - title: APA Style | Summary of Parametric Statistic Reporting
     url: ../apa-style/summary
   - title: Worked Examples | One Sample t Test

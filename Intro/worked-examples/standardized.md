@@ -3,7 +3,7 @@ title: Sourcebook
 headerone: Intro
 relatedone:
   - title: Statistical Tables | Standard Normal
-    url: ./normal
+    url: ../statistical-tables/normal
   - title: Worked Examples | Standardized Scores
     url: ../worked-examples/standardized
 ---

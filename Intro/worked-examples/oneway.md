@@ -3,7 +3,7 @@ title: Sourcebook
 headerone: Intro
 relatedone:
   - title: Statistical Tables | Snedecor's F
-    url: ./F
+    url: ../statistical-tables/F
   - title: APA Style | Summary of Parametric Statistic Reporting
     url: ../apa-style/summary
   - title: Worked Examples | OneWay ANOVA
