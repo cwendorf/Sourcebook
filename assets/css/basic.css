@@ -79,22 +79,22 @@ body {
 #MainContent H1 {
     font-size: 28px;
     font-weight: bold;
-    margin: 30px 0px 15 0px;
+    margin: 20px 0px;
     padding: 0px 0px 15px 0px;
     border-bottom: 1px solid #888;
 }
 #MainContent H2 {
-    font-size: 24px; 
+    font-size: 26px; 
     font-weight: bold;
     clear: both;
-    margin: 30px 0px 15 0px;
+    margin: 20px 0px;
     padding: 0px;
 }
 #MainContent H3 {
     font-size: 18px;
     font-weight: bold;
     color: #333;
-    margin: 30px 0px 15 0px;
+    margin: 20px 0px;
     padding: 0px;
 }
 #MainContent P {
