@@ -13,7 +13,7 @@
 
 #AreaContainer {border-bottom: 1px solid #ccc;}
 #AreaContent LI {float: left; padding: 0px 30px 0px 0px;}
-#AreaContent A {width: 100%; display: block; padding: 10px 0px;}
+#AreaContent A {width: 100%; display: block;}
 
 /* Main Section Changes */
 
