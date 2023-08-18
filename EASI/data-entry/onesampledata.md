@@ -2,8 +2,10 @@
 title: Sourcebook
 headerone: EASI
 relatedone:
-  - title: Data Analysis | Frequencies and Descriptives
+  - title: Data Analysis | Frequencies
     url: ../data-analysis/frequencies
+  - title: Data Analysis | Descriptives
+    url: ../data-analysis/descriptives
   - title: Data Analysis | Transformations and Standardized Scores
     url: ../data-analysis/standardized
   - title: Data Analysis | One Sample t Test
