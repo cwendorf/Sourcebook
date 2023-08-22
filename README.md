@@ -25,6 +25,11 @@ The Sourcebook contains the following materials:
 - **R** - Contains data entry instructions, data analysis instructions, and annotated output for R (using base functions)
 - **EASI** - Contains data entry instructions, data analysis instructions, and annotated output for EASI (an R package)
 
+### Contact Me
+ 
+- Author Email: [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu)
+- Author Homepage: [https://cwendorf.github.io](https://cwendorf.github.io)
+
 ### Citation
 
 Wendorf, C. A. (2022). *Sourcebook: Basic statistical methods for social science.* [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
