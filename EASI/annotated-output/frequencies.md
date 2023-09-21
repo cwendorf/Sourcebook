@@ -8,7 +8,7 @@ headertwo: EASI
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesampledata
-  - title: Annotated Output | Descriptives
+  - title: Annotated Output | Frequencies
     url: ../annotated-output/frequencies
 ---
 
