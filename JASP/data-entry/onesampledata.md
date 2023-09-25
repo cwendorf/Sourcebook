@@ -3,9 +3,7 @@ title: Sourcebook
 headerone: JASP
 relatedone:
   - title: Data Analysis | Frequencies and Descriptives
-    url: ../data-analysis/frequencies
-  - title: Data Analysis | Transformations and Standardized Scores
-    url: ../data-analysis/standardized
+    url: ../data-analysis/descriptives
   - title: Data Analysis | One Sample t Test
     url: ../data-analysis/onesample
 ---

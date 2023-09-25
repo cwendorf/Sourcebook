@@ -11,9 +11,9 @@ relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesampledata
   - title: Data Analysis | Frequencies and Descriptives
-    url: ../data-analysis/frequencies
+    url: ../data-analysis/descriptives
   - title: Annotated Output | Frequencies and Descriptives
-    url: ../annotated-output/frequencies
+    url: ../annotated-output/descriptives
 ---
 
 # JASP | Data Analysis
