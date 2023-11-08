@@ -27,7 +27,7 @@ trOutcome <- Outcome+1
 Create and display a data frame to view the data set.
 
 ```{r}
-data.frame(Outcome,trOutcome)
+construct(Outcome, trOutcome)
 ```
 
 ### Computing Standardized Scores
@@ -41,5 +41,5 @@ zOutcome <- scale(Outcome)
 Create and display a data frame to view the data set.
 
 ```{r}
-data.frame(Outcome,trOutcome,zOutcome)
+construct(Outcome, trOutcome, zOutcome)
 ```

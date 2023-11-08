@@ -25,7 +25,7 @@ relatedtwo:
 Get the means and standard deviations for the variables.
 
 ```{r}
-describeMeans(RepeatedData)
+(RepeatedData) |> describeSummary()
 ```
 
 ### Obtaining Inferential Statistics
@@ -33,17 +33,17 @@ describeMeans(RepeatedData)
 Get the analysis of variance source table.
 
 ```{r}
-describeMeansOmnibus(RepeatedData)
+(RepeatedData) |> describeMeansEffect()
 ```
 
 Test the main effect for statistical significance.
 
 ```{r}
-testMeansOmnibus(RepeatedData)
+(RepeatedData) |> testMeansEffect()
 ```
 
 Get the proportion of variance accounted for by the main effect.
 
 ```{r}
-estimateMeansOmnibus(RepeatedData)
+(RepeatedData)- |> estimateMeansEffect()
 ```

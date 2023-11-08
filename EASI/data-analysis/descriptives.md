@@ -21,7 +21,7 @@ relatedtwo:
 Get the frequency distribution for the variable.
 
 ```{r}
-describeFrequencies(Outcome)
+(Outcome) |> describeFrequencies()
 ```
 
 ### Obtaining Descriptive Statistics
@@ -29,5 +29,5 @@ describeFrequencies(Outcome)
 Get the mean and standard deviation for the variable.
 
 ```{r}
-describeMeans(Outcome)
+(Outcome) |> describeSummary()
 ```

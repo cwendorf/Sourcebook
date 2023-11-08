@@ -25,7 +25,7 @@ relatedtwo:
 Get the mean and standard deviation of the dependent variable for each of the levels.
 
 ```{r}
-describeMeans(Outcome~Factor)
+(Outcome~Factor) |> describeSummary()
 ```
 
 ### Obtaining Inferential Statistics
@@ -33,17 +33,17 @@ describeMeans(Outcome~Factor)
 Get the analysis of variance source table.
 
 ```{r}
-describeMeansOmnibus(Outcome~Factor)
+(Outcome~Factor) |> describeMeansEffect()
 ```
 
 Test the main effect for statistical significance.
 
 ```{r}
-testMeansOmnibus(Outcome~Factor)
+(Outcome~Factor) |> testMeansEffect()
 ```
 
 Get the proportion of variance accounted for by the main effect.
 
 ```{r}
-estimateMeansOmnibus(Outcome~Factor)
+(Outcome~Factor) |> estimateMeansEffect()
 ```

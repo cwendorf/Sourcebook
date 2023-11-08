@@ -21,7 +21,7 @@ relatedtwo:
 Get the frequency distribution for the variable.
 
 ```{r}
-describeFrequencies(Outcome)
+(Outcome) |> describeFrequencies()
 ```
 
 ### Obtaining Summary Statistics
@@ -29,5 +29,5 @@ describeFrequencies(Outcome)
 Get the percentiles for the variable.
 
 ```{r}
-describePercentiles(Outcome)
+(Outcome) |> describePercentiles()
 ```

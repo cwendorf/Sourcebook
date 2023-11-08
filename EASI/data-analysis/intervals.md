@@ -25,7 +25,7 @@ relatedtwo:
 Get the mean and standard deviation for the variable.
 
 ```{r}
-describeMeans(Outcome)
+(Outcome) |> describeSummary()
 ```
 
 ### Obtaining Inferential Statistics
@@ -33,5 +33,5 @@ describeMeans(Outcome)
 Get the mean and its confidence interval.
 
 ```{r}
-estimateMeans(Outcome)
+(Outcome) |> estimateMeans()
 ```

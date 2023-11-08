@@ -5,19 +5,19 @@
 ### Obtaining Descriptive Statistics
 
 ```r
-describeMeansBy(cbind(Outcome1,Outcome2,Outcome3),by=Factor)
+construct(Outcome1, Outcome2, Outcome3) |> describeSummaryBy(by=Factor)
 ```
 
 ### Obtaining Inferential Statistics
 
 ```r
-describeMeansOmnibusMultifactor(cbind(Outcome1,Outcome2,Outcome3),by=Factor)
+construct(Outcome1, Outcome2, Outcome3) |> describeMeansFactorial(by=Factor)
 ```
 
 ```r
-testMeansOmnibusMultifactor(cbind(Outcome1,Outcome2,Outcome3),by=Factor)
+construct(Outcome1, Outcome2, Outcome3) |> testMeansFactorial(by=Factor)
 ```
 
 ```r
-estimateMeansOmnibusMultifactor(cbind(Outcome1,Outcome2,Outcome3),by=Factor)
+construct(Outcome1, Outcome2, Outcome3) |> estimateMeansFactorial(by=Factor)
 ```

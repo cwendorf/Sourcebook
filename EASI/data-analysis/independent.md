@@ -25,7 +25,7 @@ relatedtwo:
 Get the mean and standard deviation of the dependent variable for each of the levels.
 
 ```{r}
-describeMeans(Outcome~Factor)
+(Outcome~Factor) |> describeSummary()
 ```
 
 ### Obtaining Inferential Statistics
@@ -33,17 +33,17 @@ describeMeans(Outcome~Factor)
 Get the mean difference and its confidence interval.
 
 ```{r}
-estimateMeanDifference(Outcome~Factor)
+(Outcome~Factor) |> estimateMeanDifference()
 ```
 
 Test the mean difference for statistical significance.
 
 ```{r}
-testMeanDifference(Outcome~Factor)
+(Outcome~Factor) |> testMeanDifference()
 ```
 
 Get the standardized effect size for the mean difference.
 
 ```{r}
-estimateStandardizedMeanDifference(Outcome~Factor)
+(Outcome~Factor) |> estimateStandardizedMeanDifference()
 ```

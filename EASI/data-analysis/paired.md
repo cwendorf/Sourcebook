@@ -25,7 +25,7 @@ relatedtwo:
 Get the means and standard deviations for the variables.
 
 ```{r}
-describeMeans(PairedData)
+(PairedData) |> describeSummary()
 ```
 
 ### Obtaining Inferential Statistics
@@ -33,17 +33,17 @@ describeMeans(PairedData)
 Get the mean difference and its confidence interval.
 
 ```{r}
-estimateMeanDifference(PairedData)
+(PairedData) |> estimateMeanDifference()
 ```
 
 Test the mean difference for statistical significance.
 
 ```{r}
-testMeanDifference(PairedData)
+(PairedData) |> testMeanDifference()
 ```
 
 Get the standardized effect size for the mean difference.
 
 ```{r}
-estimateStandardizedMeanDifference(PairedData)
+(PairedData) |> estimateStandardizedMeanDifference()
 ```
