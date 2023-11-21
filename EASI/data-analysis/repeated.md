@@ -45,5 +45,5 @@ Test the main effect for statistical significance.
 Get the proportion of variance accounted for by the main effect.
 
 ```{r}
-(RepeatedData)- |> estimateMeansEffect()
+(RepeatedData) |> estimateMeansEffect()
 ```
