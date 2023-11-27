@@ -33,17 +33,17 @@ Get the mean and standard deviation for the variable.
 Get the mean difference and its confidence interval.
 
 ```{r}
-(Outcome) |> estimateMeans(mu=7)
+(Outcome) |> estimateMeans(mu = 7)
 ```
 
 Test the mean difference for statistical significance.
 
 ```{r}
-(Outcome) |> testMeans(mu=7)
+(Outcome) |> testMeans(mu = 7)
 ```
 
 Get the standardized effect size for the mean difference.
 
 ```{r}
-(Outcome) |> estimateStandardizedMeans(mu=7)
+(Outcome) |> standardizedMeans(mu = 7)
 ```

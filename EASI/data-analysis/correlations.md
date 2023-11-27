@@ -42,14 +42,14 @@ Get the correlation matrix for the variables.
 
 ### Obtaining Inferential Statistics
 
-(CorrelationData) |> Get the correlation and its confidence interval.
+Get the correlation and its confidence interval.
 
 ```{r}
-estimateCorrelations()
+(CorrelationData) |> estimateCorrelations()
 ```
 
-(CorrelationData) |> Test the correlation for statistical significance.
+Test the correlation for statistical significance.
 
 ```{r}
-testCorrelations()
+(CorrelationData) |> testCorrelations()
 ```

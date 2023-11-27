@@ -33,17 +33,17 @@ Get the mean and standard deviation for the dependent variable for each of the l
 Get all pairwise mean difference and their confidence intervals while adjusting them for multiple comparisons.
 
 ```{r}
-(Outcome~Factor) |> estimateMeansPosthoc()
+(Outcome~Factor) |> estimatePosthoc()
 ```
 
 Test all pairwise mean differences for statistical significance while adjusting them for multiple comparisons.
 
 ```{r}
-(Outcome~Factor) |> testMeansPosthoc()
+(Outcome~Factor) |> testPosthoc()
 ```
 
 Get standardized mean differences for all pairwise comparisons.
 
 ```{r}
-(Outcome~Factor) |> estimateStandardizedMeansPosthoc()
+(Outcome~Factor) |> standardizePosthoc()
 ```

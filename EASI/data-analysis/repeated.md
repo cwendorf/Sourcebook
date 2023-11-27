@@ -33,17 +33,17 @@ Get the means and standard deviations for the variables.
 Get the analysis of variance source table.
 
 ```{r}
-(RepeatedData) |> describeMeansEffect()
+(RepeatedData) |> describeEffect()
 ```
 
 Test the main effect for statistical significance.
 
 ```{r}
-(RepeatedData) |> testMeansEffect()
+(RepeatedData) |> testEffect()
 ```
 
 Get the proportion of variance accounted for by the main effect.
 
 ```{r}
-(RepeatedData) |> estimateMeansEffect()
+(RepeatedData) |> estimateEffect()
 ```

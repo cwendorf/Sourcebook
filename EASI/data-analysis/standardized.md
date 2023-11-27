@@ -21,7 +21,7 @@ relatedtwo:
 Use a formula to calculate a new vector with the transformed scores. 
 
 ```{r}
-trOutcome <- Outcome+1
+trOutcome <- Outcome + 1
 ```
 
 Create and display a data frame to view the data set.

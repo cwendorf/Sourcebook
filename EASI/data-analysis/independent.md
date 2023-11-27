@@ -33,17 +33,17 @@ Get the mean and standard deviation of the dependent variable for each of the le
 Get the mean difference and its confidence interval.
 
 ```{r}
-(Outcome~Factor) |> estimateMeanDifference()
+(Outcome~Factor) |> estimateDifference()
 ```
 
 Test the mean difference for statistical significance.
 
 ```{r}
-(Outcome~Factor) |> testMeanDifference()
+(Outcome~Factor) |> testDifference()
 ```
 
 Get the standardized effect size for the mean difference.
 
 ```{r}
-(Outcome~Factor) |> estimateStandardizedMeanDifference()
+(Outcome~Factor) |> standardizeDifference()
 ```

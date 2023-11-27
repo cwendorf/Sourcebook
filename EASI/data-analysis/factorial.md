@@ -25,7 +25,7 @@ relatedtwo:
 Get the mean and standard deviation of the dependent variable for each of the levels. The "by" option tells EASI how to split the data.
 
 ```r
-(Outcome~FactorA) |> describeSummaryBy(by=FactorB)
+(Outcome~FactorA) |> describeSummaryBy(by = FactorB)
 ```
 
 ### Obtaining Inferential Statistics
@@ -33,17 +33,17 @@ Get the mean and standard deviation of the dependent variable for each of the le
 Get the analysis of variance source table.
 
 ```r
-(Outcome~FactorA) |> describeMeansFactorial(by=FactorB)
+(Outcome~FactorA) |> describeFactorial(by = FactorB)
 ```
 
 Test the main effects for statistical significance.
 
 ```r
-(Outcome~FactorA) |> testMeansFactorial(by=FactorB)
+(Outcome~FactorA) |> testFactorial(by = FactorB)
 ```
 
 Get the proportion of variance accounted for by the main effects.
 
 ```r
-(Outcome~FactorA) |> estimateMeansFactorial(by=FactorB)
+(Outcome~FactorA) |> estimateFactorial(by = FactorB)
 ```

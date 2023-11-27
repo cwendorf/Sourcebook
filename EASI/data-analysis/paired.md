@@ -33,17 +33,17 @@ Get the means and standard deviations for the variables.
 Get the mean difference and its confidence interval.
 
 ```{r}
-(PairedData) |> estimateMeanDifference()
+(PairedData) |> estimateDifference()
 ```
 
 Test the mean difference for statistical significance.
 
 ```{r}
-(PairedData) |> testMeanDifference()
+(PairedData) |> testDifference()
 ```
 
 Get the standardized effect size for the mean difference.
 
 ```{r}
-(PairedData) |> estimateStandardizedMeanDifference()
+(PairedData) |> standardizeDifference()
 ```

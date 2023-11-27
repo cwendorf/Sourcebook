@@ -33,17 +33,17 @@ Get the mean and standard deviation of the dependent variable for each of the le
 Get the analysis of variance source table.
 
 ```{r}
-(Outcome~Factor) |> describeMeansEffect()
+(Outcome~Factor) |> describeEffect()
 ```
 
 Test the main effect for statistical significance.
 
 ```{r}
-(Outcome~Factor) |> testMeansEffect()
+(Outcome~Factor) |> testEffect()
 ```
 
 Get the proportion of variance accounted for by the main effect.
 
 ```{r}
-(Outcome~Factor) |> estimateMeansEffect()
+(Outcome~Factor) |> estimateEffect()
 ```
