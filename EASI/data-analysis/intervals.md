@@ -25,7 +25,7 @@ relatedtwo:
 Get the mean and standard deviation for the variable.
 
 ```{r}
-(Outcome) |> describeSummary()
+(Outcome) |> describeMoments()
 ```
 
 ### Obtaining Inferential Statistics

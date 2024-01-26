@@ -29,5 +29,5 @@ Get the frequency distribution for the variable.
 Get the mean and standard deviation for the variable.
 
 ```{r}
-(Outcome) |> describeSummary()
+(Outcome) |> describeMoments()
 ```

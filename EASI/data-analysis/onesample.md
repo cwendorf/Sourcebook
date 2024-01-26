@@ -25,7 +25,7 @@ relatedtwo:
 Get the mean and standard deviation for the variable.
 
 ```{r}
-(Outcome) |> describeSummary()
+(Outcome) |> describeMoments()
 ```
 
 ### Obtaining Inferential Statistics
@@ -45,5 +45,5 @@ Test the mean difference for statistical significance.
 Get the standardized effect size for the mean difference.
 
 ```{r}
-(Outcome) |> standardizedMeans(mu = 7)
+(Outcome) |> standardizeMeans(mu = 7)
 ```

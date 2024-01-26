@@ -25,7 +25,7 @@ relatedtwo:
 Get the mean and standard deviation of the dependent variable for each of the levels.
 
 ```{r}
-(Outcome~Factor) |> describeSummary()
+(Outcome~Factor) |> describeMoments()
 ```
 
 ### Obtaining Inferential Statistics

@@ -25,7 +25,7 @@ relatedtwo:
 Get the means and standard deviations for the variables.
 
 ```{r}
-(CorrelationData) |> describeSummary()
+(CorrelationData) |> describeMoments()
 ```
 
 Get the covariance matrix for the variables.
