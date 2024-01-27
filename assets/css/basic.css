@@ -168,7 +168,7 @@ body {
 }
 #Sidebar UL {
     /*list-style: none;*/
-    padding-inline-start: 10px;
+    padding-inline-start: 20px;
 }
 
 #Main LI, #Sidebar LI {
