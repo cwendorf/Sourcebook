@@ -1,8 +1,8 @@
 ---
 title: Sourcebook
-headerone: Other Resources
+headerone: Resources
 relatedone:
-  - title: R | Download Software
+  - title: R | Download
     url: "https://www.r-project.org"
   - title: R | Manuals
     url: "https://cran.r-project.org/manuals.html"

@@ -1,10 +1,10 @@
 ---
 title: Sourcebook
-headerone: Other Resources
+headerone: Resources
 relatedone:
-  - title: jamovi | Download Software
+  - title: jamovi | Download
     url: "https://www.jamovi.org"
-  - title: jamovi | Cloud Access
+  - title: jamovi | Cloud
     url: "https://cloud.jamovi.org"
   - title: jamovi | Manual
     url: "https://www.jamovi.org/user-manual.html"

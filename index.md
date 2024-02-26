@@ -8,9 +8,7 @@ relatedone:
     url: "https://creativecommons.org/licenses/by/4.0/"
 ---
 
-# Basic Statistical Methods for Social Science
-
-## From Calculations to Analyses to Summaries
+## Basic Statistical Methods for Social Science
 
 ### Overview
 

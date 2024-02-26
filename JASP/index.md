@@ -1,8 +1,8 @@
 ---
 title: Sourcebook
-headerone: Other Resources
+headerone: Resources
 relatedone:
-  - title: JASP | Download Software
+  - title: JASP | Download
     url: "https://jasp-stats.org"
   - title: JASP | Support
     url: "https://jasp-stats.org/support/"

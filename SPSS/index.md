@@ -1,8 +1,8 @@
 ---
 title: Sourcebook
-headerone: Other Resources
+headerone: Resources
 relatedone:
-  - title: SPSS | Download Software
+  - title: SPSS | Download
     url: "https://www.ibm.com/products/spss-statistics"
   - title: SPSS  | Support
     url: "https://www.ibm.com/products/spss-statistics/support"

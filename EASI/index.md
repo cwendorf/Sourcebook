@@ -1,11 +1,11 @@
 ---
 title: Sourcebook
-headerone: Other Resources
+headerone: Resources
 relatedone:
-  - title: EASI | Download Software
+  - title: EASI | Download
     url: "https://github.com/cwendorf/EASI"
-  - title: EASI | Quick Start Guide
-    url: "https://github.com/cwendorf/EASI/tree/main/docs"
+  - title: EASI | Quick Start
+    url: "https://cwendorf.github.io/EASI"
 ---
 
 # EASI (R Package)

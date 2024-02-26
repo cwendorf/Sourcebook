@@ -1,10 +1,10 @@
 ---
 title: Sourcebook
-headerone: Other Resources
+headerone: Resources
 relatedone:
-  - title: APA Style | Journal Article Reporting Standards
+  - title: APA | Journal Article Reporting Standards
     url: "https://apastyle.apa.org/jars"
-  - title: APA Style | Tables and Figures
+  - title: APA | Tables and Figures
     url: "https://apastyle.apa.org/style-grammar-guidelines/tables-figures"
 ---
 
