@@ -89,7 +89,7 @@ body {
     font-weight: bold;
     clear: both;
     margin: 20px 0px;
-    padding: 0px;
+    padding: 20px 0px;
     border-bottom: 1px solid #888;
     color: red;    
 }
@@ -172,10 +172,10 @@ body {
     list-style: none;
     padding-inline-start: 0px;
 }
-#Sidebar HR {
+#Sidebar H2 {
     border: none;
 }
-#Sidebar A {
+#Sidebar LI {
     margin: 10px 0px;
     border-bottom: 1px solid black;
 }
