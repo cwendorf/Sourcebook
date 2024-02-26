@@ -82,15 +82,16 @@ body {
     font-size: 26px;
     font-weight: bold;
     margin: 20px 0px;
-    color: red;
+    padding: 0px;
 }
 #MainContent H2 {
     font-size: 24px; 
     font-weight: bold;
     clear: both;
     margin: 20px 0px;
-    padding: 0px 0px 15px 0px;
+    padding: 0px;
     border-bottom: 1px solid #888;
+    color: red;    
 }
 #MainContent H3 {
     font-size: 18px;
@@ -171,11 +172,13 @@ body {
     list-style: none;
     padding-inline-start: 0px;
 }
-#Sidebar LI {
-    margin: 5px 0px;
+#Sidebar HR {
+    border: none;
+}
+#Sidebar A {
+    margin: 10px 0px;
     border-bottom: 1px solid black;
 }
-
 
 /* Footer Section Styles */
 
