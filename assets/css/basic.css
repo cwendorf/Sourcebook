@@ -176,9 +176,8 @@ body {
     padding: 0px;
 }
 #Sidebar LI {
-    margin: 10px 0px;
-    padding: 0px 0px 10px 0px;
-    border-bottom: 1px solid black;
+    margin: 5px 0px;
+    padding: 0px 0px 5px 0px;
 }
 
 /* Footer Section Styles */
