@@ -32,7 +32,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [Paired Samples t Test](./data-analysis/paired.md)
 - [Independent Samples t Test](./data-analysis/independent.md)
 - [OneWay ANOVA](./data-analysis/oneway.md)
-- [OneWay ANOVA](./data-analysis/posthocs.md)
+- [Post Hoc Comparisons](./data-analysis/posthocs.md)
 - [Repeated Measures ANOVA](./data-analysis/repeated.md)
 - [Factorial ANOVA](./data-analysis/factorial.md)
 
