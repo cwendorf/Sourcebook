@@ -1,9 +1,7 @@
 ---
 title: Sourcebook
-layout: contents
-header: Other Resources
-description: "This section of the Sourcebook uses the software package jamovi to analyze the basic examples. Other materials related to jamovi are available elsewhere on the internet."
-related:
+headerone: Other Resources
+relatedone:
   - title: jamovi | Download Software
     url: "https://www.jamovi.org"
   - title: jamovi | Cloud Access
@@ -12,7 +10,9 @@ related:
     url: "https://www.jamovi.org/user-manual.html"
 ---
 
-# jamovi 
+# jamovi
+
+## Using the Software
 
 ### Data Entry
 

@@ -82,15 +82,15 @@ body {
     font-size: 26px;
     font-weight: bold;
     margin: 20px 0px;
-    padding: 0px 0px 15px 0px;
-    border-bottom: 1px solid #888;
+    color: red;
 }
 #MainContent H2 {
     font-size: 24px; 
     font-weight: bold;
     clear: both;
     margin: 20px 0px;
-    padding: 0px;
+    padding: 0px 0px 15px 0px;
+    border-bottom: 1px solid #888;
 }
 #MainContent H3 {
     font-size: 18px;
@@ -147,7 +147,6 @@ body {
     margin-left: 20px;
     margin-right: 20px;
 }
-
 #Main pre {
     overflow: auto;
     background-color: #f1f1f1;
@@ -155,10 +154,12 @@ body {
     border-radius: 2px;
     font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
 }
-
 #Main p, #Main blockquote, #Main ul, #Main ol, #Main dl, #Main table, #Main pre {
     margin-top: 0;
     margin-bottom: 15px;
+}
+#Main LI {
+    margin-bottom: 5px;
 }
 
 #Sidebar HR {
@@ -170,10 +171,11 @@ body {
     list-style: none;
     padding-inline-start: 0px;
 }
-
-#Main LI, #Sidebar LI {
-    margin-bottom: 5px;
+#Sidebar LI {
+    margin: 5px 0px;
+    border-bottom: 1px solid black;
 }
+
 
 /* Footer Section Styles */
 

@@ -1,9 +1,7 @@
 ---
 title: Sourcebook
-layout: contents
-header: Other Resources
-description: "This section of the Sourcebook uses the software package JASP to analyze the basic examples. Other materials related to JASP are available elsewhere on the internet."
-related:
+headerone: Other Resources
+relatedone:
   - title: JASP | Download Software
     url: "https://jasp-stats.org"
   - title: JASP | Support
@@ -11,6 +9,8 @@ related:
 ---
 
 # JASP
+
+## Using the Software
 
 ### Data Entry
 

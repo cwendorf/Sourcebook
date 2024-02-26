@@ -1,16 +1,16 @@
 ---
 title: Sourcebook
-layout: contents
-header: Other Resources
-description: "This section of the Sourcebook uses the R package EASI to analyze the basic examples. Other materials related to EASI are available elsewhere on the internet."
-related:
+headerone: Other Resources
+relatedone:
   - title: EASI | Download Software
     url: "https://github.com/cwendorf/EASI"
   - title: EASI | Quick Start Guide
     url: "https://github.com/cwendorf/EASI/tree/main/docs"
 ---
 
-# EASI (R Package) 
+# EASI (R Package)
+
+## Using the Software
 
 ### Data Entry
 

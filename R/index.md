@@ -1,16 +1,16 @@
 ---
 title: Sourcebook
-layout: contents
-header: Other Resources
-description: "This section of the Sourcebook uses the software package R to analyze the basic examples. Other materials related to R are available elsewhere on the internet."
-related:
+headerone: Other Resources
+relatedone:
   - title: R | Download Software
     url: "https://www.r-project.org"
   - title: R | Manuals
     url: "https://cran.r-project.org/manuals.html"
 ---
 
-# R (Base Functions) 
+# R (Base Functions)
+
+## Using the Software
 
 ### Data Entry
 

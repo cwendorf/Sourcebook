@@ -14,7 +14,7 @@ relatedone:
 
 ## General Rules for Results Sections
 
-### Overview
+### Purpose of Results Sections
 
 The APA manual describes appropriate strategies for presenting statistical information. These guidelines were established to provide basic minimal standards and to provide some uniformity across studies.
 
