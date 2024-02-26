@@ -18,6 +18,7 @@ This chapter provides an overview of the types of statistical analyses. This sta
 
 - [Choosing Appropriate Inferential Statistics](./statistical-analyses/choosing.md)
 - [Understanding Statistical Significance Tests](./statistical-analyses/significance.md)
+- [Understanding Confidence Intervals](./statistical-analyses/confidence.md)
 - [Understanding Effect Size Measures](./statistical-analyses/effects.md)
 
 ### Statistical Tables
