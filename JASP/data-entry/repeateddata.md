@@ -12,24 +12,32 @@ relatedone:
 
 # JASP | Data Entry
 
-## Repeated Measures Data 
+## Repeated Measures Data
 
-### Entering Data (Using a Spreadsheet)
+### Defining Variables 
 
-1. For repeated measures data, the columns represent the different instances of the within-subjects variable. In the example here, each column is a measurement of the same outcome variable (with the first row labeled accordingly).
+1. First, click on the "Edit Data" button on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
 
-2. Notice that each participant has scores on both variables. In this example, each of the five participants has a score for Outcome1 and for Outcome2. 
-
-3. When saving the file, be sure to save it as a CSV (comma delimited) file.
+2. Double-click on a cell column header (i.e., variable) that you wish to define. This will bring up a new set of options.  
 
 <p align="center"><kbd><img src="repeated1.png"></kbd></p>
 
-### Entering Data (Using a Text Editor)
+### Setting Variable Properties
 
-4. For repeated measures data, the columns represent the different instances of the within-subjects variable. In the example here, each column is a measurement of the same outcome variable (with the first row labeled accordingly).
+3. Type in the name of the variable in the top box (previously labeled "A").
 
-5. Notice that each participant has scores on both variables. In this example, each of the five  participants has a score for Outcome1 and for Outcome2. 
+4. Define the level of measurement for the variables by choosing the appropriate option. In this example, "Outcome1" (an instance of the outcome variable) is continuous (Scale). 
 
-6. When saving the file, be sure to save it as a CSV (comma delimited) file.
+5. To close the variable menu, click on the red "x" button to the right of the variable name. 
 
 <p align="center"><kbd><img src="repeated2.png"></kbd></p>
+
+### Entering Data
+
+6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people.
+
+7. Notice that each individual (i.e., the rows) have values for each instance of the within-subjects variable (i.e., the columns). 
+
+8. When done, click on the "Analyses" button on the top of the window.
+
+<p align="center"><kbd><img src="repeated3.png"></kbd></p>

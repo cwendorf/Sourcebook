@@ -10,26 +10,32 @@ relatedone:
 
 ## Factorial Data 
 
-### Entering Data (Using a Spreadsheet)
+### Defining Variables
 
-1. In the first row, type the names of the variables you wish to analyze. You should represent the Factors (Independent Variables) and the Outcome (Dependent) Variable.
+1. First, click on the "Edit Data" button on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
 
-2. Enter the scores for each of the same participants on the new variables. Notice that each individual (i.e., the rows) will still have values for each variable (i.e., the columns).
-
-3. On the categorical Factors, note that the combination of values in the Factors will define the multiple groups of the factorial design. 
-
-4. When saving the file, be sure to save it as a CSV (comma delimited) file.
+2. Double-click on a cell column header (i.e., variable) that you wish to define. This will bring up a new set of options. 
 
 <p align="center"><kbd><img src="factorial1.png"></kbd></p>
 
-### Entering Data (Using a Text Editor)
+### Setting Variable Properties
 
-5. In the first row, type the names of the variables you wish to analyze. You should represent the Factors (Independent Variables) and the Outcome (Dependent) Variable.
+3. You will need to define multiple variables. Two variables will represent the Factors (Independent Variables) and the other will represent the Outcome (Dependent) Variable.
 
-6. Enter the scores for each of the same participants on the new variables. Notice that each individual (i.e., the rows) will still have values for each variable (i.e., the columns).
+4. Provide a name and define the level of measurement for the variables by choosing the appropriate options. In this example, "FactorA" and "FactorB" nominal. The "Outcome" (Dependent) variable is continuous (Scale).
 
-7. On the categorical Factors, note that the combination of values in the Factors will define the multiple groups of the factorial design. 
-
-8. When saving the file, be sure to save it as a CSV (comma delimited) file.
+5. To clsoe the variable menu, click on the red "x" button next to the variable name.
 
 <p align="center"><kbd><img src="factorial2.png"></kbd></p>
+
+### Entering Data
+ 
+6. Enter the data for all of the participants. Notice that each participant has scores on both of the Factors and on the Outcome Variable. There will be as many rows as people. 
+
+7. On the categorical Factors, use the values that you indicated when defining the variables earlier. Note that the combination of values in the Factors will define the multiple groups of the factorial design.
+
+8. If your data set has more than two levels for either (or both) of the Factors, simply be sure to add an indicator and an outcome value for each additional person.
+
+9. When done, click on the "Analyses" button on the top of the window.
+
+<p align="center"><kbd><img src="factorial3.png"></kbd></p>

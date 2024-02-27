@@ -4,30 +4,38 @@ headerone: JASP
 relatedone:
   - title: Data Analysis | Frequencies and Descriptives
     url: ../data-analysis/descriptives
+  - title: Data Analysis | Transformations and Standardized Scores
+    url: ../data-analysis/standardized
   - title: Data Analysis | One Sample t Test
     url: ../data-analysis/onesample
 ---
 
 # JASP | Data Entry
 
-## One Sample Data 
+## One Sample Data
 
-### Entering Data on One Variable (Using a Spreadsheet)
+### Defining Variables
 
-1. In the first row and first cell, type the name of the outcome variable you wish to analyze.
+1. First, click on the "Edit Data" button on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
 
-2. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
-
-3. When saving the file, be sure to save it as a CSV (comma delimited) file.
+2. Double-click on a cell column header (i.e., variable) that you wish to define. This will bring up a new set of options. 
 
 <p align="center"><kbd><img src="onesample1.png"></kbd></p>
 
-### Entering Data on One Variable (Using a Text Editor)
+### Setting Variable Properties
 
-4. In the first row, type the name of the outcome variable you wish to analyze. 
+3. Type in the name of the variable in the top box (previously labeled "A").
 
-5. Enter the data in separate rows. Note that each row should contain a single score for an individual person. There will be as many rows as people. 
+4. Define the level of measurement for the variables by choosing the appropriate option. In this example, "Outcome" (an outcome variable) is continuous (Scale).
 
-6. When saving the file, be sure to save it as a CSV (comma delimited) file.
+5. To close the variable menu, click on the red "x" button to the right of the variable name.
 
 <p align="center"><kbd><img src="onesample2.png"></kbd></p>
+
+### Entering Data
+
+6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
+
+7. When done, click on the "Analyses" button on the top of the window.
+
+<p align="center"><kbd><img src="onesample3.png"></kbd></p>
