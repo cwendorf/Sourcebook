@@ -20,9 +20,11 @@ relatedtwo:
 
 ## Post Hoc Comparisons
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ### Obtaining Descriptive Statistics
 
-Get the mean and standard deviation for the dependent variable for each of the levels.
+1. Type the following to get the mean and standard deviation of the dependent variable for each of the levels.
 
 ```{r}
 by(Outcome,Factor,mean)
@@ -36,7 +38,7 @@ model.tables(Results,"means")
 
 ### Obtaining Inferential Statistics
 
-Test each pairwise comparison for statistical significance.
+2. Type the following to test each pairwise comparison for statistical significance.
 
 ```{r}
 TukeyHSD(Results)

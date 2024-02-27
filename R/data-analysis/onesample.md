@@ -20,9 +20,11 @@ relatedtwo:
 
 ## One Sample t Test
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ### Obtaining Descriptive Statistics
 
-Get the mean and standard deviation for the variable.
+1. Type the following to get the mean and standard deviation for the variable.
 
 ```{r}
 mean(Outcome)
@@ -31,7 +33,7 @@ sd(Outcome)
 
 ### Obtaining Inferential Statistics
 
-Test the mean difference for statistical significance and get its confidence interval.
+2. Test the mean difference for statistical significance and Type the following to get its confidence interval.
 
 ```{r}
 t.test(Outcome,mu=7)

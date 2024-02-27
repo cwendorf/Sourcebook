@@ -20,9 +20,11 @@ relatedtwo:
 
 ## Post Hoc Comparisons
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ### Obtaining Descriptive Statistics
 
-Get the mean and standard deviation for the dependent variable for each of the levels.
+1. Type the following to get the mean and standard deviation for the dependent variable for each of the levels.
 
 ```{r}
 (Outcome~Factor) |> describeMoments()
@@ -30,19 +32,19 @@ Get the mean and standard deviation for the dependent variable for each of the l
 
 ### Obtaining Inferential Statistics
 
-Get all pairwise mean difference and their confidence intervals while adjusting them for multiple comparisons.
+2. Type the following to get all pairwise mean difference and their confidence intervals while adjusting them for multiple comparisons.
 
 ```{r}
 (Outcome~Factor) |> estimatePosthoc()
 ```
 
-Test all pairwise mean differences for statistical significance while adjusting them for multiple comparisons.
+3. Type the following to test all pairwise mean differences for statistical significance while adjusting them for multiple comparisons.
 
 ```{r}
 (Outcome~Factor) |> testPosthoc()
 ```
 
-Get standardized mean differences for all pairwise comparisons.
+4. Type the following to get standardized mean differences for all pairwise comparisons.
 
 ```{r}
 (Outcome~Factor) |> standardizePosthoc()

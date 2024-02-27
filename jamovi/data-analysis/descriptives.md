@@ -40,7 +40,7 @@ relatedtwo:
 
 <p align="center"><kbd><img src="descriptives2.png"></kbd></p>
 
-### Obtaining Summary Statistics
+### Obtaining Descriptive Statistics
 
 7. Though some basic summary statistics are displayed by default, you can make changes by expanding the "Statistics" dropdown menu.
 

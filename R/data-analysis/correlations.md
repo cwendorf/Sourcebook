@@ -21,9 +21,11 @@ relatedtwo:
 
 ## Correlations
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ### Obtaining Descriptive Statistics
 
-Get the means and standard deviations for the variables.
+1. Type the following to get the means and standard deviations for the variables.
 
 ```{r}
 mean(Outcome1)
@@ -32,7 +34,7 @@ mean(Outcome2)
 sd(Outcome2)
 ```
 
-Get the covariance and correlation matrix for the variables.
+2. Type the following to get the covariance and correlation matrix for the variables.
 
 ```{r}
 cov(Outcome1,Outcome2)
@@ -41,7 +43,7 @@ cor(Outcome1,Outcome2)
 
 ### Obtaining Inferential Statistics
 
-Get the correlation, its test for statistical significance, and its confidence interval.
+3. Type the following to get the correlation, its test for statistical significance, and its confidence interval.
 
 ```{r}
 cor.test(Outcome1,Outcome2)

@@ -20,9 +20,11 @@ relatedtwo:
 
 ## Factorial ANOVA
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ### Obtaining Descriptive Statistics
 
-Get the mean and standard deviation for the dependent variable for each of the levels.
+1. Type the following to get the mean and standard deviation of the dependent variable for each of the levels.
 
 ```{r}
 Results <- aov(Outcome~FactorA*FactorB)
@@ -31,7 +33,7 @@ model.tables(Results,"means")
 
 ### Obtaining Inferential Statistics
 
-Get the analysis of variance source table with test of statistical significance.
+2. Type the following to get the analysis of variance source table with test of statistical significance.
 
 ```{r}
 summary(Results)

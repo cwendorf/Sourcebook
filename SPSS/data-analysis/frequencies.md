@@ -40,24 +40,27 @@ relatedtwo:
 
 <p align="center"><kbd><img src="frequencies2.png"></kbd></p>
 
-### Obtaining Summary Statistics 
+### Obtaining a Histogram 
+
+7. To obtain a histogram, click on the "Charts" button. Another dialogue box will appear.
+
+8. In this box, select "Histogram." 
+
+9. Click "Continue." This will return you to the original dialogue box.
+
+10. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
+
+<p align="center"><kbd><img src="frequencies4.png"></kbd></p>
+
+### Obtaining Descriptive Statistics 
  
-7. To obtain summary statistics, select "Statistics." Another dialogue box will appear.
+11. To obtain summary statistics, select "Statistics." Another dialogue box will appear.
 
-8. In this box, you can request that SPSS calculate the mean, variance, and standard deviation (or median and quartiles). 
+12. In this box, you can request that SPSS calculate the mean, variance, and standard deviation (or median and quartiles). 
 
-9. Once you have selected the desired statistics, click "Continue." This will return you to the original dialogue box.
+13. Once you have selected the desired statistics, click "Continue." This will return you to the original dialogue box.
+
+14. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
 <p align="center"><kbd><img src="frequencies3.png"></kbd></p>
 
-### Obtaining a Histogram 
-
-10. To obtain a histogram, click on the "Charts" button. Another dialogue box will appear.
-
-11. In this box, select "Histogram." 
-
-12. Click "Continue." This will return you to the original dialogue box.
-
-13. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
-
-<p align="center"><kbd><img src="frequencies4.png"></kbd></p>

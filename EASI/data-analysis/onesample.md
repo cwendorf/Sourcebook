@@ -20,9 +20,11 @@ relatedtwo:
 
 ## One Sample t Test
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ### Obtaining Descriptive Statistics
 
-Get the mean and standard deviation for the variable.
+1. Type the following to get the mean and standard deviation for the variable.
 
 ```{r}
 (Outcome) |> describeMoments()
@@ -30,19 +32,19 @@ Get the mean and standard deviation for the variable.
 
 ### Obtaining Inferential Statistics
 
-Get the mean difference and its confidence interval.
+2. Type the following to get the mean difference and its confidence interval.
 
 ```{r}
 (Outcome) |> estimateMeans(mu = 7)
 ```
 
-Test the mean difference for statistical significance.
+3. Type the following to test the mean difference for statistical significance.
 
 ```{r}
 (Outcome) |> testMeans(mu = 7)
 ```
 
-Get the standardized effect size for the mean difference.
+4. Type the following to get the standardized effect size for the mean difference.
 
 ```{r}
 (Outcome) |> standardizeMeans(mu = 7)

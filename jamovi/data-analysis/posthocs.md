@@ -20,7 +20,7 @@ relatedtwo:
 
 ## Post Hoc Comparisons
 
-### Obtaining Multiple Sample Inferential  Statistics
+### Obtaining Multiple Sample Inferential Statistics
 
 1. First, enter multiple group data (described elsewhere).
 
@@ -40,7 +40,7 @@ relatedtwo:
 
 <p align="center"><kbd><img src="posthocs2.png"></kbd></p>
 
- ### Obtaining Post Hoc Tests
+### Obtaining Post Hoc Tests
 
 7. If you wish to obtain post hoc tests for the purpose of making comparisons between groups, click the "Post Hoc Tests" dropdown button. 
 

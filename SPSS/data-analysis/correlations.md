@@ -28,7 +28,7 @@ relatedtwo:
 
 <p align="center"><kbd><img src="correlations1.png"></kbd></p>
 
-### Obtaining the Correlations (and Significance Tests)
+### Obtaining the Significance Tests
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 

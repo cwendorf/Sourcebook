@@ -20,9 +20,11 @@ relatedtwo:
 
 ## Confidence Intervals
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ### Obtaining Descriptive Statistics
 
-Get the mean and standard deviation for the variable.
+1. Type the following to get the mean and standard deviation for the variable.
 
 ```{r}
 describeMeans(Outcome)
@@ -30,7 +32,7 @@ describeMeans(Outcome)
 
 ### Obtaining Inferential Statistics
 
-Get the mean and its confidence interval.
+2. Type the following to get the mean and its confidence interval.
 
 ```{r}
 t.test(Outcome)$conf.int

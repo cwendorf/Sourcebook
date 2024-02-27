@@ -18,9 +18,11 @@ relatedtwo:
 
 ## Frequencies
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ###  Obtaining a Frequency Distribution
 
-Get the frequency distribution for the variable.
+1. Type the following to get the frequency distribution for the variable.
 
 ```{r}
 FrequencyTable <- table(Outcome)
@@ -30,7 +32,7 @@ prop.table(FrequencyTable)
 
 ### Obtaining Summary Statistics
 
-Get the percentiles for the variable.
+2. Type the following to get the percentiles for the variable.
 
 ```{r}
 length(Outcome)

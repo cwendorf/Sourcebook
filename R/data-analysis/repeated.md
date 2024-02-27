@@ -20,9 +20,11 @@ relatedtwo:
 
 ## Repeated Measures ANOVA
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ### Obtaining Descriptive Statistics
 
-Get the means and standard deviations for the variables.
+1. Type the following to get the means and standard deviations for the variables.
 
 ```{r}
 mean(Outcome1)
@@ -31,7 +33,7 @@ mean(Outcome2)
 sd(Outcome2)
 ```
 
-Change data format for use with R procedures.
+2. Type the following to change the data format for use with R procedures.
 
 ```{r}
 StackData=reshape(RepeatedData,varying=c("Outcome1","Outcome2"),v.names="Outcome",timevar="Factor",idvar="Subject",direction="long")
@@ -46,7 +48,7 @@ model.tables(Results,"means")
 
 ### Obtaining Inferential Statistics
 
-Get the ANOVA source table with tests of statistical significance.
+3. Type the following to get the ANOVA source table with tests of statistical significance.
 
 ```{r}
 summary(Results)

@@ -18,11 +18,13 @@ relatedtwo:
 
 # EASI | Data Analysis
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ## Paired Samples t Test
 
 ### Obtaining Descriptive Statistics
 
-Get the means and standard deviations for the variables.
+1. Type the following to get the means and standard deviations for the variables.
 
 ```{r}
 (PairedData) |> describeMoments()
@@ -30,19 +32,19 @@ Get the means and standard deviations for the variables.
 
 ### Obtaining Inferential Statistics
 
-Get the mean difference and its confidence interval.
+2. Type the following to get the mean difference and its confidence interval.
 
 ```{r}
 (PairedData) |> estimateDifference()
 ```
 
-Test the mean difference for statistical significance.
+3. Type the following to test the mean difference for statistical significance.
 
 ```{r}
 (PairedData) |> testDifference()
 ```
 
-Get the standardized effect size for the mean difference.
+4. Type the following to get the standardized effect size for the mean difference.
 
 ```{r}
 (PairedData) |> standardizeDifference()

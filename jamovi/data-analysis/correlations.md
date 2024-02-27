@@ -28,7 +28,7 @@ relatedtwo:
 
 <p align="center"><kbd><img src="correlations1.png"></kbd></p>
 
-### Obtaining Correlations (and Significance Tests)
+### Obtaining Inferential Statistics
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -36,6 +36,6 @@ relatedtwo:
 
 5. Output (with no descriptive statistics) will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
 
-6. If you wish descriptive statistics associated with each variable, follow the "Descriptives" p procedures described earlier in this manual.
+6. If you wish descriptive statistics associated with each variable, follow the "Descriptives" procedures described earlier in this manual.
 
 <p align="center"><kbd><img src="correlations2.png"></kbd></p>

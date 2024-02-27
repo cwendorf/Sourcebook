@@ -20,9 +20,11 @@ relatedtwo:
 
 ## One Way ANOVA
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ### Obtaining Descriptive Statistics
 
-Get the mean and standard deviation of the dependent variable for each of the levels.
+1. Type the following to get the mean and standard deviation of the dependent variable for each of the levels.
 
 ```{r}
 (Outcome~Factor) |> describeMoments()
@@ -30,19 +32,19 @@ Get the mean and standard deviation of the dependent variable for each of the le
 
 ### Obtaining Inferential Statistics
 
-Get the analysis of variance source table.
+2. Type the following to get the analysis of variance source table.
 
 ```{r}
 (Outcome~Factor) |> describeEffect()
 ```
 
-Test the main effect for statistical significance.
+3. Type the following to test the main effect for statistical significance.
 
 ```{r}
 (Outcome~Factor) |> testEffect()
 ```
 
-Get the proportion of variance accounted for by the main effect.
+4. Type the following to get the proportion of variance accounted for by the main effect.
 
 ```{r}
 (Outcome~Factor) |> estimateEffect()

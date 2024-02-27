@@ -16,9 +16,11 @@ relatedtwo:
 
 ## Descriptives
 
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
 ### Obtaining Descriptive Statistics
 
-Get the mean, variance, and standard deviation for the variable.
+1. Type the following to get the mean, variance, and standard deviation for the variable.
 
 ```{r}
 mean(Outcome)
