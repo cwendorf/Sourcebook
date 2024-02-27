@@ -8,8 +8,8 @@ relatedone:
     url: ../../Intro/worked-examples/paired
 headertwo: R
 relatedtwo:
-  - title: Data Entry | paired Data
-    url: ../data-entry/paireddata
+  - title: Data Entry | Repeated Measures Data
+    url: ../data-entry/repeateddata
   - title: Data Analysis | Paired Samples t Test
     url: ../data-analysis/paired
   - title: Annotated Output | Paired Samples t Test
