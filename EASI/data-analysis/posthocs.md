@@ -24,7 +24,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-1. Type the following to get the mean and standard deviation for the dependent variable for each of the levels.
+Type the following to get the mean and standard deviation for the dependent variable for each of the levels.
 
 ```{r}
 (Outcome~Factor) |> describeMoments()
@@ -32,19 +32,19 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Inferential Statistics
 
-2. Type the following to get all pairwise mean difference and their confidence intervals while adjusting them for multiple comparisons.
+Type the following to get all pairwise mean difference and their confidence intervals while adjusting them for multiple comparisons.
 
 ```{r}
 (Outcome~Factor) |> estimatePosthoc()
 ```
 
-3. Type the following to test all pairwise mean differences for statistical significance while adjusting them for multiple comparisons.
+Type the following to test all pairwise mean differences for statistical significance while adjusting them for multiple comparisons.
 
 ```{r}
 (Outcome~Factor) |> testPosthoc()
 ```
 
-4. Type the following to get standardized mean differences for all pairwise comparisons.
+Type the following to get standardized mean differences for all pairwise comparisons.
 
 ```{r}
 (Outcome~Factor) |> standardizePosthoc()

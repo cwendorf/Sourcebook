@@ -24,7 +24,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-1. Type the following to get the mean and standard deviation of the dependent variable for each of the levels.
+Type the following to get the mean and standard deviation of the dependent variable for each of the levels.
 
 ```{r}
 (Outcome~Factor) |> describeMoments()
@@ -32,19 +32,19 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Inferential Statistics
 
-2. Type the following to get the analysis of variance source table.
+Type the following to get the analysis of variance source table.
 
 ```{r}
 (Outcome~Factor) |> describeEffect()
 ```
 
-3. Type the following to test the main effect for statistical significance.
+Type the following to test the main effect for statistical significance.
 
 ```{r}
 (Outcome~Factor) |> testEffect()
 ```
 
-4. Type the following to get the proportion of variance accounted for by the main effect.
+Type the following to get the proportion of variance accounted for by the main effect.
 
 ```{r}
 (Outcome~Factor) |> estimateEffect()

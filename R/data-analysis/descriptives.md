@@ -20,7 +20,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-1. Type the following to get the mean, variance, and standard deviation for the variable.
+Type the following to get the mean, variance, and standard deviation for the variable.
 
 ```{r}
 mean(Outcome)

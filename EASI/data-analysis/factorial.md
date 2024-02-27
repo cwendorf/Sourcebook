@@ -24,7 +24,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-1. Type the following to get the mean and standard deviation of the dependent variable for each of the levels. The "by" option tells EASI how to split the data.
+Type the following to get the mean and standard deviation of the dependent variable for each of the levels. The "by" option tells EASI how to split the data.
 
 ```r
 (Outcome~FactorA) |> describeMoments(by = FactorB)
@@ -32,19 +32,19 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Inferential Statistics
 
-2. Type the following to get the analysis of variance source table.
+Type the following to get the analysis of variance source table.
 
 ```r
 (Outcome~FactorA) |> describeFactorial(by = FactorB)
 ```
 
-3. Type the following to test the main effects for statistical significance.
+Type the following to test the main effects for statistical significance.
 
 ```r
 (Outcome~FactorA) |> testFactorial(by = FactorB)
 ```
 
-4. Type the following to get the proportion of variance accounted for by the main effects.
+Type the following to get the proportion of variance accounted for by the main effects.
 
 ```r
 (Outcome~FactorA) |> estimateFactorial(by = FactorB)

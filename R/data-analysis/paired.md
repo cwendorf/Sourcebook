@@ -24,7 +24,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-1. Type the following to get the means and standard deviations for the variables.
+Type the following to get the means and standard deviations for the variables.
 
 ```{r}
 mean(Outcome1)
@@ -35,7 +35,7 @@ sd(Outcome2)
 
 ### Obtaining Inferential Statistics
 
-2. Type the following to test the mean difference for statistical significance and its confidence interval.
+Type the following to test the mean difference for statistical significance and its confidence interval.
 
 ```{r}
 t.test(Outcome1-Outcome2,mu=0)

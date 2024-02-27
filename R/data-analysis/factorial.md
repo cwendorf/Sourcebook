@@ -24,7 +24,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-1. Type the following to get the mean and standard deviation of the dependent variable for each of the levels.
+Type the following to get the mean and standard deviation of the dependent variable for each of the levels.
 
 ```{r}
 Results <- aov(Outcome~FactorA*FactorB)
@@ -33,7 +33,7 @@ model.tables(Results,"means")
 
 ### Obtaining Inferential Statistics
 
-2. Type the following to get the analysis of variance source table with test of statistical significance.
+Type the following to get the analysis of variance source table with test of statistical significance.
 
 ```{r}
 summary(Results)

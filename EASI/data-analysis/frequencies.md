@@ -20,7 +20,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining a Frequency Distribution
 
-1. Type the following to get the frequency distribution for the variable.
+Type the following to get the frequency distribution for the variable.
 
 ```{r}
 (Outcome) |> describeFrequencies()
@@ -28,7 +28,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Summary Statistics
 
-2. Type the following to get the percentiles for the variable.
+Type the following to get the percentiles for the variable.
 
 ```{r}
 (Outcome) |> describePercentiles()
