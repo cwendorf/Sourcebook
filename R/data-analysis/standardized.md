@@ -20,13 +20,13 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Computing Transformations
 
-Type the following to use a formula to calculate a new vector with the transformed scores. 
+Use a formula to calculate a new vector with the transformed scores. 
 
 ```{r}
 trOutcome <- Outcome+1
 ```
 
-Type the following to create and display the data set.
+Create and display the data set in a frame.
 
 ```{r}
 data.frame(Outcome,trOutcome)
@@ -34,13 +34,13 @@ data.frame(Outcome,trOutcome)
 
 ### Computing Standardized Scores
 
-Type the following to create a new variable vector containing the standardized scores.
+Create a new variable vector containing the standardized scores.
 
 ```{r}
 zOutcome <- scale(Outcome)
 ```
 
-Type the following to create and display the data set.
+Create and display the data set in a frame.
 
 ```{r}
 data.frame(Outcome,trOutcome,zOutcome)

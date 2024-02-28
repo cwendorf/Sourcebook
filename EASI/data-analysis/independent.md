@@ -24,7 +24,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Type the following to get the mean and standard deviation of the dependent variable for each of the levels.
+Get the mean and standard deviation of the dependent variable for each of the levels.
 
 ```{r}
 (Outcome~Factor) |> describeMoments()
@@ -32,19 +32,19 @@ Type the following to get the mean and standard deviation of the dependent varia
 
 ### Obtaining Inferential Statistics
 
-Type the following to get the mean difference and its confidence interval.
+Get the mean difference and its confidence interval.
 
 ```{r}
 (Outcome~Factor) |> estimateDifference()
 ```
 
-Type the following to test the mean difference for statistical significance.
+Test the mean difference for statistical significance.
 
 ```{r}
 (Outcome~Factor) |> testDifference()
 ```
 
-Type the following to get the standardized effect size for the mean difference.
+Get the standardized effect size for the mean difference.
 
 ```{r}
 (Outcome~Factor) |> standardizeDifference()

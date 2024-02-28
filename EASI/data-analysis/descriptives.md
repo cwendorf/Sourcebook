@@ -20,7 +20,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining a Frequency Distribution
 
-Type the following to get the frequency distribution for the variable.
+Get the frequency distribution for the variable.
 
 ```{r}
 (Outcome) |> describeFrequencies()
@@ -28,7 +28,7 @@ Type the following to get the frequency distribution for the variable.
 
 ### Obtaining Descriptive Statistics
 
-Type the following to get the mean and standard deviation for the variable.
+Get the mean and standard deviation for the variable.
 
 ```{r}
 (Outcome) |> describeMoments()

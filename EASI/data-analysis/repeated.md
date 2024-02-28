@@ -24,7 +24,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Type the following to get the means and standard deviations for the variables.
+Get the means and standard deviations for the variables.
 
 ```{r}
 (RepeatedData) |> describeMoments()
@@ -32,19 +32,19 @@ Type the following to get the means and standard deviations for the variables.
 
 ### Obtaining Inferential Statistics
 
-Type the following to get the analysis of variance source table.
+Get the analysis of variance source table.
 
 ```{r}
 (RepeatedData) |> describeEffect()
 ```
 
-Type the following to test the main effect for statistical significance.
+Test the main effect for statistical significance.
 
 ```{r}
 (RepeatedData) |> testEffect()
 ```
 
-Type the following to get the proportion of variance accounted for by the main effect.
+Get the proportion of variance accounted for by the main effect.
 
 ```{r}
 (RepeatedData) |> estimateEffect()

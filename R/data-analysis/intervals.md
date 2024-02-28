@@ -24,7 +24,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Type the following to get the mean and standard deviation for the variable.
+Get the mean and standard deviation for the variable.
 
 ```{r}
 describeMeans(Outcome)
@@ -32,7 +32,7 @@ describeMeans(Outcome)
 
 ### Obtaining Inferential Statistics
 
-Type the following to get the mean and its confidence interval.
+Get the mean and its confidence interval.
 
 ```{r}
 t.test(Outcome)$conf.int

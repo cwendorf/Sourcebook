@@ -24,7 +24,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Type the following to get the means and standard deviations for the variables.
+Get the means and standard deviations for the variables.
 
 ```{r}
 (PairedData) |> describeMoments()
@@ -32,19 +32,19 @@ Type the following to get the means and standard deviations for the variables.
 
 ### Obtaining Inferential Statistics
 
-Type the following to get the mean difference and its confidence interval.
+Get the mean difference and its confidence interval.
 
 ```{r}
 (PairedData) |> estimateDifference()
 ```
 
-Type the following to test the mean difference for statistical significance.
+Test the mean difference for statistical significance.
 
 ```{r}
 (PairedData) |> testDifference()
 ```
 
-Type the following to get the standardized effect size for the mean difference.
+Get the standardized effect size for the mean difference.
 
 ```{r}
 (PairedData) |> standardizeDifference()

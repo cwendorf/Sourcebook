@@ -24,7 +24,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Type the following to get the mean and standard deviation of the dependent variable for each of the levels.
+Get the mean and standard deviation of the dependent variable for each of the levels.
 
 ```{r}
 by(Outcome,Factor,mean)
@@ -38,7 +38,7 @@ model.tables(Results,"means")
 
 ### Obtaining Inferential Statistics
 
-Type the following to test each pairwise comparison for statistical significance.
+Test each pairwise comparison for statistical significance.
 
 ```{r}
 TukeyHSD(Results)

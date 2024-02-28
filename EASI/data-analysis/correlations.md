@@ -24,19 +24,19 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Type the following to get the means and standard deviations for the variables.
+Get the means and standard deviations for the variables.
 
 ```{r}
 (CorrelationData) |> describeMoments()
 ```
 
-Type the following to get the covariance matrix for the variables.
+Get the covariance matrix for the variables.
 
 ```{r}
 (CorrelationData) |> describeCovariances()
 ```
 
-Type the following to get the correlation matrix for the variables.
+Get the correlation matrix for the variables.
 
 ```{r}
 (CorrelationData) |> describeCorrelations()
@@ -44,13 +44,13 @@ Type the following to get the correlation matrix for the variables.
 
 ### Obtaining Inferential Statistics
 
-Type the following to get the correlation and its confidence interval.
+Get the correlation and its confidence interval.
 
 ```{r}
 (CorrelationData) |> estimateCorrelations()
 ```
 
-Type the following to test the correlation for statistical significance.
+Test the correlation for statistical significance.
 
 ```{r}
 (CorrelationData) |> testCorrelations()
