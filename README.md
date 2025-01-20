@@ -23,7 +23,7 @@ The Sourcebook contains the following materials:
 - **jamovi** - Contains data entry instructions, data analysis instructions, and annotated output for jamovi
 - **JASP** - Contains data entry instructions, data analysis instructions, and annotated output for JASP
 - **R** - Contains data entry instructions, data analysis instructions, and annotated output for R (using base functions)
-- **EASI** - Contains data entry instructions, data analysis instructions, and annotated output for EASI (an R package)
+- **DEVISE** - Contains data entry instructions, data analysis instructions, and annotated output for DEVISE (an R package)
 
 ### Contact Me
  
