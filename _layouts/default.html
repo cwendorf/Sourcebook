@@ -90,14 +90,14 @@
     
       <hr id=FirstBreak>  
 
-      <h2>{{ page.headerone }}</h2>
+      <h3>{{ page.headerone }}</h3>
       <ul>
         {% for relatedone in page.relatedone %}
         <li><a href="{{ relatedone.url }}">{{ relatedone.title }}</a></li>
         {% endfor %}
       </ul>
 
-      <h2>{{ page.headertwo }}</h2>
+      <h3>{{ page.headertwo }}</h3>
       <ul>
         {% for relatedtwo in page.relatedtwo %}
         <li><a href="{{ relatedtwo.url }}">{{ relatedtwo.title }}</a></li>

@@ -83,6 +83,7 @@ body {
     font-weight: bold;
     margin: 20px 0px;
     padding: 0px;
+    color: #111111;
 }
 #MainContent H2 {
     font-size: 24px; 
@@ -91,6 +92,7 @@ body {
     margin: 20px 0px;
     padding: 0px 0px 20px 0px;
     border-bottom: 1px solid #888;
+    color: #222222;
 }
 #MainContent H3 {
     font-size: 18px;
@@ -171,9 +173,10 @@ body {
     list-style: none;
     padding-inline-start: 0px;
 }
-#Sidebar H2 {
+#Sidebar H3 {
     border: none;
     padding: 0px;
+    font-size: 18px;
 }
 #Sidebar LI {
     margin: 5px 0px;

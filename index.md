@@ -2,9 +2,9 @@
 title: Sourcebook
 headerone: About
 relatedone:
-  - title: Source Code
+  - title: Sourcebook | Respository
     url: "https://github.com/cwendorf/Sourcebook"
-  - title: License
+  - title: Sourcebook | License
     url: "https://creativecommons.org/licenses/by/4.0/"
 ---
 
