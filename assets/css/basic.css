@@ -33,7 +33,7 @@ body {
 }
 #Title {
     display: block;
-    font-weight: bold;
+    font-weight: 1000;
     padding: 10px 0px;
     font-size: 32px;
 }
@@ -79,20 +79,20 @@ body {
 /* Main Section Styles */
 
 #MainContent H1 {
-    font-size: 26px;
-    font-weight: bold;
+    font-size: 24px;
+    font-weight: 1000;
     margin: 20px 0px;
     padding: 0px;
-    color: #111111;
+    color: #000;
 }
 #MainContent H2 {
-    font-size: 24px; 
-    font-weight: bold;
+    font-size: 22px; 
+    font-weight: 800;
     clear: both;
     margin: 20px 0px;
     padding: 0px 0px 20px 0px;
-    border-bottom: 1px solid #888;
-    color: #222222;
+    border-bottom: 1px solid #222;
+    color: #222;
 }
 #MainContent H3 {
     font-size: 18px;
