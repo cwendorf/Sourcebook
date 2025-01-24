@@ -173,10 +173,13 @@ body {
     list-style: none;
     padding-inline-start: 0px;
 }
+#Sidebar H2 {
+    border: none;
+    padding: 0px;
+}
 #Sidebar H3 {
     border: none;
     padding: 0px;
-    font-size: 18px;
 }
 #Sidebar LI {
     margin: 5px 0px;
