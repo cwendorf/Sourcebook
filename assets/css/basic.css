@@ -174,7 +174,7 @@ body {
     padding-inline-start: 0px;
 }
 #Sidebar H2 {
-    border: none;
+    border-bottom: none;
     padding: 0px;
 }
 #Sidebar H3 {
