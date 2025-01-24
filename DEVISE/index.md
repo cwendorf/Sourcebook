@@ -1,6 +1,6 @@
 ---
 title: Sourcebook
-headerone: Resources
+headerone: Other Sites
 relatedone:
   - title: DEVISE | Download
     url: "https://github.com/cwendorf/DEVISE"

@@ -1,6 +1,6 @@
 ---
 title: Sourcebook
-headerone: Resources
+headerone: Other Sites
 relatedone:
   - title: jamovi | Download
     url: "https://www.jamovi.org"

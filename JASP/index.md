@@ -1,6 +1,6 @@
 ---
 title: Sourcebook
-headerone: Resources
+headerone: Other Sites
 relatedone:
   - title: JASP | Download
     url: "https://jasp-stats.org"

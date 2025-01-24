@@ -1,6 +1,6 @@
 ---
 title: Sourcebook
-headerone: Resources
+headerone: Other Sites
 relatedone:
   - title: SPSS | Download
     url: "https://www.ibm.com/products/spss-statistics"

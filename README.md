@@ -1,8 +1,6 @@
-<a href="https://cwendorf.github.io/Sourcebook/">
-<img src="assets/images/logo.png" height="60px;" align="left;">
-</a>
+# `SOURCEBOOK` 
 
-# Basic Statistical Methods for Social Science
+## Basic Statistical Methods for Social Science
 
 ### Overview
 
