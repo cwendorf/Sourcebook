@@ -3,7 +3,7 @@ title: Sourcebook
 headerone: jamovi
 relatedone:
   - title: Data Analysis | Frequencies and Descriptives
-    url: ../data-analysis/frequencies
+    url: ../data-analysis/descriptives
   - title: Data Analysis | Transformations and Standardized Scores
     url: ../data-analysis/standardized
   - title: Data Analysis | One Sample t Test
