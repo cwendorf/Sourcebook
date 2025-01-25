@@ -1,0 +1,50 @@
+---
+title: "Sourcebook"
+author: "Craig A. Wendorf"
+date: "`r Sys.Date()`"
+output: 
+  rmarkdown::html_vignette:
+    keep_md: TRUE
+vignette: >
+  %\VignetteIndexEntry{Factorial ANOVA}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r,include=FALSE}
+knitr::opts_chunk$set(fig.width = 7, fig.height = 7, comment = NA, fig.path = "figures/")
+```
+
+```{r,include=FALSE}
+library(EASI)
+```
+
+```{r,include=FALSE}
+FactorA <- c(1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2)
+FactorB <- c(1, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2, 2)
+Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9, 9, 6, 4, 9, 3, 6, 8, 3)
+FactorA <- factor(FactorA, levels = c(1, 2), labels = c("A1", "A2"))
+FactorB <- factor(FactorB, levels = c(1, 2), labels = c("B1", "B2"))
+```
+
+## EASI: Factorial ANOVA
+
+### Descriptive Statistics
+
+```{r}
+(Outcome ~ FactorA) |> describeMoments(by = FactorB)
+```
+
+### Inferential Statistics
+
+```{r}
+(Outcome ~ FactorA) |> describeFactorial(by = FactorB)
+```
+
+```{r}
+(Outcome ~ FactorA) |> testFactorial(by = FactorB)
+```
+
+```{r}
+(Outcome ~ FactorA) |> estimateFactorial(by = FactorB)
+```

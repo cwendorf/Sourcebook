@@ -1,0 +1,48 @@
+---
+title: "Sourcebook"
+author: "Craig A. Wendorf"
+date: "`r Sys.Date()`"
+output: 
+  rmarkdown::html_vignette:
+    keep_md: TRUE
+vignette: >
+  %\VignetteIndexEntry{Post Hoc Tests}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r,include=FALSE}
+knitr::opts_chunk$set(fig.width = 7, fig.height = 7, comment = NA, fig.path = "figures/")
+```
+
+```{r,include=FALSE}
+library(EASI)
+```
+
+```{r,include=FALSE}
+Factor <- c(rep(1, 4), rep(2, 4), rep(3, 4))
+Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9, 9, 6, 4, 9)
+Factor <- factor(Factor, levels = c(1, 2, 3), labels = c("Level1", "Level2", "Level3"))
+```
+
+## EASI: Post Hoc Tests
+
+### Descriptive Statistics
+
+```{r}
+(Outcome ~ Factor) |> describeMoments()
+```
+
+### Inferential Statistics
+
+```{r}
+(Outcome ~ Factor) |> estimatePosthoc()
+```
+
+```{r}
+(Outcome ~ Factor) |> testPosthoc()
+```
+
+```{r}
+(Outcome ~ Factor) |> standardizePosthoc()
+```

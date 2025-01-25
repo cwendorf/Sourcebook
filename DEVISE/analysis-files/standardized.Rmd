@@ -1,0 +1,46 @@
+---
+title: "Sourcebook"
+author: "Craig A. Wendorf"
+date: "`r Sys.Date()`"
+output: 
+  rmarkdown::html_vignette:
+    keep_md: TRUE
+vignette: >
+  %\VignetteIndexEntry{Standardized Scores}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r,include=FALSE}
+knitr::opts_chunk$set(fig.width = 7, fig.height = 7, comment = NA, fig.path = "figures/")
+```
+
+```{r,include=FALSE}
+library(EASI)
+```
+
+```{r,include=FALSE}
+Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9)
+```
+
+## EASI: Standardized Scores
+
+### Transformations
+
+```{r}
+trOutcome <- Outcome + 1
+```
+
+```{r}
+construct(Outcome, trOutcome)
+```
+
+### Standardized Scores
+
+```{r}
+zOutcome <- scale(Outcome)
+```
+
+```{r}
+construct(Outcome, trOutcome, zOutcome)
+```
