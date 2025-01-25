@@ -16,14 +16,14 @@ knitr::opts_chunk$set(fig.width = 7, fig.height = 7, comment = NA, fig.path = "f
 ```
 
 ```{r,include=FALSE}
-library(EASI)
+library(DEVISE)
 ```
 
 ```{r,include=FALSE}
 Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9)
 ```
 
-## EASI: Standardized Scores
+## DEVISE: Standardized Scores
 
 ### Transformations
 

@@ -16,7 +16,7 @@ knitr::opts_chunk$set(fig.width = 7, fig.height = 7, comment = NA, fig.path = "f
 ```
 
 ```{r,include=FALSE}
-library(EASI)
+library(DEVISE)
 ```
 
 ```{r,include=FALSE}
@@ -25,7 +25,7 @@ Outcome2 <- c(4, 7, 4, 9)
 PairedData <- construct(Outcome1, Outcome2)
 ```
 
-## EASI: Paired Samples t Test
+## DEVISE: Paired Samples t Test
 
 ### Descriptive Statistics
 

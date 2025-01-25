@@ -16,7 +16,7 @@ knitr::opts_chunk$set(fig.width = 7, fig.height = 7, comment = NA, fig.path = "f
 ```
 
 ```{r,include=FALSE}
-library(EASI)
+library(DEVISE)
 ```
 
 ```{r,include=FALSE}
@@ -27,7 +27,7 @@ FactorA <- factor(FactorA, levels = c(1, 2), labels = c("A1", "A2"))
 FactorB <- factor(FactorB, levels = c(1, 2), labels = c("B1", "B2"))
 ```
 
-## EASI: Factorial ANOVA
+## DEVISE: Factorial ANOVA
 
 ### Descriptive Statistics
 
