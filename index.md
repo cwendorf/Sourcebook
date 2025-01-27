@@ -6,6 +6,20 @@ relatedone:
     url: "https://github.com/cwendorf/Sourcebook"
   - title: Sourcebook | License
     url: "https://creativecommons.org/licenses/by/4.0/"
+headertwo: Sourcebook Sections
+relatedtwo:
+  - title: Intro | Background Concepts
+    url: ./Intro/
+  - title: SPSS | Using the Software
+    url: ./SPSS/
+  - title: jamovi | Using the Software
+    url: ./jamovi/
+  - title: JASP | Using the Software
+    url: ./JASP/
+  - title: R | Using the Software
+    url: ./R/
+  - title: DEVISE | Using the Software
+    url: ./DEVISE/
 ---
 
 ## Basic Statistical Methods for Social Science
