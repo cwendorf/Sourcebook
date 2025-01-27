@@ -1,15 +1,21 @@
 ---
 title: Sourcebook
-headerone: Intro
+headerone: Intro Articles
 relatedone:
   - title: Worked Examples | Frequencies
     url: ../../Intro/worked-examples/frequencies
-headertwo: DEVISE
+headertwo: DEVISE Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
-    url: ../data-entry/onesampledata
+    url: ../data-entry/onesample
   - title: Data Analysis | Frequencies
     url: ../data-analysis/frequencies
+headerthree: DEVISE Files
+relatedthree:
+  - title: Data Files | One Sample Data
+    url: ../data-files/onesample.csv
+  - title: Output Files | Frequencies
+    url: ../output-files/frequencies.R
 ---
 
 # DEVISE | Data Analysis

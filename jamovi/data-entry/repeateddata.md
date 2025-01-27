@@ -1,6 +1,6 @@
 ---
 title: Sourcebook
-headerone: jamovi
+headerone: jamovi Articles
 relatedone:
   - title: Data Analysis | Correlations
     url: ../data-analysis/correlations
@@ -8,6 +8,12 @@ relatedone:
     url: ../data-analysis/paired
   - title: Data Analysis | Repeated Measures ANOVA
     url: ../data-analysis/repeated
+headertwo: jamovi Files
+relatedtwo:
+  - title: Data Files | Paired Data
+    url: ../data-files/paired.omv
+  - title: Data Files | Repeated Measures Data
+    url: ../data-files/repeated.omv
 ---
 
 # jamovi | Data Entry

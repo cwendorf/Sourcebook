@@ -1,19 +1,25 @@
 ---
 title: Sourcebook
-headerone: Intro
+headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
   - title: Worked Examples | Correlations
     url: ../../Intro/worked-examples/correlations
-headertwo: jamovi
+headertwo: jamovi Articles
 relatedtwo:
   - title: Data Entry | Repeated Measures Data
-    url: ../data-entry/repeateddata
+    url: ../data-entry/repeated
   - title: Data Analysis | Correlations
     url: ../data-analysis/correlations
   - title: Annotated Output | Correlations
     url: ../annotated-output/correlations
+headerthree: jamovi Files
+relatedthree:
+  - title: Data Files | Paired Data
+    url: ../data-files/paired.omv
+  - title: Output Files | Correlations
+    url: ../output-files/correlations.omv
 ---
 
 # jamovi | Annotated Output

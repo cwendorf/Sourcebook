@@ -1,13 +1,23 @@
 ---
 title: Sourcebook
-headerone: Other Sites
+headerone: Software Websites
 relatedone:
-  - title: jamovi | Download
+  - title: jamovi | Desktop App
     url: "https://www.jamovi.org"
-  - title: jamovi | Cloud
+  - title: jamovi | Cloud Access
     url: "https://cloud.jamovi.org"
-  - title: jamovi | Manual
+  - title: jamovi | User Manual
     url: "https://www.jamovi.org/user-manual.html"
+headertwo: PDF Chapters
+relatedtwo:
+  - title: jamovi | Data Entry
+    url: ./Sourcebook-jamovi-DataEntry.pdf
+  - title: jamovi | Data Analysis
+    url: ./Sourcebook-jamovi-DataAnalysis.pdf
+  - title: jamovi | Annotated Output
+    url: ./Sourcebook-jamovi-AnnotatedOutput.pdf
+  - title: jamovi | Blank Output
+    url: ./Sourcebook-jamovi-BlankOutput.pdf
 ---
 
 # jamovi
@@ -18,10 +28,10 @@ relatedone:
 
 This chapter shows how to enter the data for most undergraduate level between-subjects and within-subjects research designs.
 
-- [One Sample Data](./data-entry/onesampledata.md)  
-- [Repeated Measures Data](./data-entry/repeateddata.md)
-- [Multiple Sample Data](./data-entry/multiplesampledata.md)
-- [Factorial Data](./data-entry/factorialdata.md)
+- [One Sample Data](./data-entry/onesample.md)  
+- [Repeated Measures Data](./data-entry/repeated.md)
+- [Multiple Sample Data](./data-entry/multisample.md)
+- [Factorial Data](./data-entry/factorial.md)
 
 ### Data Analysis
 

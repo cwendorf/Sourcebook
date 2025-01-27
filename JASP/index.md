@@ -1,11 +1,21 @@
 ---
 title: Sourcebook
-headerone: Other Sites
+headerone: Software Websites
 relatedone:
-  - title: JASP | Download
+  - title: JASP | Desktop App
     url: "https://jasp-stats.org"
-  - title: JASP | Support
+  - title: JASP | Support Documents
     url: "https://jasp-stats.org/support/"
+headertwo: PDF Chapters
+relatedtwo:
+  - title: JASP | Data Entry
+    url: ./Sourcebook-JASP-DataEntry.pdf
+  - title: JASP | Data Analysis
+    url: ./Sourcebook-JASP-DataAnalysis.pdf
+  - title: JASP | Annotated Output
+    url: ./Sourcebook-JASP-AnnotatedOutput.pdf
+  - title: JASP | Blank Output
+    url: ./Sourcebook-JASP-BlankOutput.pdf
 ---
 
 # JASP
@@ -16,10 +26,10 @@ relatedone:
 
 This chapter shows how to enter the data for most undergraduate level between-subjects and within-subjects research designs.
 
-- [One Sample Data](./data-entry/onesampledata.md)
-- [Repeated Measures Data](./data-entry/repeateddata.md)
-- [Multiple Sample Data](./data-entry/multiplesampledata.md)
-- [Factorial Data](./data-entry/factorialdata.md)
+- [One Sample Data](./data-entry/onesample.md)
+- [Repeated Measures Data](./data-entry/repeated.md)
+- [Multiple Sample Data](./data-entry/multisample.md)
+- [Factorial Data](./data-entry/factorial.md)
 
 ### Data Analysis
 

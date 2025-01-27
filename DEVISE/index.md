@@ -1,11 +1,15 @@
 ---
 title: Sourcebook
-headerone: Other Sites
+headerone: Sofware Websites
 relatedone:
-  - title: DEVISE | Download
+  - title: DEVISE | Package Download
     url: "https://github.com/cwendorf/DEVISE"
-  - title: DEVISE | Quick Start
+  - title: DEVISE | Quick Start Guide
     url: "https://cwendorf.github.io/DEVISE"
+headertwo: PDF Chapters
+relatedtwo:
+  - title: DEVISE | Annotated Output
+    url: ./Sourcebook-DEVISE-AnnotatedOutput.pdf
 ---
 
 # DEVISE (R Package)
@@ -16,10 +20,10 @@ relatedone:
 
 This chapter shows how to enter the data for most undergraduate level between-subjects and within-subjects research designs.
 
-- [One Sample Data](./data-entry/onesampledata.md)  
-- [Repeated Measures Data](./data-entry/repeateddata.md)
-- [Multiple Sample Data](./data-entry/multiplesampledata.md)
-- [Factorial Data](./data-entry/factorialdata.md)
+- [One Sample Data](./data-entry/onesample.md)  
+- [Repeated Measures Data](./data-entry/repeated.md)
+- [Multiple Sample Data](./data-entry/multisample.md)
+- [Factorial Data](./data-entry/factorial.md)
 
 ### Data Analysis
 

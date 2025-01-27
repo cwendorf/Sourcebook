@@ -170,8 +170,9 @@ body {
     margin: 30px 0px 20px 0px;
 }
 #Sidebar UL {
-    list-style: none;
-    padding-inline-start: 0px;
+    /* list-style: none; */
+    padding-inline-start: 20px;
+    color: red;
 }
 #Sidebar H2 {
     border-bottom: 0px solid #222;

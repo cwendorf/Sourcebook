@@ -1,11 +1,23 @@
 ---
 title: Sourcebook
-headerone: Intro
+headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Tukey's HSD
     url: ./hsd
   - title: Worked Examples | Post Hoc Comparisons
     url: ../worked-examples/posthocs
+headertwo: Software Guides
+relatedtwo:
+  - title: SPSS | Using the Software
+    url: ../../SPSS/
+  - title: jamovi | Using the Software
+    url: ../../jamovi/
+  - title: JASP | Using the Software
+    url: ../../JASP/
+  - title: R | Using the Software
+    url: ../../R/
+  - title: DEVISE | Using the Software
+    url: ../../DEVISE/
 ---
 
 # Intro | Statistical Tables

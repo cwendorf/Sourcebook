@@ -106,6 +106,13 @@
         {% endfor %}
       </ul>
 
+      <h3>{{ page.headerthree }}</h3>
+      <ul>
+        {% for relatedthree in page.relatedthree %}
+        <li><a href="{{ relatedthree.url }}">{{ relatedthree.title }}</a></li>
+        {% endfor %}
+      </ul>
+
     </div>
 
     </div>

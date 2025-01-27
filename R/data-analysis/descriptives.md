@@ -1,15 +1,21 @@
 ---
 title: Sourcebook
-headerone: Intro
+headerone: Intro Articles
 relatedone:
   - title: Worked Examples | Descriptives
     url: ../../Intro/worked-examples/descriptives
-headertwo: R
+headertwo: R Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
-    url: ../data-entry/onesampledata
+    url: ../data-entry/onesample
   - title: Annotated Output | Descriptives
     url: ../annotated-output/frequencies
+headerthree: R Files
+relatedthree:
+  - title: Data Files | One Sample Data
+    url: ../data-files/onesample.csv
+  - title: Output Files | Descriptives
+    url: ../output-files/descriptives.R
 ---
 
 # R | Data Analysis

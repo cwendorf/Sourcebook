@@ -1,11 +1,21 @@
 ---
 title: Sourcebook
-headerone: Other Sites
+headerone: Other Websites
 relatedone:
   - title: APA | Journal Article Reporting Standards
     url: "https://apastyle.apa.org/jars"
   - title: APA | Tables and Figures
     url: "https://apastyle.apa.org/style-grammar-guidelines/tables-figures"
+headertwo: PDF Chapters
+relatedtwo:
+  - title: Intro | Statistical Analyses
+    url: ./Sourcebook-Intro-StatisticalAnalyses.pdf
+  - title: Intro | Statistical Tables
+    url: ./Sourcebook-Intro-StatisticalTables.pdf
+  - title: Intro | APA Style
+    url: ./Sourcebook-Intro-APAStyle.pdf
+  - title: Intro | Worked Examples
+    url: ./Sourcebook-Intro-WorkedExamples.pdf
 ---
 
 # Intro

@@ -1,19 +1,25 @@
 ---
 title: Sourcebook
-headerone: Intro
+headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Snedecor's F
     url: ../../Intro/statistical-tables/F
   - title: Worked Examples | OneWay ANOVA
     url: ../../Intro/worked-examples/oneway
-headertwo: SPSS
+headertwo: SPSS Articles
 relatedtwo:
   - title: Data Entry | Multiple Sample Data
-    url: ../data-entry/multiplesampledata
+    url: ../data-entry/multisample
   - title: Data Analysis | OneWay ANOVA
     url: ../data-analysis/oneway
   - title: Annotated Output | OneWay ANOVA
     url: ../annotated-output/oneway
+headerthree: SPSS Files
+relatedthree:
+  - title: Data Files | OneWay Data
+    url: ../data-files/oneway.sav
+  - title: Output Files | OneWay ANOVA
+    url: ../output-files/oneway.spv
 ---
 
 # SPSS | Data Analysis

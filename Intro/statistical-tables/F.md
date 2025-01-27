@@ -1,6 +1,6 @@
 ---
 title: Sourcebook
-headerone: Intro
+headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Snedecor's F
     url: ./F
@@ -10,6 +10,18 @@ relatedone:
     url: ../worked-examples/repeated
   - title: Worked Examples | Factorial ANOVA
     url: ../worked-examples/factorial
+headertwo: Software Guides
+relatedtwo:
+  - title: SPSS | Using the Software
+    url: ../../SPSS/
+  - title: jamovi | Using the Software
+    url: ../../jamovi/
+  - title: JASP | Using the Software
+    url: ../../JASP/
+  - title: R | Using the Software
+    url: ../../R/
+  - title: DEVISE | Using the Software
+    url: ../../DEVISE/
 ---
 
 # Intro | Statistical Tables

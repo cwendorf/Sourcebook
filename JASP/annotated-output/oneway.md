@@ -1,19 +1,25 @@
 ---
 title: Sourcebook
-headerone: Intro
+headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Snedecor's F
     url: ../../Intro/statistical-tables/F
   - title: Worked Examples | OneWay ANOVA
     url: ../../Intro/worked-examples/oneway
-headertwo: JASP
+headertwo: JASP Articles
 relatedtwo:
   - title: Data Entry | Multiple Sample Data
-    url: ../data-entry/multiplesampledata
+    url: ../data-entry/multisample
   - title: Data Analysis | OneWay ANOVA
     url: ../data-analysis/oneway
   - title: Annotated Output | OneWay ANOVA
     url: ../annotated-output/oneway
+headerthree: JASP Files
+relatedthree:
+  - title: Data Files | OneWay Data
+    url: ../data-files/oneway.jasp
+  - title: Output Files | OneWay ANOVA
+    url: ../output-files/oneway.jasp
 ---
 
 # JASP | Annotated Output

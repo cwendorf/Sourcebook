@@ -1,11 +1,21 @@
 ---
 title: Sourcebook
-headerone: Other Sites
+headerone: Software Websites
 relatedone:
-  - title: R | Download
+  - title: R | Desktop App
     url: "https://www.r-project.org"
-  - title: R | Manuals
+  - title: R | User Manuals
     url: "https://cran.r-project.org/manuals.html"
+headertwo: PDF Chapters
+relatedtwo:
+  - title: R | Data Entry
+    url: ./Sourcebook-R-DataEntry.pdf
+  - title: R | Data Analysis
+    url: ./Sourcebook-R-DataAnalysis.pdf
+  - title: R | Annotated Output
+    url: ./Sourcebook-R-AnnotatedOutput.pdf
+  - title: R | Blank Output
+    url: ./Sourcebook-R-BlankOutput.pdf
 ---
 
 # R (Base Functions)
@@ -16,10 +26,10 @@ relatedone:
 
 This chapter shows how to enter the data for most undergraduate level between-subjects and within-subjects research designs.
 
-- [One Sample Data](./data-entry/onesampledata.md)  
-- [Repeated Measures Data](./data-entry/repeateddata.md)
-- [Multiple Sample Data](./data-entry/multiplesampledata.md)
-- [Factorial Data](./data-entry/factorialdata.md)
+- [One Sample Data](./data-entry/onesample.md)  
+- [Repeated Measures Data](./data-entry/repeated.md)
+- [Multiple Sample Data](./data-entry/multisample.md)
+- [Factorial Data](./data-entry/factorial.md)
 
 ### Data Analysis
 

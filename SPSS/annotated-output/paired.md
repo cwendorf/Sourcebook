@@ -1,19 +1,25 @@
 ---
 title: Sourcebook
-headerone: Intro
+headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
   - title: Worked Examples | Paired Samples t Test
     url: ../../Intro/worked-examples/paired
-headertwo: SPSS
+headertwo: SPSS Articles
 relatedtwo:
   - title: Data Entry | Repeated Measures Data
-    url: ../data-entry/repeateddata
+    url: ../data-entry/repeated
   - title: Data Analysis | Paired Samples t Test
     url: ../data-analysis/paired
   - title: Annotated Output | Paired Samples t Test
     url: ../annotated-output/paired
+headerthree: SPSS Files
+relatedthree:
+  - title: Data Files | Paired Data
+    url: ../data-files/paired.sav
+  - title: Output Files | Paired Samples t Test
+    url: ../output-files/paired.spv
 ---
 
 # SPSS | Annotated Output
