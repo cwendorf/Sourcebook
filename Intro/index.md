@@ -1,6 +1,6 @@
 ---
 title: Sourcebook
-headerone: Other Websites
+headerone: APA Websites
 relatedone:
   - title: APA | Journal Article Reporting Standards
     url: "https://apastyle.apa.org/jars"

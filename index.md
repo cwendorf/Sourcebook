@@ -1,6 +1,6 @@
 ---
 title: Sourcebook
-headerone: Other Sites
+headerone: Sourcebook Websites
 relatedone:
   - title: Sourcebook | Respository
     url: "https://github.com/cwendorf/Sourcebook"
