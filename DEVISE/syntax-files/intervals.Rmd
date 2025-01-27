@@ -25,13 +25,13 @@ Outcome <- c(0,0,3,5,4,7,4,9)
 
 ## DEVISE: Confidence Intervals
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 ```{r}
 (Outcome) |> describeMoments()
 ```
 
-### Inferential Statistics
+### Obtaining Inferential Statistics
 
 ```{r}
 (Outcome) |> estimateMeans()

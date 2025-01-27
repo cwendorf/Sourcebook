@@ -31,7 +31,7 @@ FactorA <- factor(FactorA,levels=c(1,2),labels=c("A1","A2"))
 FactorB <- factor(FactorB,levels=c(1,2),labels=c("B1","B2"))
 ```
 
-### Viewing the Data
+### Viewing Data
 
 Create and display a data frame to view the data set.
 

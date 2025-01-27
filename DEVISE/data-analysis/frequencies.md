@@ -24,7 +24,7 @@ relatedthree:
 
 Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
 
-### Obtaining a Frequency Distribution
+### Obtaining Frequencies
 
 Get the frequency distribution for the variable.
 

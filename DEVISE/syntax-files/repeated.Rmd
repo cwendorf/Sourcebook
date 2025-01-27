@@ -27,13 +27,13 @@ RepeatedData <- construct(Outcome1, Outcome2)
 
 ## DEVISE: Repeated Measures ANOVA
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 ```{r}
 (RepeatedData) |> describeMoments()
 ```
 
-### Inferential Statistics
+### Obtaining Inferential Statistics
 
 ```{r}
 (RepeatedData) |> describeEffect()

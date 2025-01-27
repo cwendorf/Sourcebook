@@ -26,7 +26,7 @@ relatedthree:
 
 Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
 
-###  Obtaining a Frequency Distribution
+###  Obtaining Frequencies
 
 Get the frequency distribution for the variable.
 
@@ -36,7 +36,7 @@ FrequencyTable
 prop.table(FrequencyTable)
 ```
 
-### Obtaining Summary Statistics
+### Obtaining Descriptive Statistics
 
 Get the percentiles for the variable.
 

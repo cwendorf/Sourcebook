@@ -27,13 +27,13 @@ PairedData <- construct(Outcome1, Outcome2)
 
 ## DEVISE: Paired Samples t Test
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 ```{r}
 (PairedData) |> describeMoments()
 ```
 
-### Inferential Statistics
+### Obtaining Inferential Statistics
 
 ```{r}
 (PairedData) |> estimateDifference()

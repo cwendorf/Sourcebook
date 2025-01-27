@@ -16,7 +16,7 @@ vignette: >
 knitr::opts_chunk$set(fig.width=7, fig.height=5,fig.path='figures/',echo=TRUE,warning=FALSE,message=FALSE)
 ```
 
-## Post Hoc Tests
+## R: Post Hoc Tests
 
 ### Entering Data
 
@@ -32,6 +32,8 @@ Declare which variable is considered a Factor. In addition to specifying how man
 ```{r}
 Factor <- factor(Factor,levels=c(1,2,3))
 ```
+
+### Viewing Data
 
 Create and display a data frame to view the data set.
 

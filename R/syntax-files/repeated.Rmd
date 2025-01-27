@@ -15,7 +15,8 @@ vignette: >
 #suppress the warnings and other messages from showing in the knitted file.
 knitr::opts_chunk$set(fig.width=7, fig.height=5,fig.path='figures/',echo=TRUE,warning=FALSE,message=FALSE)
 ```
-## Repeated Measures ANOVA
+
+## R: Repeated Measures ANOVA
 
 ### Entering Data
 
@@ -25,6 +26,8 @@ Enter the data in vectors that assign variable names.
 Outcome1 <- c(0,0,3,5)
 Outcome2 <- c(4,7,4,9)
 ```
+
+### Viewing Data
 
 Create and display a data frame to view the data set.
 

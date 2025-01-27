@@ -16,7 +16,7 @@ vignette: >
 knitr::opts_chunk$set(fig.width=7, fig.height=5,fig.path='figures/',echo=TRUE,warning=FALSE,message=FALSE)
 ```
 
-## Factorial ANOVA
+## R: Factorial ANOVA
 
 ### Entering Data
 
@@ -34,6 +34,8 @@ Declare which variables are considered Factors. In addition to specifying how ma
 FactorA <- factor(FactorA,levels=c(1,2),labels=c("A1","A2"))
 FactorB <- factor(FactorB,levels=c(1,2),labels=c("B1","B2"))
 ```
+
+### Viewing Data
 
 Create and display a data frame to view the data set.
 

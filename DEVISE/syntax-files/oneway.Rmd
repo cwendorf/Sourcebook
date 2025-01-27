@@ -27,13 +27,13 @@ Factor <- factor(Factor, levels = c(1, 2, 3), labels = c("Level1", "Level2", "Le
 
 ## DEVISE: One Way ANOVA
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 ```{r}
 (Outcome ~ Factor) |> describeMoments()
 ```
 
-### Inferential Statistics
+### Obtaining Inferential Statistics
 
 ```{r}
 (Outcome ~ Factor) |> describeEffect()

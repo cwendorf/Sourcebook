@@ -35,7 +35,7 @@ Declare which variable is considered a Factor. In addition to specifying how man
 Factor <- factor(Factor,levels=c(1,2),labels=c("Level1","Level2"))
 ```
 
-### Viewing the Data
+### Viewing Data
 
 Create and display a data frame to view the data set.
 
@@ -44,7 +44,7 @@ IndependentData <- data.frame(Factor,Outcome)
 IndependentData
 ```
 
-### Adding Additional Data
+### Adding Data
 
 If your data set has more than two groups, simply be sure to add a group indicator (a value on the “Factor” variable) and a “Outcome” for each additional person.
 

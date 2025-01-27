@@ -16,7 +16,7 @@ vignette: >
 knitr::opts_chunk$set(fig.width=7, fig.height=5,fig.path='figures/',echo=TRUE,warning=FALSE,message=FALSE)
 ```
 
-## Frequencies
+## R: Frequencies
 
 ### Entering Data
 
@@ -26,6 +26,8 @@ Enter the data in a vector that assigns a variable name.
 Outcome <- c(0,0,3,5,4,7,4,9)
 ```
 
+### Viewing Data
+
 Create and display a data frame to view the data set.
 
 ```{r}
@@ -33,7 +35,7 @@ FrequenciesData <- data.frame(Outcome)
 FrequenciesData
 ```
 
-###  Obtaining a Frequency Distribution
+###  Obtaining Frequencies
 
 Get the frequency distribution for the variable.
 
