@@ -14,8 +14,6 @@ headerthree: R Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv
-  - title: Output Files | Standardized Scores
-    url: ../output-files/standardized.R
 ---
 
 # R | Data Analysis

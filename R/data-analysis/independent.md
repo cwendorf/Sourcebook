@@ -19,7 +19,7 @@ relatedthree:
   - title: Data Files | Independent Sample Data
     url: ../data-files/independent.csv
   - title: Output Files | Independent Samples t Test
-    url: ../output-files/independent.R
+    url: ../output-files/independent.txt
 ---
 
 # R | Data Analysis
