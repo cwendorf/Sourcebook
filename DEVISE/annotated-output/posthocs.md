@@ -19,7 +19,7 @@ relatedthree:
   - title: Data Files | OneWay Data
     url: ../data-files/oneway.csv
   - title: Output Files | Post Hoc Comparisons
-    url: ../output-files/posthocs.R
+    url: ../output-files/posthocs.txt
 ---
 
 # DEVISE | Annotated Output

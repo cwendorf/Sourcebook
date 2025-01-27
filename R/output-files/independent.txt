@@ -1,0 +1,31 @@
+Independent Samples t Test
+
+> ### Descriptive Statistics
+> 
+> by(Outcome,Factor,mean)
+Factor: 1
+[1] 2
+----------------------------------------------------------------------- 
+Factor: 2
+[1] 6
+> by(Outcome,Factor,sd)
+Factor: 1
+[1] 2.44949
+----------------------------------------------------------------------- 
+Factor: 2
+[1] 2.44949
+> 
+> ### Inferential Statistics
+> 
+> t.test(Outcome~Factor,var.equal=T)
+
+	Two Sample t-test
+
+data:  Outcome by Factor
+t = -2.3094, df = 6, p-value = 0.06032
+alternative hypothesis: true difference in means between group 1 and group 2 is not equal to 0
+95 percent confidence interval:
+ -8.2381756  0.2381756
+sample estimates:
+mean in group 1 mean in group 2 
+              2               6 

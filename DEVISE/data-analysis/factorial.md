@@ -19,7 +19,7 @@ relatedthree:
   - title: Data Files | Factorial Data
     url: ../data-files/factorial.csv
   - title: Output Files | Factorial ANOVA
-    url: ../output-files/factorial.R
+    url: ../output-files/factorial.txt
 ---
 
 # DEVISE | Data Analysis

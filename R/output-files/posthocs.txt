@@ -1,0 +1,48 @@
+Post Hoc Tests
+
+> ### Descriptive Statistics
+> 
+> by(Outcome,Factor,mean)
+Factor: 1
+[1] 2
+----------------------------------------------------------------------- 
+Factor: 2
+[1] 6
+----------------------------------------------------------------------- 
+Factor: 3
+[1] 7
+> by(Outcome,Factor,sd)
+Factor: 1
+[1] 2.44949
+----------------------------------------------------------------------- 
+Factor: 2
+[1] 2.44949
+----------------------------------------------------------------------- 
+Factor: 3
+[1] 2.44949
+> 
+> Results <- aov(Outcome~Factor)
+> model.tables(Results,"means")
+Tables of means
+Grand mean
+  
+5 
+
+ Factor 
+Factor
+1 2 3 
+2 6 7 
+> 
+> ### Inferential Statistics
+> 
+> TukeyHSD(Results)
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = Outcome ~ Factor)
+
+$Factor
+    diff        lwr      upr     p adj
+2-1    4 -0.8358956 8.835896 0.1055254
+3-1    5  0.1641044 9.835896 0.0431300
+3-2    1 -3.8358956 5.835896 0.8352889

@@ -19,7 +19,7 @@ relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv
   - title: Output Files | One Sample t Test
-    url: ../output-files/onesample.R
+    url: ../output-files/onesample.txt
 ---
 
 # DEVISE | Annotated Output

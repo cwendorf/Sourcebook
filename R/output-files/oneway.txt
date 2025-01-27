@@ -1,0 +1,43 @@
+One Way ANOVA
+
+> ### Descriptive Statistics
+> 
+> by(Outcome,Factor,mean)
+Factor: 1
+[1] 2
+----------------------------------------------------------------------- 
+Factor: 2
+[1] 6
+----------------------------------------------------------------------- 
+Factor: 3
+[1] 7
+> by(Outcome,Factor,sd)
+Factor: 1
+[1] 2.44949
+----------------------------------------------------------------------- 
+Factor: 2
+[1] 2.44949
+----------------------------------------------------------------------- 
+Factor: 3
+[1] 2.44949
+> 
+> Results <- aov(Outcome~Factor)
+> model.tables(Results,"means")
+Tables of means
+Grand mean
+  
+5 
+
+ Factor 
+Factor
+1 2 3 
+2 6 7 
+> 
+> ### Inferential Statistics
+> 
+> summary(Results)
+            Df Sum Sq Mean Sq F value Pr(>F)  
+Factor       2     56      28   4.667 0.0407 *
+Residuals    9     54       6                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

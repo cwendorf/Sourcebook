@@ -15,7 +15,7 @@ relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv
   - title: Output Files | Frequencies
-    url: ../output-files/frequencies.R
+    url: ../output-files/frequencies.txt
 ---
 
 # DEVISE | Annotated Output

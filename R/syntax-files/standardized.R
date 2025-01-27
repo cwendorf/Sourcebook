@@ -1,11 +1,9 @@
-
-## Standardized Scores
-
-### Entering Data
+# Sourcebook
 
 Outcome <- c(0,0,3,5,4,7,4,9)
 StandardizedData <- data.frame(Outcome)
-StandardizedData
+
+## R: Standardized Scores
 
 ### Computing Transformations
 

@@ -1,0 +1,25 @@
+Frequencies
+
+> ### Frequency Distribution
+
+> (Outcome) |> describeFrequencies()
+
+Frequencies for the Data
+
+     Freq    Perc CumFreq CumPerc
+0   2.000   0.250   2.000   0.250
+3   1.000   0.125   3.000   0.375
+4   2.000   0.250   5.000   0.625
+5   1.000   0.125   6.000   0.750
+7   1.000   0.125   7.000   0.875
+9   1.000   0.125   8.000   1.000
+
+> ### Descriptive Statistics
+
+> (Outcome) |> describePercentiles()
+
+Percentiles for the Data
+
+             0%     25%     50%     75%    100%
+Outcome   0.000   2.250   4.000   5.500   9.000
+

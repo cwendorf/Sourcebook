@@ -19,7 +19,7 @@ relatedthree:
   - title: Data Files | OneWay Data
     url: ../data-files/oneway.csv
   - title: Output Files | OneWay ANOVA
-    url: ../output-files/oneway.R
+    url: ../output-files/oneway.txt
 ---
 
 # DEVISE | Annotated Output

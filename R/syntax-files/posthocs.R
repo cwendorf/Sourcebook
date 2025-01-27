@@ -1,15 +1,13 @@
-
-## Post Hoc Tests
-
-### Entering Data
+# Sourcebook
 
 Factor <- c(rep(1,4),rep(2,4),rep(3,4))
 Outcome <- c(0,0,3,5,4,7,4,9,9,6,4,9)
 Factor <- factor(Factor,levels=c(1,2,3))
 PostHocsData <- data.frame(Factor,Outcome)
-PostHocsData
 
-### Obtaining Descriptive Statistics
+## R: Post Hoc Tests
+
+### Descriptive Statistics
 
 by(Outcome,Factor,mean)
 by(Outcome,Factor,sd)
@@ -17,6 +15,6 @@ by(Outcome,Factor,sd)
 Results <- aov(Outcome~Factor)
 model.tables(Results,"means")
 
-### Obtaining Inferential Statistics
+### Inferential Statistics
 
 TukeyHSD(Results)

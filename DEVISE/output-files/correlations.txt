@@ -1,0 +1,36 @@
+Correlations
+
+> ### Descriptive Statistics
+
+> (CorrelationData) |> describeMoments()
+
+Summary Statistics for the Data
+
+               N       M      SD    Skew    Kurt
+Outcome1   4.000   2.000   2.449   0.544  -2.944
+Outcome2   4.000   6.000   2.449   0.544  -2.944
+
+> (CorrelationData) |> describeCovariances()
+
+Covariances for the Data
+
+         Outcome1 Outcome2
+Outcome1    6.000    3.000
+Outcome2    3.000    6.000
+
+> (CorrelationData) |> describeCorrelations()
+
+Correlations for the Data
+
+         Outcome1 Outcome2
+Outcome1    1.000    0.500
+Outcome2    0.500    1.000
+
+> ### Inferential Statistics
+
+> (CorrelationData) |> testCorrelations()
+
+$`Hypothesis Test for the Correlation`
+                          R      SE      df       t       p
+Outcome1 & Outcome2   0.500   0.612   2.000   0.816   0.500
+

@@ -19,7 +19,7 @@ relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv
   - title: Output Files | Confidence Intervals
-    url: ../output-files/intervals.R
+    url: ../output-files/intervals.txt
 ---
 
 # DEVISE | Annotated Output

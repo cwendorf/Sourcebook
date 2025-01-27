@@ -1,14 +1,12 @@
-
-## Repeated Measures ANOVA
-
-### Entering Data
+# Sourcebook
 
 Outcome1 <- c(0,0,3,5)
 Outcome2 <- c(4,7,4,9)
 RepeatedData <- data.frame(Outcome1,Outcome2)
-RepeatedData
 
-### Obtaining Descriptive Statistics
+## R: Repeated Measures ANOVA
+
+### Descriptive Statistics
 
 mean(Outcome1)
 sd(Outcome1)
@@ -22,6 +20,6 @@ StackData
 Results=aov(Outcome~factor(Factor)+Error(factor(Subject)))
 model.tables(Results,"means")
 
-### Obtaining Inferential Statistics
+### Inferential Statistics
 
 summary(Results)

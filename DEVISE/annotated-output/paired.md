@@ -19,7 +19,7 @@ relatedthree:
   - title: Data Files | Paired Data
     url: ../data-files/paired.csv
   - title: Output Files | Paired Samples t Test
-    url: ../output-files/paired.R
+    url: ../output-files/paired.txt
 ---
 
 # DEVISE | Annotated Output
