@@ -4,7 +4,7 @@ headerone: Sofware Websites
 relatedone:
   - title: DEVISE | Package Download
     url: "https://github.com/cwendorf/DEVISE"
-  - title: DEVISE | Quick Start Guide
+  - title: DEVISE | User Manual
     url: "https://cwendorf.github.io/DEVISE"
 headertwo: PDF Chapters
 relatedtwo:
