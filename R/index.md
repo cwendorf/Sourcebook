@@ -6,16 +6,6 @@ relatedone:
     url: "https://www.r-project.org"
   - title: R | User Manuals
     url: "https://cran.r-project.org/manuals.html"
-headertwo: PDF Chapters
-relatedtwo:
-  - title: R | Data Entry
-    url: ./Sourcebook-R-DataEntry.pdf
-  - title: R | Data Analysis
-    url: ./Sourcebook-R-DataAnalysis.pdf
-  - title: R | Annotated Output
-    url: ./Sourcebook-R-AnnotatedOutput.pdf
-  - title: R | Blank Output
-    url: ./Sourcebook-R-BlankOutput.pdf
 ---
 
 # R (Base Functions)
