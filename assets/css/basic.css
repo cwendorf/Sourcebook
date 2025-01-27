@@ -34,14 +34,16 @@ body {
 #Title {
     display: block;
     font-weight: 1000;
-    padding: 10px 0px;
     font-size: 32px;
 }
 #TitleContent A {
+    padding: 10px 0px;
     color: white;
+    border-bottom: 2px solid transparent;    
 }
 #TitleContent A:hover {
     color: red;
+    border-bottom: 2px solid red;
 }
 
 /* Area Nav Section Styles */
