@@ -41,7 +41,7 @@ body {
     color: white;
 }
 #TitleContent A:hover {
-    color: #ddd;
+    color: red;
 }
 
 /* Area Nav Section Styles */
