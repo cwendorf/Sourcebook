@@ -25,24 +25,36 @@ Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9, 9, 6, 4, 9)
 Factor <- factor(Factor, levels = c(1, 2, 3), labels = c("Level1", "Level2", "Level3"))
 ```
 
-## DEVISE: One Way ANOVA
+# DEVISE | Data Analysis
+
+## One Way ANOVA
+
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
 
 ### Obtaining Descriptive Statistics
 
+Get the mean and standard deviation of the dependent variable for each of the levels.
+
 ```{r}
-(Outcome ~ Factor) |> describeMoments()
+(Outcome~Factor) |> describeMoments()
 ```
 
 ### Obtaining Inferential Statistics
 
-```{r}
-(Outcome ~ Factor) |> describeEffect()
-```
+Get the analysis of variance source table.
 
 ```{r}
-(Outcome ~ Factor) |> testEffect()
+(Outcome~Factor) |> describeEffect()
 ```
 
+Test the main effect for statistical significance.
+
 ```{r}
-(Outcome ~ Factor) |> estimateEffect()
+(Outcome~Factor) |> testEffect()
+```
+
+Get the proportion of variance accounted for by the main effect.
+
+```{r}
+(Outcome~Factor) |> estimateEffect()
 ```

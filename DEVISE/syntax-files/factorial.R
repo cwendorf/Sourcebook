@@ -1,4 +1,4 @@
-# Sourcebook
+# DEVISE | Data Analysis
 
 source("http://raw.githubusercontent.com/cwendorf/DEVISE/main/source-DEVISE.R")
 
@@ -8,7 +8,7 @@ Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9, 9, 6, 4, 9, 3, 6, 8, 3)
 FactorA <- factor(FactorA, levels = c(1, 2), labels = c("A1", "A2"))
 FactorB <- factor(FactorB, levels = c(1, 2), labels = c("B1", "B2"))
 
-## DEVISE: Factorial ANOVA
+## Factorial ANOVA
 
 ### Descriptive Statistics
 

@@ -1,5 +1,5 @@
 ---
-title: "Statistics for Social Science"
+title: "Sourcebook"
 author: "Craig A. Wendorf"
 date: "`r Sys.Date()`"
 output: 
@@ -16,7 +16,9 @@ vignette: >
 knitr::opts_chunk$set(fig.width=7, fig.height=5,fig.path='figures/',echo=TRUE,warning=FALSE,message=FALSE)
 ```
 
-## R: Frequencies
+# R | Data Analysis
+
+## Frequencies
 
 ### Entering Data
 

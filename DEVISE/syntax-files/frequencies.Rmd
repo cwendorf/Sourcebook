@@ -23,15 +23,23 @@ library(DEVISE)
 Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9)
 ```
 
-## DEVISE: Frequencies
+# DEVISE | Data Analysis
+
+## Frequencies
+
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
 
 ### Obtaining Frequencies
+
+Get the frequency distribution for the variable.
 
 ```{r}
 (Outcome) |> describeFrequencies()
 ```
 
-### Obtaining Descriptive Statistics
+### Obtaining Summary Statistics
+
+Get the percentiles for the variable.
 
 ```{r}
 (Outcome) |> describePercentiles()

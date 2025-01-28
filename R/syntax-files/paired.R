@@ -1,10 +1,10 @@
-# Sourcebook
+# R | Data Analysis
 
 Outcome1 <- c(0,0,3,5)
 Outcome2 <- c(4,7,4,9)
 PairedData <- data.frame(Outcome1,Outcome2)
 
-## R: Paired Samples t Test
+## Paired Samples t Test
 
 ### Descriptive Statistics
 

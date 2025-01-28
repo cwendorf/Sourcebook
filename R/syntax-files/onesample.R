@@ -1,9 +1,9 @@
-# Sourcebook
+# R | Data Analysis
 
 Outcome <- c(0,0,3,5,4,7,4,9)
 OneSampleData <- data.frame(Outcome)
 
-## R: One Sample t Test
+## One Sample t Test
 
 ### Descriptive Statistics
 

@@ -23,23 +23,35 @@ library(DEVISE)
 Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9)
 ```
 
-## DEVISE: Standardized Scores
+# DEVISE | Data Analysis
 
-### Transformations
+## Standardized Scores
+
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
+### Computing Transformations
+
+Use a formula to calculate a new vector with the transformed scores. 
 
 ```{r}
 trOutcome <- Outcome + 1
 ```
 
+Create and display a the data set in a frame.
+
 ```{r}
 construct(Outcome, trOutcome)
 ```
 
-### Standardized Scores
+### Computing Standardized Scores
+
+Create a new variable vector containing the standardized scores.
 
 ```{r}
 zOutcome <- scale(Outcome)
 ```
+
+Create and display the data set in a frame.
 
 ```{r}
 construct(Outcome, trOutcome, zOutcome)

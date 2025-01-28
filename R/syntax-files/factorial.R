@@ -1,4 +1,4 @@
-# Sourcebook
+# R | Data Analysis
 
 FactorA <- c(1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2)
 FactorB <- c(1,1,1,1,2,2,2,2,1,1,1,1,2,2,2,2)
@@ -7,7 +7,7 @@ FactorA <- factor(FactorA,levels=c(1,2),labels=c("A1","A2"))
 FactorB <- factor(FactorB,levels=c(1,2),labels=c("B1","B2"))
 FactorialData <- data.frame(FactorA,FactorB,Outcome)
 
-## R: Factorial ANOVA
+## Factorial ANOVA
 
 ### Descriptive Statistics
 

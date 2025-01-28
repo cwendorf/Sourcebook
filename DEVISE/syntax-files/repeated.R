@@ -1,4 +1,4 @@
-# Sourcebook
+# DEVISE | Data Analysis
 
 source("http://raw.githubusercontent.com/cwendorf/DEVISE/main/source-DEVISE.R")
 
@@ -6,7 +6,7 @@ Outcome1 <- c(0, 0, 3, 5)
 Outcome2 <- c(4, 7, 4, 9)
 RepeatedData <- construct(Outcome1, Outcome2)
 
-## DEVISE: Repeated Measures ANOVA
+## Repeated Measures ANOVA
 
 ### Descriptive Statistics
 

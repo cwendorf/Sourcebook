@@ -25,22 +25,36 @@ Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9)
 Factor <- factor(Factor, levels = c(1, 2), labels = c("Level1", "Level2"))
 ```
 
-## DEVISE: Independent Samples t Test
+# DEVISE | Data Analysis
+
+## Independent Samples t Test
+
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
 
 ### Obtaining Descriptive Statistics
 
+Get the mean and standard deviation of the dependent variable for each of the levels.
+
 ```{r}
-(Outcome ~ Factor) |> describeMoments()
+(Outcome~Factor) |> describeMoments()
 ```
 
 ### Obtaining Inferential Statistics
 
+Get the mean difference and its confidence interval.
+
 ```{r}
-(Outcome ~ Factor) |> estimateDifference()
+(Outcome~Factor) |> estimateDifference()
 ```
+
+Test the mean difference for statistical significance.
+
 ```{r}
-(Outcome ~ Factor) |> testDifference()
+(Outcome~Factor) |> testDifference()
 ```
+
+Get the standardized effect size for the mean difference.
+
 ```{r}
-(Outcome ~ Factor) |> standardizeDifference()
+(Outcome~Factor) |> standardizeDifference()
 ```

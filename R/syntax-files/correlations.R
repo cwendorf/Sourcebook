@@ -1,10 +1,10 @@
-# Sourcebook
+# R | Data Analysis
 
 Outcome1 <- c(0,0,3,5)
 Outcome2 <- c(4,7,4,9)
 CorrelationData <- data.frame(Outcome1,Outcome2)
 
-## R: Correlations
+## Correlations
 
 ### Descriptive Statistics
 
