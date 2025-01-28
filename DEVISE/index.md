@@ -8,6 +8,8 @@ relatedone:
     url: "https://cwendorf.github.io/DEVISE"
 headertwo: PDF Chapters
 relatedtwo:
+  - title: DEVISE | Data Entry
+    url: ./Sourcebook-DEVISE-DataEntry.pdf
   - title: DEVISE | Annotated Output
     url: ./Sourcebook-DEVISE-AnnotatedOutput.pdf
 ---

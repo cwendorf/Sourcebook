@@ -6,6 +6,10 @@ relatedone:
     url: "https://www.r-project.org"
   - title: R | User Manuals
     url: "https://cran.r-project.org/manuals.html"
+headertwo: PDF Chapters
+relatedtwo:
+  - title: R | Data Entry
+    url: ./Sourcebook-R-DataEntry.pdf
 ---
 
 # R (Base Functions)
