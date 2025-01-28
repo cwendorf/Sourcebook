@@ -28,7 +28,7 @@ relatedtwo:
 
 4. Provide a name and define the level of measurement for the variables by choosing the appropriate options. In this example, "FactorA" and "FactorB" nominal. The "Outcome" (Dependent) variable is continuous (Scale).
 
-5. To clsoe the variable menu, click on the red "x" button next to the variable name.
+5. To close the variable menu, click on the red "x" button next to the variable name.
 
 <p align="center"><kbd><img src="factorial2.png"></kbd></p>
 

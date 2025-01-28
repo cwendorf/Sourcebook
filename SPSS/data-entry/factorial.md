@@ -14,7 +14,7 @@ relatedtwo:
 
 ## Factorial Data 
 
-### Defining All Variables 
+### Defining Variables 
 
 1. First, click on the "Variable View" tab on the bottom left-hand corner of the screen. Generally speaking, this is where you will define all of the variables in the data set. 
 
@@ -24,7 +24,7 @@ relatedtwo:
 
 <p align="center"><kbd><img src="factorial1.png"></kbd></p>
 
-### Providing Labels for All Values
+### Providing Value Labels
 
 4. For categorical variables, you should also provide labels for the different categories. Do this by clicking on the "values" cell for the variable of interest. A button will appear and clicking on this button will make another dialog box appear. 
 
