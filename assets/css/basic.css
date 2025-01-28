@@ -160,6 +160,9 @@ body {
     margin-top: 0;
     margin-bottom: 15px;
 }
+#Main UL {
+    padding-inline-start: 30px;
+}
 #Main LI {
     margin-bottom: 5px;
 }
@@ -170,8 +173,6 @@ body {
     margin: 30px 0px 20px 0px;
 }
 #Sidebar UL {
-    /* list-style: none; */
-    padding-inline-start: 20px;
     color: red;
 }
 #Sidebar H2 {
