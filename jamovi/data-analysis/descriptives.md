@@ -26,7 +26,7 @@ relatedthree:
 
 ## Frequencies and Descriptives
 
-### Obtaining Frequency-Related Statistics
+### Selecting the Analysis
 
 1. First, enter the data (described elsewhere). 
 
@@ -34,7 +34,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="descriptives1.png"></kbd></p>
 
-### Obtaining a Frequency Distribution
+### Obtaining Frequencies
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 

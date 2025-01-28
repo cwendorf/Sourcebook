@@ -26,7 +26,7 @@ relatedthree:
 
 ## Post Hoc Comparisons
 
-### Obtaining Multiple-Sample Inferential Statistics
+### Selecting the Analysis
 
 1. First, enter the data. This is done in the same manner as entering two sample data (described elsewhere) but with additional groups.
 
@@ -34,7 +34,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="posthoc1.png"></kbd></p>
 
-### Obtaining the Significance Test 
+### Obtaining Inferential Statistics
  
 3. A dialogue box will then appear for you to choose the variables of interest. 
 

@@ -26,7 +26,7 @@ relatedthree:
 
 ## Confidence Intervals
 
-### Obtaining Exploratory-Related Statistics 
+### Selecting the Analysis 
 
  1. First, enter the data (described elsewhere). 
 
@@ -55,35 +55,3 @@ relatedthree:
 9. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
 <p align="center"><kbd><img src="intervals3.png"></kbd></p>
-
-### Obtaining a Graph of the Confidence Intervals 
-
-10. First, enter the data (described elsewhere). 
-
-11. To obtain a graph, select the "Graphs → Legacy Dialogs → Error Bar" option from the main menu. 
-
-<p align="center"><kbd><img src="intervals4.png"></kbd></p>
-
-### Choosing the Graph Layout
-
- 12. A dialogue box will then appear for you to choose the general graph layout of interest.
-
- 13. Click on the box labeled "Simple" (it should then be highlighted).
-
- 14. Then click on the option that states that you want "Summaries of separate variables."
-
- 15. Click "Define."
-
-<p align="center"><kbd><img src="intervals5.png"></kbd></p>
-
-### Obtaining the Confidence Interval Graph
-
- 16. A dialogue box will then appear for you to choose the variables of interest to graph.
-
- 17. Under "Error Bars," move the name(s) of the variable(s) you want to include in the graph. 
-
- 18. If you want to change the width of the confidence intervals, type the appropriate percentage in the "Level" box. 
-
- 19. After clicking on "OK", a separate window with the output will appear.
-
-<p align="center"><kbd><img src="intervals6.png"></kbd></p>

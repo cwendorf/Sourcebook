@@ -26,7 +26,7 @@ relatedthree:
 
 ## Correlations
 
-### Obtaining Correlational Statistics
+### Selecting the Analysis
 
 1. First, load the data file containing multiple variables that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
 
@@ -34,7 +34,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="correlations1.png"></kbd></p>
 
-### Obtaining the Correlations (and Significance Tests)
+### Obtaining Inferential Statistics
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 

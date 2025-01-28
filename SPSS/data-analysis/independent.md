@@ -26,7 +26,7 @@ relatedthree:
 
 ## Independent Samples t Test
 
-### Obtaining Two-Sample Inferential Statistics
+### Selecting the Analysis
 
 1. First, enter the data (described elsewhere). 
 
@@ -34,7 +34,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="independent1.png"></kbd></p>
 
-### Obtaining the Significance Test 
+### Obtaining Inferential Statistics 
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 

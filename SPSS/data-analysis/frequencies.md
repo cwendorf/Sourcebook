@@ -26,7 +26,7 @@ relatedthree:
 
 ## Frequencies and Descriptives
 
-### Obtaining Frequency-Related Statistics
+### Selecting the Analysis
 
 1. First, enter the data (described elsewhere). 
 
@@ -34,7 +34,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="frequencies1.png"></kbd></p>
 
-### Obtaining a Frequency Distribution
+### Obtaining Frequencies
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 
@@ -54,19 +54,17 @@ relatedthree:
 
 9. Click "Continue." This will return you to the original dialogue box.
 
-10. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
-
 <p align="center"><kbd><img src="frequencies4.png"></kbd></p>
 
 ### Obtaining Descriptive Statistics 
  
-11. To obtain summary statistics, select "Statistics." Another dialogue box will appear.
+10. To obtain summary statistics, select "Statistics." Another dialogue box will appear.
 
-12. In this box, you can request that SPSS calculate the mean, variance, and standard deviation (or median and quartiles). 
+11. In this box, you can request that SPSS calculate the mean, variance, and standard deviation (or median and quartiles). 
 
-13. Once you have selected the desired statistics, click "Continue." This will return you to the original dialogue box.
+12. Once you have selected the desired statistics, click "Continue." This will return you to the original dialogue box.
 
-14. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
+13. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
 <p align="center"><kbd><img src="frequencies3.png"></kbd></p>
 

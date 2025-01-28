@@ -26,7 +26,7 @@ relatedthree:
 
 ## Post Hoc Comparisons
 
-### Obtaining Multiple Sample Inferential Statistics
+### Selecting the Analysis
 
 1. First, enter multiple group data (described elsewhere).
 
@@ -34,7 +34,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="posthocs1.png"></kbd></p>
 
-### Obtaining the Significance Test
+### Obtaining Inferential Statistics
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -46,14 +46,24 @@ relatedthree:
 
 <p align="center"><kbd><img src="posthocs2.png"></kbd></p>
 
-### Obtaining Post Hoc Tests
+### Obtaining Additional Statistics
 
-7. If you wish to obtain post hoc tests for the purpose of making comparisons between groups, click the "Post Hoc Tests" dropdown button. 
+7. Choose an effect size measure from the "Effect Size" list.
 
-8. Move the factor (Independent Variable) name from the lefthand box to the righthand box.
+8. If you wish descriptive statistics for each group, use the "Descriptives" command described earlier in the sourcebook.
 
-9. Select "Tukey" to get Tukey HSD post hoc tests (or  whatever option you prefer). 
-
-10. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
 
 <p align="center"><kbd><img src="posthocs3.png"></kbd></p>
+
+### Obtaining Post Hoc Tests
+
+10. If you wish to obtain post hoc tests for the purpose of making comparisons between groups, click the "Post Hoc Tests" dropdown button. 
+
+11. Move the factor (Independent Variable) name from the lefthand box to the righthand box.
+
+12. Select "Tukey" to get Tukey HSD post hoc tests (or  whatever option you prefer). 
+
+13. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+
+<p align="center"><kbd><img src="posthocs4.png"></kbd></p>

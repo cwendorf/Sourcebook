@@ -26,7 +26,7 @@ relatedthree:
 
 ## Confidence Intervals
 
-### Obtaining One-Sample Inferential Statistics
+### Selecting the Analysis
 
 1. First, load the data file that you previously created (described elsewhere). Be sure that the data file looks as you intended.
 
@@ -34,7 +34,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="intervals1.png"></kbd></p>
 
-### Choosing the Variable
+### Choosing Variables
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 
@@ -44,7 +44,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="intervals2.png"></kbd></p>
 
-### Obtaining the Statistics
+### Obtaining Inferential Statistics
 
 6. To get the confidence interval for the mean, make sure the “Test Value” is set to zero.
 

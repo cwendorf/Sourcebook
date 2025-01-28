@@ -26,7 +26,7 @@ relatedthree:
 
 ## One Sample t Test
 
-### Obtaining One Sample Inferential Statistics
+### Selecting the Analysis
 
 1. First, enter the data (described elsewhere). 
 
@@ -34,7 +34,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="onesample1.png"></kbd></p>
 
-### Obtaining Significance Tests
+### Obtaining Inferential Statistics
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 

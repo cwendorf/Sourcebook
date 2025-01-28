@@ -26,7 +26,7 @@ relatedthree:
 
 ## Paired Samples t Test
 
-### Obtaining Paired Sample Inferential Statistics
+### Selecting the Analysis
 
 1. First, enter paired samples or repeated measures data (described elsewhere). 
 
@@ -34,7 +34,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="paired1.png"></kbd></p>
 
-### Obtaining the Significance Test
+### Obtaining Inferential Statistics
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 

@@ -22,7 +22,7 @@ relatedthree:
 
 ## Transformations and Standardized Scores
 
-### Obtaining the Compute Menu
+### Selecting the Analysis
 
 1. First, enter the data (described elsewhere).
 
@@ -46,7 +46,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="standardized2.png"></kbd></p>
 
-### Viewing the Transformed Scores
+### Viewing Transformed Scores
 
 9. Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
 
@@ -78,7 +78,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="standardized5.png"></kbd></p>
 
-### Viewing the Standardized Scores
+### Viewing Standardized Scores
 
 19.	Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
 

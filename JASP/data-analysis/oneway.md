@@ -26,7 +26,7 @@ relatedthree:
 
 ## OneWay ANOVA
 
-### Obtaining Multiple-Sample Inferential Statistics
+### Selecting the Analysis
 
 1. First, load the two sample data file that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
 
@@ -34,7 +34,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="oneway1.png"></kbd></p>
 
-### Obtaining the Significance Test
+### Obtaining Inferential Statistics
 
 3. A set of options will then appear for you to choose the variables and statistics of interest.
 

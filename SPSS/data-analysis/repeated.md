@@ -26,7 +26,7 @@ relatedthree:
 
 ## Repeated Measures ANOVA
 
-### Obtaining Repeated Measures Inferential Statistics
+### Selecting the Analysis
 
 1. First, enter the repeated measures data. This is described elsewhere. 
 
@@ -54,7 +54,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="repeated3.png"></kbd></p>
 
-### Obtaining the Significance Test
+### Obtaining Inferential Statistics
 
 9. A dialogue box will then appear for you to define which columns/variables reflect the levels of the within-subjects factor.
 

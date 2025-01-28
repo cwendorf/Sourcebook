@@ -26,7 +26,7 @@ relatedthree:
 
 ## Repeated Measures ANOVA
 
-### Obtaining Repeated Measures Inferential Statistics
+### Selecting the Analysis
 
 1. First, enter repeated measures data (described elsewhere).
 
@@ -46,7 +46,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="repeated2.png"></kbd></p>
 
-### Obtaining the Significance Test
+### Obtaining Inferential Statistics
 
 7. In the "Repeated Measures Cells" box, you will indicate which measurements/columns in the data set reflect the instances of the repeated measurements.
 

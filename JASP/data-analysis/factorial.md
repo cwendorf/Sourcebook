@@ -26,7 +26,7 @@ relatedthree:
 
 ## Factorial ANOVA
 
-### Obtaining Factorial Inferential Statistics
+### Selecting the Analysis
 
 1. First, load the factorial data file that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
 

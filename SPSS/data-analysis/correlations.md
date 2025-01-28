@@ -26,7 +26,7 @@ relatedthree:
 
 ## Correlations
 
-### Obtaining Correlational Statistics
+### Selecting the Analysis
 
 1. First, enter data involving multiple variables. This is described elsewhere.
 
@@ -34,7 +34,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="correlations1.png"></kbd></p>
 
-### Obtaining the Significance Tests
+### Obtaining Inferential Statistics
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 

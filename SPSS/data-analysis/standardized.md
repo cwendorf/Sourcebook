@@ -22,7 +22,7 @@ relatedthree:
 
 ## Transformations and Standardized Scores 
 
-### Obtaining Descriptive-Related Statistics 
+### Selecting the Analysis 
 
 1. First, enter the data (described elsewhere). 
 
@@ -42,7 +42,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="standardized2.png"></kbd></p>
 
-### Obtaining Summary Statistics
+### Obtaining Descriptive Statistics
 
 7. To obtain summary statistics, select "Options." Another dialogue box will appear.
 
@@ -52,7 +52,7 @@ relatedthree:
 
 <p align="center"><kbd><img src="standardized3.png"></kbd></p>
 
-### Viewing the Standardized Scores  
+### Viewing Standardized Scores  
 
 10. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 

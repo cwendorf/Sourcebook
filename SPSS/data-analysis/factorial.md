@@ -26,7 +26,7 @@ relatedthree:
 
 ## Factorial ANOVA
 
-### Obtaining Factorial Inferential Statistics
+### Selecting the Analysis
 
 1. First, enter the data (described elsewhere). 
 

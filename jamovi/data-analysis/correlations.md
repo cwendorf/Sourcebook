@@ -26,7 +26,7 @@ relatedthree:
 
 ## Correlations
 
-### Obtaining Correlational Statistics 
+### Selecting the Analysis 
 
 1. First, enter data involving multiple variables (described elsewhere). 
 
