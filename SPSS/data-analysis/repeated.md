@@ -68,7 +68,7 @@ relatedthree:
 
  12. If you wish to get the means, standard deviations, standard errors, and 95% confidence  intervals for each group, select the "Options" button.
 
- 13. Another dialogue box will appear where you can choose various statistics. For means and standard deviations, select "Descriptive." When you are done, click "Continue." This will return you to the original dialogue box.
+ 13. Another dialogue box will appear where you can choose various statistics. For means and standard deviations, select "Descriptive." Check “Estimates of effect size” to get eta-squared. When you are done, click "Continue." This will return you to the original dialogue box.
 
  14. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 

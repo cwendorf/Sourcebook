@@ -40,16 +40,18 @@ relatedthree:
 
 4. Select the variables you wish to analyze by clicking on both of them while holding down the "CTRL" key. Then click on the arrow to move the pair of variables to the "Paired Variables" box.
 
-4. If you do not wish to alter the default (95%) confidence level, click "OK." A separate window with the output will appear.
+5. Check the "Estimate effect size" box to get Cohen's d.
+
+6. If you do not wish to alter the default (95%) confidence level, click "OK." A separate window with the output will appear.
 
 <p align="center"><kbd><img src="paired2.png"></kbd></p>
 
 ### Altering the Confidence Interval 
  
-5. If you wish to alter the width of the confidence interval, select the "Options" button.
+7. If you wish to alter the width of the confidence interval, select the "Options" button.
 
-6. Another dialogue box will appear where you can change the confidence level. When you are done, click "Continue." This will return you to the original dialogue box. 
+8. Another dialogue box will appear where you can change the confidence level. When you are done, click "Continue." This will return you to the original dialogue box. 
 
-7. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
+9. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
 <p align="center"><kbd><img src="paired3.png"></kbd></p>

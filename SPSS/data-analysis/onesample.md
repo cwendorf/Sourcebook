@@ -42,16 +42,18 @@ relatedthree:
 
 5. Be sure to enter a known or hypothesized mean into the "Test Value" field. If you do not enter a value here, SPSS will automatically use zero as the comparison mean. 
 
-6. If you do not wish to alter the default (95%) confidence level, click "OK." A separate window with the output will appear.
+6. Check the "Estimates of effect size" to get Cohen's d.
+
+7. If you do not wish to alter the default (95%) confidence level, click "OK." A separate window with the output will appear.
 
 <p align="center"><kbd><img src="onesample2.png"></kbd></p>
 
 ### Altering the Confidence Interval
 
-7. If you wish to alter the  width of the confidence interval, select the "Options" button.
+8. If you wish to alter the  width of the confidence interval, select the "Options" button.
 
-8. Another dialogue box will appear where you can change the confidence level. When you are done, click "Continue." This will return you to the original dialogue box. 
+9. Another dialogue box will appear where you can change the confidence level. When you are done, click "Continue." This will return you to the original dialogue box. 
 
-9. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
+10. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
 <p align="center"><kbd><img src="onesample3.png"></kbd></p>

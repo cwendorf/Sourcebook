@@ -50,24 +50,22 @@ relatedthree:
 
 7. If you wish to get the means and standard deviations for each group, select the "Options" button.
 
-8. Another dialogue box will appear where you can choose various statistics. Select "Descriptive statistics." 
+8. Another dialogue box will appear where you can choose various statistics. Select "Descriptive statistics." If you wish to get eta-squared measures for each factor (and the interaction), click on "Estimates of effect size." 
 
-9. If you wish to get eta-squared measures for each factor (and the interaction), click on "Estimates of effect size." 
+9. When you are done, click "Continue." This will return you to the original dialogue box.
 
- 10. When you are done, click "Continue." This will return you to the original dialogue box.
-
- 11. After clicking on "OK" in the original dialogue box, a separate window with the  output will appear.
+10. After clicking on "OK" in the original dialogue box, a separate window with the  output will appear.
 
 <p align="center"><kbd><img src="factorial3.png"></kbd></p>
 
 ### Obtaining Confidence Intervals
 
-12. If you wish to get the confidence intervals for each mean, select the "EM Means" button. 
+11. If you wish to get the confidence intervals for each mean, select the "EM Means" button. 
 
-13. Another dialogue box will appear where you can specify which effects (main effects and interactions) to analyze. Move the relevant terms to the "Display Means" box. 
+12. Another dialogue box will appear where you can specify which effects (main effects and interactions) to analyze. Move the relevant terms to the "Display Means" box. 
 
-14. When you are done, click "Continue." This will return you to the original dialogue box.
+13. When you are done, click "Continue." This will return you to the original dialogue box.
 
-15. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
+14. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
 <p align="center"><kbd><img src="factorial4.png"></kbd></p>

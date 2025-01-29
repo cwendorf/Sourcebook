@@ -28,9 +28,9 @@ relatedtwo:
 
 4. For categorical variables, you should also provide labels for the different categories. Do this by clicking on the "values" cell for the variable of interest. A button will appear and clicking on this button will make another dialog box appear. 
 
-5. You will use numbers to represent the two categories (or "levels") of the variable. Do this by entering the number representing the value in the "value" box and the actual value in the "label" box. Click "Add" after entering the information for each value. If your data set includes more than two groups, simply specify values and labels for each of the groups. 
+5. You will use numbers to represent the categories (or “levels”) of the variable. Do this by clicking the “+” button, then entering the number representing the value in the “value” box and the actual value in the “label” box. Repeated this process for each of the groups that you have. 
 
-6. When you have labeled all the values, click "OK" to return to the "Variable View." 
+6. When you have labeled all the values for both factors, click "OK" to return to the "Variable View." 
 
 <p align="center"><kbd><img src="factorial2.png"></kbd></p>
 
