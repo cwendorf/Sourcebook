@@ -24,9 +24,9 @@ relatedthree:
 
 # DEVISE | Data Analysis
 
-Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
-
 ## Paired Samples t Test
+
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
 
 ### Obtaining Descriptive Statistics
 
