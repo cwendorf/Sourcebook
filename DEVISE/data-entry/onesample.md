@@ -20,6 +20,8 @@ relatedtwo:
 
 ## One Sample Data
 
+In the steps below, the commands should be typed directly into the R console window.
+
 ### Entering Data
 
 Enter the data in a vector that assigns a variable name.

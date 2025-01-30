@@ -20,6 +20,8 @@ relatedtwo:
 
 ## Repeated Measures Data
 
+In the steps below, the commands should be typed directly into the R console window.
+
 ### Entering Data
 
 Enter the data in vectors that assign variable names.

@@ -10,6 +10,8 @@ headertwo: PDF Chapters
 relatedtwo:
   - title: R | Data Entry
     url: ./Sourcebook-R-DataEntry.pdf
+  - title: R | Data Analysis
+    url: ./Sourcebook-R-DataAnalysis.pdf
 ---
 
 # R (Base Functions)

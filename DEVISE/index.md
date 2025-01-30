@@ -10,6 +10,8 @@ headertwo: PDF Chapters
 relatedtwo:
   - title: DEVISE | Data Entry
     url: ./Sourcebook-DEVISE-DataEntry.pdf
+  - title: DEVISE | Data Analysis
+    url: ./Sourcebook-DEVISE-DataAnalysis.pdf
   - title: DEVISE | Annotated Output
     url: ./Sourcebook-DEVISE-AnnotatedOutput.pdf
 ---

@@ -14,6 +14,8 @@ relatedtwo:
 
 ## Factorial Data
 
+In the steps below, the commands should be typed directly into the R console window.
+
 ### Entering Data
 
 Enter the data in vectors that assign variable names. Notice that each participant has scores on both the Factors and Outcome Variables. There will be as many scores as people. On the categorical Factors, you will use numbers to represent the categories (or “levels”) of the variables.

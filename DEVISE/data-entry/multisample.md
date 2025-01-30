@@ -20,6 +20,8 @@ relatedtwo:
 
 ## Multiple Sample Data
 
+In the steps below, the commands should be typed directly into the R console window.
+
 ### Entering Data
 
 Enter the data in vectors that assign variable names. On the categorical Factor, you will use numbers to represent the categories (or “levels”) of the variable.

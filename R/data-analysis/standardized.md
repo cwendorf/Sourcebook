@@ -20,7 +20,7 @@ relatedthree:
 
 ## Standardized Scores
 
-Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere). As always, the following commands should be typed directly in the R console window.
 
 ### Computing Transformations
 

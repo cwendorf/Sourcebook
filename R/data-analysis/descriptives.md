@@ -22,7 +22,17 @@ relatedthree:
 
 ## Descriptives
 
-Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere). As always, the following commands should be typed directly in the R console window.
+
+###  Obtaining Frequencies
+
+Get the frequency distribution for the variable.
+
+```{r}
+FrequencyTable <- table(Outcome)
+FrequencyTable
+prop.table(FrequencyTable)
+```
 
 ### Obtaining Descriptive Statistics
 
