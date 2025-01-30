@@ -18,7 +18,7 @@ relatedtwo:
     url: ./Sourcebook-SPSS-BlankOutput.pdf
 ---
 
-# SPSS
+# IBM SPSS
 
 ## Using the Software
 
