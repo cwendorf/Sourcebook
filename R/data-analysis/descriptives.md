@@ -8,8 +8,10 @@ headertwo: R Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
+  - title: Data Analysis | Descriptives
+    url: ../data-analysis/descriptives
   - title: Annotated Output | Descriptives
-    url: ../annotated-output/frequencies
+    url: ../annotated-output/descriptives
 headerthree: R Files
 relatedthree:
   - title: Data Files | One Sample Data

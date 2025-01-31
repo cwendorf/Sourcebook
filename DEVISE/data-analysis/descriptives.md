@@ -10,6 +10,8 @@ relatedtwo:
     url: ../data-entry/onesample
   - title: Data Analysis | Descriptives
     url: ../data-analysis/descriptives
+  - title: Annotated Output | Descriptives
+    url: ../annotated-output/descriptives
 headerthree: DEVISE Files
 relatedthree:
   - title: Data Files | One Sample Data

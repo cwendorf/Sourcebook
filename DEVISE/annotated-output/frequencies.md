@@ -8,6 +8,8 @@ headertwo: DEVISE Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
+  - title: Data Analysis | One Sample Data
+    url: ../data-analysis/onesample    
   - title: Annotated Output | Frequencies
     url: ../annotated-output/frequencies
 headerthree: DEVISE Files
