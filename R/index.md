@@ -45,3 +45,19 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 - [Post Hoc Comparisons](./data-analysis/posthocs.md)
 - [Repeated Measures ANOVA](./data-analysis/repeated.md)
 - [Factorial ANOVA](./data-analysis/factorial.md)
+
+### Annotated Output
+
+This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. 
+
+- [Frequencies](./annotated-output/frequencies.md)
+- [Descriptives](./annotated-output/descriptives.md)
+- [Correlations](./annotated-output/correlations.md)
+- [Confidence Intervals](./annotated-output/intervals.md)
+- [One Sample t Test](./annotated-output/onesample.md)
+- [Paired Samples t Test](./annotated-output/paired.md)
+- [Independent Samples t Test](./annotated-output/independent.md)
+- [OneWay ANOVA](./annotated-output/oneway.md)
+- [Post Hoc Comparisons](./annotated-output/posthocs.md)
+- [Repeated Measures ANOVA](./annotated-output/repeated.md)
+- [Factorial ANOVA](./annotated-output/factorial.md)
