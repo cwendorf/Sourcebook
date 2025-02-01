@@ -12,6 +12,8 @@ relatedtwo:
     url: ./Sourcebook-R-DataEntry.pdf
   - title: R | Data Analysis
     url: ./Sourcebook-R-DataAnalysis.pdf
+  - title: R | Annotated Output
+    url: ./Sourcebook-R-AnnotatedOutput.pdf
 ---
 
 # R (Base Functions)
