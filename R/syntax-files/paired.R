@@ -15,5 +15,5 @@ sd(Outcome2)
 
 ### Inferential Statistics
 
-t.test(Outcome1-Outcome2,mu=0)
-t.test(Outcome1,Outcome2,paired=TRUE)
+t.test(Outcome2-Outcome1,mu=0)
+t.test(Outcome2,Outcome1,paired=TRUE)
