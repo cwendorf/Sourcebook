@@ -53,10 +53,11 @@ Get the correlation matrix for the variables.
 
 ### Obtaining Inferential Statistics
 
-Get the correlation and its confidence interval.
+Get the correlation and its confidence interval. Though the confidence interval defaults to 95%, it can be changed if desired.
 
 ```{r}
 (CorrelationData) |> estimateCorrelations()
+(CorrelationData) |> estimateCorrelations(conf.level = .99)
 ```
 
 Test the correlation for statistical significance.

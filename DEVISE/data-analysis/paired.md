@@ -38,10 +38,11 @@ Get the means and standard deviations for the variables.
 
 ### Obtaining Inferential Statistics
 
-Get the mean difference and its confidence interval.
+Get the mean difference and its confidence interval. Though the confidence interval defaults to 95%, it can be changed if desired.
 
 ```{r}
 (PairedData) |> estimateDifference()
+(PairedData) |> estimateDifference(conf.level = .99)
 ```
 
 Test the mean difference for statistical significance.

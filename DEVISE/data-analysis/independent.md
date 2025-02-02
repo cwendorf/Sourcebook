@@ -38,10 +38,11 @@ Get the mean and standard deviation of the dependent variable for each of the le
 
 ### Obtaining Inferential Statistics
 
-Get the mean difference and its confidence interval.
+Get the mean difference and its confidence interval. Though the confidence interval defaults to 95%, it can be changed if desired.
 
 ```{r}
 (Outcome~Factor) |> estimateDifference()
+(Outcome~Factor) |> estimateDifference(conf.level = .99)
 ```
 
 Test the mean difference for statistical significance.

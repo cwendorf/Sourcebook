@@ -39,8 +39,9 @@ Get the mean and standard deviation for the variable.
 
 ### Obtaining Inferential Statistics
 
-Get the mean and its confidence interval.
+Get the mean and its confidence interval. Though the confidence interval defaults to 95%, it can be changed if desired.
 
 ```{r}
 (Outcome) |> estimateMeans()
+(Outcome) |> estimateMeans(conf.level = .99)
 ```

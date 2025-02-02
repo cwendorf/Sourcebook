@@ -41,10 +41,11 @@ Get the mean and standard deviation for the dependent variable for each of the l
 
 ### Obtaining Inferential Statistics
 
-Get all pairwise mean difference and their confidence intervals while adjusting them for multiple comparisons.
+Get all pairwise mean difference and their confidence intervals while adjusting them for multiple comparisons. Though the confidence intervals default to 95%, they can be changed if desired.
 
 ```{r}
 (Outcome~Factor) |> estimatePosthoc()
+(Outcome~Factor) |> estimatePosthoc(conf.level = .99)
 ```
 
 Test all pairwise mean differences for statistical significance while adjusting them for multiple comparisons.
