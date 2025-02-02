@@ -22,7 +22,6 @@ relatedthree:
     url: ../output-files/correlations.txt
 ---
 
-
 # R | Data Analysis
 
 ## Correlations
@@ -31,13 +30,10 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Get the means and standard deviations for the variables.
+Get the sample sizes, means, and standard deviations for the variables.
 
 ```{r}
-mean(Outcome1)
-sd(Outcome1)
-mean(Outcome2)
-sd(Outcome2)
+lapply(CorrelationData, function(x) c(length(x), mean(x), sd(x)))
 ```
 
 Get the covariance and correlation matrices for the variables.
@@ -53,4 +49,10 @@ Get the correlation, its test for statistical significance, and its confidence i
 
 ```{r}
 cor.test(Outcome1,Outcome2)
+```
+
+You can change the width of the confidence interval if desired.
+
+```{r}
+cor.test(Outcome1,Outcome2,conf.level=.99)
 ```

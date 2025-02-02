@@ -30,16 +30,18 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Get the mean and standard deviation of the dependent variable for each of the levels.
+Get the mean, sample size, and standard deviation for the dependent variable for each of the levels. Also, get the means for the main effects.
 
 ```{r}
 Results <- aov(Outcome~FactorA*FactorB)
 model.tables(Results,"means")
+tapply(Outcome, list(FactorA,FactorB), length)
+tapply(Outcome, list(FactorA,FactorB), sd)
 ```
 
 ### Obtaining Inferential Statistics
 
-Get the analysis of variance source table and a test of statistical significance.
+Get the analysis of variance source table with test of statistical significance.
 
 ```{r}
 summary(Results)

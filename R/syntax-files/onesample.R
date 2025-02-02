@@ -7,8 +7,7 @@ OneSampleData <- data.frame(Outcome)
 
 ### Descriptive Statistics
 
-mean(Outcome)
-sd(Outcome)
+c(length(Outcome), mean(Outcome), sd(Outcome))
 
 ### Inferential Statistics
 

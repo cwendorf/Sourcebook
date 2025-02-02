@@ -2,39 +2,22 @@ One Way ANOVA
 
 > ### Descriptive Statistics
 > 
-> by(Outcome,Factor,mean)
-Factor: 1
-[1] 2
------------------------------------------------------------------------ 
-Factor: 2
-[1] 6
------------------------------------------------------------------------ 
-Factor: 3
-[1] 7
-> by(Outcome,Factor,sd)
-Factor: 1
-[1] 2.44949
------------------------------------------------------------------------ 
-Factor: 2
-[1] 2.44949
------------------------------------------------------------------------ 
-Factor: 3
-[1] 2.44949
-> 
-> Results <- aov(Outcome~Factor)
-> model.tables(Results,"means")
-Tables of means
-Grand mean
-  
-5 
+> mean(Outcome)
+[1] 5
+> tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
+$`1`
+[1] 4.00000 2.00000 2.44949
 
- Factor 
-Factor
-1 2 3 
-2 6 7 
+$`2`
+[1] 4.00000 6.00000 2.44949
+
+$`3`
+[1] 4.00000 7.00000 2.44949
+
 > 
 > ### Inferential Statistics
 > 
+> Results <- aov(Outcome~Factor)
 > summary(Results)
             Df Sum Sq Mean Sq F value Pr(>F)  
 Factor       2     56      28   4.667 0.0407 *

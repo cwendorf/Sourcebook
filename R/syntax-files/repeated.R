@@ -8,18 +8,9 @@ RepeatedData <- data.frame(Outcome1,Outcome2)
 
 ### Descriptive Statistics
 
-mean(Outcome1)
-sd(Outcome1)
-mean(Outcome2)
-sd(Outcome2)
-
-StackData=reshape(RepeatedData,varying=c("Outcome1","Outcome2"),v.names="Outcome",timevar="Factor",idvar="Subject",direction="long")
-attach(StackData)
-StackData
-
-Results=aov(Outcome~factor(Factor)+Error(factor(Subject)))
-model.tables(Results,"means")
+lapply(RepeatedData, function(x) c(length(x), mean(x), sd(x)))
 
 ### Inferential Statistics
 
+Results=aov(Outcome~factor(Factor)+Error(factor(Subject)))
 summary(Results)

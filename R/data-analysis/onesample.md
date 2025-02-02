@@ -30,11 +30,10 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Get the mean and standard deviation for the variable.
+Get the sample size, mean, and standard deviation for the variable.
 
 ```{r}
-mean(Outcome)
-sd(Outcome)
+c(length(Outcome), mean(Outcome), sd(Outcome))
 ```
 
 ### Obtaining Inferential Statistics
@@ -43,4 +42,10 @@ Test the mean difference for statistical significance and get its confidence int
 
 ```{r}
 t.test(Outcome,mu=7)
+```
+
+Also, you can change the width of the confidence interval if desired.
+
+```{r}
+t.test(Outcome,mu=7,conf.level=.99)
 ```

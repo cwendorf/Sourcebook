@@ -30,23 +30,22 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Get the means and standard deviations for the variables.
+Get the sample sizes, means, and standard deviations for the variables.
 
 ```{r}
-mean(Outcome1)
-sd(Outcome1)
-mean(Outcome2)
-sd(Outcome2)
+lapply(PairedData, function(x) c(length(x), mean(x), sd(x)))
 ```
 
 ### Obtaining Inferential Statistics
 
-Test the mean difference for statistical significance and its confidence interval.
+Test the mean difference for statistical significance and get its confidence interval.
 
 ```{r}
-t.test(Outcome1-Outcome2,mu=0)
+t.test(Outcome2,Outcome1,paired=TRUE)
 ```
 
+Also, you can change the width of the confidence interval if desired.
+
 ```{r}
-t.test(Outcome1,Outcome2,paired=TRUE)
+t.test(Outcome2,Outcome1,paired=TRUE,conf.level=.99)
 ```

@@ -9,12 +9,10 @@ OneWayData <- data.frame(Factor,Outcome)
 
 ### Descriptive Statistics
 
-by(Outcome,Factor,mean)
-by(Outcome,Factor,sd)
-
-Results <- aov(Outcome~Factor)
-model.tables(Results,"means")
+mean(Outcome)
+tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
 
 ### Inferential Statistics
 
+Results <- aov(Outcome~Factor)
 summary(Results)

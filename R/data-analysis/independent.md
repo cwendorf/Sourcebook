@@ -33,8 +33,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 Get the mean and standard deviation for the dependent variable for each of the levels.
 
 ```{r}
-by(Outcome,Factor,mean)
-by(Outcome,Factor,sd)
+tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
 ```
 
 ### Obtaining Inferential Statistics
@@ -43,4 +42,10 @@ Test the mean difference for statistical significance and get its confidence int
 
 ```{r}
 t.test(Outcome~Factor,var.equal=T)
+```
+
+Also, you can change the width of the confidence interval if desired.
+
+```{r}
+t.test(Outcome~Factor,var.equal=T,conf.level=0.99)
 ```

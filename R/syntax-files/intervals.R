@@ -7,6 +7,7 @@ IntervalsData <- data.frame(Outcome)
 
 ### Descriptive Statistics
 
+length(Outcome)
 mean(Outcome)
 sd(Outcome)
 

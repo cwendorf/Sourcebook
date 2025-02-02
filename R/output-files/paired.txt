@@ -2,39 +2,26 @@ Paired Samples t Test
 
 > ### Descriptive Statistics
 > 
-> mean(Outcome1)
-[1] 2
-> sd(Outcome1)
-[1] 2.44949
-> mean(Outcome2)
-[1] 6
-> sd(Outcome2)
-[1] 2.44949
+> lapply(PairedData, function(x) c(length(x), mean(x), sd(x)))
+$Outcome1
+[1] 4.00000 2.00000 2.44949
+
+$Outcome2
+[1] 4.00000 6.00000 2.44949
+
 > 
 > ### Inferential Statistics
 > 
-> t.test(Outcome1-Outcome2,mu=0)
+> t.test(Outcome2,Outcome1,paired=TRUE)
 
-	One Sample t-test
+        Paired t-test
 
-data:  Outcome1 - Outcome2
-t = -3.266, df = 3, p-value = 0.04692
-alternative hypothesis: true mean is not equal to 0
-95 percent confidence interval:
- -7.8976848 -0.1023152
-sample estimates:
-mean of x 
-       -4 
- 
-> t.test(Outcome1,Outcome2,paired=TRUE)
-
-	Paired t-test
-
-data:  Outcome1 and Outcome2
-t = -3.266, df = 3, p-value = 0.04692
+data:  Outcome2 and Outcome1
+t = 3.266, df = 3, p-value = 0.04692
 alternative hypothesis: true mean difference is not equal to 0
 95 percent confidence interval:
- -7.8976848 -0.1023152
+ 0.1023152 7.8976848
 sample estimates:
 mean difference 
-             -4 
+              4 
+              

@@ -30,26 +30,10 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Get the means and standard deviations for the variables.
+Get the sample sizes, means, and standard deviations for the variables.
 
 ```{r}
-mean(Outcome1)
-sd(Outcome1)
-mean(Outcome2)
-sd(Outcome2)
-```
-
-Change the data format for use with R procedures.
-
-```{r}
-StackData=reshape(RepeatedData,varying=c("Outcome1","Outcome2"),v.names="Outcome",timevar="Factor",idvar="Subject",direction="long")
-attach(StackData)
-StackData
-```
-
-```{r}
-Results=aov(Outcome~factor(Factor)+Error(factor(Subject)))
-model.tables(Results,"means")
+lapply(RepeatedData, function(x) c(length(x), mean(x), sd(x)))
 ```
 
 ### Obtaining Inferential Statistics
@@ -57,5 +41,6 @@ model.tables(Results,"means")
 Get the ANOVA source table with tests of statistical significance.
 
 ```{r}
+Results=aov(Outcome~factor(Factor)+Error(factor(Subject)))
 summary(Results)
 ```

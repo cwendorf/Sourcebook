@@ -13,6 +13,7 @@ prop.table(FrequencyTable)
 
 ### Descriptive Statistics
 
+length(Outcome)
 mean(Outcome)
 var(Outcome)
 sd(Outcome)

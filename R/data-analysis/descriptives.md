@@ -38,9 +38,10 @@ prop.table(FrequencyTable)
 
 ### Obtaining Descriptive Statistics
 
-Get the mean, variance, and standard deviation for the variable.
+Get the sample size, mean, variance, and standard deviation for the variable.
 
 ```{r}
+length(Outcome)
 mean(Outcome)
 var(Outcome)
 sd(Outcome)

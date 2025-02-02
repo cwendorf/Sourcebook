@@ -14,6 +14,8 @@ Outcome
 > 
 > ### Descriptive Statistics
 > 
+> length(Outcome)
+[1] 8
 > mean(Outcome)
 [1] 4
 > var(Outcome)

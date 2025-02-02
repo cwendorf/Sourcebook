@@ -8,10 +8,7 @@ CorrelationData <- data.frame(Outcome1,Outcome2)
 
 ### Descriptive Statistics
 
-mean(Outcome1)
-sd(Outcome1)
-mean(Outcome2)
-sd(Outcome2)
+lapply(CorrelationData, function(x) c(length(x), mean(x), sd(x)))
 
 cov(Outcome1,Outcome2)
 cor(Outcome1,Outcome2)

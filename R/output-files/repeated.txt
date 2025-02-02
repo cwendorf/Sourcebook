@@ -1,42 +1,22 @@
 Repeated Measures ANOVA
 
 > ### Descriptive Statistics
->
-> mean(Outcome1)
-[1] 2
-> sd(Outcome1)
-[1] 2.44949
-> mean(Outcome2)
-[1] 6
-> sd(Outcome2)
-[1] 2.44949
 > 
-> StackData=reshape(RepeatedData,varying=c("Outcome1","Outcome2"),v.names="Out$
-> attach(StackData)
-> Results=aov(Outcome~factor(Factor)+Error(factor(Subject)))
-> model.tables(Results,"means")
-Tables of means
-Grand mean
+> lapply(RepeatedData, function(x) c(length(x), mean(x), sd(x)))
+$Outcome1
+[1] 4.00000 2.00000 2.44949
 
-4
+$Outcome2
+[1] 4.00000 6.00000 2.44949
 
- factor(Factor)
-factor(Factor)
-1 2
-2 6
 > 
 > ### Inferential Statistics
->
-> summary(Results)
-
-Error: factor(Subject)
-          Df Sum Sq Mean Sq F value Pr(>F)
-Residuals  3     27       9
-
-Error: Within
-               Df Sum Sq Mean Sq F value Pr(>F)
-factor(Factor)  1     32      32   10.67 0.0469 *
-Residuals       3      9       3
----
-Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 > 
+> Results=aov(Outcome~factor(Factor)+Error(factor(Subject)))
+Error in eval(predvars, data, env) : object 'Subject' not found
+> summary(Results)
+            Df Sum Sq Mean Sq F value Pr(>F)  
+Factor       2     56      28   4.667 0.0407 *
+Residuals    9     54       6                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

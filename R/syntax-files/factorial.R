@@ -14,6 +14,9 @@ FactorialData <- data.frame(FactorA,FactorB,Outcome)
 Results <- aov(Outcome~FactorA*FactorB)
 model.tables(Results,"means")
 
+tapply(Outcome, list(FactorA,FactorB), length)
+tapply(Outcome, list(FactorA,FactorB), sd)
+
 ### Inferential Statistics
 
 summary(Results)

@@ -8,12 +8,8 @@ PairedData <- data.frame(Outcome1,Outcome2)
 
 ### Descriptive Statistics
 
-mean(Outcome1)
-sd(Outcome1)
-mean(Outcome2)
-sd(Outcome2)
+lapply(PairedData, function(x) c(length(x), mean(x), sd(x)))
 
 ### Inferential Statistics
 
-t.test(Outcome2-Outcome1,mu=0)
 t.test(Outcome2,Outcome1,paired=TRUE)
