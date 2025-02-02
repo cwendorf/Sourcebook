@@ -18,6 +18,8 @@ headerthree: SPSS Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.sav
+  - title: Syntax Files | Frequencies
+    url: ../syntax-files/frequencies.sps
   - title: Output Files | Frequencies
     url: ../output-files/frequencies.spv
 ---

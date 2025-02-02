@@ -18,6 +18,8 @@ headerthree: SPSS Files
 relatedthree:
   - title: Data Files | Repeated Measures Data
     url: ../data-files/repeated.sav
+  - title: Syntax Files | Repeated Measures ANOVA
+    url: ../syntax-files/repeated.sps
   - title: Output Files | Repeated Measures ANOVA
     url: ../output-files/repeated.spv
 ---

@@ -1,0 +1,8 @@
+﻿* Encoding: UTF-8.
+
+DATASET ACTIVATE DataSet3.
+T-TEST GROUPS=Factor(1 2)
+  /MISSING=ANALYSIS
+  /VARIABLES=Outcome
+  /ES DISPLAY(TRUE)
+  /CRITERIA=CI(.95).

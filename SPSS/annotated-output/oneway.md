@@ -18,6 +18,8 @@ headerthree: SPSS Files
 relatedthree:
   - title: Data Files | OneWay Data
     url: ../data-files/oneway.sav
+  - title: Syntax Files | OneWay ANOVA
+    url: ../syntax-files/oneway.sps
   - title: Output Files | OneWay ANOVA
     url: ../output-files/oneway.spv
 ---

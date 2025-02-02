@@ -18,6 +18,8 @@ headerthree: SPSS Files
 relatedthree:
   - title: Data Files | Independent Sample Data
     url: ../data-files/independent.sav
+  - title: Syntax Files | Independent Samples t Test
+    url: ../syntax-files/independent.sps
   - title: Output Files | Independent Samples t Test
     url: ../output-files/independent.spv
 ---

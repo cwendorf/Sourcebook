@@ -18,6 +18,8 @@ headerthree: DEVISE Files
 relatedthree:
   - title: Data Files | Factorial Data
     url: ../data-files/factorial.csv
+  - title: Syntax Files | Factorial ANOVA
+    url: ../syntax-files/factorial.R
   - title: Output Files | Factorial ANOVA
     url: ../output-files/factorial.txt
 ---

@@ -18,6 +18,8 @@ headerthree: DEVISE Files
 relatedthree:
   - title: Data Files | OneWay Data
     url: ../data-files/oneway.sav
+  - title: Syntax Files | Post Hoc Comparisons
+    url: ../syntax-files/posthocs.sps
   - title: Output Files | Post Hoc Comparisons
     url: ../output-files/posthocs.spv
 ---

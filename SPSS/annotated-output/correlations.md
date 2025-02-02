@@ -18,6 +18,8 @@ headerthree: SPSS Files
 relatedthree:
   - title: Data Files | Paired Data
     url: ../data-files/paired.sav
+  - title: Syntax Files | Correlations
+    url: ../syntax-files/correlations.sps
   - title: Output Files | Correlations
     url: ../output-files/correlations.spv
 ---

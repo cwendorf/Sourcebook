@@ -18,6 +18,8 @@ headerthree: R Files
 relatedthree:
   - title: Data Files | Paired Data
     url: ../data-files/paired.csv
+  - title: Syntax Files | Correlations
+    url: ../syntax-files/correlations.R
   - title: Output Files | Correlations
     url: ../output-files/correlations.txt
 ---

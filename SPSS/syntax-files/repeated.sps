@@ -1,0 +1,9 @@
+﻿* Encoding: UTF-8.
+
+GLM Outcome1 Outcome2
+  /WSFACTOR=Time 2 Polynomial 
+  /METHOD=SSTYPE(3)
+  /EMMEANS=TABLES(Time) 
+  /PRINT=DESCRIPTIVE ETASQ 
+  /CRITERIA=ALPHA(.05)
+  /WSDESIGN=Time.

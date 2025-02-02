@@ -1,0 +1,12 @@
+﻿* Encoding: UTF-8.
+
+DATASET ACTIVATE DataSet5.
+UNIANOVA Outcome BY FactorA FactorB
+  /METHOD=SSTYPE(3)
+  /INTERCEPT=INCLUDE
+  /EMMEANS=TABLES(FactorA) 
+  /EMMEANS=TABLES(FactorB) 
+  /EMMEANS=TABLES(FactorA*FactorB) 
+  /PRINT ETASQ DESCRIPTIVE
+  /CRITERIA=ALPHA(.05)
+  /DESIGN=FactorA FactorB FactorA*FactorB.

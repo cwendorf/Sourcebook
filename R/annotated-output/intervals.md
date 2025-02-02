@@ -18,6 +18,8 @@ headerthree: DEVISE Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv
+  - title: Syntax Files | Confidence Intervals
+    url: ../syntax-files/intervals.R
   - title: Output Files | Confidence Intervals
     url: ../output-files/intervals.txt
 ---

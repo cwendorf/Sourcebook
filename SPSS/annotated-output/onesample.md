@@ -18,6 +18,8 @@ headerthree: SPSS Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.sav
+  - title: Syntax Files | One Sample t Test
+    url: ../syntax-files/onesample.sps
   - title: Output Files | One Sample t Test
     url: ../output-files/onesample.spv
 ---

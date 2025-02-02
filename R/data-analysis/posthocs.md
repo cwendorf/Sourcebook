@@ -18,6 +18,8 @@ headerthree: R Files
 relatedthree:
   - title: Data Files | OneWay Data
     url: ../data-files/oneway.csv
+  - title: Syntax Files | Post Hoc Comparisons
+    url: ../syntax-files/posthocs.R
   - title: Output Files | Post Hoc Comparisons
     url: ../output-files/posthocs.txt
 ---

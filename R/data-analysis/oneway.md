@@ -18,6 +18,8 @@ headerthree: R Files
 relatedthree:
   - title: Data Files | OneWay Data
     url: ../data-files/oneway.csv
+  - title: Syntax Files | OneWay ANOVA
+    url: ../syntax-files/oneway.R
   - title: Output Files | OneWay ANOVA
     url: ../output-files/oneway.txt
 ---

@@ -18,6 +18,8 @@ headerthree: SPSS Files
 relatedthree:
   - title: Data Files | Factorial Data
     url: ../data-files/factorial.sav
+  - title: Syntax Files | Factorial ANOVA
+    url: ../syntax-files/factorial.sps
   - title: Output Files | Factorial ANOVA
     url: ../output-files/factorial.spv
 ---

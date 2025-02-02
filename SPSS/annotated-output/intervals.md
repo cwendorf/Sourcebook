@@ -18,6 +18,8 @@ headerthree: SPSS Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.sav
+  - title: Syntax Files | Confidence Intervals
+    url: ../syntax-files/intervals.sps
   - title: Output Files | Confidence Intervals
     url: ../output-files/intervals.spv
 ---

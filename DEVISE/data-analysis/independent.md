@@ -18,6 +18,8 @@ headerthree: DEVISE Files
 relatedthree:
   - title: Data Files | Independent Sample Data
     url: ../data-files/independent.csv
+  - title: Syntax Files | Independent Samples t Test
+    url: ../syntax-files/independent.R
   - title: Output Files | Independent Samples t Test
     url: ../output-files/independent.txt
 ---

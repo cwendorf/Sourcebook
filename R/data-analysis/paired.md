@@ -18,6 +18,8 @@ headerthree: R Files
 relatedthree:
   - title: Data Files | Paired Data
     url: ../data-files/paired.csv
+  - title: Syntax Files | Paired Samples t Test
+    url: ../syntax-files/paired.R
   - title: Output Files | Paired Samples t Test
     url: ../output-files/paired.txt
 ---

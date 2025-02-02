@@ -16,6 +16,8 @@ headerthree: R Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv
+  - title: Syntax Files | Descriptives
+    url: ../syntax-files/descriptives.R
   - title: Output Files | Descriptives
     url: ../output-files/descriptives.txt
 ---

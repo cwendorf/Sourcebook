@@ -16,6 +16,8 @@ headerthree: R Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv
+  - title: Syntax Files | Frequencies
+    url: ../syntax-files/frequencies.R
   - title: Output Files | Frequencies
     url: ../output-files/frequencies.txt
 ---

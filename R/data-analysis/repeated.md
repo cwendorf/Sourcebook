@@ -18,6 +18,8 @@ headerthree: R Files
 relatedthree:
   - title: Data Files | Repeated Measures Data
     url: ../data-files/repeated.csv
+  - title: Syntax Files | Repeated Measures ANOVA
+    url: ../syntax-files/repeated.R
   - title: Output Files | Repeated Measures ANOVA
     url: ../output-files/repeated.txt
 ---
