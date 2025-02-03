@@ -32,7 +32,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Get the mean and standard deviation for the dependent variable for each of the levels.
+Get the samples size, mean, and standard deviation for the dependent variable for each of the levels.
 
 ```{r}
 tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
