@@ -10,17 +10,17 @@ relatedone:
     url: ../worked-examples/repeated
   - title: Worked Examples | Factorial ANOVA
     url: ../worked-examples/factorial
-headertwo: Software Guides
+headertwo: Software Articles
 relatedtwo:
-  - title: SPSS | Using the Software
+  - title: SPSS Articles
     url: ../../SPSS/
-  - title: jamovi | Using the Software
+  - title: jamovi Articles
     url: ../../jamovi/
-  - title: JASP | Using the Software
+  - title: JASP Articles
     url: ../../JASP/
-  - title: R | Using the Software
+  - title: R Articles
     url: ../../R/
-  - title: DEVISE | Using the Software
+  - title: DEVISE Articles
     url: ../../DEVISE/
 ---
 

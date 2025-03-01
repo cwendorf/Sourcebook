@@ -6,7 +6,7 @@ relatedone:
     url: ../statistical-tables/normal
   - title: Worked Examples | Standardized Scores
     url: ../worked-examples/standardized
-headertwo: Software Guides
+headertwo: Software Articles
 relatedtwo:
   - title: SPSS Articles
     url: ../../SPSS/

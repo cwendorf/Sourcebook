@@ -8,7 +8,7 @@ relatedone:
     url: ../apa-style/summary
   - title: Worked Examples | Confidence Intervals
     url: ../worked-examples/intervals
-headertwo: Software Guides
+headertwo: Software Articles
 relatedtwo:
   - title: SPSS Articles
     url: ../../SPSS/

@@ -8,7 +8,7 @@ relatedone:
     url: ../apa-style/summary
   - title: Worked Examples | Paired Samples t Test
     url: ../worked-examples/paired
-headertwo: Software Guides
+headertwo: Software Articles
 relatedtwo:
   - title: SPSS Articles
     url: ../../SPSS/

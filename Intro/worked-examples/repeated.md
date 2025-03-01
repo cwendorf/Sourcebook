@@ -8,7 +8,7 @@ relatedone:
     url: ../apa-style/summary
   - title: Worked Examples | Repeated Measures ANOVA
     url: ../worked-examples/repeated
-headertwo: Software Guides
+headertwo: Software Articles
 relatedtwo:
   - title: SPSS Articles
     url: ../../SPSS/

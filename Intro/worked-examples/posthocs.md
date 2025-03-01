@@ -8,7 +8,7 @@ relatedone:
     url: ../apa-style/summary
   - title: Worked Examples | Post Hoc Comparisons
     url: ../worked-examples/posthocs
-headertwo: Software Guides
+headertwo: Software Articles
 relatedtwo:
   - title: SPSS Articles
     url: ../../SPSS/

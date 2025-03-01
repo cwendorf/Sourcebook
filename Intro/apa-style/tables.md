@@ -8,17 +8,17 @@ relatedone:
     url: ./summary
   - title: APA Style | Examples of Results in Tables
     url: ./tables
-headertwo: Software Guides
+headertwo: Software Articles
 relatedtwo:
-  - title: SPSS | Using the Software
+  - title: SPSS Articles
     url: ../../SPSS/
-  - title: jamovi | Using the Software
+  - title: jamovi Articles
     url: ../../jamovi/
-  - title: JASP | Using the Software
+  - title: JASP Articles
     url: ../../JASP/
-  - title: R | Using the Software
+  - title: R Articles
     url: ../../R/
-  - title: DEVISE | Using the Software
+  - title: DEVISE Articles
     url: ../../DEVISE/
 ---
 

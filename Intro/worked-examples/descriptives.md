@@ -6,7 +6,7 @@ relatedone:
     url: ../apa-style/summary
   - title: Worked Examples | Descriptives
     url: ../worked-examples/descriptives
-headertwo: Software Guides
+headertwo: Software Articles
 relatedtwo:
   - title: SPSS Articles
     url: ../../SPSS/
