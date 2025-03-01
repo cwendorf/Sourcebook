@@ -20,9 +20,9 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro | Statistical Tables
+# Intro Articles
 
-## Tukey&#39;s HSD
+## Statistical Tables | Tukey&#39;s HSD
 
 ### Values of Tukey&#39;s HSD Statistic
 

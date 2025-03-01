@@ -22,9 +22,9 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro | APA Style
+# Intro Articles
 
-## Summary of Parametric Statistic Reporting
+## APA Style | Summary of Parametric Statistic Reporting
 
 | **Statistic** | **Purpose** | **APA Style** | **Description** |
 | --- | --- | --- | --- |

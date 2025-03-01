@@ -22,9 +22,9 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro | APA Style
+# Intro Articles
 
-## Examples of Results in Tables
+## APA Style | Examples of Results in Tables
 
 In more complex examples – such as those with multiple outcome variables – it is often preferred to place statistical information in tables rather than in the text.
 

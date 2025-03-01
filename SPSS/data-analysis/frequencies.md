@@ -24,9 +24,9 @@ relatedthree:
     url: ../output-files/frequencies.spv
 ---
 
-# SPSS | Data Analysis
+# SPSS Articles
 
-## Frequencies and Descriptives
+## Data Analysis | Frequencies and Descriptives
 
 ### Selecting the Analysis
 

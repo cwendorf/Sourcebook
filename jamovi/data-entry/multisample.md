@@ -16,9 +16,9 @@ relatedtwo:
     url: ../data-files/oneway.omv
 ---
 
-# jamovi | Data Entry
+# jamovi Articles
 
-## Multiple Sample Data 
+## Data Entry | Multiple Sample Data 
 
 ### Defining Variables
 

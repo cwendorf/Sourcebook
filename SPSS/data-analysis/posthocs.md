@@ -24,9 +24,9 @@ relatedthree:
     url: ../output-files/posthocs.spv
 ---
 
-# SPSS | Data Analysis
+# SPSS Articles
 
-## Post Hoc Comparisons
+## Data Analysis | Post Hoc Comparisons
 
 ### Selecting the Analysis
 

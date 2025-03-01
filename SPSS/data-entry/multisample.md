@@ -16,9 +16,9 @@ relatedtwo:
     url: ../data-files/oneway.sav
 ---
 
-# SPSS | Data Entry
+# SPSS Articles
 
-## Multiple Sample Data 
+## Data Entry | Multiple Sample Data 
 
 ### Defining Variables 
 

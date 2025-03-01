@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/paired.jasp
 ---
 
-# JASP | Annotated Output
+# JASP Articles
 
-## Paired Samples t Test
+## Annotated Output | Paired Samples t Test
 
 <p align="center"><kbd><img src="paired.png"></kbd></p>

@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/independent.jasp
 ---
 
-# JASP | Data Analysis
+# JASP Articles
 
-## Independent Samples t Test
+## Data Analysis | Independent Samples t Test
 
 ### Selecting the Analysis
 

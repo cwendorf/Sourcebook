@@ -24,9 +24,9 @@ relatedthree:
     url: ../output-files/repeated.spv
 ---
 
-# SPSS | Data Analysis
+# SPSS Articles
 
-## Repeated Measures ANOVA
+## Data Analysis | Repeated Measures ANOVA
 
 ### Selecting the Analysis
 

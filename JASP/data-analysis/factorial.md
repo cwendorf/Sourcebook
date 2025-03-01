@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/factorial.jasp
 ---
 
-# JASP | Data Analysis
+# JASP Articles
 
-## Factorial ANOVA
+## Data Analysis | Factorial ANOVA
 
 ### Selecting the Analysis
 

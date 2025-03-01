@@ -24,9 +24,9 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro | Statistical Tables
+# Intro Articles
 
-## Snedecor's *F*
+## Statistical Tables | Snedecor's *F*
 
 ### Critical Values of the *F* Distribution
 

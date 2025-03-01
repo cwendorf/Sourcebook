@@ -24,9 +24,9 @@ relatedthree:
     url: ../output-files/independent.txt
 ---
 
-# R | Data Analysis
+# R Articles
 
-## Independent Samples t Test
+## Data Analysis | Independent Samples t Test
 
 Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere). As always, the following commands should be typed directly in the R console window.
 

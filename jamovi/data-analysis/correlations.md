@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/correlations.omv
 ---
 
-# jamovi | Data Analysis
+# jamovi Articles
 
-## Correlations
+## Data Analysis | Correlations
 
 ### Selecting the Analysis 
 

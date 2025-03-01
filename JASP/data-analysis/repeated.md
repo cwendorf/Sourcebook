@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/repeated.jasp
 ---
 
-# JASP | Data Analysis
+# JASP Articles
 
-## Repeated Measures ANOVA 
+## Data Analysis | Repeated Measures ANOVA 
 
 ### Selecting the Analysis
 

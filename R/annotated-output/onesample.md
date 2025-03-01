@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/onesample.txt
 ---
 
-# R | Annotated Output
+# R Articles
 
-## One Sample t Test
+## Annotated Output | One Sample t Test
 
 <p align="center"><kbd><img src="onesample.jpg"></kbd></p>

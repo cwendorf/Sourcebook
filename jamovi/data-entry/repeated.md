@@ -16,9 +16,9 @@ relatedtwo:
     url: ../data-files/repeated.omv
 ---
 
-# jamovi | Data Entry
+# jamovi Articles
 
-## Repeated Measures Data
+## Data Entry | Repeated Measures Data
 
 ### Defining Variables 
 

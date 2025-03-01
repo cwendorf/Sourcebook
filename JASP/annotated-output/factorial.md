@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/factorial.jasp
 ---
 
-# JASP | Annotated Output
+# JASP Articles
 
-## Factorial ANOVA
+## Annotated Output | Factorial ANOVA
 
 <p align="center"><kbd><img src="factorial.png"></kbd></p>

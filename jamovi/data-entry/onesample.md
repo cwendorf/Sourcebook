@@ -14,9 +14,9 @@ relatedtwo:
     url: ../data-files/onesample.omv
 ---
 
-# jamovi | Data Entry
+# jamovi Articles
 
-## One Sample Data
+## Data Entry | One Sample Data
 
 ### Defining Variables
 

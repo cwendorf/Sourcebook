@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/posthocs.jasp
 ---
 
-# JASP | Annotated Output
+# JASP Articles
 
-## Post Hoc Comparisons
+## Annotated Output | Post Hoc Comparisons
 
 <p align="center"><kbd><img src="posthocs.png"></kbd></p>

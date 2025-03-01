@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/independent.omv
 ---
 
-# jamovi | Data Analysis
+# jamovi Articles
 
-## Independent Samples t Test 
+## Data Analysis | Independent Samples t Test 
 
 ### Selecting the Analysis
 

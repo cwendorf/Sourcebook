@@ -8,23 +8,23 @@ relatedone:
     url: ../apa-style/summary
   - title: Worked Examples | Correlations
     url: ../worked-examples/correlations
-headertwo: Software Guides
+headertwo: Software Articles
 relatedtwo:
-  - title: SPSS | Using the Software
+  - title: SPSS Articles
     url: ../../SPSS/
-  - title: jamovi | Using the Software
+  - title: jamovi Articles
     url: ../../jamovi/
-  - title: JASP | Using the Software
+  - title: JASP Articles
     url: ../../JASP/
-  - title: R | Using the Software
+  - title: R Articles
     url: ../../R/
-  - title: DEVISE | Using the Software
+  - title: DEVISE Articles
     url: ../../DEVISE/
 ---
 
-# Intro | Worked Examples
+# Intro Articles
 
-## Correlations
+## Worked Examples | Correlations
 
 ### Data
 

@@ -16,9 +16,9 @@ relatedtwo:
     url: ../data-files/oneway.jasp
 ---
 
-# JASP | Data Entry
+# JASP Articles
 
-## Multiple Sample Data 
+## Data Entry | Multiple Sample Data 
 
 ### Defining Variables
 

@@ -24,9 +24,9 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro | Statistical Analyses
+# Intro Articles
 
-## Understanding Effect Size Measures
+## Statistical Analyses | Understanding Effect Size Measures
 
 ### Types of Effect Size Measures
 

@@ -20,8 +20,8 @@ relatedthree:
     url: ../output-files/descriptives.txt
 ---
 
-# R | Annotated Output
+# R Articles
 
-## Descriptives
+## Annotated Output | Descriptives
 
 <p align="center"><kbd><img src="descriptives.jpg"></kbd></p>

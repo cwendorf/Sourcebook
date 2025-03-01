@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/paired.txt
 ---
 
-# R | Annotated Output
+# R Articles
 
-## Paired Samples t Test
+## Annotated Output | Paired Samples t Test
 
 <p align="center"><kbd><img src="paired.jpg"></kbd></p>

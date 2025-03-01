@@ -18,9 +18,9 @@ relatedthree:
     url: ../output-files/standardized.spv
 ---
 
-# SPSS | Data Analysis
+# SPSS Articles
 
-## Transformations and Standardized Scores 
+## Data Analysis | Transformations and Standardized Scores 
 
 ### Selecting the Analysis 
 

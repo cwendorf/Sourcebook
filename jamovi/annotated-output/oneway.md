@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/oneway.omv
 ---
 
-# jamovi | Annotated Output
+# jamovi Articles
 
-## OneWay ANOVA
+## Annotated Output | OneWay ANOVA
 
 <p align="center"><kbd><img src="oneway.png"></kbd></p>

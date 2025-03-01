@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/paired.jasp
 ---
 
-# JASP | Data Analysis
+# JASP Articles
 
-## Paired Samples t Test
+## Data Analysis | Paired Samples t Test
 
 ### Selecting the Analysis
 

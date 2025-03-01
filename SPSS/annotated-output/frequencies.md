@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/frequencies.spv
 ---
 
-# SPSS | Annotated Output
+# SPSS Articles
 
-## Frequencies and Descriptives
+## Annotated Output | Frequencies and Descriptives
 
 <p align="center"><kbd><img src="frequencies.png"></kbd></p>

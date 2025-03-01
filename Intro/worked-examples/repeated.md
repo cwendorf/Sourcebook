@@ -10,21 +10,21 @@ relatedone:
     url: ../worked-examples/repeated
 headertwo: Software Guides
 relatedtwo:
-  - title: SPSS | Using the Software
+  - title: SPSS Articles
     url: ../../SPSS/
-  - title: jamovi | Using the Software
+  - title: jamovi Articles
     url: ../../jamovi/
-  - title: JASP | Using the Software
+  - title: JASP Articles
     url: ../../JASP/
-  - title: R | Using the Software
+  - title: R Articles
     url: ../../R/
-  - title: DEVISE | Using the Software
+  - title: DEVISE Articles
     url: ../../DEVISE/
 ---
 
-# Intro | Worked Examples
+# Intro Articles
 
-## Repeated Measures ANOVA
+## Worked Examples | Repeated Measures ANOVA
 
 ### Data
 

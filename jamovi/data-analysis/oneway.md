@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/oneway.omv
 ---
 
-# jamovi | Data Analysis
+# jamovi Articles
 
-## OneWay ANOVA
+## Data Analysis | OneWay ANOVA
 
 ### Selecting the Analysis
 

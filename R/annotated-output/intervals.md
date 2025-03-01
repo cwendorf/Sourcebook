@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/intervals.txt
 ---
 
-# R | Annotated Output
+# R Articles
 
-## Confidence Intervals
+## Annotated Output | Confidence Intervals
 
 <p align="center"><kbd><img src="intervals.jpg"></kbd></p>

@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/paired.omv
 ---
 
-# jamovi | Data Analysis
+# jamovi Articles
 
-## Paired Samples t Test
+## Data Analysis | Paired Samples t Test
 
 ### Selecting the Analysis
 

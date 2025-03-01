@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/intervals.jasp
 ---
 
-# JASP | Data Analysis
+# JASP Articles
 
-## Confidence Intervals
+## Data Analysis | Confidence Intervals
 
 ### Selecting the Analysis
 

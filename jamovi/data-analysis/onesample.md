@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/onesample.omv
 ---
 
-# jamovi | Data Analysis
+# jamovi Articles
 
-## One Sample t Test
+## Data Analysis | One Sample t Test
 
 ### Selecting the Analysis
 

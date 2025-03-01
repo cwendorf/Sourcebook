@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/factorial.omv
 ---
 
-# jamovi | Annotated Output
+# jamovi Articles
 
-## Factorial ANOVA
+## Annotated Output | Factorial ANOVA
 
 <p align="center"><kbd><img src="factorial.png"></kbd></p>

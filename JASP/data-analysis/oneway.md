@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/oneway.jasp
 ---
 
-# JASP | Data Analysis
+# JASP Articles
 
-## OneWay ANOVA
+## Data Analysis | OneWay ANOVA
 
 ### Selecting the Analysis
 

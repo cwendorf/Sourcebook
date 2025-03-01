@@ -21,9 +21,9 @@ relatedtwo:
 ---
 
 
-# Intro | Statistical Tables
+# Intro Articles
 
-## Standard Normal
+## Statistical Tables | Standard Normal
 
 ### Values of the Standard Normal Distribution
 

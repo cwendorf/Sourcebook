@@ -24,9 +24,9 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro | Statistical Analyses
+# Intro Articles
 
-## Choosing Appropriate Inferential Statistics
+## Statistical Analyses | Choosing Appropriate Inferential Statistics
 
 ### Basic Research Design and Statistics Terminology
 

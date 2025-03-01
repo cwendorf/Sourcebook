@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/posthocs.omv
 ---
 
-# jamovi | Data Analysis
+# jamovi Articles
 
-## Post Hoc Comparisons
+## Data Analysis | Post Hoc Comparisons
 
 ### Selecting the Analysis
 

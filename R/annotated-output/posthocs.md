@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/posthocs.txt
 ---
 
-# R | Annotated Output
+# R Articles
 
-## Post Hoc Comparisons
+## Annotated Output | Post Hoc Comparisons
 
 <p align="center"><kbd><img src="posthocs.jpg"></kbd></p>

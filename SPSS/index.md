@@ -1,12 +1,12 @@
 ---
 title: Sourcebook
-headerone: Software Websites
+headerone: SPSS Websites
 relatedone:
-  - title: SPSS | Desktop App
+  - title: App Download
     url: "https://www.ibm.com/products/spss-statistics"
-  - title: SPSS | Support Documents
+  - title: Support Documents
     url: "https://www.ibm.com/products/spss-statistics/support"
-headertwo: PDF Chapters
+headertwo: Sourcebook PDFs
 relatedtwo:
   - title: SPSS | Data Entry
     url: ./Sourcebook-SPSS-DataEntry.pdf
@@ -18,9 +18,7 @@ relatedtwo:
     url: ./Sourcebook-SPSS-BlankOutput.pdf
 ---
 
-# IBM SPSS
-
-## Using the Software
+## SPSS Articles
 
 ### Data Entry
 

@@ -24,9 +24,9 @@ relatedthree:
     url: ../output-files/correlations.spv
 ---
 
-# SPSS | Data Analysis
+# SPSS Articles
 
-## Correlations
+## Data Analysis | Correlations
 
 ### Selecting the Analysis
 

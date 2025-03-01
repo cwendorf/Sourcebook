@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/factorial.txt
 ---
 
-# DEVISE | Annotated Output
+# DEVISE Articles
 
-## Factorial ANOVA
+## Annotated Output | Factorial ANOVA
 
 <p align="center"><kbd><img src="factorial.png"></kbd></p>

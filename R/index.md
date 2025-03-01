@@ -1,12 +1,12 @@
 ---
 title: Sourcebook
-headerone: Software Websites
+headerone: R Websites
 relatedone:
-  - title: R | Desktop App
+  - title: App Download
     url: "https://www.r-project.org"
-  - title: R | User Manuals
+  - title: User Manuals
     url: "https://cran.r-project.org/manuals.html"
-headertwo: PDF Chapters
+headertwo: Sourcebook PDFs
 relatedtwo:
   - title: R | Data Entry
     url: ./Sourcebook-R-DataEntry.pdf
@@ -16,9 +16,7 @@ relatedtwo:
     url: ./Sourcebook-R-AnnotatedOutput.pdf
 ---
 
-# R (Base Functions)
-
-## Using the Software
+## R Articles
 
 ### Data Entry
 

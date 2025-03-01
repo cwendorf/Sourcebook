@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/intervals.omv
 ---
 
-# jamovi | Annotated Output
+# jamovi Articles
 
-## Confidence Intervals
+## Annotated Output | Confidence Intervals
 
 <p align="center"><kbd><img src="intervals.png"></kbd></p>

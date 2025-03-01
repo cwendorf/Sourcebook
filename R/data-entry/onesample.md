@@ -16,9 +16,9 @@ relatedtwo:
     url: ../data-files/onesample.csv
 ---
 
-# R | Data Entry
+# R Articles
 
-## One Sample Data
+## Data Entry | One Sample Data
 
 In the steps below, the commands should be typed directly into the R console window.
 

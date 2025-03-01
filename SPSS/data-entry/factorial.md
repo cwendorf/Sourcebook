@@ -10,9 +10,9 @@ relatedtwo:
     url: ../data-files/factorial.sav
 ---
 
-# SPSS | Data Entry
+# SPSS Articles
 
-## Factorial Data 
+## Data Entry | Factorial Data 
 
 ### Defining Variables 
 

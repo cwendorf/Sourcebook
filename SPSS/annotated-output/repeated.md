@@ -24,9 +24,9 @@ relatedthree:
     url: ../output-files/repeated.spv
 ---
 
-# SPSS | Annotated Output
+# SPSS Articles
 
-## Repeated Measures ANOVA
+## Annotated Output | Repeated Measures ANOVA
 
 <p align="center"><kbd><img src="repeated1.png"></kbd></p>
 <p align="center"><kbd><img src="repeated2.png"></kbd></p>

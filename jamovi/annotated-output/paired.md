@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/paired.omv
 ---
 
-# jamovi | Annotated Output
+# jamovi Articles
 
-## Paired Samples t Test
+## Annotated Output | Paired Samples t Test
 
 <p align="center"><kbd><img src="paired.png"></kbd></p>

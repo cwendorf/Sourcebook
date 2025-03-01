@@ -22,9 +22,9 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro | APA Style
+# Intro Articles
 
-## General Rules for Results Sections
+## APA Style | General Rules for Results Sections
 
 ### Purpose of Results Sections
 

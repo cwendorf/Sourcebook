@@ -16,9 +16,9 @@ relatedtwo:
     url: ../data-files/repeated.csv
 ---
 
-# DEVISE | Data Entry
+# DEVISE Articles
 
-## Repeated Measures Data
+## Data Entry | Repeated Measures Data
 
 In the steps below, the commands should be typed directly into the R console window.
 

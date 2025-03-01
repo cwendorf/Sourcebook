@@ -10,9 +10,9 @@ relatedtwo:
     url: ../data-files/factorial.omv
 ---
 
-# jamovi | Data Entry
+# jamovi Articles
 
-## Factorial Data 
+## Data Entry | Factorial Data 
 
 ### Defining Variables
 

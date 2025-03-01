@@ -16,9 +16,9 @@ relatedtwo:
     url: ../data-files/repeated.jasp
 ---
 
-# JASP | Data Entry
+# JASP Articles
 
-## Repeated Measures Data
+## Data Entry | Repeated Measures Data
 
 ### Defining Variables 
 

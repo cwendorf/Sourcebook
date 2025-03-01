@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/oneway.txt
 ---
 
-# R | Annotated Output
+# R Articles
 
-## OneWay ANOVA
+## Annotated Output | OneWay ANOVA
 
 <p align="center"><kbd><img src="oneway.jpg"></kbd></p>

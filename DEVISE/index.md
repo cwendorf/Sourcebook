@@ -1,12 +1,12 @@
 ---
 title: Sourcebook
-headerone: Sofware Websites
+headerone: DEVISE Websites
 relatedone:
-  - title: DEVISE | Package Download
+  - title: Package Download
     url: "https://github.com/cwendorf/DEVISE"
-  - title: DEVISE | User Manual
+  - title: User Manual
     url: "https://cwendorf.github.io/DEVISE"
-headertwo: PDF Chapters
+headertwo: Sourcebook PDFs
 relatedtwo:
   - title: DEVISE | Data Entry
     url: ./Sourcebook-DEVISE-DataEntry.pdf
@@ -16,9 +16,7 @@ relatedtwo:
     url: ./Sourcebook-DEVISE-AnnotatedOutput.pdf
 ---
 
-# DEVISE (R Package)
-
-## Using the Software
+## DEVISE Articles
 
 ### Data Entry
 

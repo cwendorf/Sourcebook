@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/descriptives.jasp
 ---
 
-# JASP | Data Analysis
+# JASP Articles
 
-## Frequencies and Descriptive Statistics
+## Data Analysis | Frequencies and Descriptive Statistics
 
 ### Selecting the Analysis
 

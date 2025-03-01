@@ -14,9 +14,9 @@ relatedtwo:
     url: ../data-files/onesample.sav
 ---
 
-# SPSS | Data Entry
+# SPSS Articles
 
-## One Sample Data 
+## Data Entry | One Sample Data 
 
 ### Defining Variables
 

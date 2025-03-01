@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/descriptives.jasp
 ---
 
-# JASP | Annotated Output
+# JASP Articles
 
-## Frequencies and Descriptives
+## Annotated Output | Frequencies and Descriptives
 
 <p align="center"><kbd><img src="descriptives.png"></kbd></p>

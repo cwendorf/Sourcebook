@@ -24,9 +24,9 @@ relatedthree:
     url: ../output-files/intervals.txt
 ---
 
-# DEVISE | Data Analysis
+# DEVISE Articles
 
-## Confidence Intervals
+## Data Analysis | Confidence Intervals
 
 Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere). As always, the following commands should be typed directly in the R console window.
 

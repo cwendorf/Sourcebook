@@ -24,9 +24,9 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro | Statistical Analyses
+# Intro Articles
 
-## Understanding Confidence Intervals
+## Statistical Analyses | Understanding Confidence Intervals
 
 ### Purpose of a Confidence Interval
 

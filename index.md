@@ -2,23 +2,23 @@
 title: Sourcebook
 headerone: Sourcebook Websites
 relatedone:
-  - title: Sourcebook | Respository
+  - title: Respository
     url: "https://github.com/cwendorf/Sourcebook"
-  - title: Sourcebook | License
+  - title: License
     url: "https://creativecommons.org/licenses/by/4.0/"
 headertwo: Sourcebook Sections
 relatedtwo:
-  - title: Intro | Background Concepts
+  - title: Intro Articles
     url: ./Intro/
-  - title: SPSS | Using the Software
+  - title: SPSS Articles
     url: ./SPSS/
-  - title: jamovi | Using the Software
+  - title: jamovi Articles
     url: ./jamovi/
-  - title: JASP | Using the Software
+  - title: JASP Articles
     url: ./JASP/
-  - title: R | Using the Software
+  - title: R Articles
     url: ./R/
-  - title: DEVISE | Using the Software
+  - title: DEVISE Articles
     url: ./DEVISE/
 ---
 

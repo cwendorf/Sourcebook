@@ -24,9 +24,9 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro | Statistical Tables
+# Intro Articles
 
-## Student's *t*
+## Statistical Tables | Student's *t*
 
 ### Values of the *t* Distribution
 

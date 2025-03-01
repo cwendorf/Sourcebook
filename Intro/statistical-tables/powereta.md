@@ -21,9 +21,9 @@ relatedtwo:
 ---
 
 
-# Intro | Statistical Tables
+# Intro Articles
 
-## Eta-Squared
+## Statistical Tables | Eta-Squared
 
 ### Power Table for Eta-Squared
 

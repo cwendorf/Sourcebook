@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/descriptives.omv
 ---
 
-# jamovi | Data Analysis
+# jamovi Articles
 
-## Frequencies and Descriptives
+## Data Analysis | Frequencies and Descriptives
 
 ### Selecting the Analysis
 

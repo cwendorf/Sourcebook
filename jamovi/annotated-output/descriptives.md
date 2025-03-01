@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/descriptives.omv
 ---
 
-# jamovi | Annotated Output
+# jamovi Articles
 
-## Frequencies and Descriptives
+## Annotated Output | Frequencies and Descriptives
 
 <p align="center"><kbd><img src="descriptives.png"></kbd></p>

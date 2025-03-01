@@ -24,9 +24,9 @@ relatedthree:
     url: ../output-files/intervals.spv
 ---
 
-# SPSS | Data Analysis
+# SPSS Articles
 
-## Confidence Intervals
+## Data Analysis | Confidence Intervals
 
 ### Selecting the Analysis 
 

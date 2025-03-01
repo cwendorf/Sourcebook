@@ -24,9 +24,9 @@ relatedthree:
     url: ../output-files/paired.txt
 ---
 
-# R | Data Analysis
+# R Articles
 
-## Paired Samples t Test
+## Data Analysis | Paired Samples t Test
 
 Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere). As always, the following commands should be typed directly in the R console window.
 

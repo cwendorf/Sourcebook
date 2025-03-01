@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/posthocs.txt
 ---
 
-# DEVISE | Annotated Output
+# DEVISE Articles
 
-## Post Hoc Comparisons
+## Annotated Output | Post Hoc Comparisons
 
 <p align="center"><kbd><img src="posthocs.png"></kbd></p>

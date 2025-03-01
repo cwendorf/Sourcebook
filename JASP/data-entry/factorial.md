@@ -10,9 +10,9 @@ relatedtwo:
     url: ../data-files/factorial.jasp
 ---
 
-# JASP | Data Entry
+# JASP Articles
 
-## Factorial Data 
+## Data Entry | Factorial Data 
 
 ### Defining Variables
 

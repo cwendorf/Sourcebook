@@ -16,9 +16,9 @@ relatedtwo:
     url: ../data-files/repeated.sav
 ---
 
-# SPSS | Data Entry
+# SPSS Articles
 
-## Repeated Measures Data 
+## Data Entry | Repeated Measures Data 
 
 ### Defining Variables 
 

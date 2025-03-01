@@ -24,9 +24,9 @@ relatedthree:
     url: ../output-files/oneway.txt
 ---
 
-# DEVISE | Data Analysis
+# DEVISE Articles
 
-## One Way ANOVA
+## Data Analysis | One Way ANOVA
 
 Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere). As always, the following commands should be typed directly in the R console window.
 

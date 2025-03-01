@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/oneway.jasp
 ---
 
-# JASP | Annotated Output
+# JASP Articles
 
-## OneWay ANOVA
+## Annotated Output | OneWay ANOVA
 
 <p align="center"><kbd><img src="oneway.png"></kbd></p>

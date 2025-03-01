@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/intervals.omv
 ---
 
-# jamovi | Data Analysis
+# jamovi Articles
 
-## Confidence Intervals
+## Data Analysis | Confidence Intervals
 
 ### Selecting the Analysis
 

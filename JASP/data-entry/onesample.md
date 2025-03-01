@@ -14,9 +14,9 @@ relatedtwo:
     url: ../data-files/onesample.jasp
 ---
 
-# JASP | Data Entry
+# JASP Articles
 
-## One Sample Data
+## Data Entry | One Sample Data
 
 ### Defining Variables
 

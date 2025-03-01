@@ -2,11 +2,11 @@
 title: Sourcebook
 headerone: APA Websites
 relatedone:
-  - title: APA | Journal Article Reporting Standards
+  - title: Journal Article Reporting Standards
     url: "https://apastyle.apa.org/jars"
-  - title: APA | Tables and Figures
+  - title: Tables and Figures
     url: "https://apastyle.apa.org/style-grammar-guidelines/tables-figures"
-headertwo: PDF Chapters
+headertwo: Sourcebook PDFs
 relatedtwo:
   - title: Intro | Statistical Analyses
     url: ./Sourcebook-Intro-StatisticalAnalyses.pdf
@@ -18,9 +18,7 @@ relatedtwo:
     url: ./Sourcebook-Intro-WorkedExamples.pdf
 ---
 
-# Intro
-
-## Background Concepts
+## Intro Articles
 
 ### Statistical Analyses
 

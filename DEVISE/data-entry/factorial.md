@@ -10,9 +10,9 @@ relatedtwo:
     url: ../data-files/factorial.csv
 ---
 
-# DEVISE | Data Entry
+# DEVISE Articles
 
-## Factorial Data
+## Data Entry | Factorial Data
 
 In the steps below, the commands should be typed directly into the R console window.
 

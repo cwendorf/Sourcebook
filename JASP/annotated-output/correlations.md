@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/correlations.jasp
 ---
 
-# JASP | Annotated Output
+# JASP Articles
 
-## Correlations
+## Annotated Output | Correlations
 
 <p align="center"><kbd><img src="correlations.png"></kbd></p>

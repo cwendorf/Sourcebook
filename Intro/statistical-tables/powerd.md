@@ -25,9 +25,9 @@ relatedtwo:
 ---
 
 
-# Intro | Statistical Tables
+# Intro Articles
 
-## Cohen&#39;s *d*
+## Statistical Tables | Cohen&#39;s *d*
 
 ### Power Table for Cohen&#39;s *d*
 

@@ -1,14 +1,14 @@
 ---
 title: Sourcebook
-headerone: Software Websites
+headerone: jamovi Websites
 relatedone:
-  - title: jamovi | Desktop App
+  - title: App Download
     url: "https://www.jamovi.org"
-  - title: jamovi | Cloud Access
+  - title: Cloud Access
     url: "https://cloud.jamovi.org"
-  - title: jamovi | User Manual
+  - title: User Manual
     url: "https://www.jamovi.org/user-manual.html"
-headertwo: PDF Chapters
+headertwo: Sourcebook PDFs
 relatedtwo:
   - title: jamovi | Data Entry
     url: ./Sourcebook-jamovi-DataEntry.pdf
@@ -20,9 +20,7 @@ relatedtwo:
     url: ./Sourcebook-jamovi-BlankOutput.pdf
 ---
 
-# jamovi
-
-## Using the Software
+## jamovi Articles
 
 ### Data Entry
 

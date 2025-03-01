@@ -20,8 +20,8 @@ relatedthree:
     url: ../output-files/descriptives.txt
 ---
 
-# DEVISE | Annotated Output
+# DEVISE Articles
 
-## Descriptives
+## Annotated Output | Descriptives
 
 <p align="center"><kbd><img src="descriptives.png"></kbd></p>

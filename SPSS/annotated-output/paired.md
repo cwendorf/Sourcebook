@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/paired.spv
 ---
 
-# SPSS | Annotated Output
+# SPSS Articles
 
-## Paired Samples t Test
+## Annotated Output | Paired Samples t Test
 
 <p align="center"><kbd><img src="paired.png"></kbd></p>

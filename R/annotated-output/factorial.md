@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/factorial.txt
 ---
 
-# R | Annotated Output
+# R Articles
 
-## Factorial ANOVA
+## Annotated Output | Factorial ANOVA
 
 <p align="center"><kbd><img src="factorial.jpg"></kbd></p>

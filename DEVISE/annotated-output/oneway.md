@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/oneway.txt
 ---
 
-# DEVISE | Annotated Output
+# DEVISE Articles
 
-## OneWay ANOVA
+## Annotated Output | OneWay ANOVA
 
 <p align="center"><kbd><img src="oneway.png"></kbd></p>

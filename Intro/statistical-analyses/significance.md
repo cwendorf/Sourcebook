@@ -24,9 +24,9 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro | Statistical Analyses
+# Intro Articles
 
-## Understanding Statistical Significance Tests
+## Statistical Analyses | Understanding Statistical Significance Tests
 
 ### Purpose of a Statistical Significance Test
 

@@ -22,8 +22,8 @@ relatedthree:
     url: ../output-files/correlations.omv
 ---
 
-# jamovi | Annotated Output
+# jamovi Articles
 
-## Correlations
+## Annotated Output | Correlations
 
 <p align="center"><kbd><img src="correlations.png"></kbd></p>

@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/paired.txt
 ---
 
-# DEVISE | Annotated Output
+# DEVISE Articles
 
-## Paired Samples t Test
+## Annotated Output | Paired Samples t Test
 
 <p align="center"><kbd><img src="paired.png"></kbd></p>

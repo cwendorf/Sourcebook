@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/posthocs.jasp
 ---
 
-# JASP | Data Analysis
+# JASP Articles
 
-## Post Hoc Comparisons
+## Data Analysis | Post Hoc Comparisons
 
 ### Selecting the Analysis
 

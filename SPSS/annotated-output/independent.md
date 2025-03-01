@@ -24,8 +24,8 @@ relatedthree:
     url: ../output-files/independent.spv
 ---
 
-# SPSS | Annotated Output
+# SPSS Articles
 
-## Independent Samples t Test
+## Annotated Output | Independent Samples t Test
 
 <p align="center"><kbd><img src="independent.png"></kbd></p>

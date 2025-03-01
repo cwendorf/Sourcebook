@@ -1,12 +1,12 @@
 ---
 title: Sourcebook
-headerone: Software Websites
+headerone: JASP Websites
 relatedone:
-  - title: JASP | Desktop App
+  - title: App Download
     url: "https://jasp-stats.org"
-  - title: JASP | Support Documents
+  - title: Support Documents
     url: "https://jasp-stats.org/support/"
-headertwo: PDF Chapters
+headertwo: Sourcebook PDFs
 relatedtwo:
   - title: JASP | Data Entry
     url: ./Sourcebook-JASP-DataEntry.pdf
@@ -18,9 +18,7 @@ relatedtwo:
     url: ./Sourcebook-JASP-BlankOutput.pdf
 ---
 
-# JASP
-
-## Using the Software
+## JASP Articles
 
 ### Data Entry
 

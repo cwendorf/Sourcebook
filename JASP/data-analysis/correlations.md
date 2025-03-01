@@ -22,9 +22,9 @@ relatedthree:
     url: ../output-files/correlations.jasp
 ---
 
-# JASP | Data Analysis
+# JASP Articles
 
-## Correlations
+## Data Analysis | Correlations
 
 ### Selecting the Analysis
 
