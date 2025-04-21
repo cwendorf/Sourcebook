@@ -6,7 +6,7 @@ relatedone:
     url: "https://github.com/cwendorf/DEVISE"
   - title: User Manual
     url: "https://cwendorf.github.io/DEVISE"
-headertwo: Sourcebook PDFs
+headertwo: DEVISE Chapter PDFs
 relatedtwo:
   - title: DEVISE | Data Entry
     url: ./Sourcebook-DEVISE-DataEntry.pdf

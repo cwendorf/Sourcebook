@@ -8,7 +8,7 @@ relatedone:
     url: "https://cloud.jamovi.org"
   - title: User Manual
     url: "https://www.jamovi.org/user-manual.html"
-headertwo: Sourcebook PDFs
+headertwo: jamvoi Chapter PDFs
 relatedtwo:
   - title: jamovi | Data Entry
     url: ./Sourcebook-jamovi-DataEntry.pdf

@@ -6,7 +6,7 @@ relatedone:
     url: "https://www.ibm.com/products/spss-statistics"
   - title: Support Documents
     url: "https://www.ibm.com/products/spss-statistics/support"
-headertwo: Sourcebook PDFs
+headertwo: SPSS Chapter PDFs
 relatedtwo:
   - title: SPSS | Data Entry
     url: ./Sourcebook-SPSS-DataEntry.pdf

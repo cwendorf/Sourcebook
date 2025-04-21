@@ -6,7 +6,7 @@ relatedone:
     url: "https://www.r-project.org"
   - title: User Manuals
     url: "https://cran.r-project.org/manuals.html"
-headertwo: Sourcebook PDFs
+headertwo: R Chapter PDFs
 relatedtwo:
   - title: R | Data Entry
     url: ./Sourcebook-R-DataEntry.pdf
