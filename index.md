@@ -38,9 +38,9 @@ This online Sourcebook is intended to facilitate the connection between standard
 
 The Sourcebook contains the following materials:
 
-- **Intro** - Contains a statistical overview, statistical tables, an APA style guide, and worked examples
-- **SPSS** - Contains data entry instructions, data analysis instructions, and annotated output for SPSS
-- **jamovi** - Contains data entry instructions, data analysis instructions, and annotated output for jamovi
-- **JASP** - Contains data entry instructions, data analysis instructions, and annotated output for JASP
-- **R** - Contains data entry instructions, data analysis instructions, and annotated output for R (using base functions)
-- **DEVISE** - Contains data entry instructions, data analysis instructions, and annotated output for DEVISE (an R package)
+- **Intro** - A statistical overview, statistical tables, an APA style guide, and worked examples
+- **SPSS** - Data entry instructions, data analysis instructions, and annotated output for SPSS
+- **jamovi** - Data entry instructions, data analysis instructions, and annotated output for jamovi
+- **JASP** - Data entry instructions, data analysis instructions, and annotated output for JASP
+- **R** - Data entry instructions, data analysis instructions, and annotated output for R (using base functions)
+- **DEVISE** - Data entry instructions, data analysis instructions, and annotated output for DEVISE (an R package)
