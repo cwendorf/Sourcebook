@@ -22,6 +22,8 @@ relatedtwo:
 
 ## jamovi Articles
 
+This index page provides links to the various materials available for using jamovi to analyze examples. For teaching a statistics course, [a reogranized index](./index-topical.md) organizes the materials by topic (e.g., One Sample t Test, ANOVA, etc.) rather than by the goals of the page (i.e., Data Entry, Data Analysis, Annotated Output).
+
 ### Data Entry
 
 This chapter shows how to enter the data for most undergraduate level between-subjects and within-subjects research designs.
