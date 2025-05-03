@@ -121,6 +121,12 @@ body {
     color: red;
 }
 
+#MainContent H1 A {
+    border-bottom: none;
+}
+#MainContent H1 A:hover {
+    border-bottom: none;
+}
 #MainContent H2 A {
     border-bottom: none;
 }
