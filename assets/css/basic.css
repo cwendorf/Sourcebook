@@ -121,6 +121,11 @@ body {
     color: red;
 }
 
+#MainContent H2 A {
+    text-decoration: none;
+    border-bottom: none;
+}
+
 /* Main Section Column Styles */
 
 #Main, #Sidebar {
