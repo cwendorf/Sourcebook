@@ -14,7 +14,7 @@ This online [Sourcebook](https://cwendorf.github.io/Sourcebook/) is intended to 
 
 ### Scope
 
-This Sourcebook contains a wide range of materials designed to assist with the use of statistical software sucha as IBM SPSS, jamovi, JASP, R (base functions), and DEVISE (an R package). To that end, it contains:
+This Sourcebook contains a wide range of materials designed to assist with the use of statistical software such as IBM SPSS, jamovi, JASP, R (base functions), and DEVISE (an R package). To that end, it contains:
 
 - Instructions and screenshots that show how to enter data in the software packages
 - Instructions and screenshots that show how to navigate and analyze the data in the software packages
