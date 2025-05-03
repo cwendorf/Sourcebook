@@ -40,6 +40,6 @@ This Sourcebook contains a wide range of materials designed to assist with the u
 
 - Instructions and screenshots that show how to enter data in the software packages
 - Instructions and screenshots that show how to navigate and analyze the data in the software packages
-- Annotation that shows the link between simple formulas and the software packages' output
+- Annotations that show the link between simple formulas and the software packages' output
 
 <p align="center"><kbd><img src="assets/images/AnnotatedOutput.jpg"></kbd></p>
