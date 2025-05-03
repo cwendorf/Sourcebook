@@ -16,7 +16,7 @@ relatedthree:
     url: ../data-files/onesample.csv
 ---
 
-# R Articles
+# [R Articles](../index.md)
 
 ## Data Analysis | Standardized Scores
 

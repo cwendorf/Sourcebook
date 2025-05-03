@@ -14,7 +14,7 @@ relatedtwo:
     url: ../data-files/onesample.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Data Entry | One Sample Data
 

@@ -16,7 +16,7 @@ relatedtwo:
     url: ../data-files/oneway.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Data Entry | Multiple Sample Data 
 

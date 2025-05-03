@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/intervals.omv
 ---
 
-# jamovi Articles
+# [jamovi Articles](../index.md)
 
 ## Annotated Output | Confidence Intervals
 

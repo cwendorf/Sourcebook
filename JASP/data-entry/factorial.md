@@ -10,7 +10,7 @@ relatedtwo:
     url: ../data-files/factorial.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Data Entry | Factorial Data 
 

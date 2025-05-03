@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/frequencies.txt
 ---
 
-# R Articles
+# [R Articles](../index.md)
 
 ## Annotated Output | Frequencies
 

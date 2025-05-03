@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/repeated.omv
 ---
 
-# jamovi Articles
+# [jamovi Articles](../index.md)
 
 ## Data Analysis | Repeated Measures ANOVA
 

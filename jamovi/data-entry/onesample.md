@@ -14,7 +14,7 @@ relatedtwo:
     url: ../data-files/onesample.omv
 ---
 
-# jamovi Articles
+# [jamovi Articles](../index.md)
 
 ## Data Entry | One Sample Data
 

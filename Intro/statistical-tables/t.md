@@ -24,7 +24,7 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro Articles
+# [Intro Articles](../index.md)
 
 ## Statistical Tables | Student's *t*
 

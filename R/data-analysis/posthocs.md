@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/posthocs.txt
 ---
 
-# R Articles
+# [R Articles](../index.md)
 
 ## Data Analysis | Post Hoc Comparisons
 

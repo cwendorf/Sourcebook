@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/independent.txt
 ---
 
-# DEVISE Articles
+# [DEVISE Articles](../index.md)
 
 ## Annotated Output | Independent Samples t Test
 

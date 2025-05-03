@@ -10,7 +10,7 @@ relatedtwo:
     url: ../data-files/factorial.csv
 ---
 
-# DEVISE Articles
+# [DEVISE Articles](../index.md)
 
 ## Data Entry | Factorial Data
 

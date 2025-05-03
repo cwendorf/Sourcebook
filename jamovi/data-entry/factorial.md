@@ -10,7 +10,7 @@ relatedtwo:
     url: ../data-files/factorial.omv
 ---
 
-# jamovi Articles
+# [jamovi Articles](../index.md)
 
 ## Data Entry | Factorial Data 
 

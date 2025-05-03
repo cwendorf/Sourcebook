@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/oneway.omv
 ---
 
-# jamovi Articles
+# [jamovi Articles](../index.md)
 
 ## Annotated Output | OneWay ANOVA
 

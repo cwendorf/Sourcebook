@@ -14,7 +14,7 @@ relatedtwo:
     url: ../data-files/onesample.sav
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Data Entry | One Sample Data 
 

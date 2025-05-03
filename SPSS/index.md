@@ -18,7 +18,7 @@ relatedtwo:
     url: ./Sourcebook-SPSS-BlankOutput.pdf
 ---
 
-## SPSS Articles
+## [SPSS Articles](./index.md)
 
 This index page provides links to the various materials available for using SPSS to analyze examples. For teaching a statistics course, [a reorganized index](./index-topical.md) organizes the materials by topic (e.g., One Sample t Test, ANOVA, etc.) rather than by the goals of the page (i.e., Data Entry, Data Analysis, Annotated Output).
 

@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/correlations.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Annotated Output | Correlations
 

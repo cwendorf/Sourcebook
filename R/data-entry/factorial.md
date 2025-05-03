@@ -10,7 +10,7 @@ relatedtwo:
     url: ../data-files/factorial.csv
 ---
 
-# R Articles
+# [R Articles](../index.md)
 
 ## Data Entry | Factorial Data
 

@@ -16,7 +16,7 @@ relatedtwo:
     url: ../data-files/repeated.csv
 ---
 
-# DEVISE Articles
+# [DEVISE Articles](../index.md)
 
 ## Data Entry | Repeated Measures Data
 

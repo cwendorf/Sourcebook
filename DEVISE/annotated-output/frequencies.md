@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/frequencies.txt
 ---
 
-# DEVISE Articles
+# [DEVISE Articles](../index.md)
 
 ## Annotated Output | Frequencies
 

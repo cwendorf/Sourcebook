@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/onesample.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Data Analysis | One Sample t Test
 

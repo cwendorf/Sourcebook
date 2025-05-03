@@ -48,7 +48,7 @@ body {
 
 #AreaContainer {
     background: #ddd;
-    font-weight: bold;
+    font-weight: 1000;
 }
 #AreaContent UL {
     list-style: none;
@@ -122,7 +122,9 @@ body {
 }
 
 #MainContent H2 A {
-    text-decoration: none;
+    border-bottom: none;
+}
+#MainContent H2 A:hover {
     border-bottom: none;
 }
 

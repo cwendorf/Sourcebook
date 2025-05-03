@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/intervals.txt
 ---
 
-# DEVISE Artciles
+# [DEVISE Articles](../index.md)
 
 ## Annotated Output | Confidence Intervals
 

@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/onesample.txt
 ---
 
-# DEVISE Articles
+# [DEVISE Articles](../index.md)
 
 ## Annotated Output | One Sample t Test
 

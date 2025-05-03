@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/oneway.txt
 ---
 
-# DEVISE Articles
+# [DEVISE Articles](../index.md)
 
 ## Data Analysis | One Way ANOVA
 

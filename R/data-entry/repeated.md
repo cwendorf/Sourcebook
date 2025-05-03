@@ -16,7 +16,7 @@ relatedtwo:
     url: ../data-files/repeated.csv
 ---
 
-# R Articles
+# [R Articles](../index.md)
 
 ## Data Entry | Repeated Measures Data
 

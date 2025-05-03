@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/correlations.spv
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Annotated Output | Correlations
 

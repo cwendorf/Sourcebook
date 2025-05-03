@@ -16,7 +16,7 @@ relatedtwo:
     url: ../data-files/oneway.sav
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Data Entry | Multiple Sample Data 
 

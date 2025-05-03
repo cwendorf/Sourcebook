@@ -16,7 +16,7 @@ relatedtwo:
     url: ../data-files/repeated.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Data Entry | Repeated Measures Data
 

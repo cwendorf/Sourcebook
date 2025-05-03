@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/independent.txt
 ---
 
-# R Articles
+# [R Articles](../index.md)
 
 ## Annotated Output | Independent Samples t Test
 

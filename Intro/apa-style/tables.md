@@ -22,7 +22,7 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro Articles
+# [Intro Articles](../index.md)
 
 ## APA Style | Examples of Results in Tables
 

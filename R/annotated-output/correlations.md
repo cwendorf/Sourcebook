@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/correlations.txt
 ---
 
-# R Articles
+# [R Articles](../index.md)
 
 ## Annotated Output | Correlations
 

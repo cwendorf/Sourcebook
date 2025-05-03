@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/oneway.spv
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Data Analysis | OneWay ANOVA
 

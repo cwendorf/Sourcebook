@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/paired.spv
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Data Analysis | Paired Samples t Test
 

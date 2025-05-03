@@ -25,7 +25,7 @@ relatedtwo:
 ---
 
 
-# Intro Articles
+# [Intro Articles](../index.md)
 
 ## Statistical Tables | Cohen&#39;s *d*
 

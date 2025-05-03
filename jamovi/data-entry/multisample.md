@@ -16,7 +16,7 @@ relatedtwo:
     url: ../data-files/oneway.omv
 ---
 
-# jamovi Articles
+# [jamovi Articles](../index.md)
 
 ## Data Entry | Multiple Sample Data 
 

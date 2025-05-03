@@ -22,7 +22,7 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro Articles
+# [Intro Articles](../index.md)
 
 ## Worked Examples | Confidence Intervals
 

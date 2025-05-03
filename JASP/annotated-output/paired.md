@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/paired.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Annotated Output | Paired Samples t Test
 

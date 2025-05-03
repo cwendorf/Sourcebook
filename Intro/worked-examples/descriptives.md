@@ -20,7 +20,7 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro Articles
+# [Intro Articles](../index.md)
 
 ## Worked Examples | Descriptives
 

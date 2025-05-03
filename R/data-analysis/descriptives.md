@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/descriptives.txt
 ---
 
-# R Articles
+# [R Articles](../index.md)
 
 ## Data Analysis | Descriptives
 

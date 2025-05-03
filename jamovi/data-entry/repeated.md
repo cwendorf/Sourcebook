@@ -16,7 +16,7 @@ relatedtwo:
     url: ../data-files/repeated.omv
 ---
 
-# jamovi Articles
+# [jamovi Articles](../index.md)
 
 ## Data Entry | Repeated Measures Data
 

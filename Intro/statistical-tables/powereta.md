@@ -21,7 +21,7 @@ relatedtwo:
 ---
 
 
-# Intro Articles
+# [Intro Articles](../index.md)
 
 ## Statistical Tables | Eta-Squared
 

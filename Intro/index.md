@@ -18,7 +18,7 @@ relatedtwo:
     url: ./Sourcebook-Intro-WorkedExamples.pdf
 ---
 
-## Intro Articles
+## [Intro Articles](./index.md)
 
 This index page provides links to materials that provide a basis for the logic, calculations, and interpretations of the examples throughout the Sourcebook.
 

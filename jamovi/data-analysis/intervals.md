@@ -22,8 +22,7 @@ relatedthree:
     url: ../output-files/intervals.omv
 ---
 
-# jamovi Articles
-
+# [jamovi Articles](../index.md)
 ## Data Analysis | Confidence Intervals
 
 ### Selecting the Analysis

@@ -16,7 +16,7 @@ relatedtwo:
     url: ../data-files/repeated.sav
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Data Entry | Repeated Measures Data 
 

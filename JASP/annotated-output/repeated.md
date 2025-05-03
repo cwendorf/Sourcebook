@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/repeated.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Annotated Output | Repeated Measures ANOVA
 

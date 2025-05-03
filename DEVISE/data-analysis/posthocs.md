@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/posthocs.txt
 ---
 
-# DEVISE Articles
+# [DEVISE Articles](../index.md)
 
 ## Data Analysis | Post Hoc Comparisons
 

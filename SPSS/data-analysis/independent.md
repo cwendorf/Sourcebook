@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/independent.spv
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Data Analysis | Independent Samples t Test
 

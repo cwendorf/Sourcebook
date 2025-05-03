@@ -24,7 +24,7 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro Articles
+# [Intro Articles](../index.md)
 
 ## Statistical Analyses | Choosing Appropriate Inferential Statistics
 

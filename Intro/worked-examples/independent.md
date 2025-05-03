@@ -22,7 +22,7 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro Articles
+# [Intro Articles](../index.md)
 
 ## Worked Examples | Independent Samples t Test
 

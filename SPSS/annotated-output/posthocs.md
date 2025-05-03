@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/posthocs.spv
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Annotated Output | Post Hoc Comparisons
 

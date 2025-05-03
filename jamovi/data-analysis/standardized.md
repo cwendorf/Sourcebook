@@ -18,7 +18,7 @@ relatedthree:
     url: ../output-files/standardized.omv
 ---
 
-# jamovi Articles
+# [jamovi Articles](../index.md)
 
 ## Data Analysis | Transformations and Standardized Scores
 

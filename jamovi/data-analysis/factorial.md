@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/factorial.omv
 ---
 
-# jamovi Articles
+# [jamovi Articles](../index.md)
 
 ## Data Analysis | Factorial ANOVA
 

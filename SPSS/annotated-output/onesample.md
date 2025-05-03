@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/onesample.spv
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Annotated Output | One Sample t Test
 

@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/correlations.txt
 ---
 
-# DEVISE Articles
+# [DEVISE Articles](../index.md)
 
 ## Annotated Output | Correlations
 

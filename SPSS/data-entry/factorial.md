@@ -10,7 +10,7 @@ relatedtwo:
     url: ../data-files/factorial.sav
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Data Entry | Factorial Data 
 

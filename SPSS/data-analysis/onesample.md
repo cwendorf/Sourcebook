@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/onesample.spv
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Data Analysis | One Sample t Test
 

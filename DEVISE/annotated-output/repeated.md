@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/repeated.txt
 ---
 
-# DEVISE Articles
+# [DEVISE Articles](../index.md)
 
 ## Annotated Output | Repeated Measures ANOVA
 

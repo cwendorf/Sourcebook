@@ -20,7 +20,7 @@ relatedthree:
     url: ../output-files/descriptives.txt
 ---
 
-# DEVISE Articles
+# [DEVISE Articles](../index.md)
 
 ## Annotated Output | Descriptives
 

@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/factorial.spv
 ---
 
-# SPSS Articles
+# [SPSS Articles](../index.md)
 
 ## Data Analysis | Factorial ANOVA
 

@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/independent.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Annotated Output | Independent Samples t Test
 

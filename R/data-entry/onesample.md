@@ -16,7 +16,7 @@ relatedtwo:
     url: ../data-files/onesample.csv
 ---
 
-# R Articles
+# [R Articles](../index.md)
 
 ## Data Entry | One Sample Data
 

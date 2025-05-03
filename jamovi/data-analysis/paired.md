@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/paired.omv
 ---
 
-# jamovi Articles
+# [jamovi Articles](../index.md)
 
 ## Data Analysis | Paired Samples t Test
 

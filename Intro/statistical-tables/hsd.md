@@ -20,7 +20,7 @@ relatedtwo:
     url: ../../DEVISE/
 ---
 
-# Intro Articles
+# [Intro Articles](../index.md)
 
 ## Statistical Tables | Tukey&#39;s HSD
 

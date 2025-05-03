@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/posthocs.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Annotated Output | Post Hoc Comparisons
 

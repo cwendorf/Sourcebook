@@ -16,7 +16,7 @@ relatedtwo:
     url: ./Sourcebook-R-AnnotatedOutput.pdf
 ---
 
-## R Articles
+## [R Articles](./index.md)
 
 This index page provides links to the various materials available for using R to analyze examples. For teaching a statistics course, [a reorganized index](./index-topical.md) organizes the materials by topic (e.g., One Sample t Test, ANOVA, etc.) rather than by the goals of the page (i.e., Data Entry, Data Analysis, Annotated Output).
 

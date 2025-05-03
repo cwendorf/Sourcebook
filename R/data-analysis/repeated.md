@@ -24,7 +24,7 @@ relatedthree:
     url: ../output-files/repeated.txt
 ---
 
-# R Articles
+# [R Articles](../index.md)
 
 ## Data Analysis | Repeated Measures ANOVA
 

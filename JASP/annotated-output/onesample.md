@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/onesample.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Annotated Output | One Sample t Test
 

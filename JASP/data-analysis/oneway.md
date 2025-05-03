@@ -22,7 +22,7 @@ relatedthree:
     url: ../output-files/oneway.jasp
 ---
 
-# JASP Articles
+# [JASP Articles](../index.md)
 
 ## Data Analysis | OneWay ANOVA
 

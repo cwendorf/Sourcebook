@@ -16,7 +16,7 @@ relatedtwo:
     url: ../data-files/onesample.csv
 ---
 
-# DEVISE Articles
+# [DEVISE Articles](../index.md)
 
 ## Data Entry | One Sample Data
 
