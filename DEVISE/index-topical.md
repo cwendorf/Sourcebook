@@ -14,6 +14,8 @@ relatedtwo:
     url: ./data-analysis/Sourcebook-DEVISE-DataAnalysis.pdf
   - title: DEVISE | Annotated Output
     url: ./annotated-output/Sourcebook-DEVISE-AnnotatedOutput.pdf
+  - title: DEVISE | Blank Output
+    url: ./Sourcebook-DEVISE-BlankOutput.pdf
 ---
 
 ## [DEVISE Articles](./index-topical.md)
