@@ -28,7 +28,7 @@ relatedtwo:
 
 ### Data
 
-The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
+The following data set reflects one sample of eight individuals measured on one variable. The data are presented in a format suitable for entry into statistical software.
 
 |     | Outcome |
 |-----|--------:|

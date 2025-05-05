@@ -26,7 +26,7 @@ relatedtwo:
 
 ### Data
 
-The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
+The following data set reflects one sample of eight individuals measured on one variable. The data are presented in a format suitable for entry into statistical software.
 
 |     | Outcome |
 |-----|--------:|
@@ -105,8 +105,7 @@ Mean Squares (of the z scores): Mean Squares (also known as Variance) is a funct
 
 > $$ MS = \frac{SS}{(N - 1)} = \frac{7.000}{7} = 1.000 $$
 
-Standard Deviation (of the z Scores): Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population
-standard deviation.
+Standard Deviation (of the z Scores): Standard Deviation is a function of Mean Squares. It is also calculated as an unbiased estimate of the population standard deviation.
 
 > $$ SD = \sqrt{MS} = \sqrt{1.000} = 1.000 $$
 

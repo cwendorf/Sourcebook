@@ -28,7 +28,7 @@ relatedtwo:
 
 ### Data
 
-The following data set reflects a between-subjects design with one factor (that has two levels). The data are presented in the format suitable for entry into statistical software.
+The following data set reflects a between-subjects design with one factor (that has two levels). The data are presented in a format suitable for entry into statistical software.
 
 |     | Factor | Outcome |
 |-----|-------:|--------:|

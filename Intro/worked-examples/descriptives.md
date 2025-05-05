@@ -26,7 +26,7 @@ relatedtwo:
 
 ### Data
 
-The following data set reflects one sample of eight individuals measured on one variable. The data are presented in the format suitable for entry into statistical software.
+The following data set reflects one sample of eight individuals measured on one variable. The data are presented in a format suitable for entry into statistical software.
 
 |     | Outcome |
 |-----|--------:|
@@ -75,7 +75,7 @@ Mean Squares: Mean Squares (also known as Variance) is a function of the Sum of 
 
 > $$ MS = \frac{SS}{(N - 1)} = \frac{68.000}{7} = 9.714 $$
 
-Standard Deviation: Standard Deviation is a function of the Mean Squares. It is also calculated as an unbiased estimate of the population standard deviation.
+Standard Deviation: Standard Deviation is a function of Mean Squares. It is also calculated as an unbiased estimate of the population standard deviation.
 
 > $$ SD = \sqrt{MS} = \sqrt{9.714} = 3.117 $$
 

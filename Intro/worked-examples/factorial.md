@@ -28,7 +28,7 @@ relatedtwo:
 
 ### Data
 
-The following data set reflects a between-subjects Factorial design with two factors (with two levels for each factor). The data are presented in the format suitable for entry into statistical software.
+The following data set reflects a between-subjects Factorial design with two factors (with two levels for each factor). The data are presented in a format suitable for entry into statistical software.
 
 |     | FactorA | FactorB | Outcome |
 |-----|--------:|--------:|--------:|
