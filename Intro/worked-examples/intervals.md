@@ -63,7 +63,7 @@ Standard Error of the Mean: The standard error of the mean provides an estimate 
 
 > $$ SE_M = \frac{SD}{\sqrt{N}} = \frac{3.117}{\sqrt{8}} = 1.102 $$
 
-Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+Confidence Interval for the Mean: For this analysis, the appropriate confidence interval is around (centered on) the mean.
 
 > With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365
 >
