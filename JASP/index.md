@@ -37,7 +37,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 - [Frequencies and Descriptive Statistics](./data-analysis/descriptives.md)
 - [Correlations](./data-analysis/correlations.md)
-- [Confidence Intervals](./data-analysis/intervals.md)
+- [Confidence Interval for a Mean](./data-analysis/intervals.md)
 - [One Sample t Test](./data-analysis/onesample.md)
 - [Paired Samples t Test](./data-analysis/paired.md)
 - [Independent Samples t Test](./data-analysis/independent.md)
@@ -52,7 +52,7 @@ This chapter shows the output from various types of analyses, describes how to i
 
 - [Frequencies and Descriptives](./annotated-output/descriptives.md)
 - [Correlations](./annotated-output/correlations.md)
-- [Confidence Intervals](./annotated-output/intervals.md)
+- [Confidence Interval for a Mean](./annotated-output/intervals.md)
 - [One Sample t Test](./annotated-output/onesample.md)
 - [Paired Samples t Test](./annotated-output/paired.md)
 - [Independent Samples t Test](./annotated-output/independent.md)

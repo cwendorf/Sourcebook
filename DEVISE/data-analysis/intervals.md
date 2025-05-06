@@ -4,29 +4,29 @@ headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
-  - title: Worked Examples | Confidence Intervals
+  - title: Worked Examples | Confidence Interval for a Mean
     url: ../../Intro/worked-examples/intervals
 headertwo: DEVISE Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
-  - title: Data Analysis | Confidence Intervals
+  - title: Data Analysis | Confidence Interval for a Mean
     url: ../data-analysis/intervals
-  - title: Annotated Output | Confidence Intervals
+  - title: Annotated Output | Confidence Interval for a Mean
     url: ../annotated-output/intervals
 headerthree: DEVISE Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv
-  - title: Syntax Files | Confidence Intervals
+  - title: Syntax Files | Confidence Interval for a Mean
     url: ../syntax-files/intervals.R
-  - title: Output Files | Confidence Intervals
+  - title: Output Files | Confidence Interval for a Mean
     url: ../output-files/intervals.txt
 ---
 
 # [DEVISE Articles](../index.md)
 
-## Data Analysis | Confidence Intervals
+## Data Analysis | Confidence Interval for a Mean
 
 Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere). As always, the following commands should be typed directly in the R console window.
 

@@ -6,7 +6,7 @@ relatedone:
     url: ../statistical-tables/t
   - title: APA Style | Summary of Parametric Statistic Reporting
     url: ../apa-style/summary
-  - title: Worked Examples | Confidence Intervals
+  - title: Worked Examples | Confidence Interval for a Mean
     url: ../worked-examples/intervals
 headertwo: Software Articles
 relatedtwo:
@@ -24,7 +24,7 @@ relatedtwo:
 
 # [Intro Articles](../index.md)
 
-## Worked Examples | Confidence Intervals
+## Worked Examples | Confidence Interval for a Mean
 
 ### Data
 

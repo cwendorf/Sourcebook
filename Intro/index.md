@@ -58,7 +58,7 @@ This chapter provides a set of worked examples. The raw data, typical computer o
 - [Descriptives](./worked-examples/descriptives.md)
 - [Standardized Scores](./worked-examples/standardized.md)
 - [Correlations](./worked-examples/correlations.md)
-- [Confidence Intervals](./worked-examples/intervals.md)
+- [Confidence Interval for a Mean](./worked-examples/intervals.md)
 - [One Sample t Test](./worked-examples/onesample.md)
 - [Paired Samples t Test](./worked-examples/paired.md)
 - [Independent Samples t Test](./worked-examples/independent.md)

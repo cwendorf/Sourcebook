@@ -53,13 +53,13 @@ These pages show how to obtain and calculate correlations.
 - Data Analysis: [Correlations](./data-analysis/correlations.md)
 - Annotated Output: [Correlations](./annotated-output/correlations.md)
 
-### Confidence Intervals
+### Confidence Interval for a Mean
 
 These pages show how to obtain and calculate a confidence interval for a mean.
 
 - Data Entry: [One Sample Data](./data-entry/onesample.md)
-- Data Analysis: [Confidence Intervals](./data-analysis/intervals.md)
-- Annotated Output: [Confidence Intervals](./annotated-output/intervals.md)
+- Data Analysis: [Confidence Interval for a Mean](./data-analysis/intervals.md)
+- Annotated Output: [Confidence Interval for a Mean](./annotated-output/intervals.md)
 
 ### One Sample t Test
 
