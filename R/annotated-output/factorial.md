@@ -28,4 +28,4 @@ relatedthree:
 
 ## Annotated Output | Factorial ANOVA
 
-<p align="center"><kbd><img src="factorial.jpg"></kbd></p>
+<p align="center"><kbd><img src="factorial.png"></kbd></p>

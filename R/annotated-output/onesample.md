@@ -28,4 +28,4 @@ relatedthree:
 
 ## Annotated Output | One Sample t Test
 
-<p align="center"><kbd><img src="onesample.jpg"></kbd></p>
+<p align="center"><kbd><img src="onesample.png"></kbd></p>

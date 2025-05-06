@@ -28,4 +28,4 @@ relatedthree:
 
 ## Annotated Output | Paired Samples t Test
 
-<p align="center"><kbd><img src="paired.jpg"></kbd></p>
+<p align="center"><kbd><img src="paired.png"></kbd></p>

@@ -28,4 +28,4 @@ relatedthree:
 
 ## Annotated Output | OneWay ANOVA
 
-<p align="center"><kbd><img src="oneway.jpg"></kbd></p>
+<p align="center"><kbd><img src="oneway.png"></kbd></p>

@@ -26,4 +26,4 @@ relatedthree:
 
 ## Annotated Output | Frequencies
 
-<p align="center"><kbd><img src="frequencies.jpg"></kbd></p>
+<p align="center"><kbd><img src="frequencies.png"></kbd></p>

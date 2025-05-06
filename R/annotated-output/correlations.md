@@ -28,4 +28,4 @@ relatedthree:
 
 ## Annotated Output | Correlations
 
-<p align="center"><kbd><img src="correlations.jpg"></kbd></p>
+<p align="center"><kbd><img src="correlations.png"></kbd></p>
