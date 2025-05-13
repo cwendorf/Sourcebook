@@ -16,4 +16,5 @@ CorrelationData <- construct(Outcome1, Outcome2)
 
 ### Inferential Statistics
 
+(CorrelationData) |> estimateCorrelations()
 (CorrelationData) |> testCorrelations()
