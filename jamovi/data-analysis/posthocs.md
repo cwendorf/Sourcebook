@@ -42,7 +42,7 @@ relatedthree:
 
 5. Move the Factor (Independent Variable) to the "Fixed Factors" box.
 
-6. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+6. Output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="posthocs2.png"></kbd></p>
 
@@ -52,7 +52,7 @@ relatedthree:
 
 8. If you wish descriptive statistics for each group, use the "Descriptives" command described earlier in the sourcebook.
 
-9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+9. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="posthocs3.png"></kbd></p>
 
@@ -64,6 +64,6 @@ relatedthree:
 
 12. Select "Tukey" to get Tukey HSD post hoc tests (or  whatever option you prefer). 
 
-13. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+13. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="posthocs4.png"></kbd></p>

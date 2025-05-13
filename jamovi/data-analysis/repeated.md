@@ -54,7 +54,7 @@ relatedthree:
 
 9. Note that this factor only exists in the computer's memory. For examples, nowhere in the data set will you see a variable called "Time."
 
-10. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+10. Output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="repeated3.png"></kbd></p>
 
@@ -64,6 +64,6 @@ relatedthree:
 
 12. If you wish descriptive statistics associated with each variable, follow the "Descriptives" procedures described earlier in this sourcebook.
 
-13. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+13. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="repeated4.png"></kbd></p>

@@ -28,9 +28,9 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, load the factorial data file that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
+1. First, enter factorial data (described elsewhere).
 
-2. Select the "ANOVA → ANOVA" option. 
+2. In the "Analyses" section of the menu, select the "ANOVA → ANOVA" option. 
 
 <p align="center"><kbd><img src="factorial1.png"></kbd></p>
 
@@ -42,7 +42,7 @@ relatedthree:
 
 5. Move the multiple Factors (Independent Variables) to the "Fixed Factors" box. (The interaction term will be automatically generated in the output.)
 
-6. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+6. Output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="factorial2.png"></kbd></p>
 
@@ -54,6 +54,6 @@ relatedthree:
 
 9. Select options that are important for you: "Estimates of effect size" will display the chosen statistics; and "Descriptive statistics" will offer means and standard deviations for each group.
 
-10. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+10. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="factorial3.png"></kbd></p>

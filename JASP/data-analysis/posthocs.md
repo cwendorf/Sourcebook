@@ -28,9 +28,9 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, load the two sample data file that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
+1. First, enter multiple group data (described elsewhere).
 
-2. Select the "ANOVA → ANOVA" option. 
+2. In the "Analyses" section of the menu, select the "ANOVA → ANOVA" option. 
 
 <p align="center"><kbd><img src="posthocs1.png"></kbd></p>
 
@@ -42,7 +42,7 @@ relatedthree:
 
 5. Move the Factor (Independent Variable) to the "Fixed Factors" box.
 
-6. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+6. Output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="posthocs2.png"></kbd></p>
 
@@ -54,7 +54,7 @@ relatedthree:
 
 9. Select options that are important for you: "Estimates of effect size" will display the chosen statistics; and "Descriptive statistics" will offer means and standard deviations for each group.
 
-10. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+10. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="posthocs3.png"></kbd></p>
 
@@ -66,6 +66,6 @@ relatedthree:
 
 13. Select "Tukey" to get Tukey HSD post hoc tests (or  whatever option you prefer). 
 
-14. Updated output will automatically appear on the right side of the window. Output can be copied and  pasted into other software for printing.
+14. Updated output will automatically appear on the right side of the window.
 
 <p align="center"><kbd><img src="posthocs4.png"></kbd></p>

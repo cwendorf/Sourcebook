@@ -42,7 +42,7 @@ relatedthree:
 
 5. Move the multiple Factors (Independent Variables) to the "Fixed Factors" box. (The interaction term will be automatically generated in the output.)
 
-6. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+6. Output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="factorial2.png"></kbd></p>
 
@@ -52,6 +52,6 @@ relatedthree:
 
 8. If you wish descriptive statistics associated with each variable, follow the "Descriptives" procedures described earlier in this sourcebook.
 
-9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+9. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="factorial3.png"></kbd></p>

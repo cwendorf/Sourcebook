@@ -42,7 +42,7 @@ relatedthree:
 
 5. Move the Independent Variable to the "Grouping Variable" box. 
 
-6. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+6. Output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="independent2.png"></kbd></p>
 
@@ -52,6 +52,6 @@ relatedthree:
 
 8. Similarly, select other options that are important for you: "Mean Difference" will display the size of the difference between the two group's means; "Effect size" will display Cohen's d; and "Descriptives" will offer means and standard deviations for each group. 
 
-9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+9. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="independent3.png"></kbd></p>

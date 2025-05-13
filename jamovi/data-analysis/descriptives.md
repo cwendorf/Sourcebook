@@ -52,6 +52,4 @@ relatedthree:
 
 8. As you select the desired statistics, the output on the right side of the window will be automatically updated. 
 
-9. Individual tables (or even the whole section of Output) can be copied using the dropdown arrow options in the output. These can be pasted into other word processing software for printing purposes.
-
 <p align="center"><kbd><img src="descriptives3.png"></kbd></p>

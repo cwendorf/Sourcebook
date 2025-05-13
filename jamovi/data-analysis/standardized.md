@@ -80,7 +80,7 @@ relatedthree:
 
 ### Viewing Standardized Scores
 
-19.	Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
+19.	Note that the standardized variables are not included in the output. Rather, they are saved as new variables in the data view window. 
 
 20.	These variables can be used in subsequent analyses. You can follow the previous tutorials to get descriptive statistics for these variables.
 

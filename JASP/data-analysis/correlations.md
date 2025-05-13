@@ -28,9 +28,9 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, load the data file containing multiple variables that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
+1. First, enter data involving multiple variables (described elsewhere). 
 
-2. Select the "Regression → Correlation Matrix" option.
+2. In the "Analyses" section of the menu, select the "Regression → Correlation Matrix" option.
 
 <p align="center"><kbd><img src="correlations1.png"></kbd></p>
 
@@ -40,7 +40,7 @@ relatedthree:
 
 4. Select the variables you wish to analyze by clicking on them in the left-hand box and then the arrow to move them into the right-hand box. 
 
-5. Output (with no descriptive statistics) will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+5. Output (with no descriptive statistics) will automatically appear on the right side of the window. 
 
 6. If you wish descriptive statistics associated with each variable, follow the "Descriptives" procedures described earlier in this manual.
 

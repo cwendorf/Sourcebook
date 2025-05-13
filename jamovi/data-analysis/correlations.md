@@ -40,7 +40,7 @@ relatedthree:
 
 4. Select the variables you wish to analyze by clicking on them in the lefthand box and then the arrow to move them into the righthand box.
 
-5. Output (with no descriptive statistics) will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+5. Output (with no descriptive statistics) will automatically appear on the right side of the window. 
 
 6. If you wish descriptive statistics associated with each variable, follow the "Descriptives" procedures described earlier in this manual.
 

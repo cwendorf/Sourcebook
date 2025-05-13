@@ -28,7 +28,7 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, enter paired samples or repeated measures data (described elsewhere). 
+1. First, enter paired samples data (described elsewhere). 
 
 2. On the "Analysis" tab, Select the "T-Tests → Paired Samples T-Test" option.
 
@@ -40,7 +40,7 @@ relatedthree:
 
 4. Select the variables you wish to analyze by clicking on both of them while holding down the "CTRL" key. Then click on the arrow to move the pair of variables to the righthand box.
 
-5. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+5. Output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="paired2.png"></kbd></p>
 
@@ -50,6 +50,6 @@ relatedthree:
 
 7. Similarly, select other options that are important for you: "Mean Difference" will display the size of the difference between the two means; "Effect size" will display Cohen's d; and "Descriptives" will offer means and standard deviations for each variable.
 
-8. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+8. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="paired3.png"></kbd></p>

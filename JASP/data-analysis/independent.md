@@ -28,9 +28,9 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, load the two sample data file that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
+1. First, enter two sample data (described elsewhere). 
 
-2. Select the "T-Tests → Independent Samples T-Test" option. 
+2. In the "Analyses" section of the menu, select the "T-Tests → Independent Samples T-Test" option. 
 
 <p align="center"><kbd><img src="independent1.png"></kbd></p>
 
@@ -42,7 +42,7 @@ relatedthree:
 
 5. Move the Independent Variable to the "Grouping Variable" box. 
 
-6. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+6. Output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="independent2.png"></kbd></p>
 
@@ -52,6 +52,6 @@ relatedthree:
 
 8. If you wish to view (and alter) the widths of the confidence intervals, check the "Confidence Interval" boxes. 
 
-9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+9. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="independent3.png"></kbd></p>

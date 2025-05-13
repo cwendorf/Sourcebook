@@ -40,7 +40,7 @@ relatedthree:
 
 4. Select the variable you wish to analyze by clicking on it in the lefthand box and then the arrow to move it into the righthand box. 
 
-5. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+5. Output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="onesample2.png"></kbd></p>
 
@@ -52,6 +52,6 @@ relatedthree:
 
 8. Similarly, select other options that are important for you: "Mean Difference" will display the size of the difference between the two means; "Effect size" will display Cohen's d; and "Descriptives" will offer a mean and standard deviation for the group. 
 
-9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+9. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="onesample3.png"></kbd></p>

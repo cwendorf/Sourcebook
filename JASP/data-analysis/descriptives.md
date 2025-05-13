@@ -28,9 +28,9 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, load the data file previously created (described elsewhere). Be sure that the data file looks as you intended. 
+1. First, enter the data (described elsewhere). 
 
-2. Select the "Descriptives → Descriptive Statistics" option.
+2. In the "Analyses" section of the menu, select the "Descriptives → Descriptive Statistics" option.
 
 <p align="center"><kbd><img src="descriptives1.png"></kbd></p>
 
@@ -51,7 +51,5 @@ relatedthree:
 7. Though some basic summary statistics are displayed by default, you can make changes by expanding the "Statistics" drop-down menu.
 
 8. As you select the desired statistics, the output on the right side of the window will be automatically updated. 
-
-9. Individual tables (or even the whole section of Output) can be copied using the drop-down arrow options in the output. These can be pasted into word processing software for printing purposes.
 
 <p align="center"><kbd><img src="descriptives3.png"></kbd></p>

@@ -28,9 +28,9 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, load the repeated measures data file that you previously created (described elsewhere). Be sure that the data file looks as you intended. 
+1. First, enter repeated measures data (described elsewhere).
 
-2. Select the "ANOVA → Repeated Measures ANOVA" option.
+2. In the "Analyses" section of the menu, select the "ANOVA → Repeated Measures ANOVA" option.
 
 <p align="center"><kbd><img src="repeated1.png"></kbd></p>
 

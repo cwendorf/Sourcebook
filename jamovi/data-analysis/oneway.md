@@ -42,7 +42,7 @@ relatedthree:
 
 5. Move the Factor (Independent Variable) to the "Fixed Factors" box.
 
-6. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+6. Output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="oneway2.png"></kbd></p>
 
@@ -52,6 +52,6 @@ relatedthree:
 
 8. If you wish descriptive statistics for each group, use the "Descriptives" command described earlier in the sourcebook.
 
-9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+9. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="oneway3.png"></kbd></p>

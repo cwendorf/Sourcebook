@@ -28,9 +28,9 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, load the data file that you previously created (described elsewhere). Be sure that the data file looks as you intended.
+1. First, enter the data (described elsewhere).
 
-2. Select the "T-Tests → One Sample T-Test" option.
+2. In the "Analyses" section of the menu, select the "T-Tests → One Sample T-Test" option.
 
 <p align="center"><kbd><img src="onesample1.png"></kbd></p>
 
@@ -42,7 +42,7 @@ relatedthree:
 
 5. Be sure to enter a known or hypothesized mean into the "Test Value" field. If you do not enter a value here, JASP will automatically use zero as the comparison mean.
 
-6. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+6. Output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="onesample2.png"></kbd></p>
 
@@ -52,6 +52,6 @@ relatedthree:
 
 8. If you wish to view (and alter) the widths of the confidence intervals, check the relevant "Confidence Interval" boxes. 
 
-9. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
+9. Updated output will automatically appear on the right side of the window. 
 
 <p align="center"><kbd><img src="onesample3.png"></kbd></p>
