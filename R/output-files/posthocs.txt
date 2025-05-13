@@ -1,7 +1,7 @@
 Post Hoc Tests
 
 > ### Descriptive Statistics
-> 
+
 > mean(Outcome)
 [1] 5
 > tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
@@ -14,9 +14,8 @@ $`2`
 $`3`
 [1] 4.00000 7.00000 2.44949
 
-> 
 > ### Inferential Statistics
-> 
+
 > Results <- aov(Outcome~Factor)
 > TukeyHSD(Results)
   Tukey multiple comparisons of means

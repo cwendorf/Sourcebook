@@ -1,7 +1,7 @@
 Descriptives
 
 > ###  Frequency Distribution
-> 
+
 > FrequencyTable <- table(Outcome)
 > FrequencyTable
 Outcome
@@ -11,9 +11,9 @@ Outcome
 Outcome
     0     3     4     5     7     9 
 0.250 0.125 0.250 0.125 0.125 0.125 
-> 
+
 > ### Descriptive Statistics
-> 
+
 > length(Outcome)
 [1] 8
 > mean(Outcome)

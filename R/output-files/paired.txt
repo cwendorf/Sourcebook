@@ -1,7 +1,7 @@
 Paired Samples t Test
 
 > ### Descriptive Statistics
-> 
+
 > lapply(PairedData, function(x) c(length(x), mean(x), sd(x)))
 $Outcome1
 [1] 4.00000 2.00000 2.44949
@@ -9,9 +9,8 @@ $Outcome1
 $Outcome2
 [1] 4.00000 6.00000 2.44949
 
-> 
 > ### Inferential Statistics
-> 
+
 > t.test(Outcome2,Outcome1,paired=TRUE)
 
         Paired t-test

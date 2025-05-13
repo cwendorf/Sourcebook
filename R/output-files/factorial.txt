@@ -1,7 +1,7 @@
 Factorial ANOVA
 
 > ### Descriptive Statistics
-> 
+
 > Results <- aov(Outcome~FactorA*FactorB)
 > model.tables(Results,"means")
 Tables of means
@@ -24,7 +24,7 @@ FactorB
 FactorA B1 B2
      A1 2  6 
      A2 7  5 
-> 
+
 > tapply(Outcome, list(FactorA,FactorB), length)
    B1 B2
 A1  4  4
@@ -33,9 +33,9 @@ A2  4  4
         B1      B2
 A1 2.44949 2.44949
 A2 2.44949 2.44949
-> 
+
 > ### Inferential Statistics
-> 
+
 > summary(Results)
                 Df Sum Sq Mean Sq F value Pr(>F)  
 FactorA          1     16      16   2.667 0.1284  

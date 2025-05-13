@@ -1,16 +1,16 @@
 Confidence Intervals
 
 > ### Descriptive Statistics
-> 
+
 > length(Outcome)
 [1] 8
 > mean(Outcome)
 [1] 4
 > sd(Outcome)
 [1] 3.116775
-> 
+
 > ### Inferential Statistics
-> 
+
 > t.test(Outcome)$conf.int
 [1] 1.394311 6.605689
 attr(,"conf.level")

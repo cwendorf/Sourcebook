@@ -1,12 +1,12 @@
 One Sample t Test
 
 > ### Descriptive Statistics
-> 
+
 > c(length(Outcome), mean(Outcome), sd(Outcome))
 [1] 8.000000 4.000000 3.116775
-> 
+
 > ### Inferential Statistics
-> 
+
 > t.test(Outcome,mu=7)
 
         One Sample t-test

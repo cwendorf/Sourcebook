@@ -1,7 +1,7 @@
 Correlations
 
 > ### Descriptive Statistics
->
+
 > lapply(CorrelationData, function(x) c(length(x), mean(x), sd(x)))
 $Outcome1
 [1] 4.00000 2.00000 2.44949
@@ -9,14 +9,13 @@ $Outcome1
 $Outcome2
 [1] 4.00000 6.00000 2.44949
 
->
 > cov(Outcome1,Outcome2)
 [1] 3
 > cor(Outcome1,Outcome2)
 [1] 0.5
->
+
 > ### Inferential Statistics
->
+
 > cor.test(Outcome1,Outcome2)
 
 alternative hypothesis: true correlation is not equal to 0
