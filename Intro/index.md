@@ -44,10 +44,11 @@ This chapter provides statistical tables. They are used both as part of the calc
 
 ### APA Style
 
-This chapter describes rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Sample data tables are provided for more complex examples.
+This chapter describes rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Text summaries are provided for all examples. Sample data tables are provided for more complex examples.
 
 - [General Rules for Results Sections](./apa-style/general.md)
 - [Summary of Parametric Statistic Reporting](./apa-style/summary.md)
+- [Examples of Results in Text](./apa-style/text.md)
 - [Examples of Results in Tables](./apa-style/tables.md)
 
 ### Worked Examples
@@ -58,6 +59,7 @@ This chapter provides a set of worked examples. The raw data, typical computer o
 - [Descriptives](./worked-examples/descriptives.md)
 - [Standardized Scores](./worked-examples/standardized.md)
 - [Correlations](./worked-examples/correlations.md)
+- [Regression](./worked-examples/regression.md)
 - [Confidence Interval for a Mean](./worked-examples/intervals.md)
 - [One Sample t Test](./worked-examples/onesample.md)
 - [Paired Samples t Test](./worked-examples/paired.md)
