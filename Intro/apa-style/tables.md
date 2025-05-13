@@ -6,6 +6,8 @@ relatedone:
     url: ./general
   - title: APA Style | Summary of Parametric Statistic Reporting
     url: ./summary
+  - title: APA Style | Examples of Results in Text
+    url: ./text
   - title: APA Style | Examples of Results in Tables
     url: ./tables
 headertwo: Software Articles
