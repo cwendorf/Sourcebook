@@ -1,0 +1,60 @@
+---
+title: "Sourcebook"
+author: "Craig A. Wendorf"
+date: "`r Sys.Date()`"
+output: 
+  rmarkdown::html_vignette:
+    keep_md: TRUE
+vignette: >
+  %\VignetteIndexEntry{Regression}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r,include=FALSE}
+knitr::opts_chunk$set(fig.width = 7, fig.height = 7, comment = NA, fig.path = "figures/")
+```
+
+```{r,include=FALSE}
+library(DEVISE)
+```
+
+```{r,include=FALSE}
+Outcome1 <- c(0, 0, 3, 5)
+Outcome2 <- c(4, 7, 4, 9)
+CorrelationData <- construct(Outcome1, Outcome2)
+```
+
+# DEVISE | Data Analysis
+
+## Regression
+
+Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere).
+
+### Obtaining Descriptive Statistics
+
+Get the means and standard deviations for the variables.
+
+```{r}
+(CorrelationData) |> describeMoments()
+```
+
+Get the covariance matrix for the variables.
+
+```{r}
+(CorrelationData) |> describeCovariances()
+```
+
+### Obtaining Inferential Statistics
+
+Get the proportion of variance accounted for by the model.
+
+```{r}
+(CorrelationData) |> estimateModel()
+```
+
+Test the regression coefficients for statistical significance.
+
+```{r}
+(CorrelationData) |> testCoefficients()
+```

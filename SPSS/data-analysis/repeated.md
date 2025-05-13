@@ -30,7 +30,7 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, enter the repeated measures data. This is described elsewhere. 
+1. First, enter repeated measures data (described elsewhere).
 
 2. After the data are entered, select the "Analyze → General Linear Model → Repeated Measures" option from the main menu.
 

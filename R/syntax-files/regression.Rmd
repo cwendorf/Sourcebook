@@ -1,0 +1,62 @@
+---
+title: "Sourcebook"
+author: "Craig A. Wendorf"
+date: "`r Sys.Date()`"
+output: 
+  rmarkdown::html_vignette:
+    keep_md: TRUE
+vignette: >
+  %\VignetteIndexEntry{Regression}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r,include=FALSE}
+#suppress the warnings and other messages from showing in the knitted file.
+knitr::opts_chunk$set(fig.width=7, fig.height=5,fig.path='figures/',echo=TRUE,warning=FALSE,message=FALSE)
+```
+
+# R | Data Analysis
+
+## Regression
+
+### Entering Data
+
+Enter the data in vectors that assign variable names.
+
+```{r}
+Outcome1 <- c(0,0,3,5)
+Outcome2 <- c(4,7,4,9)
+```
+
+### Viewing Data
+
+Create and display a data frame to view the data set.
+
+```{r}
+CorrelationData <- data.frame(Outcome1,Outcome2)
+CorrelationData
+```
+
+### Obtaining Descriptive Statistics
+
+Get the sample sizes, means, and standard deviations for the variables.
+
+```{r}
+lapply(CorrelationData, function(x) c(length(x), mean(x), sd(x)))
+```
+
+Get the covariance matrix for the variables.
+
+```{r}
+cov(Outcome1,Outcome2)
+```
+
+### Obtaining Inferential Statistics
+
+Get the proportion of variance accounted for by the model and the model coefficients, along with statistical significance for each of them.
+
+```{r}
+model <- lm(Outcome2 ~ Outcome1)
+summary(model)
+```

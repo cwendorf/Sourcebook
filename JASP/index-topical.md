@@ -53,6 +53,14 @@ These pages show how to obtain and calculate correlations.
 - Data Analysis: [Correlations](./data-analysis/correlations.md)
 - Annotated Output: [Correlations](./annotated-output/correlations.md)
 
+### Regression
+
+These pages show how to obtain and calculate a regression model.
+
+- Data Entry: [Repeated Measures Data](./data-entry/repeated.md)
+- Data Analysis: [Regression](./data-analysis/regression.md)
+- Annotated Output: [Regression](./annotated-output/regression.md)
+
 ### Confidence Interval for a Mean
 
 These pages show how to obtain and calculate a confidence interval for a mean.
