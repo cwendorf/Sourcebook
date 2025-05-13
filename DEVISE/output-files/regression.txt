@@ -1,0 +1,36 @@
+Regression
+
+> ### Descriptive Statistics
+
+> (CorrelationData) |> describeMoments()
+
+Summary Statistics for the Data
+
+               N       M      SD    Skew    Kurt
+Outcome1   4.000   2.000   2.449   0.544  -2.944
+Outcome2   4.000   6.000   2.449   0.544  -2.944
+
+> (CorrelationData) |> describeCovariances()
+
+Covariances for the Data
+
+         Outcome1 Outcome2
+Outcome1   6.000    3.000
+Outcome2   3.000    6.000
+
+> ### Inferential Statistics
+
+> (CorrelationData) |> estimateModel()
+
+Proportion of Variance Accounted For by the Regression Model
+
+          Est      LL      UL
+Model   0.250   0.000   0.606
+
+> (CorrelationData) |> testCoefficients()
+
+Hypothesis Tests for the Regression Coefficients
+
+                Est      SE       t       p
+(Intercept)   5.000   1.785   2.801   0.107
+Outcome1      0.500   0.612   0.816   0.500
