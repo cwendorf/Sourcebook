@@ -30,7 +30,7 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, enter data involving multiple variables. This is described elsewhere.
+1. First, enter data involving multiple variables (described elsewhere). 
 
 2. After the data are entered, select the "Analyze → Correlate → Bivariate" option from the main menu. 
 
@@ -40,7 +40,7 @@ relatedthree:
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 
-4. Select the variables you wish to analyze by clicking on them and hitting the arrow to move them into the "Variables" box. 
+4. Select the variables you wish to analyze by clicking on them and clicking the arrow to move them into the "Variables" box. 
 
 5. By default, SPSS will have the "Pearson" box checked. Similarly, having "two-tailed" and "flag significant correlations" checked will create and display the significance tests.
 

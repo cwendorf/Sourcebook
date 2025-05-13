@@ -30,7 +30,7 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, enter the data. This is done in the same manner as entering two sample data (described elsewhere) but with additional groups.
+1. First, enter multiple group data (described elsewhere).
 
 2. After the data are entered, select the "Analyze → Compare Means → One-Way ANOVA" option from the main menu.
 

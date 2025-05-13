@@ -30,7 +30,7 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, enter the data (described elsewhere). 
+1. First, enter paired samples data (described elsewhere). 
 
 2. After the data are entered, select the "Analyze → Compare Means → Paired-Samples T Test" option from the main menu. 
 

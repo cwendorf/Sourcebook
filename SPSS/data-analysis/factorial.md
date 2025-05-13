@@ -30,7 +30,7 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, enter the data (described elsewhere). 
+1. First, enter factorial data (described elsewhere).
 
 2. After the data are entered, select the "Analyze → General Linear Model → Univariate" option from the main menu. 
 

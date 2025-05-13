@@ -30,7 +30,7 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1. First, enter the data (described elsewhere). 
+1. First, enter two sample data (described elsewhere).
 
 2. After the data are entered, select the "Analyze → Compare Means → Independent-Samples T Test" ption from the main menu.
 
