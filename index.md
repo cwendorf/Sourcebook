@@ -5,7 +5,7 @@ relatedone:
   - title: Respository
     url: "https://github.com/cwendorf/Sourcebook"
   - title: License
-    url: "https://creativecommons.org/licenses/by-nc/4.0/"
+    url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 headertwo: Sourcebook Sections
 relatedtwo:
   - title: Intro Articles
