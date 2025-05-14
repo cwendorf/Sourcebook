@@ -6,7 +6,7 @@ relatedone:
     url: ../../Intro/statistical-tables/t
   - title: Worked Examples | Paired Samples t Test
     url: ../../Intro/worked-examples/paired
-headertwo: DEVISE Articles
+headertwo: R Articles
 relatedtwo:
   - title: Data Entry | Repeated Measures Data
     url: ../data-entry/repeated
@@ -14,7 +14,7 @@ relatedtwo:
     url: ../data-analysis/paired
   - title: Annotated Output | Paired Samples t Test
     url: ../annotated-output/paired
-headerthree: DEVISE Files
+headerthree: R Files
 relatedthree:
   - title: Data Files | Paired Data
     url: ../data-files/paired.csv

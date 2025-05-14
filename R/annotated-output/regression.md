@@ -6,7 +6,7 @@ relatedone:
     url: ../../Intro/statistical-tables/t
   - title: Worked Examples | Regression
     url: ../../Intro/worked-examples/regression
-headertwo: DEVISE Articles
+headertwo: R Articles
 relatedtwo:
   - title: Data Entry | Repeated Measures Data
     url: ../data-entry/repeated
@@ -14,7 +14,7 @@ relatedtwo:
     url: ../data-analysis/regression
   - title: Annotated Output | Regression
     url: ../annotated-output/regression
-headerthree: DEVISE Files
+headerthree: R Files
 relatedthree:
   - title: Data Files | Paired Data
     url: ../data-files/paired.csv

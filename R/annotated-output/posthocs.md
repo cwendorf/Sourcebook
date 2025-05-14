@@ -6,7 +6,7 @@ relatedone:
     url: ../../Intro/statistical-tables/t
   - title: Worked Examples | Post Hoc Comparisons
     url: ../../Intro/worked-examples/posthocs
-headertwo: DEVISE Articles
+headertwo: R Articles
 relatedtwo:
   - title: Data Entry | Multiple Sample Data
     url: ../data-entry/multisample
@@ -14,7 +14,7 @@ relatedtwo:
     url: ../data-analysis/posthocs
   - title: Annotated Output | Post Hoc Comparisons
     url: ../annotated-output/posthocs
-headerthree: DEVISE Files
+headerthree: R Files
 relatedthree:
   - title: Data Files | OneWay Data
     url: ../data-files/oneway.csv

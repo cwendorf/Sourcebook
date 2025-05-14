@@ -6,7 +6,7 @@ relatedone:
     url: ../../Intro/statistical-tables/F
   - title: Worked Examples | Factorial ANOVA
     url: ../../Intro/worked-examples/factorial
-headertwo: DEVISE Articles
+headertwo: R Articles
 relatedtwo:
   - title: Data Entry | Factorial Data
     url: ../data-entry/factorial
@@ -14,7 +14,7 @@ relatedtwo:
     url: ../data-analysis/factorial
   - title: Annotated Output | Factorial ANOVA
     url: ../annotated-output/factorial
-headerthree: DEVISE Files
+headerthree: R Files
 relatedthree:
   - title: Data Files | Factorial Data
     url: ../data-files/factorial.csv

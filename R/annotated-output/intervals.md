@@ -6,7 +6,7 @@ relatedone:
     url: ../../Intro/statistical-tables/t
   - title: Worked Examples | Confidence Interval for a Mean
     url: ../../Intro/worked-examples/intervals
-headertwo: DEVISE Articles
+headertwo: R Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
@@ -14,7 +14,7 @@ relatedtwo:
     url: ../data-analysis/intervals
   - title: Annotated Output | Confidence Interval for a Mean
     url: ../annotated-output/intervals
-headerthree: DEVISE Files
+headerthree: R Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv

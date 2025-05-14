@@ -6,7 +6,7 @@ relatedone:
     url: ../../Intro/statistical-tables/F
   - title: Worked Examples | OneWay ANOVA
     url: ../../Intro/worked-examples/oneway
-headertwo: DEVISE Articles
+headertwo: R Articles
 relatedtwo:
   - title: Data Entry | Multiple Sample Data
     url: ../data-entry/multisample
@@ -14,7 +14,7 @@ relatedtwo:
     url: ../data-analysis/oneway
   - title: Annotated Output | OneWay ANOVA
     url: ../annotated-output/oneway
-headerthree: DEVISE Files
+headerthree: R Files
 relatedthree:
   - title: Data Files | OneWay Data
     url: ../data-files/oneway.csv

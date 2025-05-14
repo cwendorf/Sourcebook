@@ -6,7 +6,7 @@ relatedone:
     url: ../../Intro/statistical-tables/t
   - title: Worked Examples | One Sample t Test
     url: ../../Intro/worked-examples/onesample
-headertwo: DEVISE Articles
+headertwo: R Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
@@ -14,7 +14,7 @@ relatedtwo:
     url: ../data-analysis/onesample
   - title: Annotated Output | One Sample t Test
     url: ../annotated-output/onesample
-headerthree: DEVISE Files
+headerthree: R Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv

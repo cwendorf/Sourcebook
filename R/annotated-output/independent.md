@@ -6,7 +6,7 @@ relatedone:
     url: ../../Intro/statistical-tables/t
   - title: Worked Examples | Independent Samples t Test
     url: ../../Intro/worked-examples/independent
-headertwo: DEVISE Articles
+headertwo: R Articles
 relatedtwo:
   - title: Data Entry | Multiple Sample Data
     url: ../data-entry/multisample
@@ -14,7 +14,7 @@ relatedtwo:
     url: ../data-analysis/independent
   - title: Annotated Output | Independent Samples t Test
     url: ../annotated-output/independent
-headerthree: DEVISE Files
+headerthree: R Files
 relatedthree:
   - title: Data Files | Independent Sample Data
     url: ../data-files/independent.csv

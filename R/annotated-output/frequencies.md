@@ -4,7 +4,7 @@ headerone: Intro Articles
 relatedone:
   - title: Worked Examples | Frequencies
     url: ../../Intro/worked-examples/frequencies
-headertwo: DEVISE Articles
+headertwo: R Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
@@ -12,7 +12,7 @@ relatedtwo:
     url: ../data-analysis/onesample    
   - title: Annotated Output | Frequencies
     url: ../annotated-output/frequencies
-headerthree: DEVISE Files
+headerthree: R Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv
