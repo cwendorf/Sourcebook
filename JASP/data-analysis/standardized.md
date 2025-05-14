@@ -4,13 +4,13 @@ headerone: Intro Articles
 relatedone:
   - title: Worked Examples | Standardized Scores
     url: ../../Intro/worked-examples/standardized
-headertwo: jamovi Articles
+headertwo: JASP Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
   - title: Data Analysis | Standardized Scores
     url: ../data-analysis/standardized
-headerthree: jamovi Files
+headerthree: JASP Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.omv
@@ -18,7 +18,7 @@ relatedthree:
     url: ../output-files/standardized.omv
 ---
 
-# [jamovi Articles](../index.md)
+# [JASP Articles](../index.md)
 
 ## Data Analysis | Transformations and Standardized Scores
 

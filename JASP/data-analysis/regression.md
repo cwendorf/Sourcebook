@@ -46,7 +46,7 @@ relatedthree:
 
 ### Obtaining Additional Statistics
 
-6. Scroll down to the section on “Statistics”. Check “Display | Descriptives” and “Coefficients | Estimates”.
+6. Scroll down to the section on “Statistics”. Check “Display -> Descriptives” and “Coefficients -> Estimates”.
 
 7. Updated output will automatically appear on the right side of the window.
 

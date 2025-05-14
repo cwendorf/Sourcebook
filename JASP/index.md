@@ -36,6 +36,7 @@ This chapter shows how to enter the data for most undergraduate level between-su
 This chapter provides step-by-step instructions on how to obtain basic statistical output using the software.
 
 - [Frequencies and Descriptive Statistics](./data-analysis/descriptives.md)
+- [Transformations and Standardized Scores](./data-analysis/standardized.md)
 - [Correlations](./data-analysis/correlations.md)
 - [Regression](./data-analysis/regression.md)
 - [Confidence Interval for a Mean](./data-analysis/intervals.md)
