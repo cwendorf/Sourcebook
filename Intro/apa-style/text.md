@@ -100,7 +100,7 @@ The ANOVA provides an omnibus test of the differences across multiple groups. Be
 
 > A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were statistically significant, *F*(2,9) = 4.67, *p* = .041.
 
-> Analyses revealed large overall differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45), *η*<sup>2</sup> = .51, *F*(2,9) = 4.67, *p* = .041.
+> Analyses revealed large overall differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45), *η<sup>2</sup>* = .51, *F*(2,9) = 4.67, *p* = .041.
 
 ### Post Hoc Comparisons
 
@@ -114,9 +114,9 @@ Post hoc comparisons build on the ANOVA results and provide a more focused compa
 
 The RMD ANOVA tests for overall differences across the repeated measures. As such, its summary parallels that of the One Way ANOVA. The first example focuses on statistical significance testing, whereas as the second version includes and emphasizes interpretation of the effect size.
 
-> A repeated measures ANOVA showed that the difference in Outcome scores (*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was statistically significant, *F*(1,3) = 10.67, *p* = .047, partial *η*<sup>2</sup> = .78.
+> A repeated measures ANOVA showed that the difference in Outcome scores (*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was statistically significant, *F*(1,3) = 10.67, *p* = .047, partial *η<sup>2</sup>* = .78.
 
-> Analyses revealed a substantial increase in Outcome scores (*N* = 4) from the first time point (*M* = 2.00, *SD* = 2.45) to the second time point (*M* = 6.00, *SD* = 2.45), partial *η*<sup>2</sup> = .78, *F*(1,3) = 10.67, *p* = .047.
+> Analyses revealed a substantial increase in Outcome scores (*N* = 4) from the first time point (*M* = 2.00, *SD* = 2.45) to the second time point (*M* = 6.00, *SD* = 2.45), partial *η<sup>2</sup>* = .78, *F*(1,3) = 10.67, *p* = .047.
 
 ### Factorial ANOVA
 
@@ -124,4 +124,4 @@ The Factorial ANOVA provides statistics for the main effects and interactions in
 
 > A 2 (Factor A) x 2 (Factor B) ANOVA showed that neither Factor A, *F*(1,12) = 0.67, *p* = .430, nor Factor B, *F*(1,12) = 2.67, *p* = .128, had a statistically significant impact on the Outcome. However, the interaction was statistically significant, *F*(1,12) = 6.00, *p* = .031.
 
-> Analyses revealed that neither Factor A, partial *η*<sup>2</sup> = .05, *F*(1,12) = 0.67, *p* = .430, nor Factor B, partial *η*<sup>2</sup> = .18, *F*(1,12) = 2.67, *p* = .128, had an appreciable impact on the Outcome. However, the interaction had a large impact on the Outcome, partial *η*<sup>2</sup> = .33, *F*(1,12) = 6.00, *p* = .031.
+> Analyses revealed that neither Factor A, partial *η<sup>2</sup>* = .05, *F*(1,12) = 0.67, *p* = .430, nor Factor B, partial *η<sup>2</sup>* = .18, *F*(1,12) = 2.67, *p* = .128, had an appreciable impact on the Outcome. However, the interaction had a large impact on the Outcome, partial *η<sup>2</sup>* = .33, *F*(1,12) = 6.00, *p* = .031.
