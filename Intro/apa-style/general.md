@@ -30,13 +30,11 @@ relatedtwo:
 
 ### Purpose of Results Sections
 
-The APA manual describes appropriate strategies for presenting statistical information. These guidelines were established to provide basic minimal standards and to provide some uniformity across studies.
+The APA manual describes appropriate strategies for presenting statistical information. These guidelines were established to provide basic minimal standards and to provide some uniformity across studies. In general, your results section should effectively communicate the findings of the study by:
 
-In general, your results section should effectively communicate the findings of the study. 
-
-- To provide context for the statistics that will follow, incorporate language about the variable(s) under study. 
-- To clarify what you did to analyze the results, identify the statistical procedures used.
-- To highlight the implications of the analyses for the hypotheses, provide simple interpretations of the analyses.
+- Providing context for the statistics that will follow by incorporating language about the variable(s);
+- Clarifying what you did to analyze the results by identifying the statistical procedures used; and
+- Highlighting the implications for the hypotheses by providing simple interpretations of the analyses.
 
 ### Statistical Information to Include
 

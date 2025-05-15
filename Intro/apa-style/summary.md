@@ -36,7 +36,7 @@ relatedtwo:
 | **Measures of Effect Size** ||||
 | Cohen's d | To provide a standardized measure of an effect (defined as the difference between two means). | *d* = \_\_\_\_\_. | Indicates the size of the treatment effect relative to the within-group variability of scores. |
 | Correlation | To provide a measure of the association between two variables measured in a sample. | *r*(df) = \_\_\_\_\_ | Indicates the strength of the relationship between two variables. |
-| Eta-Squared | To provide a standardized measure of an effect (defined as the relationship between two variables). | *eta*<sup>2</sup> = \_\_\_\_\_. | Indicates the proportion of variance in the dependent variable accounted for by the independent variable. |
+| Eta-Squared | To provide a standardized measure of an effect (defined as the relationship between two variables). | *η<sup>2</sup>* = \_\_\_\_\_. | Indicates the proportion of variance in the dependent variable accounted for by the independent variable. |
 | **Confidence Intervals** ||||
 | CI for a Mean | To provide an interval estimate of the population mean. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Estimates a range for the mean using a procedure that produces an accurate estimate the specified percentage of times. |
 | CI for a Mean Difference | To provide an interval estimate of the population mean difference. | \_\_\_\_% CI [\_\_\_, \_\_\_] | Estimates a range for the mean difference using a procedure that produces an accurate estimate the specified percentage of times. |
