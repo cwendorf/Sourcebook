@@ -39,7 +39,7 @@ This chapter provides statistical tables. They are used both as part of the calc
 - [Student's *t*](./statistical-tables/t.md)
 - [Cohen's *d*](./statistical-tables/powerd.md)
 - [Snedecor's *F*](./statistical-tables/F.md)
-- [*Eta-Squared*](./statistical-tables/powereta.md)
+- [Eta-Squared](./statistical-tables/powereta.md)
 - [Tukey's *HSD*](./statistical-tables/hsd.md)
 
 ### APA Style
