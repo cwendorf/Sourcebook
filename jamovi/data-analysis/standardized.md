@@ -8,7 +8,7 @@ headertwo: jamovi Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
-  - title: Data Analysis | Standardized Scores
+  - title: Data Analysis | Transformations and Standardized Scores
     url: ../data-analysis/standardized
 headerthree: jamovi Files
 relatedthree:
