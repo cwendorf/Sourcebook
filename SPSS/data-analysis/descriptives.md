@@ -34,7 +34,7 @@ relatedthree:
 
 2. After the data are entered, select the "Analyze → Descriptive Statistics → Frequencies" option from the main menu. 
 
-<p align="center"><kbd><img src="frequencies1.png"></kbd></p>
+<p align="center"><kbd><img src="descriptives1.png"></kbd></p>
 
 ### Obtaining Frequencies
 
@@ -46,7 +46,7 @@ relatedthree:
 
 6. If all you wish is a frequency table (with no histogram or summary statistics), click "OK." A separate window with the output will appear.
 
-<p align="center"><kbd><img src="frequencies2.png"></kbd></p>
+<p align="center"><kbd><img src="descriptives2.png"></kbd></p>
 
 ### Obtaining a Histogram 
 
@@ -56,7 +56,7 @@ relatedthree:
 
 9. Click "Continue." This will return you to the original dialogue box.
 
-<p align="center"><kbd><img src="frequencies4.png"></kbd></p>
+<p align="center"><kbd><img src="descriptives4.png"></kbd></p>
 
 ### Obtaining Descriptive Statistics 
  
@@ -68,5 +68,5 @@ relatedthree:
 
 13. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
-<p align="center"><kbd><img src="frequencies3.png"></kbd></p>
+<p align="center"><kbd><img src="descriptives3.png"></kbd></p>
 
