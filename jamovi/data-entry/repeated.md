@@ -18,7 +18,7 @@ relatedtwo:
 
 # [jamovi Articles](../index.md)
 
-## Data Entry | Repeated Measures Data
+## Data Entry | Paired and Repeated Measures Data
 
 ### Defining Variables 
 

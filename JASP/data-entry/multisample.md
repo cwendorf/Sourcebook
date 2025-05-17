@@ -18,7 +18,7 @@ relatedtwo:
 
 # [JASP Articles](../index.md)
 
-## Data Entry | Multiple Sample Data 
+## Data Entry | Two and Multiple Sample Data 
 
 ### Defining Variables
 

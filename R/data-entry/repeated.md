@@ -18,7 +18,7 @@ relatedtwo:
 
 # [R Articles](../index.md)
 
-## Data Entry | Repeated Measures Data
+## Data Entry | Paired and Repeated Measures Data
 
 In the steps below, the commands should be typed directly into the R console window.
 
