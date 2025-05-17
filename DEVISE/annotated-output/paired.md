@@ -8,7 +8,7 @@ relatedone:
     url: ../../Intro/worked-examples/paired
 headertwo: DEVISE Articles
 relatedtwo:
-  - title: Data Entry | Repeated Measures Data
+  - title: Data Entry | Paired and Repeated Measures Data
     url: ../data-entry/repeated
   - title: Data Analysis | Paired Samples t Test
     url: ../data-analysis/paired

@@ -8,7 +8,7 @@ relatedone:
     url: ../../Intro/worked-examples/posthocs
 headertwo: JASP Articles
 relatedtwo:
-  - title: Data Entry | Multiple Sample Data
+  - title: Data Entry | Two and Multiple Sample Data
     url: ../data-entry/multisample
   - title: Data Analysis | Post Hoc Comparisons
     url: ../data-analysis/posthocs

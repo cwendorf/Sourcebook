@@ -8,7 +8,7 @@ relatedone:
     url: ../../Intro/worked-examples/repeated
 headertwo: jamovi Articles
 relatedtwo:
-  - title: Data Entry | Repeated Measures Data
+  - title: Data Entry | Paired and Repeated Measures Data
     url: ../data-entry/repeated
   - title: Data Analysis | Repeated Measures ANOVA
     url: ../data-analysis/repeated

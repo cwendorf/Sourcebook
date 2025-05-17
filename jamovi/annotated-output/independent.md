@@ -8,7 +8,7 @@ relatedone:
     url: ../../Intro/worked-examples/independent
 headertwo: jamovi Articles
 relatedtwo:
-  - title: Data Entry | Multiple Sample Data
+  - title: Data Entry | Two and Multiple Sample Data
     url: ../data-entry/multisample
   - title: Data Analysis | Independent Samples t Test
     url: ../data-analysis/independent

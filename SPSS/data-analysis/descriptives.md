@@ -11,17 +11,17 @@ relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
   - title: Data Analysis | Frequencies and Descriptives
-    url: ../data-analysis/frequencies
+    url: ../data-analysis/descriptives
   - title: Annotated Output | Frequencies and Descriptives
-    url: ../annotated-output/frequencies
+    url: ../annotated-output/descriptives
 headerthree: SPSS Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.sav
-  - title: Syntax Files | Frequencies
-    url: ../syntax-files/frequencies.sps
-  - title: Output Files | Frequencies
-    url: ../output-files/frequencies.spv
+  - title: Syntax Files | Frequencies and Descriptives
+    url: ../syntax-files/descriptives.sps
+  - title: Output Files | Frequencies and Descriptives
+    url: ../output-files/descriptives.spv
 ---
 
 # [SPSS Articles](../index.md)

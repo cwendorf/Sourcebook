@@ -22,16 +22,16 @@ This index page provides links to the various materials available for using R to
 
 ### Data Entry
 
-This chapter shows how to enter the data for most undergraduate level between-subjects and within-subjects research designs.
+This chapter provides step-by-step written instructions showing how to enter the data using the software.
 
 - [One Sample Data](./data-entry/onesample.md)  
-- [Repeated Measures Data](./data-entry/repeated.md)
-- [Multiple Sample Data](./data-entry/multisample.md)
+- [Paired and Repeated Measures Data](./data-entry/repeated.md)
+- [Two and Multiple Sample Data](./data-entry/multisample.md)
 - [Factorial Data](./data-entry/factorial.md)
 
 ### Data Analysis
 
-This chapter provides step-by-step instructions on how to obtain basic statistical output using the software.
+This chapter provides step-by-step written instructions for obtaining basic statistical output using the software.
 
 - [Frequencies](./data-analysis/frequencies.md)
 - [Descriptives](./data-analysis/descriptives.md)

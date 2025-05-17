@@ -24,18 +24,18 @@ This index page provides links to the various materials available for using SPSS
 
 ### Data Entry
 
-This chapter shows how to enter the data for most undergraduate level between-subjects and within-subjects research designs.
+This chapter provides step-by-step written instructions and screenshots showing how to enter the data using the software.
 
 - [One Sample Data](./data-entry/onesample.md)
-- [Repeated Measures Data](./data-entry/repeated.md)
-- [Multiple Sample Data](./data-entry/multisample.md)
+- [Paired and Repeated Measures Data](./data-entry/repeated.md)
+- [Two and Multiple Sample Data](./data-entry/multisample.md)
 - [Factorial Data](./data-entry/factorial.md)
 
 ### Data Analysis
 
-This chapter provides step-by-step instructions on how to obtain basic statistical output using the software.
+This chapter provides step-by-step written instructions and screenshots for obtaining basic statistical output using the software.
 
-- [Frequencies and Descriptives](./data-analysis/frequencies.md)
+- [Frequencies and Descriptives](./data-analysis/descriptives.md)
 - [Transformations and Standardized Scores](./data-analysis/standardized.md)
 - [Correlations](./data-analysis/correlations.md)
 - [Regression](./data-analysis/regression.md)
@@ -52,7 +52,7 @@ This chapter provides step-by-step instructions on how to obtain basic statistic
 
 This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. 
 
-- [Frequencies and Descriptives](./annotated-output/frequencies.md)
+- [Frequencies and Descriptives](./annotated-output/descriptives.md)
 - [Correlations](./annotated-output/correlations.md)
 - [Regression](./annotated-output/regression.md)
 - [Confidence Interval for a Mean](./annotated-output/intervals.md)

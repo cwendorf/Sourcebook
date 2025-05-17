@@ -18,7 +18,7 @@ headerthree: JASP Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.jasp
-  - title: Output Files | Descriptives
+  - title: Output Files | Frequencies and Descriptives
     url: ../output-files/descriptives.jasp
 ---
 

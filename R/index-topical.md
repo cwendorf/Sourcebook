@@ -47,7 +47,7 @@ These pages show how to transform data, especially into standardized scores.
 
 These pages show how to obtain and calculate correlations.
 
-- Data Entry: [Repeated Measures Data](./data-entry/repeated.md)
+- Data Entry: [Paired and Repeated Measures Data](./data-entry/repeated.md)
 - Data Analysis: [Correlations](./data-analysis/correlations.md)
 - Annotated Output: [Correlations](./annotated-output/correlations.md)
 
@@ -55,7 +55,7 @@ These pages show how to obtain and calculate correlations.
 
 These pages show how to obtain and calculate a regression model.
 
-- Data Entry: [Repeated Measures Data](./data-entry/repeated.md)
+- Data Entry: [Paired and Repeated Measures Data](./data-entry/repeated.md)
 - Data Analysis: [Regression](./data-analysis/regression.md)
 - Annotated Output: [Regression](./annotated-output/regression.md)
 
@@ -79,7 +79,7 @@ These pages show how to obtain and calculate statistical significance, an effect
 
 These pages show how to obtain and calculate statistical significance, an effect size, and a confidence interval for paired samples.
 
-- Data Entry: [Repeated Measures Data](./data-entry/repeated.md)
+- Data Entry: [Paired and Repeated Measures Data](./data-entry/repeated.md)
 - Data Analysis: [Paired Samples t Test](./data-analysis/paired.md)
 - Annotated Output: [Paired Samples t Test](./annotated-output/paired.md)
 
@@ -87,7 +87,7 @@ These pages show how to obtain and calculate statistical significance, an effect
 
 These pages show how to obtain and calculate statistical significance, an effect size, and a confidence interval for two samples.
 
-- Data Entry: [Multiple Sample Data](./data-entry/multisample.md)
+- Data Entry: [Two and Multiple Sample Data](./data-entry/multisample.md)
 - Data Analysis: [Independent Samples t Test](./data-analysis/independent.md)
 - Annotated Output: [Independent Samples t Test](./annotated-output/independent.md)
 
@@ -95,7 +95,7 @@ These pages show how to obtain and calculate statistical significance, an effect
 
 These pages show how to obtain and calculate statistical significance, an effect size, and a confidence interval for multiple samples.
 
-- Data Entry: [Multiple Sample Data](./data-entry/multisample.md)
+- Data Entry: [Two and Multiple Sample Data](./data-entry/multisample.md)
 - Data Analysis: [OneWay ANOVA](./data-analysis/oneway.md)
 - Annotated Output: [OneWay ANOVA](./annotated-output/oneway.md)
 
@@ -103,7 +103,7 @@ These pages show how to obtain and calculate statistical significance, an effect
 
 These pages show how to obtain and calculate statistical significance, effect sizes, and confidence intervals for comparisons.
 
-- Data Entry: [Multiple Sample Data](./data-entry/multisample.md)
+- Data Entry: [Two and Multiple Sample Data](./data-entry/multisample.md)
 - Data Analysis: [Post Hoc Comparisons](./data-analysis/posthocs.md)
 - Annotated Output: [Post Hoc Comparisons](./annotated-output/posthocs.md)
 
@@ -111,7 +111,7 @@ These pages show how to obtain and calculate statistical significance, effect si
 
 These pages show how to obtain and calculate statistical significance and an effect size for repeated measures.
 
-- Data Entry: [Repeated Measures Data](./data-entry/repeated.md)
+- Data Entry: [Paired and Repeated Measures Data](./data-entry/repeated.md)
 - Data Analysis: [Repeated Measures ANOVA](./data-analysis/repeated.md)
 - Annotated Output: [Repeated Measures ANOVA](./annotated-output/repeated.md)
 
