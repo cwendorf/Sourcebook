@@ -85,36 +85,16 @@
       {{ content }}
    
 {% assign url = page.url %}
-{% assign url_parts = url | split: '/' %}
-{% assign last = url_parts | last %}
-
-{% if last == "" %}
-  {% assign file_name = url_parts[url_parts.size - 2] %}
-  {% assign base_path = url %}
-{% else %}
-  {% assign file_name = last | split: '.' | first %}
-  {% assign base_path = url | remove: last %}
-{% endif %}
-
-{% assign pdf_path = base_path | append: file_name | append: ".pdf" %}
-{% assign md_path = base_path | append: file_name | append: ".md" %}
-
-{%- comment -%}
-Make sure paths start with / (absolute)
-{%- endcomment -%}
-{% unless pdf_path startswith '/' %}
-  {% assign pdf_path = '/' | append: pdf_path %}
-{% endunless %}
-{% unless md_path startswith '/' %}
-  {% assign md_path = '/' | append: md_path %}
-{% endunless %}
+{% assign filename = url | split: '/' | last | split: '.' | first %}
+{% assign basepath = url | remove: filename | remove: '.html' %}
+{% assign fullpath = basepath | append: filename %}
 
 
 <div id="file-links"></div>
 
 <script>
-const pdfPath = '{{ pdf_path }}';
-const mdPath = '{{ md_path }}';
+const pdfPath = '{{ fullpath }}.pdf';
+const mdPath = '{{ fullpath }}.md';
 
 Promise.all([
   fetch(pdfPath).then(res => res.ok ? pdfPath : null),
@@ -128,6 +108,7 @@ Promise.all([
   }
 });
 </script>
+
 
 
     </div>
