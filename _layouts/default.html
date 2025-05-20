@@ -113,6 +113,39 @@
 
     </div>
 
+{% assign page_parts = page.url | split: '/' %}
+{% assign file_name = page_parts | last | split: '.' | first %}
+{% assign dir_path = page.url | replace: page_parts | last, '' %}
+
+{% assign pdf_path = dir_path | append: file_name | append: ".pdf" %}
+{% assign md_path = dir_path | append: file_name | append: ".md" %}
+
+<div id="file-links"></div>
+
+<script>
+const pdfPath = '{{ pdf_path }}';
+const mdPath = '{{ md_path }}';
+
+Promise.all([
+  fetch(pdfPath, { method: 'HEAD' }).then(res => res.ok ? pdfPath : null),
+  fetch(mdPath, { method: 'HEAD' }).then(res => res.ok ? mdPath : null)
+]).then(([pdfExists, mdExists]) => {
+  const links = [];
+
+  if (pdfExists) {
+    links.push(`<a href="${pdfPath}" target="_blank">Download PDF</a>`);
+  }
+
+  if (mdExists) {
+    links.push(`<a href="${mdPath}" target="_blank">View Markdown</a>`);
+  }
+
+  if (links.length) {
+    document.getElementById('file-links').innerHTML = `[ ${links.join(' | ')} ]`;
+  }
+});
+</script>
+
     </div>
     </div>
 
