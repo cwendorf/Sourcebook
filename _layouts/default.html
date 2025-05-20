@@ -89,9 +89,9 @@
       {% assign last_part = page_parts | last %}
 
       {% if last_part == "" %}
-        {%- assign file_name = page_parts[page_parts.size - 2] -%}
+        {% assign file_name = page_parts[page_parts.size - 2] %}
       {% else %}
-        {%- assign file_name = last_part | split: '.' | first %}
+        {% assign file_name = last_part | split: '.' | first %}
       {% endif %}
 
       {% assign dir_path = page_url | remove: last_part %}
