@@ -84,6 +84,43 @@
            
       {{ content }}
    
+      {% assign page_url = page.url %}
+      {% assign page_parts = page_url | split: '/' %}
+      {% assign last_part = page_parts | last %}
+
+      {% if last_part == "" %}
+        {%- assign file_name = page_parts[page_parts.size - 2] -%}
+      {% else %}
+        {%- assign file_name = last_part | split: '.' | first -%}
+      {% endif %}
+
+      {% assign dir_path = page_url | remove: last_part %}
+      {% assign pdf_path = dir_path | append: file_name | append: ".pdf" %}
+      {% assign md_path = dir_path | append: file_name | append: ".md" %}
+
+      <script>
+        const pdfPath = '{{ pdf_path }}';
+        const mdPath = '{{ md_path }}';
+        console.log("PDF Path:", pdfPath);
+        console.log("MD Path:", mdPath);
+        Promise.all([
+          fetch(pdfPath).then(res => res.ok ? pdfPath : null),
+          fetch(mdPath).then(res => res.ok ? mdPath : null)
+        ]).then(([pdfExists, mdExists]) => {
+        const links = [];
+
+        if (pdfExists) {
+          links.push(`<a href="${pdfExists}" target="_blank">Download PDF</a>`);
+        }
+        if (mdExists) {
+          links.push(`<a href="${mdExists}" target="_blank">View Markdown</a>`);
+        }
+        if (links.length) {
+          document.getElementById('file-links').innerHTML = `[ ${links.join(' | ')} ]`;
+        }
+        });
+      </script>
+
     </div>
 
     <div id=Sidebar>
@@ -112,58 +149,6 @@
       </ul>
 
     </div>
-
-
-    
-{% assign page_url = page.url %}
-{% assign page_parts = page_url | split: '/' %}
-{% assign last_part = page_parts | last %}
-
-{% if last_part == "" %}
-  {%- assign file_name = page_parts[page_parts.size - 2] -%}
-{% else %}
-  {%- assign file_name = last_part | split: '.' | first -%}
-{% endif %}
-
-{% assign dir_path = page_url | remove: last_part %}
-{% assign pdf_path = dir_path | append: file_name | append: ".pdf" %}
-{% assign md_path = dir_path | append: file_name | append: ".md" %}
-
-
-
-<div id="file-links"></div>
-
-<script>
-  const pdfPath = './onesample.pdf'; // Adjust the path as needed
-  const mdPath = './onesample.md';   // Adjust the path as needed
-
-  Promise.all([
-    fetch(pdfPath).then(res => res.ok ? pdfPath : null),
-    fetch(mdPath).then(res => res.ok ? mdPath : null)
-  ]).then(([pdfExists, mdExists]) => {
-    const links = [];
-
-    if (pdfExists) {
-      links.push(`<a href="${pdfExists}" target="_blank">Download PDF</a>`);
-    }
-
-    if (mdExists) {
-      links.push(`<a href="${mdExists}" target="_blank">View Markdown</a>`);
-    }
-
-    if (links.length) {
-      document.getElementById('file-links').innerHTML = `[ ${links.join(' | ')} ]`;
-    }
-  }).catch(err => {
-    console.error("Error fetching files:", err);
-  });
-</script>
-
-
-
-
-
-
 
     </div>
     </div>
