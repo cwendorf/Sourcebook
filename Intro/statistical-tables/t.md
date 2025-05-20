@@ -28,9 +28,7 @@ relatedtwo:
 
 ## Statistical Tables | Student's *t*
 
-### Values of the *t* Distribution
-
-Tabled Values are *t* Statistics for the Given Two-Tailed Probabilities and Degrees of Freedom
+### Tabled Values are *t* Statistics for the Given Two-Tailed Probabilities and Degrees of Freedom
 
 | **df<sub>ERROR</sub>** | **.90** | **.80** | **.70** | **.60** | **.50** | **.40** | **.30** | **.20** | **.10** | **.05** | **.04** | **.03** | **.02** | **.01** | **.001** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
