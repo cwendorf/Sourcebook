@@ -91,7 +91,7 @@
       {% if last_part == "" %}
         {%- assign file_name = page_parts[page_parts.size - 2] -%}
       {% else %}
-        {%- assign file_name = last_part | split: '.' | first -%}
+        {%- assign file_name = last_part | split: '.' | first %}
       {% endif %}
 
       {% assign dir_path = page_url | remove: last_part %}
@@ -101,20 +101,14 @@
       <script>
         const pdfPath = '{{ pdf_path }}';
         const mdPath = '{{ md_path }}';
-        console.log("PDF Path:", pdfPath);
-        console.log("MD Path:", mdPath);
+
         Promise.all([
           fetch(pdfPath).then(res => res.ok ? pdfPath : null),
           fetch(mdPath).then(res => res.ok ? mdPath : null)
         ]).then(([pdfExists, mdExists]) => {
         const links = [];
-
-        if (pdfExists) {
-          links.push(`<a href="${pdfExists}" target="_blank">Download PDF</a>`);
-        }
-        if (mdExists) {
-          links.push(`<a href="${mdExists}" target="_blank">View Markdown</a>`);
-        }
+        if (pdfExists) {links.push(`<a href="${pdfExists}" target="_blank">View PDF</a>`);}
+        if (mdExists) {links.push(`<a href="${mdExists}" target="_blank">View Markdown</a>`);}
         if (links.length) {
           document.getElementById('file-links').innerHTML = `[ ${links.join(' | ')} ]`;
         }
