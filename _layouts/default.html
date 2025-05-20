@@ -84,36 +84,51 @@
            
       {{ content }}
    
-      {% assign page_url = page.url %}
-      {% assign page_parts = page_url | split: '/' %}
-      {% assign last_part = page_parts | last %}
+{% assign url = page.url %}
+{% assign url_parts = url | split: '/' %}
+{% assign last = url_parts | last %}
 
-      {% if last_part == "" %}
-        {% assign file_name = page_parts[page_parts.size - 2] %}
-      {% else %}
-        {% assign file_name = last_part | split: '.' | first %}
-      {% endif %}
+{% if last == "" %}
+  {% assign file_name = url_parts[url_parts.size - 2] %}
+  {% assign base_path = url %}
+{% else %}
+  {% assign file_name = last | split: '.' | first %}
+  {% assign base_path = url | remove: last %}
+{% endif %}
 
-      {% assign dir_path = page_url | remove: last_part %}
-      {% assign pdf_path = dir_path | append: file_name | append: ".pdf" %}
-      {% assign md_path = dir_path | append: file_name | append: ".md" %}
+{% assign pdf_path = base_path | append: file_name | append: ".pdf" %}
+{% assign md_path = base_path | append: file_name | append: ".md" %}
 
-      <script>
-        const pdfPath = '{{ pdf_path }}';
-        const mdPath = '{{ md_path }}';
+{%- comment -%}
+Make sure paths start with / (absolute)
+{%- endcomment -%}
+{% unless pdf_path startswith '/' %}
+  {% assign pdf_path = '/' | append: pdf_path %}
+{% endunless %}
+{% unless md_path startswith '/' %}
+  {% assign md_path = '/' | append: md_path %}
+{% endunless %}
 
-        Promise.all([
-          fetch(pdfPath).then(res => res.ok ? pdfPath : null),
-          fetch(mdPath).then(res => res.ok ? mdPath : null)
-        ]).then(([pdfExists, mdExists]) => {
-        const links = [];
-        if (pdfExists) {links.push(`<a href="${pdfExists}" target="_blank">View PDF</a>`);}
-        if (mdExists) {links.push(`<a href="${mdExists}" target="_blank">View Markdown</a>`);}
-        if (links.length) {
-          document.getElementById('file-links').innerHTML = `[ ${links.join(' | ')} ]`;
-        }
-        });
-      </script>
+
+<div id="file-links"></div>
+
+<script>
+const pdfPath = '{{ pdf_path }}';
+const mdPath = '{{ md_path }}';
+
+Promise.all([
+  fetch(pdfPath).then(res => res.ok ? pdfPath : null),
+  fetch(mdPath).then(res => res.ok ? mdPath : null)
+]).then(([pdfExists, mdExists]) => {
+  const links = [];
+  if (pdfExists) links.push(`<a href="${pdfExists}" target="_blank">Download PDF</a>`);
+  if (mdExists) links.push(`<a href="${mdExists}" target="_blank">View Markdown</a>`);
+  if (links.length) {
+    document.getElementById('file-links').innerHTML = `[ ${links.join(' | ')} ]`;
+  }
+});
+</script>
+
 
     </div>
 
