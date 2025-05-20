@@ -113,12 +113,20 @@
 
     </div>
 
-{% assign page_parts = page.url | split: '/' %}
-{% assign file_name = page_parts | last | split: '.' | first %}
-{% assign dir_path = page.url | replace: page_parts | last, '' %}
+{% assign page_path = page.url %}
+{% assign page_parts = page_path | split: '/' %}
+{% assign last_part = page_parts | last %}
 
+{% if last_part == "" %}
+  {% assign file_name = page_parts[page_parts.size - 2] %}
+{% else %}
+  {% assign file_name = last_part | split: '.' | first %}
+{% endif %}
+
+{% assign dir_path = page_path | remove: last_part %}
 {% assign pdf_path = dir_path | append: file_name | append: ".pdf" %}
 {% assign md_path = dir_path | append: file_name | append: ".md" %}
+
 
 <div id="file-links"></div>
 
@@ -133,11 +141,11 @@ Promise.all([
   const links = [];
 
   if (pdfExists) {
-    links.push(`<a href="${pdfPath}" target="_blank">Download PDF</a>`);
+    links.push(`<a href="${pdfExists}" target="_blank">Download PDF</a>`);
   }
 
   if (mdExists) {
-    links.push(`<a href="${mdPath}" target="_blank">View Markdown</a>`);
+    links.push(`<a href="${mdExists}" target="_blank">View Markdown</a>`);
   }
 
   if (links.length) {
@@ -145,6 +153,7 @@ Promise.all([
   }
 });
 </script>
+
 
     </div>
     </div>
