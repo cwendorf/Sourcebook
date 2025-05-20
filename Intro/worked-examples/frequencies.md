@@ -28,6 +28,8 @@ relatedtwo:
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in a format suitable for entry into statistical software.
 
+{: .indented-table }
+
 |     | Outcome |
 |-----|--------:|
 | 1   | .00     |

@@ -134,6 +134,11 @@ body {
     border-bottom: none;
 }
 
+.indented-table {
+  margin-left: 2em; /* or padding-left */
+}
+
+
 /* Main Section Column Styles */
 
 #Main, #Sidebar {
