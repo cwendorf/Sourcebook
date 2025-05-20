@@ -30,6 +30,8 @@ relatedtwo:
 
 The following data set reflects a between-subjects design with one factor (that has two levels). The data are presented in a format suitable for entry into statistical software.
 
+{: .indented-table }
+
 |     | Factor | Outcome |
 |-----|-------:|--------:|
 | 1   | 1.00   | .00     |
@@ -47,12 +49,16 @@ The following tables represent typical output from statistical software. Options
 
 The table of descriptive statistics can be used to determine the inferential statistics.
 
+{: .indented-table }
+
 |         | Group   | N   | Mean  | Std. Deviation | Std. Error Mean |
 |:--------|---------|----:|------:|---------------:|----------------:|
 | Outcome | Level 1 | 4   | 2.000 | 2.445          | 1.225           |
 |         | Level 2 | 4   | 6.000 | 2.445          | 1.225           |
 
 The table of inferential statistics shows the key elements to be calculated.
+
+{: .indented-table }
 
 |         | t         |	df	  | p     | Mean Difference | SE Difference | Lower CI | Upper CI | Cohen's d | 
 |:--------|----------:|------:|------:|----------------:|--------------:|---------:|---------:|----------:|

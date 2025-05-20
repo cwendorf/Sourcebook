@@ -30,6 +30,8 @@ relatedtwo:
 
 The following data set reflects a between-subjects Factorial design with two factors (with two levels for each factor). The data are presented in a format suitable for entry into statistical software.
 
+{: .indented-table }
+
 |     | FactorA | FactorB | Outcome |
 |-----|--------:|--------:|--------:|
 | 1   | 1.00    | 1.00    | .00     |
@@ -55,6 +57,8 @@ The following tables represent typical output from statistical software. Options
 
 The table of descriptive statistics can be used to determine the inferential statistics.
 
+{: .indented-table }
+
 | FactorA | FactorB | Mean  | Std. Deviation | N   |
 |:--------|---------|------:|---------------:|----:|
 | Level 1 | Level 1 | 2.000 | 2.449          | 4   |
@@ -63,6 +67,8 @@ The table of descriptive statistics can be used to determine the inferential sta
 |         | Level 2 | 5.000 | 2.449          | 4   |
 
 The table of inferential statistics shows the key elements to be calculated.
+
+{: .indented-table }
 
 | Source      | SS       |	df	 | MS       | F        |  p     | Partial Eta<sup>2</sup> | 
 |:------------|---------:|------:|---------:|---------:|-------:|--------------:|

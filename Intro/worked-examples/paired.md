@@ -30,6 +30,8 @@ relatedtwo:
 
 The following data set reflects a within-subjects (repeated measures) design with two levels of the factor. The data are presented in a format suitable for entry into statistical software.
 
+{: .indented-table }
+
 |     | Outcome1 | Outcome2 | Change   |
 |-----|---------:|---------:|---------:|
 | 1   | .00      | 4.00     | -4.00    |
@@ -45,6 +47,8 @@ The following tables represent typical output from statistical software. Options
 
 The table of descriptive statistics can be used to determine the inferential statistics.
 
+{: .indented-table }
+
 |          | N   | Mean   | Std. Deviation | Std. Error |
 |:---------|----:|-------:|---------------:|-----------:|
 | Outcome1 | 4   |  2.000 | 2.449          | 1.225      |
@@ -52,6 +56,8 @@ The table of descriptive statistics can be used to determine the inferential sta
 | Change   | 4   | -4.000 | 2.449          | 1.225      |
 
 The table of inferential statistics shows the key elements to be calculated.
+
+{: .indented-table }
 
 |         | t         |	df	  | p     | Mean Difference | SE Difference | Lower CI | Upper CI | Cohen's d | 
 |:--------|----------:|------:|------:|----------------:|--------------:|---------:|---------:|----------:|

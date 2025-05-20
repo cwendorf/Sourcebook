@@ -47,6 +47,8 @@ The following tables represent typical output from statistical software. Options
 
 The frequency distribution can be used to determine the percentiles and other statistics.
 
+{: .indented-table }
+
 |    |   | Frequency | Percent | Valid Percent | Cumulative Percent | 
 |:------|----------:|--------:|--------------:|-------------------:|------:|
 | Valid | 0.00      | 2       | 25.0          | 25.0               | 25.0  |
@@ -58,6 +60,8 @@ The frequency distribution can be used to determine the percentiles and other st
 |       | Total     | 8       | 100.0         | 100.0              |       |
 
 The table of descriptive statistics shows the key elements to be calculated.
+
+{: .indented-table }
 
 |                 |   Outcome |
 |:----------------|----------:|

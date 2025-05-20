@@ -30,6 +30,8 @@ relatedtwo:
 
 The following data set reflects a within-subjects design with two outcome variables. The data are presented in a format suitable for entry into statistical software.
 
+{: .indented-table }
+
 |     | Outcome1 | Outcome2 |
 |-----|---------:|---------:|
 | 1   | .00      | 4.00     |
@@ -43,6 +45,8 @@ The following tables represent typical output from statistical software. Options
 
 The table of descriptive statistics can be used to assist in calculating the correlation.
 
+{: .indented-table }
+
 |          | Mean  | Std. Deviation | N   |
 |:---------|------:|---------------:|----:|
 | Outcome1 | 2.000 | 2.449          | 4   |
@@ -50,9 +54,13 @@ The table of descriptive statistics can be used to assist in calculating the cor
 
 The table of inferential statistics shows the key elements to be calculated.
 
+{: .indented-table }
+
 | Model    | R     | R^2   |
 |:---------|------:|------:|
 | 1        | 0.500 | 0.250 |
+
+{: .indented-table }
 
 | Predictor  | Estimate | SE     | t      | p      | Std. Estimate |
 |:-----------|---------:|-------:|-------:|-------:|--------------:|

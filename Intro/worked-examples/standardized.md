@@ -28,6 +28,8 @@ relatedtwo:
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in a format suitable for entry into statistical software.
 
+{: .indented-table }
+
 |     | Outcome |
 |-----|--------:|
 | 1   | .00     |
@@ -45,6 +47,8 @@ The following tables represent typical output from statistical software. Options
 
 The frequency distribution can be used to determine the descriptive statistics.
 
+{: .indented-table }
+
 |  |      | Frequency | Percent | Valid Percent | Cumulative Percent |
 |:------|----------:|--------:|--------------:|-------------------:|------:|
 | Valid | 0.00      | 2       | 25.0          | 25.0               | 25.0  |
@@ -57,6 +61,8 @@ The frequency distribution can be used to determine the descriptive statistics.
 
 The following table of descriptive statistics show some of the key elements to be calculated.
 
+{: .indented-table }
+
 |         | N   | Mean  | Std. Deviation |
 |:--------|----:|------:|---------------:|
 | Outcome | 8   | 4.000 | 3.117          |
@@ -68,6 +74,8 @@ Standardized (z) Score: A standardized score is a deviation score divided by the
 > $$ z = \frac{(Y - M)}{SD} = \frac{(0 - 4.000)}{3.117} = -1.283 $$
 
 This is repeated for each score in the distribution. In software programs, these would be calculated and presented back in the data set:
+
+{: .indented-table }
 
 |     | Outcome | zOutcome |
 |-----|--------:|---------:|
