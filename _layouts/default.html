@@ -85,12 +85,9 @@
       {{ content }}
    
 {% assign url = page.url %}
-{% assign filename = url | split: '/' | last | split: '.' | first %}
-{% assign basepath = url | remove: filename | remove: '.html' %}
-{% assign fullpath = basepath | append: filename %}
+{% assign basepath = url | remove: '.html' %}
 
-
-<div id="file-links">[ <a href = '{{ fullpath }}.pdf' target="_blank">View PDF</a> ]</div>
+<div id="file-links">[ <a href = '{{ basepath }}.pdf' target="_blank">View PDF</a> ]</div>
 
 
     </div>
