@@ -113,8 +113,7 @@
 
     </div>
 
-{% assign page_path = page.url %}
-{% assign page_parts = page_path | split: '/' %}
+{% assign page_parts = page.url | split: '/' %}
 {% assign last_part = page_parts | last %}
 
 {% if last_part == "" %}
@@ -123,10 +122,9 @@
   {% assign file_name = last_part | split: '.' | first %}
 {% endif %}
 
-{% assign dir_path = page_path | remove: last_part %}
+{% assign dir_path = page.url | remove: last_part %}
 {% assign pdf_path = dir_path | append: file_name | append: ".pdf" %}
 {% assign md_path = dir_path | append: file_name | append: ".md" %}
-
 
 <div id="file-links"></div>
 
@@ -134,9 +132,12 @@
 const pdfPath = '{{ pdf_path }}';
 const mdPath = '{{ md_path }}';
 
+console.log("Checking for PDF:", pdfPath);
+console.log("Checking for MD:", mdPath);
+
 Promise.all([
-  fetch(pdfPath, { method: 'HEAD' }).then(res => res.ok ? pdfPath : null),
-  fetch(mdPath, { method: 'HEAD' }).then(res => res.ok ? mdPath : null)
+  fetch(pdfPath).then(res => res.ok ? pdfPath : null),
+  fetch(mdPath).then(res => res.ok ? mdPath : null)
 ]).then(([pdfExists, mdExists]) => {
   const links = [];
 
@@ -150,9 +151,17 @@ Promise.all([
 
   if (links.length) {
     document.getElementById('file-links').innerHTML = `[ ${links.join(' | ')} ]`;
+  } else {
+    console.log("No matching PDF or MD file found.");
   }
+}).catch(err => {
+  console.error("Error checking files:", err);
 });
 </script>
+
+
+
+
 
 
     </div>
