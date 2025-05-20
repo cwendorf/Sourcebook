@@ -90,25 +90,7 @@
 {% assign fullpath = basepath | append: filename %}
 
 
-<div id="file-links"></div>
-
-<script>
-const pdfPath = '{{ fullpath }}.pdf';
-const mdPath = '{{ fullpath }}.md';
-
-Promise.all([
-  fetch(pdfPath).then(res => res.ok ? pdfPath : null),
-  fetch(mdPath).then(res => res.ok ? mdPath : null)
-]).then(([pdfExists, mdExists]) => {
-  const links = [];
-  if (pdfExists) links.push(`<a href="${pdfExists}" target="_blank">Download PDF</a>`);
-  if (mdExists) links.push(`<a href="${mdExists}" target="_blank">View Markdown</a>`);
-  if (links.length) {
-    document.getElementById('file-links').innerHTML = `[ ${links.join(' | ')} ]`;
-  }
-});
-</script>
-
+<div id="file-links">[ <a href = '{{ fullpath }}.pdf' target="_blank">View PDF</a> ]</div>
 
 
     </div>
