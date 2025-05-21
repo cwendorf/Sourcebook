@@ -17,7 +17,7 @@ relatedtwo:
 headerthree: DEVISE Files
 relatedthree:
   - title: Data Files | One Sample Data
-    url: ../data-files/onesample.
+    url: ../data-files/onesample.csv
   - title: Syntax Files | One Sample t Test
     url: ../syntax-files/onesample.R
   - title: Output Files | One Sample t Test
