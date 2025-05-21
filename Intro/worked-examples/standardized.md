@@ -59,7 +59,7 @@ The frequency distribution can be used to determine the descriptive statistics.
 |       | 9.00      | 1       | 12.5          | 12.5               | 100.0 |
 |       | Total     | 8       | 100.0         | 100.0              |       |
 
-The following table of descriptive statistics show some of the key elements to be calculated.
+The table of descriptive statistics can be used to assist in calculating the standardized scores.
 
 {: .indented-table }
 
