@@ -83,6 +83,11 @@
     <div id=Main>
            
       {{ content }}
+
+      {% if page.has_pdf %}
+        {% assign pdf_path = page.url | replace: '.html', '.pdf' %}
+        <p><a href="{{ pdf_path }}" target="_blank">[Download PDF Version of This Page]</a></p>
+      {% endif %}
    
     </div>
 
