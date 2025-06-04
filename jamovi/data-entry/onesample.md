@@ -1,5 +1,6 @@
 ---
 title: Sourcebook
+has_pdf: true
 headerone: jamovi Articles
 relatedone:
   - title: Data Analysis | Frequencies and Descriptives

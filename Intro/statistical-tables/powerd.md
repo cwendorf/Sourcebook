@@ -1,5 +1,6 @@
 ---
 title: Sourcebook
+has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Cohen's d
