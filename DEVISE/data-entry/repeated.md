@@ -1,5 +1,6 @@
 ---
 title: Sourcebook
+has_pdf: true
 headerone: DEVISE Articles
 relatedone:
   - title: Data Analysis | Correlations
