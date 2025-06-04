@@ -85,10 +85,11 @@
       {{ content }}
 
       {% if page.has_pdf %}
-        {% assign pdf_path = page.url | replace: '.html', '.pdf' %}
-        <p><a href="{{ pdf_path }}" target="_blank">[Download PDF Version of This Page]</a></p>
+        {% assign baseurl = '/Sourcebook' %}
+        {% assign page_pdf = page.url | replace: '.html', '.pdf' %}
+        <p><a href="{{ site.url }}{{ baseurl }}{{ page_pdf }}">[Download PDF Version of This Page]</a></p>
       {% endif %}
-   
+
     </div>
 
     <div id=Sidebar>
