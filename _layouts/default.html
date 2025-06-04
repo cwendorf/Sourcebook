@@ -87,7 +87,7 @@
       {% if page.has_pdf %}
         {% assign baseurl = '/Sourcebook' %}
         {% assign page_pdf = page.url | replace: '.html', '.pdf' %}
-        <p><a href="{{ site.url }}{{ baseurl }}{{ page_pdf }}">[Download PDF Version of This Page]</a></p>
+        <div style="text-align: center;"><a href="{{ site.url }}{{ baseurl }}{{ page_pdf }}">[Download PDF Version of This Page]</a></div>"
       {% endif %}
 
     </div>
