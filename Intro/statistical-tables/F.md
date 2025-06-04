@@ -26,9 +26,9 @@ relatedtwo:
 
 # [Intro Articles](../index.md)
 
-## Statistical Tables | Snedecor's *F*
+## Statistical Tables | Snedecor's *F* Distribution
 
-### Tabled Values are *F* Statistics for the Given Probabilities and Degrees of Freedom
+### *F* Statistics for the Given Two-Tailed Probabilities (*p*) and Degrees of Freedom (df)
 
 | **df<sub>EFFECT</sub> = 1** | | | | **df<sub>EFFECT</sub> = 2** | | | | **df<sub>EFFECT</sub> = 3** | | | | **df<sub>EFFECT</sub> = 4** | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -76,7 +76,7 @@ relatedtwo:
 | **240** | 3.880 | 6.742 | | **240** | 3.033 | 4.695 | | **240** | 2.642 | 3.864 | | **240** | 2.409 | 3.398 |
 | **∞** | 3.842 | 6.635 | | **∞** | 2.996 | 4.605 | | **∞** | 2.605 | 3.782 | | **∞** | 2.372 | 3.319 |
 
-### Tabled Values are *F* Statistics for the Given Probabilities and df<sub>EFFECT</sub> = 1
+### T*F* Statistics for the Given Two-Tailed Probabilities (*p*) and df<sub>EFFECT</sub> = 1
 
 | **df<sub>ERROR</sub>** | **.90** | **.80** | **.70** | **.60** | **.50** | **.40** | **.30** | **.20** | **.10** | **.05** | **.04** | **.03** | **.02** | **.01** | **.001** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -123,7 +123,7 @@ relatedtwo:
 | **240** | .016 | .064 | .149 | .276 | .456 | .711 | 1.079 | 1.651 | 2.727 | 3.880 | 4.264 | 4.766 | 5.485 | 6.742 | 11.099 |
 | **∞** | .016 | .064 | .148 | .275 | .455 | .708 | 1.074 | 1.642 | 2.706 | 3.842 | 4.218 | 4.709 | 5.412 | 6.635 | 10.828 |
 
-### Tabled Values are *F* Statistics for the Given Probabilities and df<sub>EFFECT<sub> = 2
+### *F* Statistics for the Given Two-Tailed Probabilities (*p*) and df<sub>EFFECT<sub> = 2
 
 | **df<sub>ERROR</sub>** | **.90** | **.80** | **.70** | **.60** | **.50** | **.40** | **.30** | **.20** | **.10** | **.05** | **.04** | **.03** | **.02** | **.01** | **.001** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -170,7 +170,7 @@ relatedtwo:
 | **240** | .105 | .223 | .357 | .512 | .695 | .920 | 1.210 | 1.620 | 2.325 | 3.033 | 3.262 | 3.558 | 3.976 | 4.695 | 7.110 |
 | **∞** | .105 | .223 | .357 | .511 | .693 | .916 | 1.204 | 1.609 | 2.303 | 2.996 | 3.219 | 3.507 | 3.912 | 4.605 | 6.908 |
 
-### Tabled Values are *F* Statistics for the Given Probabilities and df<sub>EFFECT</sub> = 3
+### *F* Statistics for the Given Two-Tailed Probabilities (*p*) and df<sub>EFFECT</sub> = 3
 
 | **df<sub>ERROR</sub>** | **.90** | **.80** | **.70** | **.60** | **.50** | **.40** | **.30** | **.20** | **.10** | **.05** | **.04** | **.03** | **.02** | **.01** | **.001** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -217,7 +217,7 @@ relatedtwo:
 | **240** | .195 | .335 | .475 | .624 | .791 | .986 | 1.228 | 1.559 | 2.107 | 2.642 | 2.813 | 3.032 | 3.340 | 3.864 | 5.598 |
 | ∞ | .195 | .335 | .475 | .623 | .789 | .982 | 1.222 | 1.547 | 2.084 | 2.605 | 2.770 | 2.983 | 3.279 | 3.782 | 5.422 |
 
-### Tabled Values are *F* Statistics for the Given Probabilities and df<sub>EFFECT</sub> = 4
+### *F* Statistics for the Given Two-Tailed Probabilities (*p*) and df<sub>EFFECT</sub> = 4
 
 | **df<sub>ERROR</sub>** | **.90** | **.80** | **.70** | **.60** | **.50** | **.40** | **.30** | **.20** | **.10** | **.05** | **.04** | **.03** | **.02** | **.01** | **.001** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

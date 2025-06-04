@@ -22,9 +22,9 @@ relatedtwo:
 
 # [Intro Articles](../index.md)
 
-## Statistical Tables | Tukey&#39;s HSD
+## Statistical Tables | Tukey&#39;s HSD Distribution
 
-### Tabled Values are HSD Statistics for the Given Probabilities and Degrees of Freedom
+### HSD Statistics for the Given Two-Tailed Probabilities (*p*) and Degrees of Freedom (df)
 
 | **df<sub>EFFECT</sub> = 1** | | | | **df<sub>EFFECT</sub> = 2** | | | | **df<sub>EFFECT</sub> = 3** | | | | **df<sub>EFFECT</sub> = 4** | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -72,7 +72,7 @@ relatedtwo:
 | **240** | 1.970 | 2.596 | | **240** | 2.358 | 2.941 | | **240** | 2.587 | 3.146 | | **240** | 2.749 | 3.292 |
 | **∞** | 1.960 | 2.576 | | **∞** | 2.344 | 2.914 | | **∞** | 2.569 | 3.113 | | **∞** | 2.728 | 3.255 |
 
-### Tabled Values are HSD Statistics for the Given Probabilities and df<sub>EFFECT</sub> = 1
+### HSD Statistics for df<sub>EFFECT</sub> = 1 and the Given Two-Tailed Probabilities (*p*) and df<sub>ERROR</sub>
 
 | **df<sub>ERROR</sub>** | **.90** | **.80** | **.70** | **.60** | **.50** | **.40** | **.30** | **.20** | **.10** | **.05** | **.04** | **.03** | **.02** | **.01** | **.001** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -119,7 +119,7 @@ relatedtwo:
 | **240** | .126 | .254 | .386 | .525 | .676 | .843 | 1.039 | 1.285 | 1.651 | 1.970 | 2.065 | 2.183 | 2.342 | 2.596 | 3.332 |
 | ∞ | .126 | .253 | .385 | .524 | .674 | .842 | 1.036 | 1.282 | 1.645 | 1.960 | 2.054 | 2.170 | 2.326 | 2.576 | 3.291 |
 
-### Tabled Values are HSD Statistics for the Given Probabilities and df<sub>EFFECT</sub> = 2
+### HSD Statistics for df<sub>EFFECT</sub> = 2 and the Given Two-Tailed Probabilities (*p*) and df<sub>ERROR</sub>
 
 | **df<sub>ERROR</sub>** | **.90** | **.80** | **.70** | **.60** | **.50** | **.40** | **.30** | **.20** | **.10** | **.05** | **.04** | **.03** | **.02** | **.01** | **.001** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -166,7 +166,7 @@ relatedtwo:
 | **240** | .437 | .637 | .805 | .965 | 1.12 | 1.29 | 1.485 | 1.719 | 2.062 | 2.358 | 2.447 | 2.556 | 2.704 | 2.941 | 3.632 |
 | **∞** | .437 | .636 | .805 | .964 | 1.12 | 1.29 | 1.481 | 1.714 | 2.052 | 2.344 | 2.430 | 2.538 | 2.682 | 2.914 | 3.581 |
 
-### Tabled Values are HSD Statistics for the Given Probabilities and df<sub>EFFECT</sub> = 3
+### HSD Statistics for df<sub>EFFECT</sub> = 3 and the Given Two-Tailed Probabilities (*p*) and df<sub>ERROR</sub>
 
 | **df<sub>ERROR</sub>** | **.90** | **.80** | **.70** | **.60** | **.50** | **.40** | **.30** | **.20** | **.10** | **.05** | **.04** | **.03** | **.02** | **.01** | **.001** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -213,7 +213,7 @@ relatedtwo:
 | **240** | .692 | .909 | 1.08 | 1.24 | 1.40 | 1.57 | 1.751 | 1.976 | 2.304 | 2.587 | 2.672 | 2.777 | 2.918 | 3.146 | 3.812 |
 | ∞ | .693 | .909 | 1.08 | 1.24 | 1.40 | 1.56 | 1.746 | 1.968 | 2.291 | 2.569 | 2.652 | 2.754 | 2.892 | 3.113 | 3.754 |
 
-### Tabled Values are HSD Statistics for the Given Probabilities and df<sub>EFFECT</sub> = 4
+### HSD Statistics for df<sub>EFFECT</sub> = 4 and the Given Two-Tailed Probabilities (*p*) and df<sub>ERROR</sub>
 
 | **df<sub>ERROR</sub>** | **.90** | **.80** | **.70** | **.60** | **.50** | **.40** | **.30** | **.20** | **.10** | **.05** | **.04** | **.03** | **.02** | **.01** | **.001** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

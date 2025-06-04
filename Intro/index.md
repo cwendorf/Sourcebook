@@ -35,12 +35,12 @@ This chapter provides an overview of the types of statistical analyses. This sta
 
 This chapter provides statistical tables. They are used both as part of the calculation with formulas and part of the interpretations of calculated statistics. 
 
-- [Standard Normal](./statistical-tables/normal.md)
-- [Student's *t*](./statistical-tables/t.md)
-- [Cohen's *d*](./statistical-tables/powerd.md)
-- [Snedecor's *F*](./statistical-tables/F.md)
-- [Eta-Squared](./statistical-tables/powereta.md)
-- [Tukey's *HSD*](./statistical-tables/hsd.md)
+- [Standard Normal Distribution](./statistical-tables/normal.md)
+- [Student's *t* Distribution](./statistical-tables/t.md)
+- [Power for Cohen's *d*](./statistical-tables/powerd.md)
+- [Snedecor's *F* Distribution](./statistical-tables/F.md)
+- [Power for Eta-Squared](./statistical-tables/powereta.md)
+- [Tukey's *HSD* Distribution](./statistical-tables/hsd.md)
 
 ### APA Style
 
