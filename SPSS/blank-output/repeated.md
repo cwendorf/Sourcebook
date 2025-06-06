@@ -29,7 +29,6 @@ relatedthree:
 
 ## Blank Output | Repeated Measures ANOVA
 
-
 ### Tests of Between-Subjects Effects
 
 | Source    | Type III SS | df    | Mean Square | F      | Sig.   |
@@ -39,10 +38,13 @@ relatedthree:
 
 ### Tests of Within-Subjects Effects
 
-| Source             | Type III SS | df    | Mean Square | F      | Sig.   |
-|--------------------|------------:|------:|------------:|-------:|-------:|
-| Sphericity Assumed | ________    | ________ | ________    | ________ | ________ |
-| Greenhouse-Geisser | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
-| Huynh-Feldt        | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
-| Lower-bound        | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
-| Error              | ________    | ________ | ________    |        |        |
+| | Source             | Type III SS | df    | Mean Square | F      | Sig.   |
+|-|--------------------|------------:|------:|------------:|-------:|-------:|
+| Treatment | Sphericity Assumed | ________    | ________ | ________    | ________ | ________ |
+| | Greenhouse-Geisser | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
+| | Huynh-Feldt        | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
+| | Lower-bound        | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
+| Error |             | ________    | ________ | ________    |        |        |
+| | Greenhouse-Geisser | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
+| | Huynh-Feldt        | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
+| | Lower-bound        | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |

@@ -29,13 +29,13 @@ relatedthree:
 
 ## Blank Output | Confidence Interval for a Mean
 
-### Summary Statistics
+### Summary Statistics for the Data
 
 |     | N   | M   | SD   | Skew | Kurt |
 |-----|----:|----:|-----:|-----:|-----:|
 | DV  | ________ | ________ | ________ | ________ | ________ |
 
-### Confidence Interval
+### Confidence Interval for the Mean
 
 |     | M   | SE  | df   | LL   | UL   |
 |-----|----:|----:|-----:|-----:|-----:|

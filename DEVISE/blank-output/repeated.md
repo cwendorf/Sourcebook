@@ -29,7 +29,7 @@ relatedthree:
 
 ## Blank Output | Repeated Measures ANOVA
 
-### Summary Statistics
+### Summary Statistics for the Data
 
 | Outcome   | N   | M   | SD  | Skew | Kurt |
 |-----------|----:|----:|----:|-----:|-----:|
@@ -37,7 +37,7 @@ relatedthree:
 | Outcome 2 | ________ | ________ | ________ | ________ | ________ |
 | Outcome 3 | ________ | ________ | ________ | ________ | ________ |
 
-### Source Table
+### Source Table for the Model
 
 | Source   | SS   | df  | MS  |
 |----------|-----:|----:|----:|
@@ -45,13 +45,13 @@ relatedthree:
 | Measures | ________ | ________ | ________ |
 | Error    | ________ | ________ | ________ |
 
-### Hypothesis Test
+### Hypothesis Test for the Model
 
 |          | F   | df1 | df2 | p   |
 |----------|----:|----:|----:|----:|
 | Measures | ________ | ________ | ________ | ________ |
 
-### Proportion of Variance
+### Proportion of Variance Accunted for by the Model
 
 |          | Est  | LL   | UL   |
 |----------|-----:|-----:|-----:|

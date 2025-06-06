@@ -30,27 +30,27 @@ relatedthree:
 ## Blank Output | Regression
 
 
-### Summary Statistics
+### Summary Statistics for the Data
 
 |            | N   | M   | SD   | Skew | Kurt |
 |------------|----:|----:|-----:|-----:|-----:|
 | Variable 1 | ________ | ________ | ________ | ________ | ________ |
 | Variable 2 | ________ | ________ | ________ | ________ | ________ |
 
-### Covariances
+### Covariances for the Data
 
 |            | Variable 1 | Variable 2 |
 |------------|------------|------------|
 | Variable 1 | ________      | ________   |
 | Variable 2 | ________      | ________   |
 
-### Proportion of Variance Accounted for
+### Proportion of Variance Accounted for by the Model
 
 |       | Est  | LL   | UL   |
 |------:|-----:|-----:|-----:|
 | Model | ________ | ________ | ________ |
 
-### Hypothesis Tests for Regression Coefficients
+### Hypothesis Tests for the Regression Coefficients
 
 | Term      | Est  | SE   | t    | p    |
 |-----------|-----:|-----:|-----:|-----:|

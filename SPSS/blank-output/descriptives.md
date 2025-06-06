@@ -29,7 +29,7 @@ relatedthree:
 
 ## Blank Output | Frequencies and Descriptives
 
-### Frequency Table
+### Frequencies
 
 |       | Frequency | Percent | Valid Percent | Cumulative Percent |
 |-------|----------:|--------:|---------------:|-------------------:|
@@ -43,7 +43,7 @@ relatedthree:
 | ________ | ________  | ________  | ________       | ________           |
 | Total | ________  | ________  | ________       |                    |
 
-### Statistics Table
+### Statistics
 
 | Statistic       | Value     |
 |----------------|----------:|

@@ -50,7 +50,7 @@ relatedthree:
 |-----|----:|-----:|-----:|-----:|-----:|
 | DV  | ________ | ________ | ________ | ________ | ________ |
 
-### Summary Statistics
+### Summary Statistics for the Data
 
 |     | N   | M   | SD   | Skew | Kurt |
 |-----|----:|----:|-----:|-----:|-----:|

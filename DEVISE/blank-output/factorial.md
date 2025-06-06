@@ -29,21 +29,21 @@ relatedthree:
 
 ## Blank Output | Factorial ANOVA
 
-### Summary Statistics: B1
+### Summary Statistics for the Data: B1
 
 |    | N   | M   | SD   | Skew | Kurt |
 |----|----:|----:|-----:|-----:|-----:|
 | A1 | ________ | ________ | ________ | ________ | ________ |
 | A2 | ________ | ________ | ________ | ________ | ________ |
 
-### Summary Statistics: B2
+### Summary Statistics for the Data: B2
 
 |    | N   | M   | SD   | Skew | Kurt |
 |----|----:|----:|-----:|-----:|-----:|
 | A1 | ________ | ________ | ________ | ________ | ________ |
 | A2 | ________ | ________ | ________ | ________ | ________ |
 
-### Source Table
+### Source Table for the Model
 
 | Source           | SS   | df  | MS  |
 |------------------|-----:|----:|----:|
@@ -52,7 +52,7 @@ relatedthree:
 | Factor: Blocks   | ________ | ________ | ________ |
 | Residual         | ________ | ________ | ________ |
 
-### Hypothesis Test
+### Hypothesis Test for the Model
 
 | Term             | F   | df1 | df2 | p   |
 |------------------|----:|----:|----:|----:|

@@ -27,7 +27,7 @@ relatedthree:
 
 ## Blank Output | Post Hoc Comparisons
 
-### Tukey Comparisons
+### Post Hoc Comparisons
 
 | Comparison         | Mean Diff | SE   | df   | t     | p<sub>TUKEY</sub> |
 |--------------------|----------:|-----:|-----:|------:|------------------:|

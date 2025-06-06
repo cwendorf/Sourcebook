@@ -29,7 +29,7 @@ relatedthree:
 
 ## Blank Output | Post Hoc Comparisons
 
-### Summary Statistics
+### Summary Statistics for the Data
 
 | Group   | N   | M   | SD  | Skew | Kurt |
 |---------|----:|----:|----:|-----:|-----:|
@@ -37,7 +37,7 @@ relatedthree:
 | Level 2 | ________ | ________ | ________ | ________ | ________ |
 | Level 3 | ________ | ________ | ________ | ________ | ________ |
 
-### Confidence Intervals for Differences
+### Confidence Intervals for the Post Mean Differences
 
 | Comparison | Diff | SE  | df  | LL  | UL  |
 |------------|-----:|----:|----:|----:|----:|
@@ -45,7 +45,7 @@ relatedthree:
 | L1 vs L3   | ________ | ________ | ________ | ________ | ________ |
 | L2 vs L3   | ________ | ________ | ________ | ________ | ________ |
 
-### Hypothesis Tests
+### Hypothesis Tests for the Post Hoc Mean Differences
 
 | Comparison | Diff | SE  | df  | t   | p   |
 |------------|-----:|----:|----:|----:|----:|

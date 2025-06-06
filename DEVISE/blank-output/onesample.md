@@ -29,19 +29,19 @@ relatedthree:
 
 ## Blank Output | One Sample t Test
 
-### Summary Statistics
+### Summary Statistics for the Data
 
 |     | N   | M   | SD   | Skew | Kurt |
 |-----|----:|----:|-----:|-----:|-----:|
 | DV  | ________ | ________ | ________ | ________ | ________ |
 
-### Confidence Interval
+### Confidence Interval for the Mean
 
 |     | M   | SE  | df   | LL   | UL   |
 |-----|----:|----:|-----:|-----:|-----:|
 | DV  | ________ | ________ | ________ | ________ | ________ |
 
-### Hypothesis Test
+### Hypothesis Test for the Mean
 
 |     | Diff | SE  | df   | t    | p    |
 |-----|-----:|----:|-----:|-----:|-----:|

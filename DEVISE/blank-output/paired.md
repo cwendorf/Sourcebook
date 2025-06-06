@@ -29,7 +29,7 @@ relatedthree:
 
 ## Blank Output | Paired Samples t Test
 
-### Summary Statistics
+### Summary Statistics for the Data
 
 |           | N   | M   | SD   | Skew | Kurt |
 |-----------|----:|----:|-----:|-----:|-----:|

@@ -29,21 +29,21 @@ relatedthree:
 
 ## Blank Output | Correlations
 
-### Summary Statistics
+### Summary Statistics for the Data
 
 |            | N   | M   | SD   | Skew | Kurt |
 |------------|----:|----:|-----:|-----:|-----:|
 | Variable 1 | ________ | ________ | ________ | ________ | ________ |
 | Variable 2 | ________ | ________ | ________ | ________ | ________ |
 
-### Covariances
+### Covariances for the Data
 
 |            | Variable 1 | Variable 2 |
 |------------|------------|------------|
 | Variable 1 | ________      | ________   |
 | Variable 2 | ________      | ________   |
 
-### Correlations
+### Correlations for the Data
 
 |            | Variable 1 | Variable 2 |
 |------------|------------|------------|

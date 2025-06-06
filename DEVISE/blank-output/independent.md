@@ -29,20 +29,20 @@ relatedthree:
 
 ## Blank Output | Independent Samples t Test
 
-### Summary Statistics
+### Summary Statistics for the Data
 
 |         | N   | M   | SD   | Skew | Kurt |
 |---------|----:|----:|-----:|-----:|-----:|
 | Level 1 | ________ | ________ | ________ | ________ | ________ |
 | Level 2 | ________ | ________ | ________ | ________ | ________ |
 
-### Confidence Interval for Mean Difference
+### Confidence Interval for the Mean Difference
 
 |            | M   | SE  | df   | LL   | UL   |
 |------------|----:|----:|-----:|-----:|-----:|
 | Comparison | ________ | ________ | ________ | ________ | ________ |
 
-### Hypothesis Test for Mean Difference
+### Hypothesis Test for the Mean Difference
 
 |            | Diff | SE  | df   | t    | p    |
 |------------|-----:|----:|-----:|-----:|-----:|

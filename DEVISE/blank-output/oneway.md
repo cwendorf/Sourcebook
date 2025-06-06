@@ -29,7 +29,7 @@ relatedthree:
 
 ## Blank Output | OneWay ANOVA
 
-### Summary Statistics
+### Summary Statistics for the Data
 
 |         | N   | M   | SD  | Skew | Kurt |
 |---------|----:|----:|----:|-----:|-----:|
@@ -37,20 +37,20 @@ relatedthree:
 | Level 2 | ________ | ________ | ________ | ________ | ________ |
 | Level 3 | ________ | ________ | ________ | ________ | ________ |
 
-### Source Table
+### Source Table for the Model
 
 | Source   | SS   | df  | MS  |
 |----------|-----:|----:|----:|
 | Between  | ________ | ________ | ________ |
 | Within   | ________ | ________ | ________ |
 
-### Hypothesis Test
+### Hypothesis Test for the Model
 
 |        | F   | df1 | df2 | p   |
 |--------|----:|----:|----:|----:|
 | Factor | ________ | ________ | ________ | ________ |
 
-### Proportion of Variance
+### Proportion of Variance Accounted for by the Model
 
 |        | Est  | LL   | UL   |
 |--------|-----:|-----:|-----:|

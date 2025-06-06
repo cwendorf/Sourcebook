@@ -29,7 +29,7 @@ relatedthree:
 
 ## Blank Output | Post Hoc Comparisons
 
-### Post Hoc Comparisons
+### Multiple Comparisons
 
 | (I) IV   | (J) IV   | Mean Diff (I-J) | Std. Error | Sig.  | 95% CI Lower | 95% CI Upper |
 |----------|----------|-----------------:|------------:|-------:|---------------:|---------------:|
