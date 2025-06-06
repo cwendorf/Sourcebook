@@ -6,7 +6,7 @@ relatedone:
     url: "https://jasp-stats.org"
   - title: Support Documents
     url: "https://jasp-stats.org/support/"
-headertwo: JASP Chapter PDFs
+headertwo: JASP Chapters (PDF)
 relatedtwo:
   - title: JASP | Data Entry
     url: ./Sourcebook-JASP-DataEntry.pdf
