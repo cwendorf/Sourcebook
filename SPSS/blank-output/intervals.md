@@ -33,22 +33,22 @@ relatedthree:
 
 | Outcome | N Valid | % Valid | N Missing | % Missing | N Total | % Total |
 |---------|--------:|--------:|----------:|----------:|--------:|--------:|
-| _____   | _____   | _____   | _____     | _____     | _____   | _____   |
+| ________   | ________   | ________   | ________     | ________     | ________   | ________   |
 
 ### Descriptives
 
 | Statistic                | Value   |
 |--------------------------|--------:|
-| Mean                     | _____   |
-| 95% CI Lower Bound       | _____   |
-| 95% CI Upper Bound       | _____   |
+| Mean                     | ________   |
+| 95% CI Lower Bound       | ________   |
+| 95% CI Upper Bound       | ________   |
 | 5% Trimmed Mean          | XXXXX   |
-| Median                   | _____   |
-| Variance                 | _____   |
-| Std. Deviation           | _____   |
-| Minimum                  | _____   |
-| Maximum                  | _____   |
-| Range                    | _____   |
-| Interquartile Range      | _____   |
+| Median                   | ________   |
+| Variance                 | ________   |
+| Std. Deviation           | ________   |
+| Minimum                  | ________   |
+| Maximum                  | ________   |
+| Range                    | ________   |
+| Interquartile Range      | ________   |
 | Skewness                 | XXXX    |
 | Kurtosis                 | XXXX    |

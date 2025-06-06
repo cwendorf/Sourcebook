@@ -35,14 +35,14 @@ relatedthree:
 | Source    | Type III SS | df    | Mean Square | F      | Sig.   |
 |-----------|------------:|------:|------------:|-------:|-------:|
 | Intercept | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
-| Error     | ________    | _____ | ________    |        |        |
+| Error     | ________    | ________ | ________    |        |        |
 
 ### Tests of Within-Subjects Effects
 
 | Source             | Type III SS | df    | Mean Square | F      | Sig.   |
 |--------------------|------------:|------:|------------:|-------:|-------:|
-| Sphericity Assumed | ________    | _____ | ________    | ______ | ______ |
+| Sphericity Assumed | ________    | ________ | ________    | ________ | ________ |
 | Greenhouse-Geisser | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
 | Huynh-Feldt        | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
 | Lower-bound        | XXXXXX      | XXXX  | XXXXXX      | XXXXX  | XXXXX  |
-| Error              | ________    | _____ | ________    |        |        |
+| Error              | ________    | ________ | ________    |        |        |

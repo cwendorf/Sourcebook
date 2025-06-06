@@ -33,15 +33,20 @@ relatedthree:
 
 | Variable        | Mean     | Std. Deviation | N       |
 |----------------|---------:|---------------:|--------:|
-| Variable: _____| ________ | ________       | _______ |
-| Variable: _____| ________ | ________       | _______ |
+| Variable 1| ________ | ________       | ________ |
+| Variable 2| ________ | ________       | ________ |
 
 ### Correlation Matrix
 
-|                    | Variable 1 | Variable 2 |
-|--------------------|-----------:|-----------:|
-| Pearson Correlation| ________   | ________   |
-| Sig. (2-tailed)    | XXXXX      |            |
-| Sum of Squares     | ________   | ________   |
-| Covariance         | ________   | ________   |
-| N                  | ________   | ________   |
+| |                    | Variable 1 | Variable 2 |
+|-|--------------------|-----------:|-----------:|
+| Variable 1 | Pearson Correlation| ________   | ________   |
+| | Sig. (2-tailed)    |       | XXXXX           |
+| | Sum of Squares     | ________   | ________   |
+| | Covariance         | ________   | ________   |
+| | N                  | ________   | ________   |
+| Variable 2 | Pearson Correlation| ________   | ________   |
+| | Sig. (2-tailed)    | XXXXX     |            |
+| | Sum of Squares     | ________   | ________   |
+| | Covariance         | ________   | ________   |
+| | N                  | ________   | ________   |
