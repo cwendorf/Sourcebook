@@ -6,7 +6,7 @@ relatedone:
     url: "https://apastyle.apa.org/jars"
   - title: Tables and Figures
     url: "https://apastyle.apa.org/style-grammar-guidelines/tables-figures"
-headertwo: Intro Chapter PDFs
+headertwo: Intro Chapters (PDF)
 relatedtwo:
   - title: Intro | Statistical Analyses
     url: ./Sourcebook-Intro-StatisticalAnalyses.pdf
