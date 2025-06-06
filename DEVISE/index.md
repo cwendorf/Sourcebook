@@ -24,7 +24,7 @@ This index page provides links to the various materials available for using DEVI
 
 ### Data Entry
 
-This chapter provides step-by-step written instructions showing how to enter the data using the software.
+This chapter provides step-by-step written instructions showing how to enter the data using the software. Sample data files are available.
 
 - [One Sample Data](./data-entry/onesample.md)  
 - [Paired and Repeated Measures Data](./data-entry/repeated.md)
@@ -33,7 +33,7 @@ This chapter provides step-by-step written instructions showing how to enter the
 
 ### Data Analysis
 
-This chapter provides step-by-step written instructions for obtaining basic statistical output using the software.
+This chapter provides step-by-step written instructions for obtaining basic statistical output using the software. Sample syntax files are available.
 
 - [Frequencies](./data-analysis/frequencies.md)
 - [Descriptives](./data-analysis/descriptives.md)
@@ -51,7 +51,7 @@ This chapter provides step-by-step written instructions for obtaining basic stat
 
 ### Annotated Output
 
-This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. 
+This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. Sample output files are available.
 
 - [Frequencies](./annotated-output/frequencies.md)
 - [Descriptives](./annotated-output/descriptives.md)
@@ -65,3 +65,20 @@ This chapter shows the output from various types of analyses, describes how to i
 - [Post Hoc Comparisons](./annotated-output/posthocs.md)
 - [Repeated Measures ANOVA](./annotated-output/repeated.md)
 - [Factorial ANOVA](./annotated-output/factorial.md)
+
+### Blank Output
+
+This chapter is used as a set of worksheets for class problems. Students fill in their answers on these sheets, thus making clear the links between non-computer (“hand”) calculations and the output.
+
+- [Frequencies](./blank-output/frequencies.md)
+- [Descriptives](./blank-output/descriptives.md)
+- [Correlations](./blank-output/correlations.md)
+- [Regression](./blank-output/regression.md)
+- [Confidence Interval for a Mean](./blank-output/intervals.md)
+- [One Sample t Test](./blank-output/onesample.md)
+- [Paired Samples t Test](./blank-output/paired.md)
+- [Independent Samples t Test](./blank-output/independent.md)
+- [OneWay ANOVA](./blank-output/oneway.md)
+- [Post Hoc Comparisons](./blank-output/posthocs.md)
+- [Repeated Measures ANOVA](./blank-output/repeated.md)
+- [Factorial ANOVA](./blank-output/factorial.md)

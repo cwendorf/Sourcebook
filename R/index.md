@@ -22,7 +22,7 @@ This index page provides links to the various materials available for using R to
 
 ### Data Entry
 
-This chapter provides step-by-step written instructions showing how to enter the data using the software.
+This chapter provides step-by-step written instructions showing how to enter the data using the software. Sample data files are available.
 
 - [One Sample Data](./data-entry/onesample.md)  
 - [Paired and Repeated Measures Data](./data-entry/repeated.md)
@@ -31,7 +31,7 @@ This chapter provides step-by-step written instructions showing how to enter the
 
 ### Data Analysis
 
-This chapter provides step-by-step written instructions for obtaining basic statistical output using the software.
+This chapter provides step-by-step written instructions for obtaining basic statistical output using the software. Sample syntax files are available.
 
 - [Frequencies](./data-analysis/frequencies.md)
 - [Descriptives](./data-analysis/descriptives.md)
@@ -49,7 +49,7 @@ This chapter provides step-by-step written instructions for obtaining basic stat
 
 ### Annotated Output
 
-This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. 
+This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. Sample output files are available.
 
 - [Frequencies](./annotated-output/frequencies.md)
 - [Descriptives](./annotated-output/descriptives.md)

@@ -1,0 +1,49 @@
+---
+title: Sourcebook
+has_pdf: true
+headerone: Intro Articles
+relatedone:
+  - title: Statistical Tables | Student's t
+    url: ../../Intro/statistical-tables/t
+  - title: Worked Examples | Regression
+    url: ../../Intro/worked-examples/regression
+headertwo: SPSS Articles
+relatedtwo:
+  - title: Data Entry | Paired and Repeated Measures Data
+    url: ../data-entry/repeated
+  - title: Data Analysis | Regression
+    url: ../data-analysis/regression
+  - title: Annotated Output | Regression
+    url: ../annotated-output/regression
+headerthree: SPSS Files
+relatedthree:
+  - title: Data Files | Paired Data
+    url: ../data-files/paired.sav
+  - title: Syntax Files | Regression
+    url: ../syntax-files/regression.sps
+  - title: Output Files | Regression
+    url: ../output-files/regression.spv
+---
+
+# [SPSS Articles](../index.md)
+
+## Blank Output | Regression
+
+### Variables Entered/Removed
+
+| Model | Variables Entered     | Variables Removed | Method |
+|-------|------------------------|-------------------|--------|
+| 1     | Variable: ____________| XXXXXXXXX         | Enter  |
+
+### Model Summary
+
+| Model | R      | R Square | Adjusted R Square | Std. Error of the Estimate |
+|-------|-------:|---------:|------------------:|----------------------------:|
+| 1     | ______ | ________ | ________          | ________                    |
+
+### Coefficients
+
+| Model |        | B       | Std. Error | Beta    | t      | Sig.  |
+|-------|--------|--------:|-----------:|--------:|-------:|------:|
+| 1     | (Constant)      | ______ | ________   |         | ______ | ______ |
+|       | _____________   | ______ | ________   | _______ | ______ | ______ |

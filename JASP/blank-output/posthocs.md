@@ -1,0 +1,44 @@
+---
+title: Sourcebook
+has_pdf: true
+headerone: Intro Articles
+relatedone:
+  - title: Statistical Tables | Student's t
+    url: ../../Intro/statistical-tables/t
+  - title: Worked Examples | Post Hoc Comparisons
+    url: ../../Intro/worked-examples/posthocs
+headertwo: JASP Articles
+relatedtwo:
+  - title: Data Entry | Two and Multiple Sample Data
+    url: ../data-entry/multisample
+  - title: Data Analysis | Post Hoc Comparisons
+    url: ../data-analysis/posthocs
+  - title: Annotated Output | Post Hoc Comparisons
+    url: ../annotated-output/posthocs
+headerthree: JASP Files
+relatedthree:
+  - title: Data Files | OneWay Data
+    url: ../data-files/oneway.jasp
+  - title: Output Files | Post Hoc Comparisons
+    url: ../output-files/posthocs.jasp
+---
+
+# [JASP Articles](../index.md)
+
+## Blank Output | Post Hoc Comparisons
+
+### Tukey Post Hoc
+
+| Levels       | Mean Diff | SE   | t     | p<sub>TUKEY</sub> |
+|--------------|----------:|-----:|------:|------------------:|
+| Level 1 vs 2 | _________ | ____ | _____ |            ______ |
+| Level 1 vs 3 | _________ | ____ | _____ |            ______ |
+| Level 2 vs 3 | _________ | ____ | _____ |            ______ |
+
+### Descriptives
+
+| Factor Level | Mean | SD   | N   |
+|--------------|-----:|-----:|----:|
+| Level 1      | ____ | ____ | ___ |
+| Level 2      | ____ | ____ | ___ |
+| Level 3      | ____ | ____ | ___ |
