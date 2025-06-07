@@ -31,24 +31,24 @@ relatedthree:
 
 ### Case Processing Summary
 
-| Outcome | N Valid | % Valid | N Missing | % Missing | N Total | % Total |
-|---------|--------:|--------:|----------:|----------:|--------:|--------:|
-| ________   | ________   | ________   | ________     | ________     | ________   | ________   |
+|  | N Valid | % Valid | N Missing | % Missing | N Total | % Total |
+|:--------|--------:|--------:|----------:|----------:|--------:|--------:|
+| DV  | ________   | ________   | ________     | ________     | ________   | ________   |
 
 ### Descriptives
 
-| Statistic                | Value   |
-|--------------------------|--------:|
-| Mean                     | ________   |
-| 95% CI Lower Bound       | ________   |
-| 95% CI Upper Bound       | ________   |
-| 5% Trimmed Mean          | XXXXX   |
-| Median                   | ________   |
-| Variance                 | ________   |
-| Std. Deviation           | ________   |
-| Minimum                  | ________   |
-| Maximum                  | ________   |
-| Range                    | ________   |
-| Interquartile Range      | ________   |
-| Skewness                 | XXXX    |
-| Kurtosis                 | XXXX    |
+| Statistic                | Value   | Std. Error |
+|:-------------------------|--------:|-----------:|
+| Mean                     | ________   | ________ |
+| 95% CI Lower Bound       | ________   | |
+| 95% CI Upper Bound       | ________   | |
+| 5% Trimmed Mean          | XXXXX   | |
+| Median                   | ________   | |
+| Variance                 | ________   | |
+| Std. Deviation           | ________   | |
+| Minimum                  | ________   | |
+| Maximum                  | ________   | |
+| Range                    | ________   | |
+| Interquartile Range      | ________   | |
+| Skewness                 | XXXX    | |
+| Kurtosis                 | XXXX    | XXXX |

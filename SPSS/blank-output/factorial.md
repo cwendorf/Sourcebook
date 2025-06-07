@@ -31,8 +31,8 @@ relatedthree:
 
 ### Tests of Between-Subjects Effects
 
-| Source            | Type III SS | df    | Mean Square | F      | Sig.   | Partial Eta² |
-|-------------------|------------:|------:|------------:|-------:|-------:|---------------:|
+| Source            | Type III SS | df    | Mean Square | F      | Sig.   | Partial Eta Squared |
+|:------------------|------------:|------:|------------:|-------:|-------:|---------------:|
 | Corrected Model   | XXXXXXX     | XXXXX | XXXXXXX     | XXXXX  | XXXX   | XXXX           |
 | Intercept         | XXXXXXX     | XXXXX | XXXXXXX     | XXXXX  | XXXX   | XXXX           |
 | Factor A          | ________    | ________ | ________    | ________ | ________ | ________         |

@@ -11,6 +11,8 @@ relatedtwo:
     url: ../data-entry/onesample
   - title: Data Analysis | Frequencies
     url: ../data-analysis/frequencies
+  - title: Annotated Output | Frequencies
+    url: ../annotated-output/frequencies
 headerthree: DEVISE Files
 relatedthree:
   - title: Data Files | One Sample Data

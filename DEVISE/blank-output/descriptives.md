@@ -11,6 +11,8 @@ relatedtwo:
     url: ../data-entry/onesample
   - title: Data Analysis | Descriptives
     url: ../data-analysis/descriptives
+  - title: Annotated Output | Descriptives
+    url: ../annotated-output/descriptives
 headerthree: DEVISE Files
 relatedthree:
   - title: Data Files | One Sample Data
@@ -28,7 +30,7 @@ relatedthree:
 ### Frequencies for the Data
 
 |       | Freq | Perc | CummFreq | CummPerc |
-|-------|-----:|-----:|---------:|---------:|
+|:------|-----:|-----:|---------:|---------:|
 |  ________ | ________ | ________ | ________ | ________ |
 |  ________ | ________ | ________ | ________ | ________ |
 |  ________ | ________ | ________ | ________ | ________ |
@@ -42,14 +44,8 @@ relatedthree:
 |  ________ | ________ | ________ | ________ | ________ |
 | Total | ________ | ________ | ________ | ________ |
 
-### Percentiles for the Data
-
-|     | 0%  | 25%  | 50%  | 75%  | 100% |
-|-----|----:|-----:|-----:|-----:|-----:|
-| DV  | ________ | ________ | ________ | ________ | ________ |
-
 ### Summary Statistics for the Data
 
 |     | N   | M   | SD   | Skew | Kurt |
-|-----|----:|----:|-----:|-----:|-----:|
+|:----|----:|----:|-----:|-----:|-----:|
 | DV  | ________ | ________ | ________ | ________ | ________ |
