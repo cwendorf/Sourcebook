@@ -8,13 +8,13 @@ relatedone:
     url: "https://www.ibm.com/products/spss-statistics/support"
 headertwo: SPSS Chapters (PDF)
 relatedtwo:
-  - title: SPSS | Data Entry
+  - title: Data Entry
     url: ./data-entry/Sourcebook-SPSS-DataEntry.pdf
-  - title: SPSS | Data Analysis
+  - title: Data Analysis
     url: ./data-analysis/Sourcebook-SPSS-DataAnalysis.pdf
-  - title: SPSS | Annotated Output
+  - title: Annotated Output
     url: ./annotated-output/Sourcebook-SPSS-AnnotatedOutput.pdf
-  - title: SPSS | Blank Output
+  - title: Blank Output
     url: ./Sourcebook-SPSS-BlankOutput.pdf
 ---
 

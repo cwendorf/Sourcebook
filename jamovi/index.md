@@ -10,13 +10,13 @@ relatedone:
     url: "https://www.jamovi.org/user-manual.html"
 headertwo: jamovi Chapters (PDF)
 relatedtwo:
-  - title: jamovi | Data Entry
+  - title: Data Entry
     url: ./Sourcebook-jamovi-DataEntry.pdf
-  - title: jamovi | Data Analysis
+  - title: Data Analysis
     url: ./Sourcebook-jamovi-DataAnalysis.pdf
-  - title: jamovi | Annotated Output
+  - title: Annotated Output
     url: ./Sourcebook-jamovi-AnnotatedOutput.pdf
-  - title: jamovi | Blank Output
+  - title: Blank Output
     url: ./Sourcebook-jamovi-BlankOutput.pdf
 ---
 

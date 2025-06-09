@@ -8,13 +8,13 @@ relatedone:
     url: "https://cwendorf.github.io/DEVISE"
 headertwo: DEVISE Chapters (PDF)
 relatedtwo:
-  - title: DEVISE | Data Entry
+  - title: Data Entry
     url: ./data-entry/Sourcebook-DEVISE-DataEntry.pdf
-  - title: DEVISE | Data Analysis
+  - title: Data Analysis
     url: ./data-analysis/Sourcebook-DEVISE-DataAnalysis.pdf
-  - title: DEVISE | Annotated Output
+  - title: Annotated Output
     url: ./annotated-output/Sourcebook-DEVISE-AnnotatedOutput.pdf
-  - title: DEVISE | Blank Output
+  - title: Blank Output
     url: ./Sourcebook-DEVISE-BlankOutput.pdf
 ---
 

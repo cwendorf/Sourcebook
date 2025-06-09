@@ -8,13 +8,13 @@ relatedone:
     url: "https://apastyle.apa.org/style-grammar-guidelines/tables-figures"
 headertwo: Intro Chapters (PDF)
 relatedtwo:
-  - title: Intro | Statistical Analyses
+  - title: Statistical Analyses
     url: ./Sourcebook-Intro-StatisticalAnalyses.pdf
-  - title: Intro | Statistical Tables
+  - title: Statistical Tables
     url: ./Sourcebook-Intro-StatisticalTables.pdf
-  - title: Intro | APA Style
+  - title: APA Style
     url: ./Sourcebook-Intro-APAStyle.pdf
-  - title: Intro | Worked Examples
+  - title: Worked Examples
     url: ./Sourcebook-Intro-WorkedExamples.pdf
 ---
 

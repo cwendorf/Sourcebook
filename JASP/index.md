@@ -8,13 +8,13 @@ relatedone:
     url: "https://jasp-stats.org/support/"
 headertwo: JASP Chapters (PDF)
 relatedtwo:
-  - title: JASP | Data Entry
+  - title: Data Entry
     url: ./Sourcebook-JASP-DataEntry.pdf
-  - title: JASP | Data Analysis
+  - title: Data Analysis
     url: ./Sourcebook-JASP-DataAnalysis.pdf
-  - title: JASP | Annotated Output
+  - title: Annotated Output
     url: ./Sourcebook-JASP-AnnotatedOutput.pdf
-  - title: JASP | Blank Output
+  - title: Blank Output
     url: ./Sourcebook-JASP-BlankOutput.pdf
 ---
 

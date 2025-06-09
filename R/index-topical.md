@@ -8,11 +8,11 @@ relatedone:
     url: "https://cran.r-project.org/manuals.html"
 headertwo: R Chapters (PDF)
 relatedtwo:
-  - title: R | Data Entry
+  - title: Data Entry
     url: ./data-entry/Sourcebook-R-DataEntry.pdf
-  - title: R | Data Analysis
+  - title: Data Analysis
     url: ./data-analysis/Sourcebook-R-DataAnalysis.pdf
-  - title: R | Annotated Output
+  - title: Annotated Output
     url: ./annotated-output/Sourcebook-R-AnnotatedOutput.pdf
 ---
 
