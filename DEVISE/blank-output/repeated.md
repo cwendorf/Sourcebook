@@ -10,7 +10,7 @@ relatedone:
 headertwo: DEVISE Articles
 relatedtwo:
   - title: Data Entry | Paired and Repeated Measures Data
-    url: ../data-entry/repeatedd
+    url: ../data-entry/repeated
   - title: Data Analysis | Repeated Measures ANOVA
     url: ../data-analysis/repeated
   - title: Annotated Output | Repeated Measures ANOVA
