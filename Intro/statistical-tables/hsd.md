@@ -17,8 +17,8 @@ relatedtwo:
     url: ../../JASP/
   - title: R Articles
     url: ../../R/
-  - title: DEVISE Articles
-    url: ../../DEVISE/
+  - title: EASI Articles
+    url: ../../EASI/
 ---
 
 # [Intro Articles](../index.md)
