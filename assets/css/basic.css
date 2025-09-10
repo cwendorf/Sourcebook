@@ -148,6 +148,13 @@ body {
   box-sizing: border-box;
 }
 
+#MainContent IMG {
+    border: solid 1px #ddd;
+    max-width: 95%; 
+    margin: 10px 0px;
+    padding: 0px;
+}
+
 /* Main Section Column Styles */
 
 #Main, #Sidebar {
