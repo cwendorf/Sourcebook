@@ -10,7 +10,7 @@ This online [Sourcebook](https://cwendorf.github.io/Sourcebook/) is intended to 
 - Demonstrate the connections between formulas, calculations, and computer output of analyses
 - Summarize and interpret statistical analyses in correct APA style
 
-<p align="center"><kbd><img src="assets/images/DecisionTree.jpg"></kbd></p>
+<p align="center"><kbd><img src="assets/images/DecisionTree.jpg" alt="Decision tree diagram for common statistical analyses"></kbd></p>
 
 ### Scope
 
@@ -20,7 +20,7 @@ This Sourcebook contains a wide range of materials designed to assist with the u
 - Instructions and screenshots that show how to navigate and analyze the data in the software packages
 - Annotations that show the link between simple formulas and the software packages' output
 
-<p align="center"><kbd><img src="assets/images/AnnotatedOutput.jpg"></kbd></p>
+<p align="center"><kbd><img src="assets/images/AnnotatedOutput.jpg" alt="Sample annotated output from this Sourcebook"></kbd></p>
 
 ### Contact
  
