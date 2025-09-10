@@ -32,7 +32,8 @@ This online Sourcebook is intended to facilitate the connection between standard
 - Demonstrate the connections between formulas, calculations, and computer output of analyses
 - Summarize and interpret statistical analyses in correct APA style
 
-![Decision tree diagram for common statistical analyses](assets/images/DecisionTree.jpg){: .img-center}
+{: .img-center}
+![Decision tree diagram for common statistical analyses](assets/images/DecisionTree.jpg)
 
 ### Scope
 
