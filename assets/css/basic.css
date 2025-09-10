@@ -139,11 +139,13 @@ body {
 }
 .img-center img {
   display: inline-block;
+  width: auto;
   max-width: 95%;
+  height: auto;
   border: 1px solid #ddd;
   border-radius: 6px;
-  background-color: #f6f8fa;
   padding: 10px;
+  box-sizing: border-box;
 }
 
 /* Main Section Column Styles */
