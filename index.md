@@ -43,4 +43,5 @@ This Sourcebook contains a wide range of materials designed to assist with the u
 - Instructions and screenshots that show how to navigate and analyze the data in the software packages
 - Annotations that show the link between simple formulas and the software packages' output
 
-![Sample annotated output from this Sourcebook](assets/images/AnnotatedOutput.jpg){: .img-center}
+{: .img-center}
+![Sample annotated output from this Sourcebook](assets/images/AnnotatedOutput.jpg)
