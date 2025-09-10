@@ -35,7 +35,8 @@ relatedthree:
 
  2. After the data are entered, select the "Analyze → Descriptive Statistics → Explore" option from the main menu. 
 
-<p align="center"><kbd><img src="intervals1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](intervals1.png)
 
 ### Obtaining the Exploratory Statistics
 
@@ -47,7 +48,8 @@ relatedthree:
 
 6. If you do not wish to alter the default (95%) confidence level, click "OK." A separate window with the output will appear.
 
-<p align="center"><kbd><img src="intervals2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining statistics](intervals2.png)
 
 ### Altering the Confidence Interval
 
@@ -57,4 +59,5 @@ relatedthree:
 
 9. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
-<p align="center"><kbd><img src="intervals3.png"></kbd></p>
+{: .image}
+![Screenshot for altering intervals](intervals3.png)

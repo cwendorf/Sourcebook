@@ -27,4 +27,5 @@ relatedthree:
 
 ## Annotated Output | Factorial ANOVA
 
-<p align="center"><kbd><img src="factorial.png"></kbd></p>
+{: .image}
+![Annotated output for factorial ANOVA](factorial.png)

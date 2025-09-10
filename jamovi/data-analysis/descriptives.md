@@ -33,7 +33,8 @@ relatedthree:
 
 2. On the "Analyses" tab, select the "Exploration -> Descriptives" option.
 
-<p align="center"><kbd><img src="descriptives1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](descriptives1.png)
 
 ### Obtaining Frequencies
 
@@ -45,7 +46,8 @@ relatedthree:
 
 6. Output will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="descriptives2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining frequencies](descriptives2.png)
 
 ### Obtaining Descriptive Statistics
 
@@ -53,4 +55,5 @@ relatedthree:
 
 8. As you select the desired statistics, the output on the right side of the window will be automatically updated. 
 
-<p align="center"><kbd><img src="descriptives3.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining descriptives](descriptives3.png)

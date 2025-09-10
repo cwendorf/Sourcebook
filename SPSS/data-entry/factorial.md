@@ -23,7 +23,8 @@ relatedtwo:
 
 3. Two variables will represent the Factors (Independent Variables) and the other will represent the Outcome (Dependent) Variable.
 
-<p align="center"><kbd><img src="factorial1.png"></kbd></p>
+{: .image}
+![Screenshot for defining variables](factorial1.png)
 
 ### Providing Value Labels
 
@@ -33,7 +34,8 @@ relatedtwo:
 
 6. When you have labeled all the values for both factors, click "OK" to return to the "Variable View." 
 
-<p align="center"><kbd><img src="factorial2.png"></kbd></p>
+{: .image}
+![Screenshot for labeling values](factorial2.png)
 
 ### Entering Data
 
@@ -45,4 +47,5 @@ relatedtwo:
 
  10. If your data set has more than two levels for either (or both) of the Factors, simply be sure to add an indicator and an outcome value for each additional person.
 
-<p align="center"><kbd><img src="factorial3.png"></kbd></p>
+{: .image}
+![Screenshot for entering data](factorial3.png)

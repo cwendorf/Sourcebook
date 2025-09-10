@@ -33,7 +33,8 @@ relatedthree:
 
 2. In the "Analyses" section of the menu, select the "T-Tests → Independent Samples T-Test" option. 
 
-<p align="center"><kbd><img src="independent1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](independent1.png)
 
 ### Obtaining Inferential Statistics
 
@@ -45,7 +46,8 @@ relatedthree:
 
 6. Output will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="independent2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining inferentials](independent2.png)
 
 ### Obtaining Additional Statistics
 
@@ -55,4 +57,5 @@ relatedthree:
 
 9. Updated output will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="independent3.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining additional statistics](independent3.png)

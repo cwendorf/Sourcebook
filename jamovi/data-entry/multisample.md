@@ -27,7 +27,8 @@ relatedtwo:
 
 2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options. 
 
-<p align="center"><kbd><img src="multisample1.png"></kbd></p>
+{: .image}
+![Screenshot for defining variables](multisample1.png)
 
 ### Setting Variable Properties
 
@@ -37,7 +38,8 @@ relatedtwo:
 
 5. To hide the setup menu, click on the large UP arrow button next to the variable name.
 
-<p align="center"><kbd><img src="multisample2.png"></kbd></p>
+{: .image}
+![Screenshot for labeling values](multisample2.png)
 
 ### Entering Data
 
@@ -47,4 +49,5 @@ relatedtwo:
 
 8. If your data set has more than two groups, simply be sure to add a group indicator (a value on the "Factor" variable) and a "Outcome" for each additional person. 
 
-<p align="center"><kbd><img src="multisample3.png"></kbd></p>
+{: .image}
+![Screenshot for entering data](multisample3.png)

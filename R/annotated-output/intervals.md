@@ -29,4 +29,5 @@ relatedthree:
 
 ## Annotated Output | Confidence Interval for a Mean
 
-<p align="center"><kbd><img src="intervals.png"></kbd></p>
+{: .image}
+![Annotated output for confidence intervals](intervals.png)

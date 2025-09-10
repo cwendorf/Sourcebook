@@ -21,7 +21,8 @@ relatedtwo:
 
 2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options. 
 
-<p align="center"><kbd><img src="factorial1.png"></kbd></p>
+{: .image}
+![Screenshot for defining variables](factorial1.png)
 
 ### Setting Variable Properties
 
@@ -31,7 +32,8 @@ relatedtwo:
 
 5. To hide the setup menu, click on the large UP arrow button next to the variable name.
 
-<p align="center"><kbd><img src="factorial2.png"></kbd></p>
+{: .image}
+![Screenshot for labeling values](factorial2.png)
 
 ### Entering Data
  
@@ -41,4 +43,5 @@ relatedtwo:
 
 8. If your data set has more than two levels for either (or both) of the Factors, simply be sure to add an indicator and an outcome value for each additional person.
 
-<p align="center"><kbd><img src="factorial3.png"></kbd></p>
+{: .image}
+![Screenshot for entering data](factorial3.png)

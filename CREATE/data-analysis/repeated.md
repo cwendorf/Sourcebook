@@ -35,7 +35,8 @@ relatedthree:
 
 4. Notice that each individual (i.e., the rows) has a value for each instance of the within-subjects variable (i.e., the columns).
 
-<p align="center"><kbd><img src="repeated1.png"></kbd></p>
+{: .image}
+![Screenshot for entering data](repeated1.png)
 
 ### Obtaining Descriptive and Inferential Statistics
 
@@ -43,4 +44,5 @@ relatedthree:
 
 6. If you wish to alter the confidence intervals for the means, enter the preferred confidence level in the shaded cell after "CI %". 
 
-<p align="center"><kbd><img src="repeated2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining statistics](repeated2.png)

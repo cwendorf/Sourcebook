@@ -35,7 +35,8 @@ relatedthree:
 
 2. After the data are entered, select the “Analyze -> Regression -> Linear” option from the main menu.
 
-<p align="center"><kbd><img src="regression1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](regression1.png)
 
 ### Obtaining Inferential Statistics
 
@@ -43,7 +44,8 @@ relatedthree:
 
 4. Select the variables you wish to analyze by clicking on them and clicking the arrow to move them into the “Variables” box. 
 
-<p align="center"><kbd><img src="regression2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining inferentials](regression2.png)
 
 ### Obtaining Additional Statistics
 
@@ -55,4 +57,5 @@ relatedthree:
 
 8. Now click “OK” in the original dialogue box. A separate window with the output will appear. 
 
-<p align="center"><kbd><img src="regression3.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining additional statistics](regression3.png)

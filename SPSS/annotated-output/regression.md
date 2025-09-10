@@ -29,4 +29,5 @@ relatedthree:
 
 ## Annotated Output | Regression
 
-<p align="center"><kbd><img src="regression.png"></kbd></p>
+{: .image}
+![Annotated output for regression](regression.png)

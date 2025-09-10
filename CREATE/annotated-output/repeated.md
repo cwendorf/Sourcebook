@@ -25,4 +25,5 @@ relatedthree:
 
 ## Annotated Output | Repeated Measures ANOVA
 
-<p align="center"><kbd><img src="repeated.png"></kbd></p>
+{: .image}
+![Annotated output for repeated measures ANOVA](repeated.png)

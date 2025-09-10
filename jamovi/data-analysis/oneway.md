@@ -33,7 +33,8 @@ relatedthree:
 
 2. On the "Analysis" tab, select the "ANOVA → ANOVA" option.
 
-<p align="center"><kbd><img src="oneway1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](oneway1.png)
 
 ### Obtaining Inferential Statistics
 
@@ -45,7 +46,8 @@ relatedthree:
 
 6. Output will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="oneway2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining inferentials](oneway2.png)
 
 ### Obtaining Additional Statistics
 
@@ -55,4 +57,5 @@ relatedthree:
 
 9. Updated output will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="oneway3.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining additional statistics](oneway3.png)

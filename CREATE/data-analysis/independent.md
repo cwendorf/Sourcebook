@@ -35,7 +35,8 @@ relatedthree:
 
 4. On the categorical Group variable, you will use numbers to represent the two categories (or “levels”) of the variable.  
 
-<p align="center"><kbd><img src="independent1.png"></kbd></p>
+{: .image}
+![Screenshot for entering data](independent1.png)
 
 ### Obtaining Descriptive and Inferential Statistics
 
@@ -43,4 +44,5 @@ relatedthree:
 
 6. If you wish to alter the confidence intervals for the means, enter the preferred confidence level in the shaded cell after "CI %". 
 
-<p align="center"><kbd><img src="independent2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining statistics](independent2.png)

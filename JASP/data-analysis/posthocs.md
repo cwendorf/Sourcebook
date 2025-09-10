@@ -33,7 +33,8 @@ relatedthree:
 
 2. In the "Analyses" section of the menu, select the "ANOVA → ANOVA" option. 
 
-<p align="center"><kbd><img src="posthocs1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](posthocs1.png)
 
 ### Obtaining Inferential Statistics
 
@@ -45,7 +46,8 @@ relatedthree:
 
 6. Output will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="posthocs2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining inferentials](posthocs2.png)
 
 ### Obtaining Additional Statistics
 
@@ -57,7 +59,8 @@ relatedthree:
 
 10. Updated output will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="posthocs3.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining additional statistics](posthocs3.png)
 
 ### Obtaining Post Hoc Tests
 
@@ -69,4 +72,5 @@ relatedthree:
 
 14. Updated output will automatically appear on the right side of the window.
 
-<p align="center"><kbd><img src="posthocs4.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining post hocs](posthocs4.png)

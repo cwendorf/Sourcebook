@@ -35,7 +35,8 @@ relatedthree:
 
 2. After the data are entered, select the "Analyze → Correlate → Bivariate" option from the main menu. 
 
-<p align="center"><kbd><img src="correlations1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](correlations1.png)
 
 ### Obtaining Inferential Statistics
 
@@ -47,7 +48,8 @@ relatedthree:
 
 6. If all you wish is a table of correlations (with no other descriptive statistics), click "OK." A separate window with the output will appear. 
 
-<p align="center"><kbd><img src="correlations2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining inferentials](correlations2.png)
 
 ### Obtaining Descriptive Statistics
 
@@ -59,4 +61,5 @@ relatedthree:
 
 10. Now click "OK" in the original dialogue box. A separate window with the output will appear.
 
-<p align="center"><kbd><img src="correlations3.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining descriptives](correlations3.png)

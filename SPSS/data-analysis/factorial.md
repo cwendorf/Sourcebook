@@ -35,7 +35,8 @@ relatedthree:
 
 2. After the data are entered, select the "Analyze → General Linear Model → Univariate" option from the main menu. 
 
-<p align="center"><kbd><img src="factorial1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](factorial1.png)
 
 ### Obtaining the Significance Test 
 
@@ -47,7 +48,8 @@ relatedthree:
 
 6. If all you wish is an ANOVA source table (with no descriptive statistics), click "OK." A separate window with the output will appear. 
 
-<p align="center"><kbd><img src="factorial2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining significance](factorial2.png)
 
 ### Obtaining Descriptive Statistics
 
@@ -59,7 +61,8 @@ relatedthree:
 
 10. After clicking on "OK" in the original dialogue box, a separate window with the  output will appear.
 
-<p align="center"><kbd><img src="factorial3.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining descriptives](factorial3.png)
 
 ### Obtaining Confidence Intervals
 
@@ -71,4 +74,6 @@ relatedthree:
 
 14. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
-<p align="center"><kbd><img src="factorial4.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining intervals](factorial4.png)
+

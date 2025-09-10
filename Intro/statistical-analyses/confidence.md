@@ -53,7 +53,8 @@ It's important to note that a 95% confidence interval does not mean there is a 9
 
 Let's assume that you conduct a large number of independent random samples from the same population (let's say 100 samples). For each sample, you construct a 95% confidence interval. Picture a series of horizontal lines representing the different sample means and their corresponding 95% confidence intervals, arranged along a horizontal axis. The true population mean is represented by a fixed vertical line.
 
-<p align="center"><kbd><img src="confidenceintervals.png"></kbd></p>
+{: .image}
+![Confidence interval simulation coverage](confidenceintervals.png)
 
 - Some horizontal lines will have their confidence intervals capturing the true population mean. These intervals are represented by horizontal bars that intersect the true population mean line (and are pictured in black).
 - Other horizontal lines will have confidence intervals that do not capture the true population mean. These intervals do not intersect the true population mean line (and are pictured in red).

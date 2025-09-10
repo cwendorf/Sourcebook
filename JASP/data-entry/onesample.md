@@ -25,7 +25,8 @@ relatedtwo:
 
 2. Double-click on a cell column header (i.e., variable) that you wish to define. This will bring up a new set of options. 
 
-<p align="center"><kbd><img src="onesample1.png"></kbd></p>
+{: .image}
+![Screenshot for defining variables](onesample1.png)
 
 ### Setting Variable Properties
 
@@ -35,7 +36,8 @@ relatedtwo:
 
 5. To close the variable menu, click on the red "x" button to the right of the variable name.
 
-<p align="center"><kbd><img src="onesample2.png"></kbd></p>
+{: .image}
+![Screenshot for setting properties](onesample2.png)
 
 ### Entering Data
 
@@ -43,4 +45,5 @@ relatedtwo:
 
 7. When done, click on the "Analyses" button on the top of the window.
 
-<p align="center"><kbd><img src="onesample3.png"></kbd></p>
+{: .image}
+![Screenshot for entering data](onesample3.png)

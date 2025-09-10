@@ -43,12 +43,14 @@ A *sampling distribution* is a theoretical probability distribution of all possi
 
 Sometimes we can exactly specify the sampling distribution. For example, if we toss 4 fair coins, we can determine the sample space and the probability of each event class within the sample space using basic rules of probability. This produces a discrete sampling distribution that can be represented graphically as a probability distribution (see diagram below).
 
-<p align="center"><kbd><img src="discretedistribution.gif"></kbd></p>
+{: .image}
+![Example of a discrete distribution](discretedistribution.gif)
 
 In many other cases, however, the sample space cannot be so accurately specified because there are a very large number of possible outcomes. In these cases, we have a continuous curve that approximately represents the true sampling distribution. For example, there are many possible means of a variable in a study and we therefore use a continuous curve to represent this sampling distribution (see second diagram on the right).
 
 Also worth noting is that different types of events, outcomes, or statistics produce different sampling distributions. Some sampling distributions will look like those on the right, but others will not. Don&#39;t worry, though, because statisticians have already calculated all of these sampling distributions for you. In fact, the characteristics of the independent and dependent variables determine the statistics and sampling distributions that should be used in order to assess significance.
 
-<p align="center"><kbd><img src="continuousdistribution.gif"></kbd></p> 
+{: .image}
+![Example of a continuous distribution](continuousdistribution.gif)
 
 The overarching important point is that because the sampling distribution represents the probabilities of all possible study outcomes, we can then use it to figure out where any one particular outcomes lies on it. Some outcomes will have higher probabilities (they are consistent with the null hypothesis) and other outcomes will have much lower probabilities (they are less consistent with the null hypothesis).

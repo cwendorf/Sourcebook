@@ -33,7 +33,8 @@ relatedthree:
 
 2. In the "Analyses" section of the menu, select the “Regression -> Linear Regression” option (from the “Classical” section).
 
-<p align="center"><kbd><img src="regression1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](regression1.png)
 
 ### Obtaining Inferential Statistics
 
@@ -43,7 +44,8 @@ relatedthree:
 
 5. Output (with no descriptive statistics) will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="regression2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining inferentials](regression2.png)
 
 ### Obtaining Additional Statistics
 
@@ -51,4 +53,5 @@ relatedthree:
 
 7. Updated output will automatically appear on the right side of the window.
 
-<p align="center"><kbd><img src="regression3.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining additional statistics](regression3.png)

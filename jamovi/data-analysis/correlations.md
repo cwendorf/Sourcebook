@@ -33,7 +33,8 @@ relatedthree:
 
 2. On the "Analyses" tab, select the "Regression -> Correlation Matrix" option.
 
-<p align="center"><kbd><img src="correlations1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](correlations1.png)
 
 ### Obtaining Inferential Statistics
 
@@ -45,4 +46,5 @@ relatedthree:
 
 6. If you wish descriptive statistics associated with each variable, follow the "Descriptives" procedures described earlier in this manual.
 
-<p align="center"><kbd><img src="correlations2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining inferentials](correlations2.png)

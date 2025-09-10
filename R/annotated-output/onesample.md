@@ -29,4 +29,5 @@ relatedthree:
 
 ## Annotated Output | One Sample t Test
 
-<p align="center"><kbd><img src="onesample.png"></kbd></p>
+{: .image}
+![Annotated output for one sample t test](onesample.png)

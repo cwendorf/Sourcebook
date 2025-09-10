@@ -32,7 +32,8 @@ relatedthree:
 
 2. On the “Analysis” tab, select the “T-Tests -> One Sample T-Test” option. 
 
-<p align="center"><kbd><img src="intervals1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](intervals1.png)
 
 ### Choosing Variables
 
@@ -42,7 +43,8 @@ relatedthree:
 
 5. Output will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="intervals2.png"></kbd></p>
+{: .image}
+![Screenshot for choosing variables](intervals2.png)
 
 ### Obtaining Inferential Statistics
 
@@ -54,4 +56,5 @@ relatedthree:
 
 9. Updated output will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="intervals3.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining inferentials](intervals3.png)

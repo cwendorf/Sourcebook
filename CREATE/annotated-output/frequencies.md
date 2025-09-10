@@ -25,4 +25,5 @@ relatedthree:
 
 ## Annotated Output | Frequencies and Descriptives
 
-<p align="center"><kbd><img src="frequencies.png"></kbd></p>
+{: .image}
+![Annotated output for frequencies](frequencies.png)

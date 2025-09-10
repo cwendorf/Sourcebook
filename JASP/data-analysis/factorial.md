@@ -33,7 +33,8 @@ relatedthree:
 
 2. In the "Analyses" section of the menu, select the "ANOVA → ANOVA" option. 
 
-<p align="center"><kbd><img src="factorial1.png"></kbd></p>
+{: .image}
+![Screenshot for selecting analysis](factorial1.png)
 
 ### Obtaining the Significance Test
 
@@ -45,7 +46,8 @@ relatedthree:
 
 6. Output will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="factorial2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining significance](factorial2.png)
 
 ### Obtaining Additional Statistics
 
@@ -57,4 +59,5 @@ relatedthree:
 
 10. Updated output will automatically appear on the right side of the window. 
 
-<p align="center"><kbd><img src="factorial3.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining additional statistics](factorial3.png)

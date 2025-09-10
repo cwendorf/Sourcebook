@@ -33,7 +33,8 @@ relatedthree:
 
 3. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
 
-<p align="center"><kbd><img src="frequencies1.png"></kbd></p>
+{: .image}
+![Screenshot for entering data](frequencies1.png)
 
 ### Obtaining Descriptive and Inferential Statistics
 
@@ -41,4 +42,5 @@ relatedthree:
 
 5. If you wish to alter the confidence intervals for the means, enter the preferred confidence level in the shaded cell after "CI %".
 
-<p align="center"><kbd><img src="frequencies2.png"></kbd></p>
+{: .image}
+![Screenshot for obtaining statistics](frequencies2.png)
