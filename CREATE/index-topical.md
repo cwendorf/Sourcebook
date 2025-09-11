@@ -7,9 +7,9 @@ relatedone:
 headertwo: CREATE Chapters (PDF)
 relatedtwo:
   - title: Data Analysis
-    url: ./data-analysis/Sourcebook-CREATE-DataAnalysis.pdf
+    url: ./Sourcebook-CREATE-DataAnalysis.pdf
   - title: Annotated Output
-    url: ./annotated-output/Sourcebook-CREATE-AnnotatedOutput.pdf
+    url: ./Sourcebook-CREATE-AnnotatedOutput.pdf
   - title: Blank Output
     url: ./Sourcebook-CREATE-BlankOutput.pdf
 ---

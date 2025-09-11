@@ -9,11 +9,11 @@ relatedone:
 headertwo: EASI Chapters (PDF)
 relatedtwo:
   - title: Data Entry
-    url: ./data-entry/Sourcebook-EASI-DataEntry.pdf
+    url: ./Sourcebook-EASI-DataEntry.pdf
   - title: Data Analysis
-    url: ./data-analysis/Sourcebook-EASI-DataAnalysis.pdf
+    url: ./Sourcebook-EASI-DataAnalysis.pdf
   - title: Annotated Output
-    url: ./annotated-output/Sourcebook-EASI-AnnotatedOutput.pdf
+    url: ./Sourcebook-EASI-AnnotatedOutput.pdf
   - title: Blank Output
     url: ./Sourcebook-EASI-BlankOutput.pdf
 ---

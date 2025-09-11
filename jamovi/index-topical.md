@@ -11,11 +11,11 @@ relatedone:
 headertwo: jamovi Chapters (PDF)
 relatedtwo:
   - title: Data Entry
-    url: ./data-entry/Sourcebook-jamovi-DataEntry.pdf
+    url: ./Sourcebook-jamovi-DataEntry.pdf
   - title: Data Analysis
-    url: ./data-analysis/Sourcebook-jamovi-DataAnalysis.pdf
+    url: ./Sourcebook-jamovi-DataAnalysis.pdf
   - title: Annotated Output
-    url: ./annotated-output/Sourcebook-jamovi-AnnotatedOutput.pdf
+    url: ./Sourcebook-jamovi-AnnotatedOutput.pdf
   - title: Blank Output
     url: ./Sourcebook-jamovi-BlankOutput.pdf
 ---

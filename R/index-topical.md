@@ -9,11 +9,11 @@ relatedone:
 headertwo: R Chapters (PDF)
 relatedtwo:
   - title: Data Entry
-    url: ./data-entry/Sourcebook-R-DataEntry.pdf
+    url: ./Sourcebook-R-DataEntry.pdf
   - title: Data Analysis
-    url: ./data-analysis/Sourcebook-R-DataAnalysis.pdf
+    url: ./Sourcebook-R-DataAnalysis.pdf
   - title: Annotated Output
-    url: ./annotated-output/Sourcebook-R-AnnotatedOutput.pdf
+    url: ./Sourcebook-R-AnnotatedOutput.pdf
 ---
 
 ## [R Articles](./index-topical.md)

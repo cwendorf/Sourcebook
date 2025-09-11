@@ -9,11 +9,11 @@ relatedone:
 headertwo: JASP Chapters (PDF)
 relatedtwo:
   - title: Data Entry
-    url: ./data-entry/Sourcebook-JASP-DataEntry.pdf
+    url: ./Sourcebook-JASP-DataEntry.pdf
   - title: Data Analysis
-    url: ./data-analysis/Sourcebook-JASP-DataAnalysis.pdf
+    url: ./Sourcebook-JASP-DataAnalysis.pdf
   - title: Annotated Output
-    url: ./annotated-output/Sourcebook-JASP-AnnotatedOutput.pdf
+    url: ./Sourcebook-JASP-AnnotatedOutput.pdf
   - title: Blank Output
     url: ./Sourcebook-JASP-BlankOutput.pdf
 ---

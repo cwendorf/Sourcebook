@@ -9,11 +9,11 @@ relatedone:
 headertwo: SPSS Chapters (PDF)
 relatedtwo:
   - title: Data Entry
-    url: ./data-entry/Sourcebook-SPSS-DataEntry.pdf
+    url: ./Sourcebook-SPSS-DataEntry.pdf
   - title: Data Analysis
-    url: ./data-analysis/Sourcebook-SPSS-DataAnalysis.pdf
+    url: ./Sourcebook-SPSS-DataAnalysis.pdf
   - title: Annotated Output
-    url: ./annotated-output/Sourcebook-SPSS-AnnotatedOutput.pdf
+    url: ./Sourcebook-SPSS-AnnotatedOutput.pdf
   - title: Blank Output
     url: ./Sourcebook-SPSS-BlankOutput.pdf
 ---
