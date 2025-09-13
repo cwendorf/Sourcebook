@@ -6,14 +6,6 @@ relatedone:
     url: "https://www.r-project.org"
   - title: User Manuals
     url: "https://cran.r-project.org/manuals.html"
-headertwo: R Chapters (PDF)
-relatedtwo:
-  - title: Data Entry
-    url: ./Sourcebook-R-DataEntry.pdf
-  - title: Data Analysis
-    url: ./Sourcebook-R-DataAnalysis.pdf
-  - title: Annotated Output
-    url: ./Sourcebook-R-AnnotatedOutput.pdf
 ---
 
 ## [R Articles](./index.md)

@@ -8,16 +8,6 @@ relatedone:
     url: "https://cloud.jamovi.org"
   - title: User Manual
     url: "https://www.jamovi.org/user-manual.html"
-headertwo: jamovi Chapters (PDF)
-relatedtwo:
-  - title: Data Entry
-    url: ./Sourcebook-jamovi-DataEntry.pdf
-  - title: Data Analysis
-    url: ./Sourcebook-jamovi-DataAnalysis.pdf
-  - title: Annotated Output
-    url: ./Sourcebook-jamovi-AnnotatedOutput.pdf
-  - title: Blank Output
-    url: ./Sourcebook-jamovi-BlankOutput.pdf
 ---
 
 ## [jamovi Articles](./index.md)

@@ -6,16 +6,6 @@ relatedone:
     url: "https://apastyle.apa.org/jars"
   - title: Tables and Figures
     url: "https://apastyle.apa.org/style-grammar-guidelines/tables-figures"
-headertwo: Intro Chapters (PDF)
-relatedtwo:
-  - title: Statistical Analyses
-    url: ./Sourcebook-Intro-StatisticalAnalyses.pdf
-  - title: Statistical Tables
-    url: ./Sourcebook-Intro-StatisticalTables.pdf
-  - title: APA Style
-    url: ./Sourcebook-Intro-APAStyle.pdf
-  - title: Worked Examples
-    url: ./Sourcebook-Intro-WorkedExamples.pdf
 ---
 
 ## [Intro Articles](./index.md)

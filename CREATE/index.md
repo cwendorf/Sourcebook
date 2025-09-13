@@ -4,14 +4,6 @@ headerone: CREATE Websites
 relatedone:
   - title: Spreadsheet Download
     url: "https://github.com/cwendorf/BASE/tree/main/CREATE"
-headertwo: CREATE Chapters (PDF)
-relatedtwo:
-  - title: Data Analysis
-    url: ./Sourcebook-CREATE-DataAnalysis.pdf
-  - title: Annotated Output
-    url: ./Sourcebook-CREATE-AnnotatedOutput.pdf
-  - title: Blank Output
-    url: ./Sourcebook-CREATE-BlankOutput.pdf
 ---
 
 ## [CREATE Articles](./index.md)

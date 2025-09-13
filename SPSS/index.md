@@ -6,16 +6,6 @@ relatedone:
     url: "https://www.ibm.com/products/spss-statistics"
   - title: Support Documents
     url: "https://www.ibm.com/products/spss-statistics/support"
-headertwo: SPSS Chapters (PDF)
-relatedtwo:
-  - title: Data Entry
-    url: ./Sourcebook-SPSS-DataEntry.pdf
-  - title: Data Analysis
-    url: ./Sourcebook-SPSS-DataAnalysis.pdf
-  - title: Annotated Output
-    url: ./Sourcebook-SPSS-AnnotatedOutput.pdf
-  - title: Blank Output
-    url: ./Sourcebook-SPSS-BlankOutput.pdf
 ---
 
 ## [SPSS Articles](./index.md)

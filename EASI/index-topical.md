@@ -6,16 +6,6 @@ relatedone:
     url: "https://github.com/cwendorf/EASI"
   - title: User Manual
     url: "https://cwendorf.github.io/EASI"
-headertwo: EASI Chapters (PDF)
-relatedtwo:
-  - title: Data Entry
-    url: ./Sourcebook-EASI-DataEntry.pdf
-  - title: Data Analysis
-    url: ./Sourcebook-EASI-DataAnalysis.pdf
-  - title: Annotated Output
-    url: ./Sourcebook-EASI-AnnotatedOutput.pdf
-  - title: Blank Output
-    url: ./Sourcebook-EASI-BlankOutput.pdf
 ---
 
 ## [EASI Articles](./index-topical.md)

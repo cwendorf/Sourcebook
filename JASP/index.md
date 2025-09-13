@@ -6,16 +6,6 @@ relatedone:
     url: "https://jasp-stats.org"
   - title: Support Documents
     url: "https://jasp-stats.org/support/"
-headertwo: JASP Chapters (PDF)
-relatedtwo:
-  - title: Data Entry
-    url: ./Sourcebook-JASP-DataEntry.pdf
-  - title: Data Analysis
-    url: ./Sourcebook-JASP-DataAnalysis.pdf
-  - title: Annotated Output
-    url: ./Sourcebook-JASP-AnnotatedOutput.pdf
-  - title: Blank Output
-    url: ./Sourcebook-JASP-BlankOutput.pdf
 ---
 
 ## [JASP Articles](./index.md)
