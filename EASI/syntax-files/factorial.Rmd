@@ -16,7 +16,7 @@ knitr::opts_chunk$set(fig.width = 7, fig.height = 7, comment = NA, fig.path = "f
 ```
 
 ```{r,include=FALSE}
-library(DEVISE)
+library(EASI)
 ```
 
 ```{r,include=FALSE}
@@ -27,7 +27,7 @@ FactorA <- factor(FactorA, levels = c(1, 2), labels = c("A1", "A2"))
 FactorB <- factor(FactorB, levels = c(1, 2), labels = c("B1", "B2"))
 ```
 
-# DEVISE | Data Analysis
+# EASI | Data Analysis
 
 ## Factorial ANOVA
 
@@ -35,7 +35,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 
 ### Obtaining Descriptive Statistics
 
-Get the mean and standard deviation of the dependent variable for each of the levels. The "by" option tells DEVISE how to split the data.
+Get the mean and standard deviation of the dependent variable for each of the levels. The "by" option tells EASI how to split the data.
 
 ```r
 (Outcome~FactorA) |> describeMoments(by = FactorB)

@@ -1,6 +1,6 @@
-# DEVISE | Data Analysis
+# EASI | Data Analysis
 
-source("http://raw.githubusercontent.com/cwendorf/DEVISE/main/source-DEVISE.R")
+source("http://raw.githubusercontent.com/cwendorf/EASI/main/source-EASI.R")
 
 FactorA <- c(1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2)
 FactorB <- c(1, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2, 2)
