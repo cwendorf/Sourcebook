@@ -27,7 +27,7 @@ This chapter provides step-by-step written instructions for obtaining basic stat
 
 - [Frequencies](./data-analysis/frequencies.md)
 - [Descriptives](./data-analysis/descriptives.md)
-- [Transformations and Standardized Scores](./data-analysis/standardized.md)
+- [Standardized Scores](./data-analysis/standardized.md)
 - [Correlations](./data-analysis/correlations.md)
 - [Regression](./data-analysis/regression.md)
 - [Confidence Interval for a Mean](./data-analysis/intervals.md)
@@ -45,6 +45,7 @@ This chapter shows the output from various types of analyses, describes how to i
 
 - [Frequencies](./annotated-output/frequencies.md)
 - [Descriptives](./annotated-output/descriptives.md)
+- [Standardized Scores](./annotated-output/standardized.md)
 - [Correlations](./annotated-output/correlations.md)
 - [Regression](./annotated-output/regression.md)
 - [Confidence Interval for a Mean](./annotated-output/intervals.md)

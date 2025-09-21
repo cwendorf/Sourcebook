@@ -14,15 +14,15 @@ This reorganized index page provides links to the various materials available fo
 
 These pages show how to obtain and calculate frequency distributions and percentiles.
 
-- Data Analysis: [Frequencies and Descriptives](./data-analysis/frequencies.md)
-- Annotated Output: [Frequencies and Descriptives](./annotated-output/frequencies.md)
+- Data Analysis: [Frequencies](./data-analysis/frequencies.md)
+- Annotated Output: [Frequencies](./annotated-output/frequencies.md)
 
 ### Descriptives
 
 These pages show how to obtain and calculate descriptive statistics such as the mean and standard deviation.
 
-- Data Analysis: [Frequencies and Descriptives](./data-analysis/frequencies.md)
-- Annotated Output: [Frequencies and Descriptives](./annotated-output/frequencies.md)
+- Data Analysis: [Descriptives](./data-analysis/descriptives.md)
+- Annotated Output: [Descriptives](./annotated-output/descriptives.md)
 
 ### Correlations
 

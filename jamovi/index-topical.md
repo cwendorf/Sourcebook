@@ -19,23 +19,24 @@ This reorganized index page provides links to the various materials available fo
 These pages show how to obtain and calculate frequency distributions and percentiles.
 
 - Data Entry: [One Sample Data](./data-entry/onesample.md)
-- Data Analysis: [Frequencies and Descriptives](./data-analysis/descriptives.md)
-- Annotated Output: [Frequencies and Descriptives](./annotated-output/descriptives.md)
+- Data Analysis: [Frequencies](./data-analysis/frequencies.md)
+- Annotated Output: [Frequencies](./annotated-output/frequencies.md)
 
 ### Descriptives
 
 These pages show how to obtain and calculate descriptive statistics such as the mean and standard deviation.
 
 - Data Entry: [One Sample Data](./data-entry/onesample.md)
-- Data Analysis: [Frequencies and Descriptives](./data-analysis/descriptives.md)
-- Annotated Output: [Frequencies and Descriptives](./annotated-output/descriptives.md)
+- Data Analysis: [Descriptives](./data-analysis/descriptives.md)
+- Annotated Output: [Descriptives](./annotated-output/descriptives.md)
 
-### Transformations and Standardized Scores
+### Standardized Scores
 
 These pages show how to transform data, especially into standardized scores.
 
 - Data Entry: [One Sample Data](./data-entry/onesample.md)
-- Data Analysis: [Transformations and Standardized Scores](./data-analysis/standardized.md)
+- Data Analysis: [Standardized Scores](./data-analysis/standardized.md)
+- Annotated Output: [Standardized Scores](./annotated-output/standardized.md)
 
 ### Correlations
 

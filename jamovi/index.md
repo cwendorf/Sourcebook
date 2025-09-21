@@ -27,8 +27,9 @@ This chapter provides step-by-step written instructions and screenshots showing 
 
 This chapter provides step-by-step written instructions and screenshots for obtaining basic statistical output using the software.
 
-- [Frequencies and Descriptives](./data-analysis/descriptives.md)
-- [Transformations and Standardized Scores](./data-analysis/standardized.md)
+- [Frequencies](./data-analysis/frequencies.md)
+- [Descriptives](./data-analysis/descriptives.md)
+- [Standardized Scores](./data-analysis/standardized.md)
 - [Correlations](./data-analysis/correlations.md)
 - [Regression](./data-analysis/regression.md)
 - [Confidence Interval for a Mean](./data-analysis/intervals.md)
@@ -44,7 +45,9 @@ This chapter provides step-by-step written instructions and screenshots for obta
 
 This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. Sample output files are available.
 
-- [Frequencies and Descriptives](./annotated-output/descriptives.md)
+- [Frequencies](./annotated-output/frequencies.md)
+- [Descriptives](./annotated-output/descriptives.md)
+- [Standardized Scores](./annotated-output/standardized.md)
 - [Correlations](./annotated-output/correlations.md)
 - [Regression](./annotated-output/regression.md)
 - [Confidence Interval for a Mean](./annotated-output/intervals.md)
@@ -55,19 +58,3 @@ This chapter shows the output from various types of analyses, describes how to i
 - [Post Hoc Comparisons](./annotated-output/posthocs.md)
 - [Repeated Measures ANOVA](./annotated-output/repeated.md)
 - [Factorial ANOVA](./annotated-output/factorial.md)
-
-### Blank Output
-
-This chapter is used as a set of worksheets for class problems. Students fill in their answers on these sheets, thus making clear the links between non-computer (“hand”) calculations and the output.
-
-- [Frequencies and Descriptives](./blank-output/descriptives.md)
-- [Correlations](./blank-output/correlations.md)
-- [Regression](./blank-output/regression.md)
-- [Confidence Interval for a Mean](./blank-output/intervals.md)
-- [One Sample t Test](./blank-output/onesample.md)
-- [Paired Samples t Test](./blank-output/paired.md)
-- [Independent Samples t Test](./blank-output/independent.md)
-- [OneWay ANOVA](./blank-output/oneway.md)
-- [Post Hoc Comparisons](./blank-output/posthocs.md)
-- [Repeated Measures ANOVA](./blank-output/repeated.md)
-- [Factorial ANOVA](./blank-output/factorial.md)
