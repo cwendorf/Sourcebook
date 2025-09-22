@@ -1,12 +1,9 @@
 ---
 title: Sourcebook
-
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
-  - title: Worked Examples | Independent Samples t Test
-    url: ../../Intro/worked-examples/independent
 headertwo: SPSS Articles
 relatedtwo:
   - title: Data Entry | Two and Multiple Sample Data

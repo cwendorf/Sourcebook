@@ -1,6 +1,5 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: JASP Articles
 relatedone:
   - title: Data Analysis | Correlations

@@ -1,12 +1,9 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
-  - title: Worked Examples | One Sample t Test
-    url: ../../Intro/worked-examples/onesample
 headertwo: CREATE Articles
 relatedtwo:
   - title: Data Analysis | One Sample t Test

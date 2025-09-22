@@ -1,12 +1,9 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
-  - title: Worked Examples | Post Hoc Comparisons
-    url: ../../Intro/worked-examples/posthocs
 headertwo: jamovi Articles
 relatedtwo:
   - title: Data Entry | Two and Multiple Sample Data

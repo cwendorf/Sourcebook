@@ -1,12 +1,9 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Standard Normal
     url: ./normal
-  - title: Worked Examples | Standardized Scores
-    url: ../worked-examples/standardized
 headertwo: Software Articles
 relatedtwo:
   - title: SPSS Articles

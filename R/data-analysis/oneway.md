@@ -1,12 +1,9 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Snedecor's F
     url: ../../Intro/statistical-tables/F
-  - title: Worked Examples | OneWay ANOVA
-    url: ../../Intro/worked-examples/oneway
 headertwo: R Articles
 relatedtwo:
   - title: Data Entry | Two and Multiple Sample Data

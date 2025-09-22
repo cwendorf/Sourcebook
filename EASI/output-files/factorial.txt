@@ -35,7 +35,7 @@ Factor:Blocks   6.000   1.000  12.000   0.031
 
 > (Outcome ~ FactorA) |> estimateFactorial(by = FactorB)
 
-Proportion of Variance Accounted For by the Mo
+Proportion of Variance Accounted For by the Model
                   Est      LL      UL
 Factor          0.053   0.000   0.302
 Blocks          0.182   0.000   0.442

@@ -1,6 +1,5 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: R Articles
 relatedone:
   - title: Data Analysis | Frequencies

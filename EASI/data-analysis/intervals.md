@@ -1,12 +1,9 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
-  - title: Worked Examples | Confidence Interval for a Mean
-    url: ../../Intro/worked-examples/intervals
 headertwo: EASI Articles
 relatedtwo:
   - title: Data Entry | One Sample Data

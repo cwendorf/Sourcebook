@@ -1,12 +1,9 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Snedecor's F
     url: ../../Intro/statistical-tables/F
-  - title: Worked Examples | Factorial ANOVA
-    url: ../../Intro/worked-examples/factorial
 headertwo: EASI Articles
 relatedtwo:
   - title: Data Entry | Factorial Data

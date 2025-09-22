@@ -1,14 +1,11 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: APA Style | General Rules for Results Sections
     url: ./general
-  - title: APA Style | Summary of Parametric Statistic Reporting
+  - title: APA Style | Summary of Statistics Reporting
     url: ./summary
-  - title: APA Style | Examples of Results in Text
-    url: ./text
   - title: APA Style | Examples of Results in Tables
     url: ./tables
 headertwo: Software Articles
@@ -67,6 +64,6 @@ This table is useful for removing the descriptive and inferential statistics abo
 
 | | Group 1 | Group 2 | Group 3 | Differences | | |  |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Variable** | ***M* (*SD*)** | ***M* (*SD*)** | ***M* (*SD*)** | ***F*(2, 6)** | ***p*** | **$\eta$<sup>2</sup>** | **Tukey’s HSD** |
+| **Variable** | ***M* (*SD*)** | ***M* (*SD*)** | ***M* (*SD*)** | ***F*(2, 6)** | ***p*** | ***η<sup>2</sup>*** | **Tukey’s HSD** |
 | Outcome 1 | 2.00 (2.45) | 6.00 (2.45) | 7.00 (2.45) | 4.67 | .041 | .509 | 1 = 2 &lt; 3 |
 | Outcome 2 | 6.00 (2.45) | 7.00 (2.45) | 5.00 (2.45) | 0.67 | .537 | .129 | 1 = 2 = 3 |

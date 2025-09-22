@@ -1,6 +1,5 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Analyses | Choosing Appropriate Inferential Statistics

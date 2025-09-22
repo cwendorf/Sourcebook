@@ -1,10 +1,7 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
-  - title: Worked Examples | Descriptives
-    url: ../../Intro/worked-examples/descriptives
 headertwo: EASI Articles
 relatedtwo:
   - title: Data Entry | One Sample Data

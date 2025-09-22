@@ -1,12 +1,9 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Eta-Squared
     url: ./powereta
-  - title: Worked Examples | OneWay ANOVA
-    url: ../worked-examples/oneway
 headertwo: Software Articles
 relatedtwo:
   - title: SPSS Articles

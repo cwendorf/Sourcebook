@@ -1,12 +1,9 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Tukey's HSD
     url: ./hsd
-  - title: Worked Examples | Post Hoc Comparisons
-    url: ../worked-examples/posthocs
 headertwo: Software Articles
 relatedtwo:
   - title: SPSS Articles

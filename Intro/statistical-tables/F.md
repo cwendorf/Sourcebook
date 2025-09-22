@@ -1,16 +1,9 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Snedecor's F
     url: ./F
-  - title: Worked Examples | OneWay ANOVA
-    url: ../worked-examples/oneway
-  - title: Worked Examples | Repeated Measures ANOVA
-    url: ../worked-examples/repeated
-  - title: Worked Examples | Factorial ANOVA
-    url: ../worked-examples/factorial
 headertwo: Software Articles
 relatedtwo:
   - title: SPSS Articles

@@ -1,14 +1,11 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: APA Style | General Rules for Results Sections
     url: ./general
-  - title: APA Style | Summary of Parametric Statistic Reporting
+  - title: APA Style | Summary of Statistics Reporting
     url: ./summary
-  - title: APA Style | Examples of Results in Text
-    url: ./text
   - title: APA Style | Examples of Results in Tables
     url: ./tables
 headertwo: Software Articles

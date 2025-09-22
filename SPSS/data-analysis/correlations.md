@@ -1,12 +1,9 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
-  - title: Worked Examples | Correlations
-    url: ../../Intro/worked-examples/correlations
 headertwo: SPSS Articles
 relatedtwo:
   - title: Data Entry | Paired and Repeated Measures Data

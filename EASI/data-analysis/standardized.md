@@ -1,10 +1,7 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
-  - title: Worked Examples | Standardized Scores
-    url: ../../Intro/worked-examples/standardized
 headertwo: EASI Articles
 relatedtwo:
   - title: Data Entry | One Sample Data

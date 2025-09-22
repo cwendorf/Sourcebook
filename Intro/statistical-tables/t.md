@@ -1,16 +1,9 @@
 ---
 title: Sourcebook
-has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ./F
-  - title: Worked Examples | One Sample t Test
-    url: ../worked-examples/onesample
-  - title: Worked Examples | Paired Samples t Test
-    url: ../worked-examples/paired
-  - title: Worked Examples | Independent Samples t Test
-    url: ../worked-examples/independent
 headertwo: Software Articles
 relatedtwo:
   - title: SPSS Articles
