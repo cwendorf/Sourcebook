@@ -12,7 +12,7 @@ relatedone:
 
 ## [jamovi Articles](./index.md)
 
-This index page provides links to the various materials available for using SPSS to analyze examples. [The original index](./index-original.md) organizes the materials by the goals of the pages (i.e, Data Entry, Data Analysis, Annotated Output) rather than by topic (e.g., One Sample t Test, ANOVA, etc.). 
+This index page provides links to the various materials available for using jamovi to analyze examples. [The original index](./index-original.md) organizes the materials by the goals of the pages (i.e, Data Entry, Data Analysis, Annotated Output) rather than by topic (e.g., One Sample t Test, ANOVA, etc.). 
 
 ### Frequencies
 
