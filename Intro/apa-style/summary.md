@@ -47,7 +47,7 @@ In simple examples - such as those with single outcomes or single statistical te
 
 | **Statistic** | **Purpose** | **APA Example** |
 | --- | --- | --- |
-| CI for a Mean | To provide an interval estimate of the population mean. | 95% CI [-5.61, -0.39] ||
+| CI for a Mean | To provide an interval estimate of the population mean. | 95% CI [-5.61, -0.39] |
 | CI for a Mean Difference | To provide an interval estimate of the population mean difference. | 95% CI [-8.24, 0.24] |
 
 ### Statistical Significance Tests
