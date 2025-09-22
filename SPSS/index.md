@@ -10,49 +10,108 @@ relatedone:
 
 ## [SPSS Articles](./index.md)
 
-This index page provides links to the various materials available for using SPSS to analyze examples. For teaching a statistics course, [a reorganized index](./index-topical.md) organizes the materials by topic (e.g., One Sample t Test, ANOVA, etc.) rather than by the goals of the page (i.e., Data Entry, Data Analysis, Annotated Output).
+This index page provides links to the various materials available for using SPSS to analyze examples. [The original index](./index-original.md) organizes the materials by the goals of the pages (i.e, Data Entry, Data Analysis, Annotated Output) rather than by topic (e.g., One Sample t Test, ANOVA, etc.). 
 
-### Data Entry
+### Frequencies
 
-This chapter provides step-by-step written instructions and screenshots showing how to enter the data using the software. Sample data files are available.
+These pages show how to obtain and calculate frequency distributions and percentiles.
 
-- [One Sample Data](./data-entry/onesample.md)
-- [Paired and Repeated Measures Data](./data-entry/repeated.md)
-- [Two and Multiple Sample Data](./data-entry/multisample.md)
-- [Factorial Data](./data-entry/factorial.md)
+- Data Entry: [One Sample Data](./data-entry/onesample.md)
+- Data Analysis: [Frequencies](./data-analysis/frequencies.md)
+- Annotated Output: [Frequencies](./annotated-output/frequencies.md)
 
-### Data Analysis
+### Descriptives
 
-This chapter provides step-by-step written instructions and screenshots for obtaining basic statistical output using the software. Sample syntax files are available.
+These pages show how to obtain and calculate descriptive statistics such as the mean and standard deviation.
 
-- [Frequencies](./data-analysis/frequencies.md)
-- [Descriptives](./data-analysis/descriptives.md)
-- [Standardized Scores](./data-analysis/standardized.md)
-- [Correlations](./data-analysis/correlations.md)
-- [Regression](./data-analysis/regression.md)
-- [Confidence Interval for a Mean](./data-analysis/intervals.md)
-- [One Sample t Test](./data-analysis/onesample.md)
-- [Paired Samples t Test](./data-analysis/paired.md)
-- [Independent Samples t Test](./data-analysis/independent.md)
-- [OneWay ANOVA](./data-analysis/oneway.md)
-- [Post Hoc Comparisons](./data-analysis/posthocs.md)
-- [Repeated Measures ANOVA](./data-analysis/repeated.md)
-- [Factorial ANOVA](./data-analysis/factorial.md)
+- Data Entry: [One Sample Data](./data-entry/onesample.md)
+- Data Analysis: [Descriptives](./data-analysis/descriptives.md)
+- Annotated Output: [Descriptives](./annotated-output/descriptives.md)
 
-### Annotated Output
+### Standardized Scores
 
-This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. Sample output files are available.
+These pages show how to transform data, especially into standardized scores.
 
-- [Frequencies](./annotated-output/frequencies.md)
-- [Descriptives](./annotated-output/descriptives.md)
-- [Standardized Scores](./annotated-output/standardized.md)
-- [Correlations](./annotated-output/correlations.md)
-- [Regression](./annotated-output/regression.md)
-- [Confidence Interval for a Mean](./annotated-output/intervals.md)
-- [One Sample t Test](./annotated-output/onesample.md)
-- [Paired Samples t Test](./annotated-output/paired.md)
-- [Independent Samples t Test](./annotated-output/independent.md)
-- [OneWay ANOVA](./annotated-output/oneway.md)
-- [Post Hoc Comparisons](./annotated-output/posthocs.md)
-- [Repeated Measures ANOVA](./annotated-output/repeated.md)
-- [Factorial ANOVA](./annotated-output/factorial.md)
+- Data Entry: [One Sample Data](./data-entry/onesample.md)
+- Data Analysis: [Standardized Scores](./data-analysis/standardized.md)
+- Annotated Output: [Standardized Scores](./annotated-output/standardized.md)
+
+### Correlations
+
+These pages show how to obtain and calculate correlations.
+
+- Data Entry: [Paired and Repeated Measures Data](./data-entry/repeated.md)
+- Data Analysis: [Correlations](./data-analysis/correlations.md)
+- Annotated Output: [Correlations](./annotated-output/correlations.md)
+
+### Regression
+
+These pages show how to obtain and calculate a regression model.
+
+- Data Entry: [Paired and Repeated Measures Data](./data-entry/repeated.md)
+- Data Analysis: [Regression](./data-analysis/regression.md)
+- Annotated Output: [Regression](./annotated-output/regression.md)
+
+### Confidence Interval for a Mean
+
+These pages show how to obtain and calculate a confidence interval for a mean.
+
+- Data Entry: [One Sample Data](./data-entry/onesample.md)
+- Data Analysis: [Confidence Interval for a Mean](./data-analysis/intervals.md)
+- Annotated Output: [Confidence Interval for a Mean](./annotated-output/intervals.md)
+
+### One Sample t Test
+
+These pages show how to obtain and calculate statistical significance, an effect size, and a confidence interval for one sample.
+
+- Data Entry: [One Sample Data](./data-entry/onesample.md)
+- Data Analysis: [One Sample t Test](./data-analysis/onesample.md)
+- Annotated Output: [One Sample t Test](./annotated-output/onesample.md)
+
+### Paired Samples t Test
+
+These pages show how to obtain and calculate statistical significance, an effect size, and a confidence interval for paired samples.
+
+- Data Entry: [Paired and Repeated Measures Data](./data-entry/repeated.md)
+- Data Analysis: [Paired Samples t Test](./data-analysis/paired.md)
+- Annotated Output: [Paired Samples t Test](./annotated-output/paired.md)
+
+### Independent Samples t Test
+
+These pages show how to obtain and calculate statistical significance, an effect size, and a confidence interval for two samples.
+
+- Data Entry: [Two and Multiple Sample Data](./data-entry/multisample.md)
+- Data Analysis: [Independent Samples t Test](./data-analysis/independent.md)
+- Annotated Output: [Independent Samples t Test](./annotated-output/independent.md)
+
+### OneWay ANOVA
+
+These pages show how to obtain and calculate statistical significance, an effect size, and a confidence interval for multiple samples.
+
+- Data Entry: [Two and Multiple Sample Data](./data-entry/multisample.md)
+- Data Analysis: [OneWay ANOVA](./data-analysis/oneway.md)
+- Annotated Output: [OneWay ANOVA](./annotated-output/oneway.md)
+
+### Post Hoc Comparisons
+
+These pages show how to obtain and calculate statistical significance, effect sizes, and confidence intervals for comparisons.
+
+- Data Entry: [Two and Multiple Sample Data](./data-entry/multisample.md)
+- Data Analysis: [Post Hoc Comparisons](./data-analysis/posthocs.md)
+- Annotated Output: [Post Hoc Comparisons](./annotated-output/posthocs.md)
+
+### Repeated Measures ANOVA
+
+These pages show how to obtain and calculate statistical significance and an effect size for repeated measures.
+
+- Data Entry: [Paired and Repeated Measures Data](./data-entry/repeated.md)
+- Data Analysis: [Repeated Measures ANOVA](./data-analysis/repeated.md)
+- Annotated Output: [Repeated Measures ANOVA](./annotated-output/repeated.md)
+
+### Factorial ANOVA
+
+These pages show how to obtain and calculate statistical significance and an effect size for factorial design.
+
+- Data Entry: [Factorial Data](./data-entry/factorial.md)
+- Data Analysis: [Factorial ANOVA](./data-analysis/factorial.md)
+- Annotated Output: [Factorial ANOVA](./annotated-output/factorial.md)
