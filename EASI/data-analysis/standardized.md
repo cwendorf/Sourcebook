@@ -6,7 +6,7 @@ headertwo: EASI Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
-  - title: Data Analysis | Transformations and Standardized Scores
+  - title: Data Analysis | Standardized Scores
     url: ../data-analysis/standardized
 headerthree: EASI Files
 relatedthree:
@@ -16,7 +16,7 @@ relatedthree:
 
 # [EASI Articles](../index.md)
 
-## Data Analysis | Transformations and Standardized Scores
+## Data Analysis | Standardized Scores
 
 Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere). As always, the following commands should be typed directly in the R console window.
 

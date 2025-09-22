@@ -33,6 +33,7 @@ This chapter shows the output from various types of analyses, describes how to i
 
 - [Frequencies](./annotated-output/frequencies.md)
 - [Descriptives](./annotated-output/descriptives.md)
+- [Standardized Scores](./annotated-output/standardized.md)
 - [Correlations](./annotated-output/correlations.md)
 - [Regression](./annotated-output/regression.md)
 - [Confidence Interval for a Mean](./annotated-output/intervals.md)

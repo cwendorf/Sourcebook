@@ -34,7 +34,7 @@ These pages show how to transform data, especially into standardized scores.
 
 - Data Entry: [One Sample Data](./data-entry/onesample.md)
 - Data Analysis: [Standardized Scores](./data-analysis/standardized.md)
-- Annotated Output: [Standardized Scores](./annotated-ouput/standardized.md)
+- Annotated Output: [Standardized Scores](./annotated-output/standardized.md)
 
 ### Correlations
 

@@ -6,7 +6,7 @@ headertwo: jamovi Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
-  - title: Data Analysis | Transformations and Standardized Scores
+  - title: Data Analysis | Standardized Scores
     url: ../data-analysis/standardized
 headerthree: jamovi Files
 relatedthree:
@@ -18,7 +18,7 @@ relatedthree:
 
 # [jamovi Articles](../index.md)
 
-## Data Analysis | Transformations and Standardized Scores
+## Data Analysis | Standardized Scores
 
 ### Selecting the Analysis
 

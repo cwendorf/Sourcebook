@@ -8,7 +8,7 @@ headertwo: EASI Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
-  - title: Data Analysis | Transformations and Standardized Scores
+  - title: Data Analysis | Standardized Scores
     url: ../data-analysis/standardized
 headerthree: EASI Files
 relatedthree:

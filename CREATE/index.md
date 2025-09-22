@@ -24,6 +24,12 @@ These pages show how to obtain and calculate descriptive statistics such as the 
 - Data Analysis: [Descriptives](./data-analysis/descriptives.md)
 - Annotated Output: [Descriptives](./annotated-output/descriptives.md)
 
+### Standardized Scores
+
+These pages show how to transform data, especially into standardized scores.
+
+- Annotated Output: [Standardized Scores](./annotated-output/standardized.md)
+
 ### Correlations
 
 These pages show how to obtain and calculate correlations.
