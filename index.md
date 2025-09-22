@@ -32,9 +32,6 @@ This online Sourcebook is intended to facilitate the connection between standard
 - Demonstrate the connections between formulas, calculations, and computer output of analyses
 - Summarize and interpret statistical analyses in correct APA style
 
-{: .image}
-![Decision tree diagram for common statistical analyses](assets/images/DecisionTree.jpg)
-
 ### Scope
 
 This Sourcebook contains a wide range of materials designed to assist with the use of statistical software such as IBM SPSS, jamovi, JASP, R (base functions), and EASI (an R package). To that end, it contains:
@@ -42,6 +39,3 @@ This Sourcebook contains a wide range of materials designed to assist with the u
 - Instructions and screenshots that show how to enter data in the software packages
 - Instructions and screenshots that show how to navigate and analyze the data in the software packages
 - Annotations that show the link between simple formulas and the software packages' output
-
-{: .image}
-![Sample annotated output from this Sourcebook](assets/images/AnnotatedOutput.jpg)
