@@ -4,21 +4,21 @@ headerone: Intro Articles
 relatedone:
 headertwo: CREATE Articles
 relatedtwo:
-  - title: Data Analysis | Frequencies
-    url: ../data-analysis/frequencies
-  - title: Annotated Output | Frequencies
-    url: ../annotated-output/frequencies
+  - title: Data Analysis | Descriptives
+    url: ../data-analysis/descriptives
+  - title: Annotated Output | Descriptives
+    url: ../annotated-output/descriptives
 headerthree: CREATE Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv
-  - title: Output Files | Frequencies
+  - title: Output Files | Descriptives
     url: ../output-files/frequencies.xlsx
 ---
 
 # [CREATE Articles](../index.md)
 
-## Data Analysis | Frequencies
+## Data Analysis | Descriptives
 
 ### Entering the Data 
 
@@ -29,11 +29,11 @@ relatedthree:
 3. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
 
 {: .image}
-![Screenshot for entering data](frequencies1.png)
+![Screenshot for entering data](descriptives1.png)
 
 ### Obtaining Descriptive Statistics
 
 4. Output will automatically appear on the right side of the tab. 
 
 {: .image}
-![Screenshot for obtaining statistics](frequencies2.png)
+![Screenshot for obtaining statistics](descriptives2.png)

@@ -20,6 +20,8 @@ relatedtwo:
     url: ./R/
   - title: EASI Articles
     url: ./EASI/
+  - title: CREATE Articles
+    url: ./CREATE/
 ---
 
 ## [Basic Statistical Methods for Social Science](./index.md)
