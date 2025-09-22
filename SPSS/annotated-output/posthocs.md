@@ -32,15 +32,12 @@ relatedthree:
 
 The tables of statistics can be used to determine the inferential statistics.
 
-{. table}
 ![Screenshot of descriptive table](posthocs2.png)
 
-{. table}
 ![Screenshot of inferential table](posthocs3.png) 
 
 The table of inferential statistics shows the key elements to be calculated.
 
-{. table}
 ![Screenshot of inferential table](posthocs4.png)
 
 ### Calculations

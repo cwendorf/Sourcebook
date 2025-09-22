@@ -32,15 +32,12 @@ relatedthree:
 
 The table of descriptive statistics can be used to assist in calculating the correlation.
 
-{. table}
 ![Screenshot of descriptive table](regression2.png)
 
 The tables of inferential statistics show the key elements to be calculated.
 
-{. table}
 ![Screenshot of inferential table](regression3.png)
 
-{. table}
 ![Screenshot of inferential table](regression4.png)
 
 ### Calculations

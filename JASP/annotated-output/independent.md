@@ -26,23 +26,14 @@ relatedthree:
 
 ## Annotated Output | Independent Samples t Test
 
-### Data
-
-The following data set reflects a between-subjects design with one factor (that has two levels).
-
-{. table}
-![Screnshot of data editor](independent1.png)
-
 ### Computer Output
 
 The table of descriptive statistics can be used to determine the inferential statistics.
 
-{. table}
 ![Screenshot of descriptive table](independent2.png)
 
 The table of inferential statistics shows the key elements to be calculated.
 
-{. table}
 ![Screenshot of inferential table](independent3.png)
 
 ### Calculations

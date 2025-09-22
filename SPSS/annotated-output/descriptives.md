@@ -30,12 +30,10 @@ relatedthree:
 
 The frequency distribution can be used to determine the descriptive statistics.
 
-{. table}
 ![Screenshot of frequency table](descriptives2.png)
 
 The table of descriptive statistics shows the key elements to be calculated.
 
-{. table}
 ![Screenshot of descriptive table](descriptives3.png)
 
 ### Calculations
