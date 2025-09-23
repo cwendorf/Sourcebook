@@ -149,7 +149,7 @@ body {
 }
 
 .output {
-  margin: 10px 0px 10px 2em;
+  margin: 10px 0px 10px 10px;
 }
 .output img {
   max-width: 95%;

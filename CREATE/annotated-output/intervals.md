@@ -30,6 +30,7 @@ relatedthree:
 
 The table of inferential statistics shows the key elements to be calculated.
 
+{: .output}
 ![Screenshot of inferential table](intervals2.png)
 
 ### Calculations

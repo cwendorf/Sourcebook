@@ -32,10 +32,12 @@ relatedthree:
 
 The table of descriptive statistics can be used to determine the inferential statistics.
 
+{: .output}
 ![Screenshot of descriptive table](paired2.png)
 
 The table of inferential statistics shows the key elements to be calculated.
 
+{: .output}
 ![Screenshot of inferential table](paired3.png)
 
 ### Calculations

@@ -26,10 +26,12 @@ relatedthree:
 
 The frequency distribution can be used to determine the descriptive statistics.
 
+{: .output}
 ![Screenshot of frequency table](standardized2.png)
 
 The table of descriptive statistics can be used to assist in calculating the standardized scores.
 
+{: .output}
 ![Screenshot of descriptive table](standardized3.png)
 
 ### Calculations

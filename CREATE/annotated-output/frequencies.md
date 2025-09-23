@@ -28,10 +28,12 @@ relatedthree:
 
 The frequency distribution can be used to determine the percentiles and other statistics.
 
+{: .output}
 ![Screenshot of frequency table](frequencies2.png)
 
 The table of descriptive statistics shows the key elements to be calculated.
 
+{: .output}
 ![Screenshot of descriptive table](frequencies3.png) 
 
 ### Calculations
