@@ -43,5 +43,5 @@ relatedtwo:
 
 Which type of effect size measure and statistical significance test (and to some extent, which type of confidence interval) should be calculated depends on the research design.
 
-{: .image}
+{: .screenshot}
 ![Decision tree diagram for common statistical analyses](decisiontree.png)
