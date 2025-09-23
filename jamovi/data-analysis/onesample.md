@@ -30,7 +30,7 @@ relatedthree:
 
 2. On the "Analysis" tab, select the "T-Tests → One Sample T-Test" option. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](onesample1.png)
 
 ### Obtaining Inferential Statistics
@@ -41,7 +41,7 @@ relatedthree:
 
 5. Output will automatically appear on the right side of the window. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining inferentials](onesample2.png)
 
 ### Obtaining Additional Statistics
@@ -54,5 +54,5 @@ relatedthree:
 
 9. Updated output will automatically appear on the right side of the window. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining additional statistics](onesample3.png)

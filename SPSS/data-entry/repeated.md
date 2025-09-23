@@ -26,7 +26,7 @@ relatedtwo:
 
 2. Type in a "Name" for each of the variables in the first column. You may wish to enter a "Label" (or longer name) for each variable in your data set. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for defining variables](repeated1.png)
 
 ### Entering Data
@@ -37,5 +37,5 @@ relatedtwo:
 
 5. Notice that each individual (i.e., the rows) has values for each instance of the within-subjects variable (i.e., the columns). 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for entering data](repeated2.png)

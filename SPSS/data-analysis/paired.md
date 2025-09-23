@@ -32,7 +32,7 @@ relatedthree:
 
 2. After the data are entered, select the "Analyze → Compare Means → Paired-Samples T Test" option from the main menu. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](paired1.png)
 
 ### Obtaining Inferential Statistics 
@@ -45,7 +45,7 @@ relatedthree:
 
 6. If you do not wish to alter the default (95%) confidence level, click "OK." A separate window with the output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining inferentials](paired2.png)
 
 ### Altering the Confidence Interval 
@@ -56,5 +56,5 @@ relatedthree:
 
 9. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for altering intervals](paired3.png)

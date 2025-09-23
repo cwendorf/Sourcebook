@@ -30,7 +30,7 @@ relatedthree:
 
 2. On the "Analysis" tab, Select the "T-Tests → Paired Samples T-Test" option.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](paired1.png)
 
 ### Obtaining Inferential Statistics
@@ -41,7 +41,7 @@ relatedthree:
 
 5. Output will automatically appear on the right side of the window. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining inferentials](paired2.png)
 
 ### Obtaining Additional Statistics 
@@ -52,5 +52,5 @@ relatedthree:
 
 8. Updated output will automatically appear on the right side of the window. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining additional statistics](paired2.png)

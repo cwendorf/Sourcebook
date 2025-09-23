@@ -32,7 +32,7 @@ relatedthree:
 
 2. After the data are entered, select the "Analyze → Compare Means → One-Way ANOVA" option from the main menu. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](oneway1.png)
 
 ### Obtaining Inferential Statistics
@@ -47,7 +47,7 @@ relatedthree:
 
 7. If all you wish is an ANOVA source table (with no descriptive statistics or post hoc tests), click "OK." A separate window with the output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining inferentials](oneway2.png)
 
 ### Obtaining Descriptive Statistics
@@ -58,5 +58,5 @@ relatedthree:
 
  10. If all you wish is an ANOVA with the descriptive statistics (and no post hoc tests), click "OK". A separate window with the output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining descriptives](oneway3.png)

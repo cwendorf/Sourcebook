@@ -133,11 +133,11 @@ body {
   margin-left: 2em;
 }
 
-.image {
+.screenshot {
   text-align: center;
   margin: 10px 0px;
 }
-.image img {
+.screenshot img {
   display: inline-block;
   width: auto;
   max-width: 95%;
@@ -146,6 +146,14 @@ body {
   border-radius: 6px;
   padding: 2px;
   box-sizing: border-box;
+}
+
+.output {
+  margin: 10px 0px 10px 2em;
+}
+.output img {
+  max-width: 95%;
+  padding: 2px;
 }
 
 /* Main Section Column Styles */

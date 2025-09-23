@@ -26,7 +26,7 @@ relatedtwo:
 
 2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for defining variables](repeated1.png)
 
 ### Setting Variable Properties
@@ -37,7 +37,7 @@ relatedtwo:
 
 5. To hide the setup menu, click on the large UP arrow button to the right of the variable name. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for setting properties](repeated2.png)
 
 ### Entering Data
@@ -46,5 +46,5 @@ relatedtwo:
 
 7. Notice that each individual (i.e., the rows) have values for each instance of the within-subjects variable (i.e., the columns). 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for entering data](repeated3.png)

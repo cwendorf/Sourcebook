@@ -30,7 +30,7 @@ relatedthree:
 
 2. On the "Analysis" tab, select the "ANOVA → Repeated Measures ANOVA" option.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](repeated1.png)
 
 ### Labeling the Within Subjects Variable/Factor
@@ -55,7 +55,7 @@ relatedthree:
 
 10. Output will automatically appear on the right side of the window. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining inferentials](repeated3.png)
 
 ### Obtaining Additional Statistics
@@ -66,5 +66,5 @@ relatedthree:
 
 13. Updated output will automatically appear on the right side of the window. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining additional statistics](repeated4.png)

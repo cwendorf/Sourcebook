@@ -28,12 +28,12 @@ relatedthree:
 
 3. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for entering data](descriptives1.png)
 
 ### Obtaining Descriptive Statistics
 
 4. Output will automatically appear on the right side of the tab. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining statistics](descriptives2.png)

@@ -28,7 +28,7 @@ relatedthree:
 
 3. Select the “Compute” option from the menu. This will bring up a new set of options.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](standardized1.png)
 
 ### Computing Transformations
@@ -43,7 +43,7 @@ relatedthree:
 
 8. To hide the setup menu, click on the large UP arrow button to the right of the variable name.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for computing transformations](standardized2.png)
 
 ### Viewing Transformed Scores
@@ -52,7 +52,7 @@ relatedthree:
 
 10.	These variables can be used in subsequent analyses. You can follow the previous tutorials to get descriptive statistics for these variables.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for viewing transformations](standardized3.png)
 
 ### Obtaining Standardized Scores
@@ -63,7 +63,7 @@ relatedthree:
 
 13.	Select the “Compute” option from the menu. This will bring up a new set of options.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining standardized scores](standardized4.png)
 
 ### Computing Standardized Scores
@@ -78,7 +78,7 @@ relatedthree:
 
 18.	To hide the setup menu, click on the large UP arrow button to the right of the variable name.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for computing scores](standardized5.png)
 
 ### Viewing Standardized Scores
@@ -87,5 +87,5 @@ relatedthree:
 
 20.	These variables can be used in subsequent analyses. You can follow the previous tutorials to get descriptive statistics for these variables.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for viewing scores](standardized6.png)

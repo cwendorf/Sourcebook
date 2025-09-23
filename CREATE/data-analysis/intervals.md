@@ -29,7 +29,7 @@ relatedthree:
 
 3. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for entering data](intervals1.png)
 
 ### Obtaining Descriptive and Inferential Statistics
@@ -38,5 +38,5 @@ relatedthree:
 
 5. If you wish to alter the confidence interval for the mean, enter the preferred confidence level in the shaded cell after "CI %".
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining statistics](intervals2.png)

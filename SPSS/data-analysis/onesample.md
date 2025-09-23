@@ -32,7 +32,7 @@ relatedthree:
 
  2. After the data are entered, select the "Analyze → Compare Means → One-Sample T Test" option from the main menu.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](onesample1.png)
 
 ### Obtaining Inferential Statistics 
@@ -47,7 +47,7 @@ relatedthree:
 
 7. If you do not wish to alter the default (95%) confidence level, click "OK." A separate window with the output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining inferentials](onesample2.png)
 
 ### Altering the Confidence Interval
@@ -58,5 +58,5 @@ relatedthree:
 
 10. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for altering intervals](onesample3.png)

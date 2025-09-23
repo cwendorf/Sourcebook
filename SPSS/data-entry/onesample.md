@@ -24,7 +24,7 @@ relatedtwo:
 
  2. Type in the "Name" of the variable in the first cell. You may wish to enter a "Label" (or longer name) for the variable.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for defining variables](onesample1.png)
 
 ### Entering Data
@@ -33,5 +33,5 @@ relatedtwo:
 
 4. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for entering data](onesample2.png)

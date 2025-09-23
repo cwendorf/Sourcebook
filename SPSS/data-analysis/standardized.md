@@ -26,7 +26,7 @@ relatedthree:
 
 2. After the data are entered, select the "Transform → Compute Variable" option from the main menu.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](standardized1.png)
 
 ### Computing Transformations 
@@ -39,7 +39,7 @@ relatedthree:
 
 6. After clicking on "OK" in the original dialogue box, the transformed variables will appear in the data view window. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for computing transformations](standardized2.png)
 
 ### Viewing Transformed Scores  
@@ -48,7 +48,7 @@ relatedthree:
 
 8. These variables can be used in subsequent analyses. You can follow the previous tutorials to get descriptive statistics for these variables.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for viewing transformations](standardized3.png)
 
 ### Obtaining Standardized Scores
@@ -57,7 +57,7 @@ relatedthree:
 
 10. After the data are entered, select the "Analyze → Descriptive Statistics → Descriptives" option from the main menu. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining standardized scores](standardized4.png)
 
 ### Computing Standardized Scores 
@@ -70,7 +70,7 @@ relatedthree:
 
 14. If all you wish are the standardized scores (with descriptive summary statistics), click "OK." A separate window with the output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for computing scores](standardized5.png)
 
 ### Viewing Standardized Scores  
@@ -79,5 +79,5 @@ relatedthree:
 
 11. Note that the standardized variables are not included in the output. Rather, they are saved as new variables in the data view window. These variables can be used in subsequent analyses.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for viewing scores](standardized6.png)

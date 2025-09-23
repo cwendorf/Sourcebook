@@ -28,7 +28,7 @@ relatedtwo:
 
 3. One variable will represent the Factor (Independent Variable) and the other will represent the Outcome (Dependent) Variable.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for defining variables](multisample1.png)
 
 ### Providing Value Labels
@@ -39,7 +39,7 @@ relatedtwo:
 
 6. When you have labeled all the values, click "OK" to return to the "Variable View." 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for labeling values](multisample2.png)
 
 ### Entering Data
@@ -52,5 +52,5 @@ relatedtwo:
 
  10. If your data set has more than two groups, simply be sure to add a group indicator (a value on the "Factor" variable) and an "Outcome" for each additional person. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for entering data](multisample3.png)

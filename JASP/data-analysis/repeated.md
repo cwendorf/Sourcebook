@@ -30,7 +30,7 @@ relatedthree:
 
 2. In the "Analyses" section of the menu, select the "ANOVA → Repeated Measures ANOVA" option.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](repeated1.png)
 
 ### Labeling the Within-Subjects Variable/Factor
@@ -43,7 +43,7 @@ relatedthree:
 
 6. Below that, click on "Level 1" to type the name of the individual level of the repeated measures factor. You may do the same for each level. In this example, the quiz was given twice, so  there were only 2 levels of the factor.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for labeling factor](repeated2.png)
 
 ### Obtaining Inferential Statistics
@@ -56,7 +56,7 @@ relatedthree:
 
 10. Output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining inferentials](repeated3.png)
 
 ### Obtaining Additional Statistics
@@ -67,5 +67,5 @@ relatedthree:
 
 13. Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other software for printing.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining additional statistics](repeated4.png)

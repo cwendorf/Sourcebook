@@ -24,7 +24,7 @@ relatedtwo:
 
 2. Click on a cell in the column (i.e., variable) that you wish to define. Click on "Setup" from the menu. This will bring up a new set of options.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for defining variables](onesample1.png)
 
 ### Setting Variable Properties
@@ -35,12 +35,12 @@ relatedtwo:
 
 5. To hide the setup menu, click on the large UP arrow button to the right of the variable name.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for setting properties](onesample2.png)
 
 ### Entering Data
 
 6. Enter the data in the individual cells of the column for the variable. Note that each cell should contain a single score for an individual person. There will be as many rows as people. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for entering data](onesample3.png)

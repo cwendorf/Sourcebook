@@ -32,7 +32,7 @@ relatedthree:
 
 2. After the data are entered, select the "Analyze → Compare Means → Independent-Samples T Test" ption from the main menu.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](independent1.png)
 
 ### Obtaining Inferential Statistics 
@@ -45,7 +45,7 @@ relatedthree:
 
 6. Move the variable that defines the different groups to the "Grouping Variable" box. Note that  question marks will appear here and that you will need to follow the next set of steps in order to run the analyses.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining inferentials](independent2.png)
 
 ### Defining the Groups to be Analyzed
@@ -58,7 +58,7 @@ relatedthree:
 
 10. If you do not wish to alter the default (95%) confidence level, click "OK." A separate window with the output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for defining groups](independent3.png)
 
 ### Altering the Confidence Interval
@@ -69,5 +69,5 @@ relatedthree:
 
 13. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for altering intervals](independent4.png)

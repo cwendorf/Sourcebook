@@ -32,7 +32,7 @@ relatedthree:
 
 4. On the categorical Factors, you will use numbers to represent the multiple categories (or “levels”) of the factors.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for entering data](factorial1.png)
 
 ### Obtaining Descriptive and Inferential Statistics
@@ -41,5 +41,5 @@ relatedthree:
 
 6. If you wish to alter the confidence intervals for the means, enter the preferred confidence level in the shaded cell after "CI %". 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining statistics](factorial2.png)

@@ -32,7 +32,7 @@ relatedthree:
 
 2. After the data are entered, select the "Analyze → General Linear Model → Repeated Measures" option from the main menu.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](repeated1.png)
 
 ### Labeling the Within-Subjects Variable/Factor 
@@ -43,7 +43,7 @@ relatedthree:
 
 5. In the "Number of Levels" box, indicate the number of levels of the within-subjects factor. In  this example, the quiz was given twice, so there were 2 levels of the factor.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for labeling factor](repeated2.png)
 
 ### Creating the Within-Subjects Factor
@@ -54,7 +54,7 @@ relatedthree:
 
 8. When you have done this, click on "Define." This will take you to the next step in setting up the analysis.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for creating factor](repeated3.png)
 
 ### Obtaining Inferential Statistics
@@ -65,7 +65,7 @@ relatedthree:
 
 11. If all you wish is are ANOVA source tables (with no descriptive statistics or comparisons), click "OK." A separate window with the  output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining inferentials](repeated4.png)
 
 ### Obtaining Descriptive Statistics
@@ -76,7 +76,7 @@ relatedthree:
 
  14. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining descriptives](repeated5.png)
 
 ### Obtaining Confidence Intervals
@@ -89,5 +89,5 @@ relatedthree:
 
  18. After clicking on "OK" in the original dialogue box, a separate window with the  output will appear.
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining intervals](repeated6.png)

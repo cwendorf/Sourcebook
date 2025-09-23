@@ -30,7 +30,7 @@ relatedthree:
 
 2. In the "Analyses" section of the menu, select the "ANOVA → ANOVA" option. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for selecting analysis](oneway1.png)
 
 ### Obtaining Inferential Statistics
@@ -43,7 +43,7 @@ relatedthree:
 
 6. Output will automatically appear on the right side of the window. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining inferentials](oneway2.png)
 
 ### Obtaining Additional Statistics
@@ -56,5 +56,5 @@ relatedthree:
 
 10. Updated output will automatically appear on the right side of the window. 
 
-{: .image}
+{: .screenshot}
 ![Screenshot for obtaining additional statistics](oneway3.png)
