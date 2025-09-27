@@ -5,7 +5,7 @@ relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
   - title: APA Style | Summary of Statistics Reporting
-    url: ../../apa-style/summary
+    url: ../../Intro/apa-style/summary
 headertwo: EASI Articles
 relatedtwo:
   - title: Data Entry | Paired and Repeated Measures Data

@@ -3,7 +3,7 @@ title: Sourcebook
 headerone: Intro Articles
 relatedone:
   - title: APA Style | Summary of Statistics Reporting
-    url: ../../apa-style/summary
+    url: ../../Intro/apa-style/summary
 headertwo: SPSS Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
