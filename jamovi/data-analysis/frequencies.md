@@ -6,21 +6,21 @@ headertwo: jamovi Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
-  - title: Data Analysis | Descriptives
-    url: ../data-analysis/descriptives
-  - title: Annotated Output | Descriptives
-    url: ../annotated-output/descriptives
+  - title: Data Analysis | Frequencies
+    url: ../data-analysis/frequencies
+  - title: Annotated Output | Frequencies
+    url: ../annotated-output/frequencies
 headerthree: jamovi Files
 relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.omv
-  - title: Output Files | Descriptives
-    url: ../output-files/descriptives.omv
+  - title: Output Files | Frequencies
+    url: ../output-files/frequencies.omv
 ---
 
 # [jamovi Articles](../index.md)
 
-## Data Analysis | Descriptives
+## Data Analysis | Frequencies
 
 ### Selecting the Analysis
 
@@ -29,7 +29,7 @@ relatedthree:
 2. On the "Analyses" tab, select the "Exploration -> Descriptives" option.
 
 {: .screenshot}
-![Screenshot for selecting analysis](descriptives1.png)
+![Screenshot for selecting analysis](frequencies1.png)
 
 ### Obtaining Frequencies
 
@@ -42,7 +42,7 @@ relatedthree:
 6. Output will automatically appear on the right side of the window. 
 
 {: .screenshot}
-![Screenshot for obtaining frequencies](descriptives2.png)
+![Screenshot for obtaining frequencies](frequencies2.png)
 
 ### Obtaining Descriptive Statistics
 
@@ -51,4 +51,4 @@ relatedthree:
 8. As you select the desired statistics, the output on the right side of the window will be automatically updated. 
 
 {: .screenshot}
-![Screenshot for obtaining descriptives](descriptives3.png)
+![Screenshot for obtaining descriptives](frequencies3.png)
