@@ -1,4 +1,4 @@
-## Sourcebook 2.250922
+## Sourcebook 2.250930
 
 - Integrated worked examples into annotated output
 - Reworked APA style instructions
