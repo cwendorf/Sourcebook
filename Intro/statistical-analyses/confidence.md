@@ -2,13 +2,13 @@
 title: Sourcebook
 headerone: Intro Articles
 relatedone:
-  - title: Statistical Analyses | Choosing Appropriate Inferential Statistics
+  - title: Statistical Analyses | Choosing Inferential Statistics
     url: ./choosing
-  - title: Statistical Analyses | Understanding Statistical Significance Tests
+  - title: Statistical Analyses | Statistical Significance Tests
     url: ./significance
-  - title: Statistical Analyses | Understanding Confidence Intervals
+  - title: Statistical Analyses | Confidence Intervals
     url: ./confidence
-  - title: Statistical Analyses | Understanding Effect Size Measures
+  - title: Statistical Analyses | Effect Size Measures
     url: ./effects
 headertwo: Software Articles
 relatedtwo:
@@ -25,7 +25,7 @@ relatedtwo:
 ---
 
 # [Intro Articles](../index.md)
-## Statistical Analyses | Understanding Confidence Intervals
+## Statistical Analyses | Confidence Intervals
 
 ### Purpose of a Confidence Interval
 
