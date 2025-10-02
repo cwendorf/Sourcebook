@@ -2,29 +2,29 @@
 title: Sourcebook
 headerone: Intro Articles
 relatedone:
-  - title: Statistical Tables | Student's t
+  - title: Statistical Tables: Student's t
     url: ../../Intro/statistical-tables/t
 headertwo: SPSS Articles
 relatedtwo:
-  - title: Data Entry | Paired and Repeated Measures Data
+  - title: Data Entry: Paired and Repeated Measures Data
     url: ../data-entry/repeated
-  - title: Data Analysis | Correlations
+  - title: Data Analysis: Correlations
     url: ../data-analysis/correlations
-  - title: Annotated Output | Correlations
+  - title: Annotated Output: Correlations
     url: ../annotated-output/correlations
 headerthree: SPSS Files
 relatedthree:
-  - title: Data Files | Paired Data
+  - title: Data Files: Paired Data
     url: ../data-files/paired.sav
-  - title: Syntax Files | Correlations
+  - title: Syntax Files: Correlations
     url: ../syntax-files/correlations.sps
-  - title: Output Files | Correlations
+  - title: Output Files: Correlations
     url: ../output-files/correlations.spv
 ---
 
 # [SPSS Articles](../index.md)
 
-## Data Analysis | Correlations
+## Data Analysis: Correlations
 
 ### Selecting the Analysis
 
