@@ -2,6 +2,8 @@
 title: Sourcebook
 headerone: Intro Articles
 relatedone:
+  - title: Statistical Analyses | Choosing Inferential Statistics
+    url: ../../Intro/statistical-analyses/choosing
 headertwo: SPSS Articles
 relatedtwo:
   - title: Data Entry | One Sample Data

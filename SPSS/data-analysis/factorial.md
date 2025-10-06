@@ -2,8 +2,8 @@
 title: Sourcebook
 headerone: Intro Articles
 relatedone:
-  - title: Statistical Tables | Snedecor's F
-    url: ../../Intro/statistical-tables/F
+  - title: Statistical Analyses | Choosing Inferential Statistics
+    url: ../../Intro/statistical-analyses/choosing
 headertwo: SPSS Articles
 relatedtwo:
   - title: Data Entry | Factorial Data

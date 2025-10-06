@@ -2,8 +2,8 @@
 title: Sourcebook
 headerone: Intro Articles
 relatedone:
-  - title: Statistical Tables | Snedecor's F
-    url: ../../Intro/statistical-tables/F
+  - title: Statistical Analyses | Choosing Inferential Statistics
+    url: ../../Intro/statistical-analyses/choosing
 headertwo: JASP Articles
 relatedtwo:
   - title: Data Entry | Two and Multiple Sample Data

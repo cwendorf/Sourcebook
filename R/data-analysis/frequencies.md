@@ -2,16 +2,18 @@
 title: Sourcebook
 headerone: Intro Articles
 relatedone:
-headertwo: R Articles
-relatedtwo:
+  - title: Statistical Analyses | Choosing Inferential Statistics
+    url: ../../Intro/statistical-analyses/choosing
+headerone: R Articles
+relatedone:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
   - title: Data Analysis | Frequencies
     url: ../data-analysis/frequencies
   - title: Annotated Output | Frequencies
     url: ../annotated-output/frequencies
-headerthree: R Files
-relatedthree:
+headertwo: R Files
+relatedtwo:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.csv
   - title: Syntax Files | Frequencies

@@ -2,8 +2,8 @@
 title: Sourcebook
 headerone: Intro Articles
 relatedone:
-  - title: Statistical Tables | Student's t
-    url: ../../Intro/statistical-tables/t
+  - title: Statistical Analyses | Choosing Inferential Statistics
+    url: ../../Intro/statistical-analyses/choosing
 headertwo: R Articles
 relatedtwo:
   - title: Data Entry | One Sample Data

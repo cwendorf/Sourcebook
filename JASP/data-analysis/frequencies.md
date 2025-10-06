@@ -2,16 +2,18 @@
 title: Sourcebook
 headerone: Intro Articles
 relatedone:
-headertwo: JASP Articles
-relatedtwo:
+  - title: Statistical Analyses | Choosing Inferential Statistics
+    url: ../../Intro/statistical-analyses/choosing
+headerone: JASP Articles
+relatedone:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
   - title: Data Analysis | Frequencies
     url: ../data-analysis/frequencies
   - title: Annotated Output | Frequencies
     url: ../annotated-output/frequencies
-headerthree: JASP Files
-relatedthree:
+headertwo: JASP Files
+relatedtwo:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.jasp
   - title: Output Files | Frequencies
