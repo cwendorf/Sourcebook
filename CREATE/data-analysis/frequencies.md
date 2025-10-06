@@ -1,7 +1,5 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
-relatedone:
 headertwo: CREATE Articles
 relatedtwo:
   - title: Data Analysis | Frequencies

@@ -1,7 +1,5 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
-relatedone:
 headertwo: EASI Articles
 relatedtwo:
   - title: Data Entry | One Sample Data
