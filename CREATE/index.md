@@ -4,6 +4,12 @@ headerone: CREATE Websites
 relatedone:
   - title: Spreadsheet Download
     url: "https://github.com/cwendorf/BASE/tree/main/CREATE"
+headertwo: CREATE Articles
+relatedtwo:
+  - title: CREATE | Topic Index
+    url: ./index
+  - title: CREATE | Purpose Index
+    url: ./index-purpose
 ---
 
 ## [CREATE Articles](./index.md)
