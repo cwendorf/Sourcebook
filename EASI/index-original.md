@@ -8,7 +8,7 @@ relatedone:
     url: "https://cwendorf.github.io/EASI"
 ---
 
-## [EASI Articles](./index-original.md)
+## [EASI Articles](./index-purpose.md)
 
 This index page provides links to the various materials available for using EASI to analyze examples. For teaching a statistics course, [the main index](./index.md) organizes the materials by topic (e.g., One Sample t Test, ANOVA, etc.) rather than by the goals of the page (i.e., Data Entry, Data Analysis, Annotated Output).
 

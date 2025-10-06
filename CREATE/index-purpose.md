@@ -1,33 +1,21 @@
 ---
 title: Sourcebook
-headerone: SPSS Websites
+headerone: CREATE Websites
 relatedone:
-  - title: App Download
-    url: "https://www.ibm.com/products/spss-statistics"
-  - title: Support Documents
-    url: "https://www.ibm.com/products/spss-statistics/support"
+  - title: Spreadsheet Download
+    url: "https://github.com/cwendorf/BASE/tree/main/CREATE"
 ---
 
-## [SPSS Articles](./index-original.md)
+## [CREATE Articles](./index-purpose.md)
 
-This index page provides links to the various materials available for using SPSS to analyze examples. For teaching a statistics course, [the main index](./index-topical.md) organizes the materials by topic (e.g., One Sample t Test, ANOVA, etc.) rather than by the goals of the page (i.e., Data Entry, Data Analysis, Annotated Output).
-
-### Data Entry
-
-This chapter provides step-by-step written instructions and screenshots showing how to enter the data using the software. Sample data files are available.
-
-- [Data Entry \| One Sample Data](./data-entry/onesample.md)
-- [Data Entry \| Paired and Repeated Measures Data](./data-entry/repeated.md)
-- [Data Entry \| Two and Multiple Sample Data](./data-entry/multisample.md)
-- [Data Entry \| Factorial Data](./data-entry/factorial.md)
+This index page provides links to the various materials available for using CREATE to analyze examples. For teaching a statistics course, [the main index](./index.md) organizes the materials by topic (e.g., One Sample t Test, ANOVA, etc.) rather than by the goals of the page (i.e., Data Analysis, Annotated Output).
 
 ### Data Analysis
 
-This chapter provides step-by-step written instructions and screenshots for obtaining basic statistical output using the software. Sample syntax files are available.
+This chapter provides step-by-step written instructions and screenshots for entering the data and obtaining basic statistical output using the software. Sample spreadsheets are available.
 
 - [Data Analysis \| Frequencies](./data-analysis/frequencies.md)
 - [Data Analysis \| Descriptives](./data-analysis/descriptives.md)
-- [Data Analysis \| Standardized Scores](./data-analysis/standardized.md)
 - [Data Analysis \| Correlations](./data-analysis/correlations.md)
 - [Data Analysis \| Regression](./data-analysis/regression.md)
 - [Data Analysis \| Confidence Interval for a Mean](./data-analysis/intervals.md)

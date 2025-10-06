@@ -8,7 +8,7 @@ relatedone:
     url: "https://cran.r-project.org/manuals.html"
 ---
 
-## [R Articles](./index-original.md)
+## [R Articles](./index-purpose.md)
 
 This index page provides links to the various materials available for using R to analyze examples. For teaching a statistics course, [the main index](./index.md) organizes the materials by topic (e.g., One Sample t Test, ANOVA, etc.) rather than by the goals of the page (i.e., Data Entry, Data Analysis, Annotated Output).
 
