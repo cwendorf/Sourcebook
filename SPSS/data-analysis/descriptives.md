@@ -4,16 +4,16 @@ headerone: Intro Articles
 relatedone:
   - title: Statistical Analyses | Choosing Inferential Statistics
     url: ../../Intro/statistical-analyses/choosing
-headerone: SPSS Articles
-relatedone:
+headertwo: SPSS Articles
+relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
   - title: Data Analysis | Descriptives
     url: ../data-analysis/descriptives
   - title: Annotated Output | Descriptives
     url: ../annotated-output/descriptives
-headertwo: SPSS Files
-relatedtwo:
+headerthree: SPSS Files
+relatedthree:
   - title: Data Files | One Sample Data
     url: ../data-files/onesample.sav
   - title: Syntax Files | Descriptives

@@ -4,8 +4,8 @@ headerone: Intro Articles
 relatedone:
   - title: Statistical Analyses | Choosing Inferential Statistics
     url: ../../Intro/statistical-analyses/choosing
-headerone: jamovi Articles
-relatedone:
+headertwo: jamovi Articles
+relatedtwo:
   - title: Data Entry | One Sample Data
     url: ../data-entry/onesample
   - title: Data Analysis | Frequencies
