@@ -4,11 +4,15 @@ headerone: CREATE Websites
 relatedone:
   - title: Spreadsheet Download
     url: "https://github.com/cwendorf/BASE/tree/main/CREATE"
+headertwo: CREATE Articles
+relatedtwo:
+  - title: CREATE | Topic Index
+    url: ./index
+  - title: CREATE | Purpose Index
+    url: ./index-purpose
 ---
 
 ## [CREATE Articles](./index-purpose.md)
-
-This index page provides links to the various materials available for using CREATE to analyze examples. For teaching a statistics course, [the main index](./index.md) organizes the materials by topic (e.g., One Sample t Test, ANOVA, etc.) rather than by the goals of the page (i.e., Data Analysis, Annotated Output).
 
 ### Data Analysis
 

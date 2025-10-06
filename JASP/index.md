@@ -6,11 +6,15 @@ relatedone:
     url: "https://jasp-stats.org"
   - title: Support Documents
     url: "https://jasp-stats.org/support/"
+headertwo: JASP Articles
+relatedtwo:
+  - title: JASP | Topic Index
+    url: ./index
+  - title: JASP | Purpose Index
+    url: ./index-purpose
 ---
 
 ## [JASP Articles](./index.md)
-
-This index page provides links to the various materials available for using JASP to analyze examples. [The original index](./index-purpose.md) organizes the materials by the goals of the pages (i.e, Data Entry, Data Analysis, Annotated Output) rather than by topic (e.g., One Sample t Test, ANOVA, etc.). 
 
 ### Frequencies
 

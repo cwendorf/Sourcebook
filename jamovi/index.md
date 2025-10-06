@@ -8,11 +8,15 @@ relatedone:
     url: "https://cloud.jamovi.org"
   - title: User Manual
     url: "https://www.jamovi.org/user-manual.html"
+headertwo: jamovi Articles
+relatedtwo:
+  - title: jamovi | Topic Index
+    url: ./index
+  - title: jamovi | Purpose Index
+    url: ./index-purpose
 ---
 
 ## [jamovi Articles](./index.md)
-
-This index page provides links to the various materials available for using jamovi to analyze examples. [The original index](./index-purpose.md) organizes the materials by the goals of the pages (i.e, Data Entry, Data Analysis, Annotated Output) rather than by topic (e.g., One Sample t Test, ANOVA, etc.). 
 
 ### Frequencies
 

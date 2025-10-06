@@ -14,8 +14,6 @@ relatedtwo:
 
 ## [CREATE Articles](./index.md)
 
-This index page provides links to the various materials available for using CREATE to analyze examples. [The original index](./index-purpose.md) organizes the materials by the goals of the pages (i.e, Data Analysis, Annotated Output) rather than by topic (e.g., One Sample t Test, ANOVA, etc.). Note that data entry and data analyses happen simultaneously, so integrated instructions are given below.
-
 ### Frequencies
 
 These pages show how to obtain and calculate frequency distributions and percentiles.

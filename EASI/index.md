@@ -6,11 +6,15 @@ relatedone:
     url: "https://github.com/cwendorf/EASI"
   - title: User Manual
     url: "https://cwendorf.github.io/EASI"
+headertwo: EASI Articles
+relatedtwo:
+  - title: EASI | Topic Index
+    url: ./index
+  - title: EASI | Purpose Index
+    url: ./index-purpose
 ---
 
 ## [EASI Articles](./index.md)
-
-This index page provides links to the various materials available for using EASI to analyze examples. [The original index](./index-purpose.md) organizes the materials by the goals of the pages (i.e, Data Entry, Data Analysis, Annotated Output) rather than by topic (e.g., One Sample t Test, ANOVA, etc.). 
 
 ### Frequencies
 

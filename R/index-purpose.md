@@ -6,11 +6,15 @@ relatedone:
     url: "https://www.r-project.org"
   - title: User Manuals
     url: "https://cran.r-project.org/manuals.html"
+headertwo: R Articles
+relatedtwo:
+  - title: R | Topic Index
+    url: ./index
+  - title: R | Purpose Index
+    url: ./index-purpose
 ---
 
 ## [R Articles](./index-purpose.md)
-
-This index page provides links to the various materials available for using R to analyze examples. For teaching a statistics course, [the main index](./index.md) organizes the materials by topic (e.g., One Sample t Test, ANOVA, etc.) rather than by the goals of the page (i.e., Data Entry, Data Analysis, Annotated Output).
 
 ### Data Entry
 

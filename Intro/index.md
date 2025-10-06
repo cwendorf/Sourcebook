@@ -10,8 +10,6 @@ relatedone:
 
 ## [Intro Articles](./index.md)
 
-This index page provides links to materials that provide a basis for the logic, calculations, and interpretations of the examples throughout the Sourcebook.
-
 ### Statistical Analyses
 
 This chapter provides an overview of the types of statistical analyses. This starts with the basic terminology of statistics. It also includes a decision tree for highlighting the typical tests of statistical significance, confidence intervals, and effects sizes used for common univariate research designs.

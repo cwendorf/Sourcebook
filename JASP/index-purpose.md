@@ -6,11 +6,15 @@ relatedone:
     url: "https://jasp-stats.org"
   - title: Support Documents
     url: "https://jasp-stats.org/support/"
+headertwo: JASP Articles
+relatedtwo:
+  - title: JASP | Topic Index
+    url: ./index
+  - title: JASP | Purpose Index
+    url: ./index-purpose
 ---
 
 ## [JASP Articles](./index-purpose.md)
-
-This index page provides links to the various materials available for using JASP to analyze examples. For teaching a statistics course, [the main index](./index.md) organizes the materials by topic (e.g., One Sample t Test, ANOVA, etc.) rather than by the goals of the page (i.e., Data Entry, Data Analysis, Annotated Output).
 
 ### Data Entry
 

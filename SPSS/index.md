@@ -6,11 +6,15 @@ relatedone:
     url: "https://www.ibm.com/products/spss-statistics"
   - title: Support Documents
     url: "https://www.ibm.com/products/spss-statistics/support"
+headertwo: SPSS Articles
+relatedtwo:
+  - title: SPSS | Topic Index
+    url: ./index
+  - title: SPSS | Purpose Index
+    url: ./index-purpose
 ---
 
 ## [SPSS Articles](./index.md)
-
-This index page provides links to the various materials available for using SPSS to analyze examples. [The original index](./index-purpose.md) organizes the materials by the goals of the pages (i.e, Data Entry, Data Analysis, Annotated Output) rather than by topic (e.g., One Sample t Test, ANOVA, etc.). 
 
 ### Frequencies
 
