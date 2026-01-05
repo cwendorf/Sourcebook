@@ -31,7 +31,7 @@ relatedtwo:
 The APA manual describes appropriate strategies for presenting statistical information. These guidelines were established to provide basic minimal standards and to provide some uniformity across studies. In general, your results section should effectively communicate the findings of the study by:
 
 - Providing context for the statistics that will follow by incorporating language about the variable(s);
-- Clarifying what you did to analyze the results by identifying the statistical procedures used; and
+- Clarifying what you did to analyze the data by identifying the statistical procedures used; and
 - Highlighting the implications for the hypotheses by providing simple interpretations of the analyses.
 
 ### Statistical Information to Include
