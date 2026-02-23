@@ -4,7 +4,7 @@
 
 ### Overview
 
-The [Sourcebook](https://cwendorf.github.io/Sourcebook/) is an online resource designed to provide researchers, instructors, and students with a curated collection of statistical articles, references, and worked examples that support common quantitative methods used in the behavioral, social, and health sciences. The materials are organized to facilitate both applied data analysis and teaching, making it suitable for classroom instruction, self-study, and research support.
+The [Sourcebook Website](https://cwendorf.github.io/Sourcebook/) is an resource designed to provide researchers, instructors, and students with a curated collection of statistical articles, references, and worked examples that support common quantitative methods used in the behavioral, social, and health sciences. The materials are organized to facilitate both applied data analysis and teaching, making it suitable for classroom instruction, self-study, and research support.
 
 ### Contact
  
