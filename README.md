@@ -4,7 +4,7 @@
 
 ### Overview
 
-The [Sourcebook Website](https://cwendorf.github.io/Sourcebook/) is an resource designed to provide researchers, instructors, and students with a curated collection of statistical articles, references, and worked examples that support common quantitative methods used in the behavioral, social, and health sciences. The materials are organized to facilitate both applied data analysis and teaching, making it suitable for classroom instruction, self-study, and research support.
+`Sourcebook` is an [online textbook](https://cwendorf.github.io/Sourcebook/) that is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. It contains a wide range of materials designed to assist with the use of statistical software such as IBM SPSS, jamovi, JASP, R (base functions), and EASI (an R package). The materials are organized to facilitate both applied data analysis and teaching, making it suitable for classroom instruction, self-study, and research support.
 
 ### Contact
  
