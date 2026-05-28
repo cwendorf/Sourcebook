@@ -29,15 +29,10 @@ relatedthree:
 The frequency distribution can be used to determine the descriptive statistics.
 
 ```{r}
-> FrequencyTable <- table(Outcome)
-> FrequencyTable
+> table(Outcome)
 Outcome
 0 3 4 5 7 9 
 2 1 2 1 1 1 
-> prop.table(FrequencyTable)
-Outcome
-    0     3     4     5     7     9 
-0.250 0.125 0.250 0.125 0.125 0.125 
 ```
 
 The descriptive statistics can be used to assist in calculating the standardized scores.
