@@ -8,13 +8,13 @@ CorrelationData <- construct(Outcome1, Outcome2)
 
 ## Correlations
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 (CorrelationData) |> describeMoments()
 (CorrelationData) |> describeCovariances()
 (CorrelationData) |> describeCorrelations()
 
-### Inferential Statistics
+### Obtaining Inferential Statistics
 
 (CorrelationData) |> estimateCorrelations()
 (CorrelationData) |> testCorrelations()

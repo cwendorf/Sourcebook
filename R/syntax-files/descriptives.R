@@ -1,17 +1,15 @@
 # R | Data Analysis
 
-Outcome <- c(0,0,3,5,4,7,4,9)
+Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9)
 DescriptivesData <- data.frame(Outcome)
 
 ## Descriptives
 
-###  Frequency Distribution
+### Obstaining Frequencies
 
-FrequencyTable <- table(Outcome)
-FrequencyTable
-prop.table(FrequencyTable)
+table(Outcome)
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 length(Outcome)
 mean(Outcome)

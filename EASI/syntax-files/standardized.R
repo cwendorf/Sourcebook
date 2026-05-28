@@ -6,12 +6,12 @@ Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9)
 
 ## Standardized Scores
 
-### Transformations
+### Computing Transformations
 
 trOutcome <- Outcome + 1
 construct(Outcome, trOutcome)
 
-### Standardized Scores
+### Computing Standardized Scores
 
 zOutcome <- scale(Outcome)
 construct(Outcome, trOutcome, zOutcome)

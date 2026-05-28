@@ -33,7 +33,7 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 Get the sample sizes, means, and standard deviations for the variables.
 
 ```{r}
-lapply(PairedData, function(x) c(length(x), mean(x), sd(x)))
+lapply(list(Outcome1, Outcome2), function(x) c(length(x), mean(x), sd(x)))
 ```
 
 ### Obtaining Inferential Statistics
@@ -41,11 +41,11 @@ lapply(PairedData, function(x) c(length(x), mean(x), sd(x)))
 Test the mean difference for statistical significance and get its confidence interval.
 
 ```{r}
-t.test(Outcome2,Outcome1,paired=TRUE)
+t.test(Outcome2, Outcome1, paired=TRUE)
 ```
 
 Also, you can change the width of the confidence interval if desired.
 
 ```{r}
-t.test(Outcome2,Outcome1,paired=TRUE,conf.level=.99)
+t.test(Outcome2, Outcome1, paired=TRUE, conf.level=.99)
 ```

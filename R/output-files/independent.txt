@@ -1,7 +1,7 @@
-Independent Samples t Test
-
-> ### Descriptive Statistics
-
+> ## Independent Samples t Test
+> 
+> ### Obtaining Descriptive Statistics
+> 
 > tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
 $`1`
 [1] 4.00000 2.00000 2.44949
@@ -9,11 +9,12 @@ $`1`
 $`2`
 [1] 4.00000 6.00000 2.44949
 
-> ### Inferential Statistics
+> 
+> ### Obtaining Inferential Statistics
+> 
+> t.test(Outcome ~ Factor, var.equal = TRUE)
 
-> t.test(Outcome~Factor,var.equal=T)
-
-        Two Sample t-test
+	Two Sample t-test
 
 data:  Outcome by Factor
 t = -2.3094, df = 6, p-value = 0.06032

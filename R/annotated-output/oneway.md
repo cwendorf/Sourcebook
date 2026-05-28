@@ -33,8 +33,17 @@ relatedthree:
 The descriptive statistics can be used to determine the inferential statistics.
 
 ```{r}
-> mean(Outcome)
-[1] 5
+> Results <- aov(Outcome ~ Factor)
+> model.tables(Results, "means")
+Tables of means
+Grand mean
+  
+5 
+
+ Factor 
+Factor
+1 2 3 
+2 6 7 
 > tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
 $`1`
 [1] 4.00000 2.00000 2.44949
@@ -49,7 +58,6 @@ $`3`
 The table of inferential statistics shows the key elements to be calculated.
 
 ```{r}
-> Results <- aov(Outcome~Factor)
 > summary(Results)
             Df Sum Sq Mean Sq F value Pr(>F)  
 Factor       2     56      28   4.667 0.0407 *

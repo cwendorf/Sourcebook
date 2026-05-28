@@ -1,15 +1,15 @@
-One Sample t Test
-
-> ### Descriptive Statistics
-
+> ## One Sample t Test
+> 
+> ### Obtaining Descriptive Statistics
+> 
 > c(length(Outcome), mean(Outcome), sd(Outcome))
 [1] 8.000000 4.000000 3.116775
+> 
+> ### Obtaining Inferential Statistics
+> 
+> t.test(Outcome, mu = 7)
 
-> ### Inferential Statistics
-
-> t.test(Outcome,mu=7)
-
-        One Sample t-test
+	One Sample t-test
 
 data:  Outcome
 t = -2.7225, df = 7, p-value = 0.02966

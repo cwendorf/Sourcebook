@@ -41,11 +41,11 @@ c(length(Outcome), mean(Outcome), sd(Outcome))
 Test the mean difference for statistical significance and get its confidence interval.
 
 ```{r}
-t.test(Outcome,mu=7)
+t.test(Outcome, mu=7)
 ```
 
 Also, you can change the width of the confidence interval if desired.
 
 ```{r}
-t.test(Outcome,mu=7,conf.level=.99)
+t.test(Outcome, mu=7, conf.level=.99)
 ```

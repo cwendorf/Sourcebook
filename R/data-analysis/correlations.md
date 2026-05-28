@@ -33,14 +33,14 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 Get the sample sizes, means, and standard deviations for the variables.
 
 ```{r}
-lapply(CorrelationData, function(x) c(length(x), mean(x), sd(x)))
+lapply(list(Outcome1, Outcome2), function(x) c(length(x), mean(x), sd(x)))
 ```
 
 Get the covariance and correlation matrices for the variables.
 
 ```{r}
-cov(Outcome1,Outcome2)
-cor(Outcome1,Outcome2)
+cov(Outcome1, Outcome2)
+cor(Outcome1, Outcome2)
 ```
 
 ### Obtaining Inferential Statistics
@@ -48,11 +48,11 @@ cor(Outcome1,Outcome2)
 Get the correlation, its test for statistical significance, and its confidence interval.
 
 ```{r}
-cor.test(Outcome1,Outcome2)
+cor.test(Outcome1, Outcome2)
 ```
 
 You can change the width of the confidence interval if desired.
 
 ```{r}
-cor.test(Outcome1,Outcome2,conf.level=.99)
+cor.test(Outcome1, Outcome2, conf.level = .99)
 ```

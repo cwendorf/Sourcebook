@@ -33,30 +33,35 @@ relatedthree:
 The descriptive statistics can be used to assist in calculating the correlation.
 
 ```{r}
-> lapply(CorrelationData, function(x) c(length(x), mean(x), sd(x)))
-$Outcome1
+> lapply(list(Outcome1, Outcome2), function(x) c(length(x), mean(x), sd(x)))
+[[1]]
 [1] 4.00000 2.00000 2.44949
 
-$Outcome2
+[[2]]
 [1] 4.00000 6.00000 2.44949
 
-> cov(Outcome1,Outcome2)
+> 
+> cov(Outcome1, Outcome2)
 [1] 3
-> cor(Outcome1,Outcome2)
+> cor(Outcome1, Outcome2)
 [1] 0.5
 ```
 
 The inferential statistics show the key elements to be calculated.
 
 ```{r}
-> cor.test(Outcome1,Outcome2)
+> cor.test(Outcome1, Outcome2)
 
+	Pearson's product-moment correlation
+
+data:  Outcome1 and Outcome2
+t = 0.8165, df = 2, p-value = 0.5
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.8876337  0.9868586
 sample estimates:
-cor
-0.5
+cor 
+0.5 
 ```
 
 ### Calculations

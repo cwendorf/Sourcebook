@@ -8,11 +8,11 @@ RepeatedData <- construct(Outcome1, Outcome2)
 
 ## Repeated Measures ANOVA
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 (RepeatedData) |> describeMoments()
 
-### Inferential Statistics
+### Obtaining Inferential Statistics
 
 (RepeatedData) |> describeEffect()
 (RepeatedData) |> testEffect()

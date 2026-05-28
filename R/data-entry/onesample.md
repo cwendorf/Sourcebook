@@ -27,7 +27,7 @@ In the steps below, the commands should be typed directly into the R console win
 Enter the data in a vector that assigns a variable name.
 
 ```{r}
-Outcome <- c(0,0,3,5,4,7,4,9)
+Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9)
 ```
 
 ### Viewing Data

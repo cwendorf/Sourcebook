@@ -33,13 +33,13 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 Get the sample sizes, means, and standard deviations for the variables.
 
 ```{r}
-lapply(CorrelationData, function(x) c(length(x), mean(x), sd(x)))
+lapply(list(Outcome1, Outcome2), function(x) c(length(x), mean(x), sd(x)))
 ```
 
 Get the covariance matrixfor the variables.
 
 ```{r}
-cov(Outcome1,Outcome2)
+cov(Outcome1, Outcome2)
 ```
 
 ### Obtaining Inferential Statistics

@@ -6,10 +6,10 @@ Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9)
 
 ## Descriptives
 
-### Frequency Distribution
+### Obtaining Frequencies
 
 (Outcome) |> describeFrequencies()
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 (Outcome) |> describeMoments()

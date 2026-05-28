@@ -1,9 +1,18 @@
-Post Hoc Tests
+> ## Post Hoc Tests
+> 
+> ### Obtaining Descriptive Statistics
+> 
+> Results <- aov(Outcome ~ Factor)
+> model.tables(Results, "means")
+Tables of means
+Grand mean
+  
+5 
 
-> ### Descriptive Statistics
-
-> mean(Outcome)
-[1] 5
+ Factor 
+Factor
+1 2 3 
+2 6 7 
 > tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
 $`1`
 [1] 4.00000 2.00000 2.44949
@@ -14,9 +23,9 @@ $`2`
 $`3`
 [1] 4.00000 7.00000 2.44949
 
-> ### Inferential Statistics
-
-> Results <- aov(Outcome~Factor)
+> 
+> ### Obtaining Inferential Statistics
+> 
 > TukeyHSD(Results)
   Tukey multiple comparisons of means
     95% family-wise confidence level
@@ -28,3 +37,5 @@ $Factor
 2-1    4 -0.8358956 8.835896 0.1055254
 3-1    5  0.1641044 9.835896 0.0431300
 3-2    1 -3.8358956 5.835896 0.8352889
+
+> 

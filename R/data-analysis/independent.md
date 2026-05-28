@@ -41,11 +41,11 @@ tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
 Test the mean difference for statistical significance and get its confidence interval.
 
 ```{r}
-t.test(Outcome~Factor,var.equal=T)
+t.test(Outcome ~ Factor, var.equal = TRUE)
 ```
 
 Also, you can change the width of the confidence interval if desired.
 
 ```{r}
-t.test(Outcome~Factor,var.equal=T,conf.level=0.99)
+t.test(Outcome~Factor, var.equal=T, conf.level = .99)
 ```

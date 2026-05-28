@@ -8,11 +8,11 @@ Factor <- factor(Factor, levels = c(1, 2), labels = c("Level1", "Level2"))
 
 ## Independent Samples t Test
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 (Outcome ~ Factor) |> describeMoments()
 
-### Inferential Statistics
+### Obtaining Inferential Statistics
 
 (Outcome ~ Factor) |> estimateDifference()
 (Outcome ~ Factor) |> testDifference()

@@ -33,7 +33,9 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 Get the grand mean for the variable and the mean and standard deviation for the dependent variable for each of the levels.
 
 ```{r}
-mean(Outcome)
+Results <- aov(Outcome ~ Factor)
+model.tables(Results, "means")
+
 tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
 ```
 
@@ -42,6 +44,5 @@ tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
 Get the analysis of variance source table with test of statistical significance.
 
 ```{r}
-Results <- aov(Outcome~Factor)
 summary(Results)
 ```

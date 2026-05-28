@@ -25,14 +25,14 @@ knitr::opts_chunk$set(fig.width=7, fig.height=5,fig.path='figures/',echo=TRUE,wa
 Enter the data in vectors that assign variable names. On the categorical Factors, you will use numbers to represent the categories (or “levels”) of the variable.
 
 ```{r}
-Factor <- c(rep(1,4),rep(2,4),rep(3,4))
-Outcome <- c(0,0,3,5,4,7,4,9,9,6,4,9)
+Factor <- c(rep(1, 4), rep(2, 4), rep(3, 4))
+Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9, 9, 6, 4, 9)
 ```
 
 Declare which variable is considered a Factor. In addition to specifying how many levels the factor has, you can provide labels for them.
 
 ```{r}
-Factor <- factor(Factor,levels=c(1,2,3))
+Factor <- factor(Factor, levels = c(1, 2, 3))
 ```
 
 ### Viewing Data
@@ -40,7 +40,7 @@ Factor <- factor(Factor,levels=c(1,2,3))
 Create and display a data frame to view the data set.
 
 ```{r}
-PostHocsData <- data.frame(Factor,Outcome)
+PostHocsData <- data.frame(Factor, Outcome)
 PostHocsData
 ```
 
@@ -49,7 +49,8 @@ PostHocsData
 Get the grand mean for the variable and the mean and standard deviation for the dependent variable for each of the levels.
 
 ```{r}
-mean(Outcome)
+Results <- aov(Outcome ~ Factor)
+model.tables(Results, "means")
 tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
 ```
 
@@ -58,6 +59,5 @@ tapply(Outcome, Factor, function(x) c(length(x), mean(x), sd(x)))
 Test each pairwise comparison for statistical significance.
 
 ```{r}
-Results <- aov(Outcome~Factor)
 TukeyHSD(Results)
 ```

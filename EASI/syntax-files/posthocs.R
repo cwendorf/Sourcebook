@@ -8,11 +8,11 @@ Factor <- factor(Factor, levels = c(1, 2, 3), labels = c("Level1", "Level2", "Le
 
 ## Post Hoc Tests
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 (Outcome ~ Factor) |> describeMoments()
 
-### Inferential Statistics
+### Obtaining Inferential Statistics
 
 (Outcome ~ Factor) |> estimatePosthoc()
 (Outcome ~ Factor) |> testPosthoc()

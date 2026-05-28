@@ -33,10 +33,13 @@ Prior to the steps below, enter the data as appropriate for the analyses (descri
 Get the mean, sample size, and standard deviation for the dependent variable for each of the levels. Also, get the means for the main effects.
 
 ```{r}
-Results <- aov(Outcome~FactorA*FactorB)
-model.tables(Results,"means")
-tapply(Outcome, list(FactorA,FactorB), length)
-tapply(Outcome, list(FactorA,FactorB), sd)
+Results <- aov(Outcome ~ FactorA * FactorB)
+model.tables(Results, "means")
+
+lapply(
+	split(Outcome, interaction(FactorA, FactorB)),
+	function(x) c(n = length(x), mean = mean(x), sd = sd(x))
+)
 ```
 
 ### Obtaining Inferential Statistics

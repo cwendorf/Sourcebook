@@ -6,10 +6,10 @@ Outcome <- c(0, 0, 3, 5, 4, 7, 4, 9)
 
 ## Confidence Intervals
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 (Outcome) |> describeMoments()
 
-### Inferential Statistics
+### Obtaining Inferential Statistics
 
 (Outcome) |> estimateMeans()

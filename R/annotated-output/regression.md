@@ -33,14 +33,14 @@ relatedthree:
 The descriptive statistics can be used to assist in calculating the correlation.
 
 ```{r}
-> lapply(CorrelationData, function(x) c(length(x), mean(x), sd(x)))
-$Outcome1
+> lapply(list(Outcome1, Outcome2), function(x) c(length(x), mean(x), sd(x)))
+[[1]]
 [1] 4.00000 2.00000 2.44949
 
-$Outcome2
+[[2]]
 [1] 4.00000 6.00000 2.44949
 
-> cov(Outcome1,Outcome2)
+> cov(Outcome1, Outcome2)
 [1] 3
 ```
 
@@ -54,8 +54,8 @@ Call:
 lm(formula = Outcome2 ~ Outcome1)
 
 Residuals:
-   1    2    3    4
--1.0  2.0 -2.5  1.5
+   1    2    3    4 
+-1.0  2.0 -2.5  1.5 
 
 Coefficients:
             Estimate Std. Error t value Pr(>|t|)
@@ -63,7 +63,7 @@ Coefficients:
 Outcome1      0.5000     0.6124   0.816    0.500
 
 Residual standard error: 2.598 on 2 degrees of freedom
-Multiple R-squared:   0.25,     Adjusted R-squared:  -0.125
+Multiple R-squared:   0.25,	Adjusted R-squared:  -0.125 
 F-statistic: 0.6667 on 1 and 2 DF,  p-value: 0.5
 ```
 

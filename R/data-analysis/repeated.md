@@ -28,12 +28,28 @@ relatedthree:
 
 Prior to the steps below, enter the data as appropriate for the analyses (described elsewhere). As always, the following commands should be typed directly in the R console window.
 
+### Reformat Data
+
+Reformat the data from wide format to long format for analysis.
+
+```{r}
+Subject <- factor(rep(1:4, times = 2))
+Time <- factor(rep(c("Time1", "Time2"), each = 4))
+Outcome <- c(Outcome1, Outcome2)
+RepeatedDataLong <- data.frame(Subject, Time, Outcome)
+```
+
 ### Obtaining Descriptive Statistics
 
 Get the sample sizes, means, and standard deviations for the variables.
 
 ```{r}
-lapply(RepeatedData, function(x) c(length(x), mean(x), sd(x)))
+Results <- aov(Outcome ~ Time + Error(Subject / Time))
+model.tables(Results, "means")
+lapply(
+  split(Outcome, Time),
+  function(x) c(n = length(x), mean = mean(x), sd = sd(x))
+)
 ```
 
 ### Obtaining Inferential Statistics
@@ -41,6 +57,5 @@ lapply(RepeatedData, function(x) c(length(x), mean(x), sd(x)))
 Get the ANOVA source table with tests of statistical significance.
 
 ```{r}
-Results=aov(Outcome~factor(Factor)+Error(factor(Subject)))
 summary(Results)
 ```

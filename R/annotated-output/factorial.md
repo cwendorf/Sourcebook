@@ -33,8 +33,8 @@ relatedthree:
 The descriptive statistics can be used to determine the inferential statistics.
 
 ```{r}
-> Results <- aov(Outcome~FactorA*FactorB)
-> model.tables(Results,"means")
+> Results <- aov(Outcome ~ FactorA * FactorB)
+> model.tables(Results, "means")
 Tables of means
 Grand mean
   
@@ -55,15 +55,25 @@ FactorB
 FactorA B1 B2
      A1 2  6 
      A2 7  5 
+> lapply(
++   split(Outcome, interaction(FactorA, FactorB)),
++   function(x) c(n = length(x), mean = mean(x), sd = sd(x))
++ )
+$A1.B1
+      n    mean      sd 
+4.00000 2.00000 2.44949 
 
-> tapply(Outcome, list(FactorA,FactorB), length)
-   B1 B2
-A1  4  4
-A2  4  4
-> tapply(Outcome, list(FactorA,FactorB), sd)
-        B1      B2
-A1 2.44949 2.44949
-A2 2.44949 2.44949
+$A2.B1
+      n    mean      sd 
+4.00000 7.00000 2.44949 
+
+$A1.B2
+      n    mean      sd 
+4.00000 6.00000 2.44949 
+
+$A2.B2
+      n    mean      sd 
+4.00000 5.00000 2.44949 
 ```
 
 The table of inferential statistics shows the key elements to be calculated.

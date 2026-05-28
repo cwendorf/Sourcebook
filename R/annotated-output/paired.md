@@ -33,18 +33,20 @@ relatedthree:
 The descriptive statistics can be used to determine the inferential statistics.
 
 ```{r}
-> lapply(PairedData, function(x) c(length(x), mean(x), sd(x)))
-$Outcome1
+> lapply(list(Outcome1, Outcome2), function(x) c(length(x), mean(x), sd(x)))
+[[1]]
 [1] 4.00000 2.00000 2.44949
 
-$Outcome2
+[[2]]
 [1] 4.00000 6.00000 2.44949
 ```
 
 The inferential statistic shows the key elements to be calculated.
 
 ```{r}
-        Paired t-test
+> t.test(Outcome2, Outcome1, paired = TRUE)
+
+	Paired t-test
 
 data:  Outcome2 and Outcome1
 t = 3.266, df = 3, p-value = 0.04692

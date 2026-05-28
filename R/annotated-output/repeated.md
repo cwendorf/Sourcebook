@@ -33,23 +33,43 @@ relatedthree:
 The descriptive statistics can be used to determine the inferential statistics.
 
 ```{r}
-> lapply(RepeatedData, function(x) c(length(x), mean(x), sd(x)))
-$Outcome1
-[1] 4.00000 2.00000 2.44949
+> Results <- aov(Outcome ~ Time + Error(Subject / Time))
+> model.tables(Results, "means")
+Tables of means
+Grand mean
+  
+4 
 
-$Outcome2
-[1] 4.00000 6.00000 2.44949
+ Time 
+Time
+Time1 Time2 
+    2     6 
+> lapply(
++   split(Outcome, Time),
++   function(x) c(n = length(x), mean = mean(x), sd = sd(x))
++ )
+$Time1
+      n    mean      sd 
+4.00000 2.00000 2.44949 
+
+$Time2
+      n    mean      sd 
+4.00000 6.00000 2.44949 
 ```
 
 The tables of inferential statistics show the key elements to be calculated.
 
 ```{r}
-> Results=aov(Outcome~factor(Factor)+Error(factor(Subject)))
-Error in eval(predvars, data, env) : object 'Subject' not found
 > summary(Results)
-            Df Sum Sq Mean Sq F value Pr(>F)  
-Factor       2     56      28   4.667 0.0407 *
-Residuals    9     54       6                 
+
+Error: Subject
+          Df Sum Sq Mean Sq F value Pr(>F)
+Residuals  3     27       9               
+
+Error: Subject:Time
+          Df Sum Sq Mean Sq F value Pr(>F)  
+Time       1     32      32   10.67 0.0469 *
+Residuals  3      9       3                 
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 ```

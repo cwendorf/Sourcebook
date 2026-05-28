@@ -25,8 +25,8 @@ knitr::opts_chunk$set(fig.width=7, fig.height=5,fig.path='figures/',echo=TRUE,wa
 Enter the data in vectors that assign variable names.
 
 ```{r}
-Outcome1 <- c(0,0,3,5)
-Outcome2 <- c(4,7,4,9)
+Outcome1 <- c(0, 0, 3, 5)
+Outcome2 <- c(4, 7, 4, 9)
 ```
 
 ### Viewing Data
@@ -34,7 +34,7 @@ Outcome2 <- c(4,7,4,9)
 Create and display a data frame to view the data set.
 
 ```{r}
-CorrelationData <- data.frame(Outcome1,Outcome2)
+CorrelationData <- data.frame(Outcome1, Outcome2)
 CorrelationData
 ```
 
@@ -43,14 +43,14 @@ CorrelationData
 Get the sample sizes, means, and standard deviations for the variables.
 
 ```{r}
-lapply(CorrelationData, function(x) c(length(x), mean(x), sd(x)))
+lapply(list(Outcome1, Outcome2), function(x) c(length(x), mean(x), sd(x)))
 ```
 
-Get the covariance and correlation matrices for the variables.
+Get the covariance and correlation for the variables.
 
 ```{r}
-cov(Outcome1,Outcome2)
-cor(Outcome1,Outcome2)
+cov(Outcome1, Outcome2)
+cor(Outcome1, Outcome2)
 ```
 
 ### Obtaining Inferential Statistics
@@ -58,11 +58,11 @@ cor(Outcome1,Outcome2)
 Get the correlation, its test for statistical significance, and its confidence interval.
 
 ```{r}
-cor.test(Outcome1,Outcome2)
+cor.test(Outcome1, Outcome2)
 ```
 
 You can change the width of the confidence interval if desired.
 
 ```{r}
-cor.test(Outcome1,Outcome2,conf.level=.99)
+cor.test(Outcome1, Outcome2, conf.level = .99)
 ```

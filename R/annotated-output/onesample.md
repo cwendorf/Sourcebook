@@ -40,7 +40,9 @@ The descriptive statistics can be used to determine the inferential statistics.
 The inferential statistics show the key elements to be calculated.
 
 ```{r}
-        One Sample t-test
+> t.test(Outcome, mu = 7)
+
+	One Sample t-test
 
 data:  Outcome
 t = -2.7225, df = 7, p-value = 0.02966

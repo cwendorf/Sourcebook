@@ -10,11 +10,11 @@ FactorB <- factor(FactorB, levels = c(1, 2), labels = c("B1", "B2"))
 
 ## Factorial ANOVA
 
-### Descriptive Statistics
+### Obtaining Descriptive Statistics
 
 (Outcome ~ FactorA) |> describeMoments(by = FactorB)
 
-### Inferential Statistics
+### Obtaining Inferential Statistics
 
 (Outcome ~ FactorA) |> describeFactorial(by = FactorB)
 (Outcome ~ FactorA) |> testFactorial(by = FactorB)

@@ -49,5 +49,5 @@ t.test(Outcome)$conf.int
 Also, you can change the width of the confidence interval if desired.
 
 ```{r}
-t.test(Outcome,conf.level=.99)$conf.int
+t.test(Outcome, conf.level = .99)$conf.int
 ```

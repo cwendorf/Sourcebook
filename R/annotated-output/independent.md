@@ -44,9 +44,9 @@ $`2`
 The inferential statistics show the key elements to be calculated.
 
 ```{r}
-> t.test(Outcome~Factor,var.equal=T)
+> t.test(Outcome ~ Factor, var.equal = TRUE)
 
-        Two Sample t-test
+	Two Sample t-test
 
 data:  Outcome by Factor
 t = -2.3094, df = 6, p-value = 0.06032
