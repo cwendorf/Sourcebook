@@ -33,8 +33,6 @@ relatedthree:
 The table of descriptive statistics can be used to determine the inferential statistics.
 
 ```{r}
-> (PairedData) |> describeMmoments()
-
 Summary Statistics for the Data
                N       M      SD    Skew    Kurt
 Outcome1   4.000   2.000   2.449   0.544  -2.944
@@ -44,19 +42,13 @@ Outcome2   4.000   6.000   2.449   0.544  -2.944
 The tables of inferential statistics show the key elements to be calculated.
 
 ```{r}
-> (PairedData) |> estimateDifference()
-
 Confidence Interval for the Mean Difference
               Diff      SE      df      LL      UL
 Comparison   4.000   1.225   3.000   0.102   7.898
 
-> (PairedData) |> testDifference()
-
 Hypothesis Test for the Mean Difference
               Diff      SE      df       t       p
 Comparison   4.000   1.225   3.000   3.266   0.047
-
-> (PairedData) |> standardizeDifference()
 
 Confidence Interval for the Standardized Mean Difference
                  d      SE      LL      UL

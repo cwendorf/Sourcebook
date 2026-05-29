@@ -33,23 +33,17 @@ relatedthree:
 The tables of descriptive statistics can be used to assist in calculating the correlation.
 
 ```{r}
-> (CorrelationData) |> describeMoments()
-
 Summary Statistics for the Data
 
                N       M      SD    Skew    Kurt
 Outcome1   4.000   2.000   2.449   0.544  -2.944
 Outcome2   4.000   6.000   2.449   0.544  -2.944
 
-> (CorrelationData) |> describeCovariances()
-
 Covariances for the Data
 
          Outcome1 Outcome2
 Outcome1    6.000    3.000
 Outcome2    3.000    6.000
-
-> (CorrelationData) |> describeCorrelations()
 
 Correlations for the Data
 
@@ -61,8 +55,6 @@ Outcome2    0.500    1.000
 The table of inferential statistics shows the key elements to be calculated.
 
 ```{r}
-> (CorrelationData) |> testCorrelations()
-
 Hypothesis Tests for the Correlations
 
                           R      SE      df       t       p

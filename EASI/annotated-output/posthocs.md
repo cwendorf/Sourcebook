@@ -33,8 +33,6 @@ relatedthree:
 The tables of statistics can be used to determine the inferential statistics.
 
 ```{r}
-> (Outcome ~ Factor) |> describeMoments()
-
 Summary Statistics for the Data
              N       M      SD    Skew    Kurt
 Level1   4.000   2.000   2.449   0.544  -2.944
@@ -45,23 +43,17 @@ Level3   4.000   7.000   2.449  -0.544  -2.944
 The tables of inferential statistics show the key elements to be calculated.
 
 ```{r}
-> (Outcome ~ Factor) |> estimatePosthoc()
-
 Confidence Intervals for the Posthoc Mean Differences
                    Diff      SE      df      LL      UL
 Level1 v Level2   4.000   1.732   9.000  -0.836   8.836
 Level1 v Level3   5.000   1.732   9.000   0.164   9.836
 Level2 v Level3   1.000   1.732   9.000  -3.836   5.836
 
-> (Outcome ~ Factor) |> testPosthoc()
-
 Hypothesis Tests for the Posthoc Mean Differences
                    Diff      SE      df       t       p
 Level1 v Level2   4.000   1.732   9.000   2.309   0.106
 Level1 v Level3   5.000   1.732   9.000   2.887   0.043
 Level2 v Level3   1.000   1.732   9.000   0.577   0.835
-
-> (Outcome ~ Factor) |> standardizePosthoc()
 
 Confidence Intervals for the Posthoc Standardized Mean Differencens
                       d      SE      LL      UL

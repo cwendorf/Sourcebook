@@ -33,8 +33,6 @@ relatedthree:
 The tables of descriptive statistics can be used to determine the inferential statistics.
 
 ```{r}
-> (Outcome ~ FactorA) |> describeMoments(by = FactorB)
-
 Summary Statistics for the Data: B1
          N       M      SD    Skew    Kurt
 A1   4.000   2.000   2.449   0.544  -2.944
@@ -44,14 +42,11 @@ Descriptive Statistics for the Data: B2
          N       M      SD    Skew    Kurt
 A1   4.000   6.000   2.449   0.544  -2.944
 A2   4.000   5.000   2.449   0.544  -2.944
-
 ```
 
 The tables of inferential statistics show the key elements to be calculated.
 
 ```{r}
-> (Outcome ~ FactorA) |> describeFactorial(by = FactorB)
-
 Source Table for the Model
                    SS      df      MS
 Factor          4.000   1.000   4.000
@@ -59,15 +54,11 @@ Blocks         16.000   1.000  16.000
 Factor:Blocks  36.000   1.000  36.000
 Residual       72.000  12.000   6.000
 
-> (Outcome ~ FactorA) |> testFactorial(by = FactorB)
-
 Hypothesis Tests for the Model
                     F     df1     df2       p
 Factor          0.667   1.000  12.000   0.430
 Blocks          2.667   1.000  12.000   0.128
 Factor:Blocks   6.000   1.000  12.000   0.031
-
-> (Outcome ~ FactorA) |> estimateFactorial(by = FactorB)
 
 Proportion of Variance Accounted For by the Model
                   Est      LL      UL

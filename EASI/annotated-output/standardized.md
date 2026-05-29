@@ -29,8 +29,6 @@ relatedthree:
 The frequency distribution can be used to determine the descriptive statistics.
 
 ```{r}
-> (Outcome) |> describeFrequencies()
-
 Frequencies for the Data
 
      Freq    Perc CumFreq CumPerc
@@ -45,8 +43,6 @@ Frequencies for the Data
 The table of descriptive statistics can be used to assist in calculating the standardized scores.
 
 ```{r}
-> (Outcome) |> describeMoments()
-
 Summary Statistics for the Data
 
               N       M      SD    Skew    Kurt

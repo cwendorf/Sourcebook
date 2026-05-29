@@ -31,8 +31,6 @@ relatedthree:
 The frequency distribution can be used to determine the percentiles and other statistics.
 
 ```{r}
-> (Outcome) |> describeFrequencies()
-
 Frequencies for the Data
 
      Freq    Perc CumlFreq CumlPerc
@@ -47,8 +45,6 @@ Frequencies for the Data
 The table of descriptive statistics shows the key elements to be calculated.
 
 ```{r}
-> (Outcome) |> describePercentiles()
-
 Percentiles for the Data
 
              0%     25%     50%     75%    100%

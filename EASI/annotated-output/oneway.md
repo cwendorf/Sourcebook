@@ -33,8 +33,6 @@ relatedthree:
 The table of descriptive statistics can be used to determine the inferential statistics.
 
 ```{r}
-> (Outcome ~ Factor) |> describeMoments()
-
 Summary Statistics for the Data
              N       M      SD    Skew    Kurt
 Level1   4.000   2.000   2.449   0.544  -2.944
@@ -45,20 +43,14 @@ Level3   4.000   7.000   2.449  -0.544  -2.944
 The tables of inferential statistics show the key elements to be calculated.
 
 ```{r}
-> (Outcome ~ Factor) |> describeEffect()
-
 Source Table for the Model
              SS      df      MS
 Between  56.000   2.000  28.000
 Within   54.000   9.000   6.000
 
-> (Outcome ~ Factor) |> testEffect()
-
 Hypothesis Test for the Model
              F     df1     df2       p
 Factor   4.667   2.000   9.000   0.041
-
-> (Outcome ~ Factor) |> estimateEffect()
 
 Proportion of Variance Accounted For by the Model
            Est      LL      UL

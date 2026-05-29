@@ -33,8 +33,6 @@ relatedthree:
 The table of descriptive statistics can be used to determine the inferential statistics.
 
 ```{r}
-> (RepeatedData) |> describeMoments()
-
 Summary Statistics for the Data
                N       M      SD    Skew    Kurt
 Outcome1   4.000   2.000   2.449   0.544  -2.944
@@ -44,21 +42,15 @@ Outcome2   4.000   6.000   2.449   0.544  -2.944
 The tables of inferential statistics show the key elements to be calculated.
 
 ```{r}
-> (RepeatedData) |> describeEffect()
-
 Source Table for the Model
               SS      df      MS
 Subjects  27.000   3.000   9.000
 Measures  32.000   1.000  32.000
 Error      9.000   3.000   3.000
 
-> (RepeatedData) |> testEffect()
-
 Hypothesis Test for the Model
                F     df1     df2       p
 Measures  10.667   1.000   3.000   0.047
-
-> (RepeatedData) |> estimateEffect()
 
 Proportion of Variance Accounted For by the Model
              Est      LL      UL

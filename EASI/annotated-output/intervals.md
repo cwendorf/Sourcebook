@@ -33,8 +33,6 @@ relatedthree:
 The table of descriptive statistics can be used to determine the inferential statistics.
 
 ```{r}
-> (Outcome) |> describeMoments()
-
 Summary Statistics for the Data
 
               N       M      SD    Skew    Kurt
@@ -44,8 +42,6 @@ Outcome   8.000   4.000   3.117   0.151  -0.467
 The table of inferential statistics shows the key elements to be calculated.
 
 ```{r}
-> (Outcome) |> estimateMeans()
-
 Confidence Intervals for the Means
 
               M      SE      df      LL      UL

@@ -33,8 +33,6 @@ relatedthree:
 The table of descriptive statistics can be used to determine the inferential statistics.
 
 ```{r}
-> (Outcome ~ Factor) |> describeMoments()
-
 Summary Statistics for the Data
              N       M      SD    Skew    Kurt
 Level1   4.000   2.000   2.449   0.544  -2.944
@@ -44,19 +42,13 @@ Level2   4.000   6.000   2.449   0.544  -2.944
 The tables of inferential statistics show the key elements to be calculated.
 
 ```{r}
-> (Outcome ~ Factor) |> estimateDifference()
-
 Confidence Interval for the Mean Difference
               Diff      SE      df      LL      UL
 Comparison   4.000   1.732   6.000  -0.238   8.238
 
-> (Outcome ~ Factor) |> testDifference()
-
 Hypothesis Test for the Mean Difference
               Diff      SE      df       t       p
 Comparison   4.000   1.732   6.000   2.309   0.060
-
-> (Outcome ~ Factor) |> standardizeDifference()
 
 Confidence Interval for the Standardized Mean Difference
                  d      SE      LL      UL
