@@ -57,7 +57,9 @@ The table of descriptive statistics shows the key elements to be calculated.
 Frequency and Proportion Tables: The tables provide information about the scores in the data set and the numbers of times (and proportion of times) those scores occurred.
 
 > The table header row lists all the actual scores in the entire data set.  
-> “Frequency” indicates the number of times that score exists. For example, the score of 4 was listed 2 times.  
+>
+> “Frequency” indicates the number of times that score exists. For example, the score of 4 was listed 2 times. 
+> 
 > "Proportion" provides the proportion of cases for each possible score. For example, of the 8 scores in the entire data set, the score of 4 was listed 2 times and 2/8 is .250.  
 
 Percentiles: Percentiles provide the scores associated with particular percentile ranks. The "50<sup>th</sup> percentile" (the Median) and the "25<sup>th</sup> percentile" and 75<sup>th</sup> percentile" (collectively known as the Interquartile Range) are the most commonly calculated.

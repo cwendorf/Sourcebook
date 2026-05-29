@@ -58,9 +58,12 @@ Outcome   0.000   2.250   4.000   5.500   9.000
 Frequency Table: The frequency table provides information about the scores in the data set and the numbers (and percentages) of times those scores occurred.
 
 > The first column lists all the actual scores in the entire data set.  
+>
 > “Freq” indicates the number of times that score exists. For example, the score of 4 was listed 2 times.  
+>
 > The “Perc” column provides the percentage of cases for each possible score. For example, of the 8 scores in the entire data set, the score of 4 was listed 2 times and 2/8 is 25.0%.  
-> “CumPerc” is the SUM of all percentages up to and including the row in question. For example, 62.5% of scores were 4 or less. Similarly, 37.5% were 3 or less.
+>
+> “CumlPerc” is the SUM of all percentages up to and including the row in question. For example, 62.5% of scores were 4 or less. Similarly, 37.5% were 3 or less.
 
 Percentiles: Percentiles provide the scores associated with particular percentile ranks. The "50<sup>th</sup> percentile" (the Median) and the "25<sup>th</sup> percentile" and 75<sup>th</sup> percentile" (collectively known as the Interquartile Range) are the most commonly calculated.
 
