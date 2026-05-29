@@ -47,6 +47,8 @@ Frequencies for the Data
 The table of descriptive statistics shows the key elements to be calculated.
 
 ```{r}
+> (Outcome) |> describePercentiles()
+
 Percentiles for the Data
 
              0%     25%     50%     75%    100%
