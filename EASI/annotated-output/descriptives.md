@@ -35,13 +35,13 @@ The frequency distribution can be used to determine the descriptive statistics.
 
 Frequencies for the Data
 
-     Freq    Perc CumFreq CumPerc
-0   2.000   0.250   2.000   0.250
-3   1.000   0.125   3.000   0.375
-4   2.000   0.250   5.000   0.625
-5   1.000   0.125   6.000   0.750
-7   1.000   0.125   7.000   0.875
-9   1.000   0.125   8.000   1.000
+     Freq    Perc CumlFreq CumlPerc
+0   2.000   0.250    2.000    0.250
+3   1.000   0.125    3.000    0.375
+4   2.000   0.250    5.000    0.625
+5   1.000   0.125    6.000    0.750
+7   1.000   0.125    7.000    0.875
+9   1.000   0.125    8.000    1.000
 ```
 
 The table of descriptive statistics shows the key elements to be calculated.
