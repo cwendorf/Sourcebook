@@ -61,7 +61,7 @@ Descriptive Statistics: The values of the group statistics are calculated separa
 
 Mean Difference (Raw Effect): The "Mean Difference" is the difference between the two sample means (raw effect).
 
-> $$ M_{DIFF} = M_1 - M_2 = 2.000 − 6.000 = −4.000 $$
+> $$ M_{DIFF} = M_2 - M_1 = 6.000 − 2.000 = 4.000 $$
 
 Within Groups Statistics: When multiple groups are used, it is necessary to get an estimate of the pooled (combined) within group variabilities.
 
@@ -89,7 +89,7 @@ Standard Error of the Difference: The "Standard Error of the Difference" is a fu
 
 Statistical Significance: The "t" statistic is the ratio of the mean difference (raw effect) to the standard error of the difference.
 
-> $$ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.309 $$
+> $$ t = \frac{M_{DIFF}}{SE_{DIFF}} = \frac{4.000}{1.732} = 2.309 $$
 >
 > $$ df = ( n_1 - 1 ) + ( n_2 - 1) = N - 2 = 8 - 2 = 6  $$
 >
@@ -99,22 +99,20 @@ Statistical Significance: The "t" statistic is the ratio of the mean difference 
 
 Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
-> $$ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) = -4.000 \pm (2.447) (1.732) = [ −8.238, 0.238 ] $$
+> $$ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL}) ( SE_{DIFF}) = 4.000 \pm (2.447) (1.732) = [ 0.238, 8.238 ] $$
 >
 > Thus, the researcher concludes that the true population mean difference is somewhere between -8.238 and -0.238 (knowing that the estimate could be wrong).
 
 Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the difference between the two means.
 
-> $$ d = \frac{M_{DIFF}}{SD_{WITHIN}} = \frac{-4.000}{2.449} = -1.630 $$
+> $$ d = \frac{M_{DIFF}}{SD_{WITHIN}} = \frac{4.000}{2.449} = 1.630 $$
 >
 > Given Cohen's heuristics for interpreting effect sizes, this would be considered an extremely large effect.
 
 ### APA Style
 
-For this analysis, the emphasis is on comparing the means from two groups. Here again the summary and the inferential statistics focus on the difference. The first example focuses on statistical significance testing, whereas the second version includes and emphasizes interpretation of the confidence interval and effect size. 
+For this analysis, the emphasis is on comparing the means from two groups. Here again the summary and the inferential statistics focus on the difference.  
 
-> An independent samples *t* test showed that the difference in Outcome scores between the first group (*n* = 4, *M* = 4.00, *SD* = 2.45) and the second group (*n* = 3, *M* = 6.00, *SD* = 2.45) was not statistically significant, *t*(6) = -2.31, *p* = .060, 95% CI [-8.24, 0.24], *d* = -1.63.
-
-> Analyses revealed a potentially large, yet inconclusive, difference in Outcome scores between the first group (*n* = 4, *M* = 4.00, *SD* = 2.45) and the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), 95% CI [-8.24, 0.24], *d* = -1.63, *t*(6) = -2.31, *p* = .060.
+> An independent samples *t* test showed that the difference in Outcome scores between the first group (*n* = 4, *M* = 4.00, *SD* = 2.45) and the second group (*n* = 3, *M* = 6.00, *SD* = 2.45) was very large but not statistically significant, *t*(6) = 2.31, *p* = .060, 95% CI [0.24, 8.24], *d* = 1.63.
 
 Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
