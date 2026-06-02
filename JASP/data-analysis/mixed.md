@@ -26,9 +26,9 @@ relatedthree:
 
 ### Selecting the Analysis
 
-1.	First, enter mixed design data (described elsewhere). Be sure that the data file looks as you intended.
+1.	First, enter mixed design data (described elsewhere).
 
-2.	Select the “ANOVA  Repeated Measures ANOVA” option from the “Common” statistics menu.
+2.	Select the “ANOVA → Repeated Measures ANOVA” option from the “ANOVA” statistics menu.
 
 {: .screenshot}
 ![Screenshot for selecting analysis](mixed1.png)
@@ -39,7 +39,7 @@ relatedthree:
 
 4.	In the “Repeated Measures Factors” box, you will define the repeated measures factor. This box is necessary for labeling the repeated measurements of the same underlying factor.
 
-5.	Click on “RM Factor 1” and type in the name you wish to give to the repeated measures factor. In this example, the measurements/columns reflect quizzes at two different times so “Time” is used as the name. 
+5.	Click on “RM Factor 1” and type in the name you wish to give to the repeated measures factor. In this example, default is used as the name. 
 
 6.	Below that, click on “Level 1” to type the name of the individual level of the repeated measures factor. You may do the same for each level. In this example, the quiz was given twice, so there were only 2 levels of the factor.
 
@@ -50,7 +50,7 @@ relatedthree:
 
 7.	In the “Repeated Measures Cells” box, you will indicate which measurements/columns in the data set reflect the instances of the repeated measurements.
 
-8.	Select the instances you wish to associate with the factor by clicking on them and then arrow to move them. In this example, “t1score” reflects the first level of the factor and “t2score” reflects the second level of the factor.
+8.	Select the instances you wish to associate with the factor by clicking on them and then arrow to move them. In this example, “Outcome1” reflects the first level of the factor and “Outcome2” reflects the second level of the factor.
 
 9.	Click on the between-subjects variable on the left-hand side and then the arrow to move it into the “Between Subjects Factors” box on the right-hand side box.
 
@@ -67,7 +67,7 @@ relatedthree:
 
 13.	Select options that are important for you: “Estimates of effect size” will display the chosen statistics; and “Descriptive statistics” will offer means and standard deviations for each group.
 
-14.	Updated output will automatically appear on the right side of the window. Output can be copied and pasted into other documents for printing.
+14.	Updated output will automatically appear on the right side of the window.
 
 {: .screenshot}
 ![Screenshot for obtaining additional statistics](mixed4.png)

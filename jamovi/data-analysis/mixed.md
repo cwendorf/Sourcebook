@@ -28,7 +28,7 @@ relatedthree:
 
 1.	First, enter mixed design data (described elsewhere). 
 
-2.	On the “Analysis” tab, select the “ANOVA  Repeated Measures ANOVA” option.
+2.	On the “Analysis” tab, select the “ANOVA → Repeated Measures ANOVA” option.
 
 {: .screenshot}
 ![Screenshot for selecting analysis](mixed1.png)
@@ -50,7 +50,7 @@ relatedthree:
 
 7.	In the “Repeated Measures Cells” box, you will indicate which measurements/columns in the data set reflect the instances of the repeated measurements.
 
-8.	Select the instances you wish to associate with the factor by clicking on them and then arrow to move them. In this example, “Outcome1” reflects the first level of the factor and “Outcome23” reflects the second level of the factor.
+8.	Select the instances you wish to associate with the factor by clicking on them and then arrow to move them. In this example, “Outcome1” reflects the first level of the factor and “Outcome2” reflects the second level of the factor.
 
 9.	Click on the between-subjects variable on the left-hand side and then the arrow to move it into the “Between Subjects Factors” box on the right-hand side box.
 
