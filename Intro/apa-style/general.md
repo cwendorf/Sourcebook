@@ -47,7 +47,7 @@ Significance testing "is but a starting point and that additional reporting elem
 
 In complex studies, information can be presented in the text, in tables, or in figures. Generally speaking, present the information in the manner that efficiently conveys the information and maximizes understanding.
 
-- Simple studies might not need to include a table or figure associated with the analyses. "The results of a single statistical test or a few group means and stnadard deviations can be presented in text" (p. 196).
+- Simple studies might not need to include a table or figure associated with the analyses. "The results of a single statistical test or a few group means and standard deviations can be presented in text" (p. 196).
 - The more analyses you have, the likely it is that they should be presented in a table or figure. "A table or figure is an effective choice to present the results of multiple statistical tests or many descriptive statistics" (p. 196). The table should be referred to in the text.
 
 **Note.** All quotations pertaining to reporting results are taken from: American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th Ed.). Washington, DC: APA.
