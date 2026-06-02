@@ -124,7 +124,7 @@ These pages show how to obtain and calculate statistical significance and an eff
 
 ### Mixed ANOVA
 
-These pages show how to obtain and calculate statistical significance and an effect size to mixed designs.
+These pages show how to obtain and calculate statistical significance and an effect size for mixed designs.
 
 - [Data Entry \| Mixed Data](./data-entry/mixed.md)
 - [Data Analysis \| Mixed ANOVA](./data-analysis/mixed.md)
