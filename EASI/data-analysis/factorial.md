@@ -50,7 +50,7 @@ Test the main effects for statistical significance.
 (Outcome~FactorA) |> testFactorial(by = FactorB)
 ```
 
-Get the proportion of variance accounted for by the main effects.
+Get the proportion of variance accounted for by the effects.
 
 ```{r}
 (Outcome~FactorA) |> estimateFactorial(by = FactorB)
