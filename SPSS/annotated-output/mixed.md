@@ -82,7 +82,7 @@ Marginal Means: A level (marginal) mean can be determined by taking the weighted
 
 Between-Subjects Error Statistics: Between-subjects error refers to average differences across the participants within each Factor level. 
 
-> $$ SS_{ERROR(BETWEEN)} = (\text{number of Time points}) \sum (M_{SUBJECT} - M_{FACTOR\;LEVEL})^2 = (2)\left[(2.000-4.000)^2 + (3.500-4.000)^2 + (3.500-4.000)^2 + (7.000-4.000)^2\right] + (2)\left[(6.500-6.500)^2 + (6.500-6.500)^2 + (4.000-6.500)^2 + (9.000-6.500)^2\right] = 52.000 $$
+> $$ SS_{ERROR(BETWEEN)} = \sum (\text{number of Time points}) (M_{SUBJECT} - M_{FACTOR\;LEVEL})^2 = (2)\left[(2.000-4.000)^2 + (3.500-4.000)^2 + (3.500-4.000)^2 + (7.000-4.000)^2\right] + (2)\left[(6.500-6.500)^2 + (6.500-6.500)^2 + (4.000-6.500)^2 + (9.000-6.500)^2\right] = 52.000 $$
 >
 > $$ df_{ERROR(BETWEEN)} = (\text{# levels of Factor})(\text{# subjects per level} - 1) = (2)(4-1) = 6 $$
 >
