@@ -1,0 +1,101 @@
+> ## Mixed ANOVA
+> 
+> ### Obtaining Descriptive Statistics
+> 
+> (MixedData) |> focus(Outcome1, Outcome2) |> describeMoments(by = Factor) -> $
+> (MixedData) |> focus(Outcome1, Outcome2) |> describeCorrelations(by = Factor$
+> MixedMoments
+$Level1
+
+Summary Statistics for the Data
+
+               N       M      SD    Skew    Kurt
+Outcome1   4.000   2.000   2.449   0.544  -2.944
+Outcome2   4.000   6.000   2.449   0.544  -2.944
+
+
+$Level2
+
+Summary Statistics for the Data
+
+               N       M      SD    Skew    Kurt
+Outcome1   4.000   6.000   2.449   0.544  -2.944
+Outcome2   4.000   7.000   2.449  -0.544  -2.944
+
+
+> MixedCorr
+$Level1
+
+Correlations for the Data
+
+         Outcome1 Outcome2
+Outcome1   1.000    0.500 
+Outcome2   0.500    1.000 
+
+
+$Level2
+
+Correlations for the Data
+
+         Outcome1 Outcome2
+Outcome1   1.000    0.389 
+Outcome2   0.389    1.000 
+
+
+> 
+> ### Obtaining Inferential Statistics
+> 
+> (MixedMoments) |> describeFactorial(MixedCorr)
+$`Between Subjects`
+
+Source Table for the Model
+
+              SS      df      MS
+Blocks    25.000   1.000  25.000
+Subjects  52.000   6.000   8.667
+
+
+$`Within Subjects`
+
+Source Table for the Model
+
+                     SS      df      MS
+Measures         25.000   1.000  25.000
+Measures:Blocks   9.000   1.000   9.000
+Residual         20.000   6.000   3.333
+
+
+> (MixedMoments) |> testFactorial(MixedCorr)
+$`Between Subjects`
+
+Hypothesis Tests for the Model
+
+             F     df1     df2       p
+Blocks   2.885   1.000   6.000   0.140
+
+
+$`Within Subjects`
+
+Hypothesis Tests for the Model
+
+                      F     df1     df2       p
+Measures          7.500   1.000   6.000   0.034
+Measures:Blocks   2.700   1.000   6.000   0.151
+
+
+> (MixedMoments) |> estimateFactorial(MixedCorr)
+$`Between Subjects`
+
+Proportion of Variance Accounted For by the Model
+
+           Est      LL      UL
+Blocks   0.325   0.000   0.600
+
+
+$`Within Subjects`
+
+Proportion of Variance Accounted For by the Model
+
+                    Est      LL      UL
+Measures          0.556   0.031   0.737
+Measures:Blocks   0.310   0.000   0.591

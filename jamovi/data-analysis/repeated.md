@@ -43,7 +43,8 @@ relatedthree:
 
 6. Below that, click on "Level 1" to type the name of the individual level of the repeated measures factor. You may do the same for each level. In this example, there were only 2 levels of the factor.
 
-<p align="center"><kbd><img src="repeated2.png"></kbd></p>
+{: .screenshot}
+![Screenshot for labeling factor](repeated2.png)
 
 ### Obtaining Inferential Statistics
 

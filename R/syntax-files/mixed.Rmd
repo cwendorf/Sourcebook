@@ -1,0 +1,80 @@
+---
+title: "Sourcebook"
+author: "Craig A. Wendorf"
+date: "`r Sys.Date()`"
+output: 
+  rmarkdown::html_vignette:
+    keep_md: TRUE
+vignette: >
+  %\VignetteIndexEntry{Mixed ANOVA}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r,include=FALSE}
+#suppress the warnings and other messages from showing in the knitted file.
+knitr::opts_chunk$set(fig.width=7, fig.height=5,fig.path='figures/',echo=TRUE,warning=FALSE,message=FALSE)
+```
+
+# R | Data Analysis
+
+## Mixed ANOVA
+
+### Entering Data
+
+Enter the data in vectors that assign variable names. Notice that each participant has scores on all the Factor and Outcome Variables. There will be as many scores as people. On the categorical Factor, you will use numbers to represent the categories (or “levels”) of the variables.
+
+```{r}
+Factor <- c(rep(1, 4), rep(2, 4))
+Outcome1 <- c(0, 0, 3, 5, 4, 7, 4, 9)
+Outcome2 <- c(4, 7, 4, 9, 9, 6, 4, 9)
+```
+
+Declare which variable is considered a Factor. In addition to specifying how many levels the factor has, you can provide labels for them.
+
+```{r}
+Factor <- factor(Factor, levels = c(1, 2), labels = c("Level1", "Level2"))
+```
+
+### Viewing Data
+
+Create and display a data frame to view the data set.
+
+```{r}
+MixedData <- data.frame(Factor, Outcome1, Outcome2)
+MixedData
+```
+
+### Reshaping Data
+
+The data are currently in a “wide” format, which is not ideal for analysis. Reshape the data into a “long” format, which is more suitable for analysis. In the long format, there will be one row per participant per time point, and the outcome variable will be in a single column.
+
+```{r}
+Subject <- factor(rep(1:8, each = 2))
+Time <- factor(rep(c("Time1", "Time2"), times = 8), levels = c("Time1", "Time2"))
+Factor <- factor(rep(c(rep(1, 4), rep(2, 4)), each = 2), levels = c(1, 2), labels = c("Level1", "Level2"))
+Outcome <- as.vector(t(cbind(Outcome1, Outcome2)))
+MixedDataLong <- data.frame(Subject, Factor, Time, Outcome)
+```
+
+### Obtaining Descriptive Statistics
+
+Get the mean, sample size, and standard deviation for the dependent variable for each of the levels. Also, get the means for the main effects.
+
+```{r}
+Results <- aov(Outcome ~ Factor * Time + Error(Subject / Time))
+model.tables(Results, "means")
+
+lapply(
+  split(Outcome, interaction(Factor, Time)),
+  function(x) c(n = length(x), mean = mean(x), sd = sd(x))
+)
+```
+
+### Obtaining Inferential Statistics
+
+Get the analysis of variance source table with test of statistical significance.
+
+```{r}
+summary(Results)
+```

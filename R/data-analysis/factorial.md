@@ -44,7 +44,7 @@ lapply(
 
 ### Obtaining Inferential Statistics
 
-Get the analysis of variance source table with test of statistical significance.
+Get the analysis of variance source table with tests of statistical significance.
 
 ```{r}
 summary(Results)

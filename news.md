@@ -1,7 +1,13 @@
+## Sourcebook Upcoming
+
+- Updated all R instructions and analyses
+- Updated all JASP files to new format
+- Reworked APA style summaries
+- Added mixed design instructions and analyses
+
 ## Sourcebook 2.250930
 
 - Integrated worked examples into annotated output
-- Reworked APA style instructions
 - Removed all PDF versions to focus on digital accessibility
 - Incorporated instructions for CREATE
 

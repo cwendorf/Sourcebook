@@ -26,6 +26,7 @@ This chapter provides step-by-step written instructions and screenshots showing 
 - [Data Entry \| Paired and Repeated Measures Data](./data-entry/repeated.md)
 - [Data Entry \| Two and Multiple Sample Data](./data-entry/multisample.md)
 - [Data Entry \| Factorial Data](./data-entry/factorial.md)
+- [Data Entry \| Mixed Data](./data-entry/mixed.md)
 
 ### Data Analysis
 
@@ -44,6 +45,7 @@ This chapter provides step-by-step written instructions and screenshots for obta
 - [Data Analysis \| Post Hoc Comparisons](./data-analysis/posthocs.md)
 - [Data Analysis \| Repeated Measures ANOVA](./data-analysis/repeated.md)
 - [Data Analysis \| Factorial ANOVA](./data-analysis/factorial.md)
+- [Data Analysis \| Mixed ANOVA](./data-analysis/mixed.md)
 
 ### Annotated Output
 
@@ -62,3 +64,4 @@ This chapter shows the output from various types of analyses, describes how to i
 - [Annotated Output \| Post Hoc Comparisons](./annotated-output/posthocs.md)
 - [Annotated Output \| Repeated Measures ANOVA](./annotated-output/repeated.md)
 - [Annotated Output \| Factorial ANOVA](./annotated-output/factorial.md)
+- [Annotated Output \| Mixed ANOVA](./annotated-output/mixed.md)

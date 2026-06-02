@@ -119,3 +119,11 @@ These pages show how to obtain and calculate statistical significance and an eff
 - [Data Entry \| Factorial Data](./data-entry/factorial.md)
 - [Data Analysis \| Factorial ANOVA](./data-analysis/factorial.md)
 - [Annotated Output \| Factorial ANOVA](./annotated-output/factorial.md)
+
+### Mixed ANOVA
+
+These pages show how to obtain and calculate statistical significance and an effect size to mixed designs.
+
+- [Data Entry \| Mixed Data](./data-entry/mixed.md)
+- [Data Analysis \| Mixed ANOVA](./data-analysis/mixed.md)
+- [Annotated Output \| Mixed ANOVA](./annotated-output/mixed.md)

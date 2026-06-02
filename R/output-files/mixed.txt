@@ -1,0 +1,64 @@
+> ## Mixed Design ANOVA
+> 
+> ### Descriptive Statistics
+> 
+> Results <- aov(Outcome ~ Factor * Time + Error(Subject / Time))
+> model.tables(Results, "means")
+Tables of means
+Grand mean
+     
+5.25 
+
+ Factor 
+Factor
+Level1 Level2 
+   4.0    6.5 
+
+ Time 
+Time
+Time1 Time2 
+  4.0   6.5 
+
+ Factor:Time 
+        Time
+Factor   Time1 Time2
+  Level1 2     6    
+  Level2 6     7    
+> 
+> lapply(
++   split(Outcome, interaction(Factor, Time)),
++   function(x) c(n = length(x), mean = mean(x), sd = sd(x))
++ )
+$Level1.Time1
+      n    mean      sd 
+4.00000 2.00000 2.44949 
+
+$Level2.Time1
+      n    mean      sd 
+4.00000 6.00000 2.44949 
+
+$Level1.Time2
+      n    mean      sd 
+4.00000 6.00000 2.44949 
+
+$Level2.Time2
+      n    mean      sd 
+4.00000 7.00000 2.44949 
+
+> 
+> ### Inferential Statistics
+> 
+> summary(Results)
+
+Error: Subject
+          Df Sum Sq Mean Sq F value Pr(>F)
+Factor     1     25  25.000   2.885   0.14
+Residuals  6     52   8.667               
+
+Error: Subject:Time
+            Df Sum Sq Mean Sq F value Pr(>F)  
+Time         1     25  25.000     7.5 0.0338 *
+Factor:Time  1      9   9.000     2.7 0.1515  
+Residuals    6     20   3.333                 
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
