@@ -30,7 +30,7 @@ relatedthree:
 
 1.	First, enter the mixed data. This is described elsewhere.
 
-2.	After the data are entered, select the “Analyze  General Linear Model  Repeated Measures” option from the main menu.
+2.	After the data are entered, select the “Analyze → General Linear Model → Repeated Measures” option from the main menu.
 
 {: .screenshot}
 ![Screenshot for selecting analysis](mixed1.png)
