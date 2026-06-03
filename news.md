@@ -1,4 +1,4 @@
-## Sourcebook Upcoming
+## Sourcebook 2.260603
 
 - Updated all R instructions and analyses
 - Updated all JASP files to new format
