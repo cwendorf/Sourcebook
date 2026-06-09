@@ -60,7 +60,7 @@ This table is useful for removing the basic descriptive statistics (the means an
   </thead>
   <tbody>
     <tr>
-      <td>outcome 1</td>
+      <td>Outcome 1</td>
       <td>4</td>
       <td>2.00 (2.45)</td>
       <td>[-.73, 4.73]</td>
@@ -104,7 +104,7 @@ This table is useful removing the basic descriptive statistics and all inferenti
   </thead>
   <tbody>
     <tr>
-      <td>outcome 1</td>
+      <td>Outcome 1</td>
       <td>2.00 (2.45)</td>
       <td>6.00 (2.45)</td>
       <td>-2.31</td>
@@ -150,7 +150,7 @@ This table is useful for removing the descriptive and inferential statistics abo
   </thead>
   <tbody>
     <tr>
-      <td>outcome 1</td>
+      <td>Outcome 1</td>
       <td>2.00 (2.45)</td>
       <td>6.00 (2.45)</td>
       <td>7.00 (2.45)</td>
