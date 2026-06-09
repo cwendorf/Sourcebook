@@ -49,14 +49,14 @@ standard deviations) and the confidence intervals for the group means from the t
 | Outcome 2 | 4 | 6.00 (2.45) | \[3.27, 8.73\] | 4 | 7.00 (2.45) | \[4.27, 9.73\] |
 
 
-<table style="border-top: 1px solid black; border-bottom: 1px solid black; text-align: center;">
+<table style="text-align: center;">
   <thead>
-    <tr style="border-bottom: 1px solid black;">
+    <tr>
       <th></th>
       <th colspan="3">Group 1</th>
       <th colspan="3">Group 2</th>
     </tr>
-    <tr style="border-bottom:1px solid black;">
+    <tr>
       <th>Variable</th>
       <th><em>n</em></th>
       <th><em>M (SD)</em></th>
