@@ -44,12 +44,12 @@ This table is useful for removing the basic descriptive statistics (the means an
 <table style="text-align: center;">
   <thead>
     <tr>
-      <th></th>
+      <th style="text-align: left;"></th>
       <th colspan="3">Group 1</th>
       <th colspan="3">Group 2</th>
     </tr>
     <tr>
-      <th>Variable</th>
+      <th style="text-align: left;">Variable</th>
       <th><em>n</em></th>
       <th><em>M (SD)</em></th>
       <th>95% CI</th>
@@ -60,7 +60,7 @@ This table is useful for removing the basic descriptive statistics (the means an
   </thead>
   <tbody>
     <tr>
-      <td>Outcome 1</td>
+      <td style="text-align: left;">Outcome 1</td>
       <td>4</td>
       <td>2.00 (2.45)</td>
       <td>[-.73, 4.73]</td>
@@ -69,7 +69,7 @@ This table is useful for removing the basic descriptive statistics (the means an
       <td>[3.27, 8.73]</td>
     </tr>
     <tr>
-      <td>Outcome 2</td>
+      <td style="text-align: left;">Outcome 2</td>
       <td>4</td>
       <td>6.00 (2.45)</td>
       <td>[3.27, 8.73]</td>
@@ -87,13 +87,13 @@ This table is useful removing the basic descriptive statistics and all inferenti
 <table style="text-align: center;">
   <thead>
     <tr>
-      <th></th>
+      <th style="text-align: left;"></th>
       <th colspan="1">Group 1</th>
       <th colspan="1">Group 2</th>
       <th colspan="4"></th>
     </tr>
     <tr>
-      <th>Variable</th>
+      <th style="text-align: left;">Variable</th>
       <th><em>M (SD)</em></th>
       <th><em>M (SD)</em></th>
       <th><em>t</em>(6)</th>
@@ -104,7 +104,7 @@ This table is useful removing the basic descriptive statistics and all inferenti
   </thead>
   <tbody>
     <tr>
-      <td>Outcome 1</td>
+      <td style="text-align: left;">Outcome 1</td>
       <td>2.00 (2.45)</td>
       <td>6.00 (2.45)</td>
       <td>-2.31</td>
@@ -113,7 +113,7 @@ This table is useful removing the basic descriptive statistics and all inferenti
       <td>-1.63</td>
     </tr>
     <tr>
-      <td>Outcome 2</td>
+      <td style="text-align: left;">Outcome 2</td>
       <td>6.00 (2.45)</td>
       <td>7.00 (2.45)</td>
       <td>-0.58</td>
@@ -131,14 +131,14 @@ This table is useful for removing the descriptive and inferential statistics abo
 <table style="text-align: center;">
   <thead>
     <tr>
-      <th></th>
+      <th style="text-align: left;"></th>
       <th colspan="1">Group 1</th>
       <th colspan="1">Group 2</th>
       <th colspan="1">Group 3</th>
       <th colspan="4"></th>
     </tr>
     <tr>
-      <th>Variable</th>
+      <th style="text-align: left;">Variable</th>
       <th><em>M (SD)</em></th>
       <th><em>M (SD)</em></th>
       <th><em>M (SD)</em></th>
@@ -150,7 +150,7 @@ This table is useful for removing the descriptive and inferential statistics abo
   </thead>
   <tbody>
     <tr>
-      <td>Outcome 1</td>
+      <td style="text-align: left;">Outcome 1</td>
       <td>2.00 (2.45)</td>
       <td>6.00 (2.45)</td>
       <td>7.00 (2.45)</td>
@@ -160,7 +160,7 @@ This table is useful for removing the descriptive and inferential statistics abo
       <td>1 = 2 < 3</td>
     </tr>
     <tr>
-      <td>Outcome 2</td>
+      <td style="text-align: left;">Outcome 2</td>
       <td>6.00 (2.45)</td>
       <td>7.00 (2.45)</td>
       <td>5.00 (2.45)</td>
