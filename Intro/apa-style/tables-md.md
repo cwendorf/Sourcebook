@@ -48,48 +48,6 @@ standard deviations) and the confidence intervals for the group means from the t
 | Outcome 1 | 4 | 2.00 (2.45) | \[-.73, 4.73\] | 4 | 6.00 (2.45) | \[3.27, 8.73\] |
 | Outcome 2 | 4 | 6.00 (2.45) | \[3.27, 8.73\] | 4 | 7.00 (2.45) | \[4.27, 9.73\] |
 
-
-<table style="text-align: center;">
-  <thead>
-    <tr>
-      <th></th>
-      <th colspan="3">Group 1</th>
-      <th colspan="3">Group 2</th>
-    </tr>
-    <tr>
-      <th>Variable</th>
-      <th><em>n</em></th>
-      <th><em>M (SD)</em></th>
-      <th>95% CI</th>
-      <th><em>n</em></th>      
-      <th><em>M (SD)</em></th>
-      <th>95% CI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>outcome 1</td>
-      <td>4</td>
-      <td>2.00 (2.45)</td>
-      <td>[-.73, 4.73]</td>
-      <td>4</td>
-      <td>6.00 (2.45)</td>
-      <td>[3.27, 8.73]</td>
-    </tr>
-    <tr>
-      <td>Outcome 2</td>
-      <td>4</td>
-      <td>6.00 (2.45)</td>
-      <td>[3.27, 8.73]</td>
-      <td>4</td>
-      <td>7.00 (2.45)</td>
-      <td>[4.27, 9.73]</td>
-    </tr>
-  </tbody>
-</table>
-
-
-
 ### Independent and Dependent Samples t Tests 
 
 This table is useful removing the basic descriptive statistics and all inferential statistics about group differences (the statistical significance tests, confidence intervals, and effect sizes) from the text.
