@@ -90,7 +90,7 @@ This table is useful removing the basic descriptive statistics and all inferenti
       <th></th>
       <th colspan="1">Group 1</th>
       <th colspan="1">Group 2</th>
-      <th colspan="4">Difference</th>
+      <th colspan="4"></th>
     </tr>
     <tr>
       <th>Variable</th>
@@ -135,13 +135,13 @@ This table is useful for removing the descriptive and inferential statistics abo
       <th colspan="1">Group 1</th>
       <th colspan="1">Group 2</th>
       <th colspan="1">Group 3</th>
-      <th colspan="4">Differences</th>
+      <th colspan="4"></th>
     </tr>
     <tr>
       <th>Variable</th>
       <th><em>M (SD)</em></th>
       <th><em>M (SD)</em></th>
-      <th><em>M (SD)</em>(6)</th>
+      <th><em>M (SD)</em></th>
       <th><em>F</em>(2, 6)</th>
       <th><em>p</em></th>
       <th><em>η<sup>2</sup></em></th>        
