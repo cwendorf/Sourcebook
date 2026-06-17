@@ -68,4 +68,5 @@ This table is useful for removing the descriptive and inferential statistics abo
 | Outcome 1 | 2.00 (2.45) | 6.00 (2.45) | 7.00 (2.45) | 4.67 | .041 | .509 | 1 = 2 &lt; 3 |
 | Outcome 2 | 6.00 (2.45) | 7.00 (2.45) | 5.00 (2.45) | 0.67 | .537 | .129 | 1 = 2 = 3 |
 
-![Confidence interval simulation coverage](confidenceintervals.png)
+
+![Confidence interval simulation coverage](correlations2.png)
