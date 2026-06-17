@@ -25,6 +25,7 @@ relatedtwo:
 ---
 
 # [Intro Articles](../index.md)
+
 ## Statistical Analyses | Confidence Intervals
 
 ### Purpose of a Confidence Interval
