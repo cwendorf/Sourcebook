@@ -202,19 +202,6 @@ body {
     margin-bottom: 5px;
 }
 
-
-#Main IMG {
-  display: inline-block;
-  width: auto;
-  max-width: 95%;
-  height: auto;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  padding: 2px;
-  box-sizing: border-box;
-}
-
-
 #Sidebar HR {
     height: 1px; 
     background-color: black; 
