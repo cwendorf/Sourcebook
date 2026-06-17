@@ -149,11 +149,12 @@ body {
 }
 
 .output {
-  margin: 10px 0px 10px 20px;
+  margin: 10px 0px;
 }
 .output img {
   max-width: 95%;
   padding: 2px;
+  margin-left: 20px;
 }
 
 /* Main Section Column Styles */
