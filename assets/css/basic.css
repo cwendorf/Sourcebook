@@ -133,6 +133,17 @@ body {
   margin-left: 2em;
 }
 
+#MainContent img {
+  display: inline-block;
+  width: auto;
+  max-width: 95%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
 .screenshot {
   text-align: center;
   margin: 10px 0px;
