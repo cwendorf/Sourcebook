@@ -88,7 +88,7 @@ Confidence Interval: For this test, the appropriate confidence interval is aroun
 
 Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the difference between the two means.
 
-> $$ d = \frac{M_{DIFF}}{SD_{WITHIN}} = \frac{-4.000}{2.449} = -1.630 $$
+> $$ d = \frac{M_{DIFF}}{SD_{WITHIN}} = \frac{-4.000}{2.449} = -1.633 $$
 >
 > Given Cohen's heuristics for interpreting effect sizes, this would be considered an extremely large effect.
 
