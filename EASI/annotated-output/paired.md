@@ -4,6 +4,8 @@ headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
+  - title: Worked Examples | Paired Samples t Test
+    url: ../../Intro/worked-examples/paired
   - title: APA Style | Summary of Statistics Reporting
     url: ../../Intro/apa-style/summary
 headertwo: EASI Articles
@@ -39,6 +41,8 @@ Outcome1   4.000   2.000   2.449   0.544  -2.944
 Outcome2   4.000   6.000   2.449   0.544  -2.944
 ```
 
+> The descriptive statistics are calculated separately for each instance (which are shown as separate variables).
+
 The tables of inferential statistics show the key elements to be calculated.
 
 ```{r}
@@ -55,37 +59,15 @@ Confidence Interval for the Standardized Mean Difference
 Comparison   1.633   0.782   0.101   3.165
 ```
 
-### Calculations
+> Here, *t* = 3.266 and *p* = .047. This would be considered a statistically significant finding.
 
-Descriptive Statistics: The descriptive statistics are calculated separately for each instance (which are shown as separate variables).
+> Using "CI for Mean Difference", the researcher estimates that the true population mean difference is somewhere between 0.102 and 7.898 (knowing that the estimate could be wrong).
 
-Mean Difference (Raw Effect): The Mean Difference is the difference between the sample mean and a user-specified test value or population mean.
-
-> $$ M_{DIFF} = M - \mu = 4.000 − 0.000 = 4.000 $$
-
-Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
-
-> $$ t = \frac{M_{DIFF}}{SE_M} = \frac{4.000}{1.225} = 3.266 $$
->
-> With *df* = 3, *t<sub>CRITICAL</sub>* = 3.182  
-> Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05  
-> This would be considered a statistically significant finding.
-
-Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
-
-> $$ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = 4.000 \pm (3.182) (1.225) = [ 0.102, 7.898 ] $$
->
-> Thus, the researcher concludes that the true population mean difference is somewhere between 0.102 and 7.898 (knowing that the estimate could be wrong).
-
-Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
-
-> $$ d = \frac{M_{DIFF}}{SD} = \frac{-4.000}{2.449} = 1.633 $$
->
-> Given Cohen's heuristics for interpreting effect sizes, this would be considered an extremely large effect.
+> Cohen's d = 1.633. Given Cohen's heuristics for interpreting effect sizes, this would be considered an extremely large effect.
 
 ### APA Style
 
-For this analysis, the differences between two measurements on one set of people are being compared. Thus, the summary and the inferential statistics focus on that difference. 
+For this analysis, the differences between two measurements on one set of people are being compared. Thus, the summary and the inferential statistics focus on that difference.
 
 > A paired samples *t* test showed that the difference in Outcome scores (*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was very large and statistically significant, *t*(3) = 3.27, *p* = .047, 95% CI [0.10, 7.90], *d* = 1.63.
 

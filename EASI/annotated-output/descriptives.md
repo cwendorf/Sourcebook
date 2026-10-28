@@ -2,6 +2,8 @@
 title: Sourcebook
 headerone: Intro Articles
 relatedone:
+  - title: Worked Examples | Descriptives
+    url: ../../Intro/worked-examples/descriptives
   - title: APA Style | Summary of Statistics Reporting
     url: ../../Intro/apa-style/summary
 headertwo: EASI Articles
@@ -28,7 +30,7 @@ relatedthree:
 
 ### Computer Output
 
-The frequency distribution can be used to determine the descriptive statistics.
+The frequency distribution provides the baseline information.
 
 ```{r}
 Frequencies for the Data
@@ -42,7 +44,16 @@ Frequencies for the Data
 9   1.000   0.125    8.000    1.000
 ```
 
-The table of descriptive statistics shows the key elements to be calculated.
+> The first column lists all the actual scores in the entire data set.  
+
+> “Freq” indicates the number of times that score exists. For example, the score of 4 was listed 2 times.  
+
+> The “Perc” column provides the percentage of cases for each possible score. For example, of the 8 scores in the entire data set, the score of 4 was listed 2 times and 2/8 is 25.0%.  
+
+> “CumlPerc” is the SUM of all percentages up to and including the row in question. For example, 62.5% of scores were 4 or less. Similarly, 37.5% were 3 or less.
+
+
+The table of descriptive statistics shows the key elements to be interpreted.
 
 ```{r}
 Summary Statistics for the Data
@@ -51,28 +62,12 @@ Summary Statistics for the Data
 Outcome   8.000   4.000   3.117   0.151  -0.467
 ```
 
-### Calculations
+> Here, the mean (4.000) and standard deviation (3.117) are clearly marked.
 
-Mean: The mean ("M") is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
-
-> $$ M = \frac{\sum(fY)}{N} = \frac{(2 \times 0) + (1 \times 3) + (2 \times 4) + (1 \times 5) + (1 \times 7) + (1 \times 8)}{8} = 4.000 $$
-
-Sum of Squares: The Sum of Squares (not shown in the output) is the basic measure of the variability of the scores. Formally, it is the sum of the weighted deviations of the scores about the mean.
-
-> $$ SS = \sum f (Y - M) = 2 (0 - 4)^2 + 1(3 - 4)^2 + 2(4 - 4)^2 + 1(5 - 4)^2 + 1(7 - 4)^2 + 1(8 - 4)^2 = 68.000 $$
-
-Mean Squares: Mean Squares (also known as "Variance") is a function of the Sum of Squares. It is calculated as an unbiased estimate of the population variance.
-
-> $$ MS = \frac{SS}{(N - 1)} = \frac{68.000}{7} = 9.714 $$
-
-Standard Deviation: Standard Deviation ("SD") is a function of Mean Squares. It is also calculated as an unbiased estimate of the population standard deviation.
-
-> $$ SD = \sqrt{MS} = \sqrt{9.714} = 3.117 $$
+> The skewness and kurtosis statistics for the variable are useful for diagnostic purposes.
 
 ### APA Style
 
-The purpose of descriptive statistics is to provide the reader with an idea about the basic elements of the group(s) being studied. Note that this also forms the basis of the in-text presentation of descriptive statistics for other inferential analyses. Both of the following versions present the required information, though the second focuses more on the interpretation of the statistic.
-
-> The eight participants had a mean Outcome of 4.00 (*SD* = 3.12).
+The purpose of descriptive statistics is to provide the reader with an idea about the basic elements of the group(s) being studied. Note that this also forms the basis of the in-text presentation of descriptive statistics for other inferential analyses.
 
 > The participants (*N* = 8) had a low mean Outcome score (*M* = 4.00, *SD* = 3.12).

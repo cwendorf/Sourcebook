@@ -4,6 +4,8 @@ headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
+  - title: Worked Examples | Post Hoc Comparisons
+    url: ../../Intro/worked-examples/posthocs
   - title: APA Style | Summary of Statistics Reporting
     url: ../../Intro/apa-style/summary
 headertwo: CREATE Articles
@@ -33,62 +35,37 @@ The tables of statistics can be used to determine the inferential statistics.
 {: .output}
 ![Screenshot of descriptive table](posthocs2.png)
 
+> The values of the group statistics are calculated separately for each group or condition. They are not identical to the values obtained from analyzing the variable as a whole.
+
 {: .output}
-![Screenshot of inferential table](posthocs3.png) 
+![Screenshot of inferential table](posthocs3.png)
+
+> The table from the ANOVA is useful in the intermediate steps for determining overall group differences and for providing some necessary information for calculations.
 
 The table of inferential statistics shows the key elements to be calculated.
 
 {: .output}
 ![Screenshot of inferential table](posthocs4.png)
 
-### Calculations
-
-Descriptive Statistics: The values of the group statistics are calculated separately for each group. They are not identical to the values obtained from analyzing the variable as a whole.
-
-Mean Differences: Mean Differences (raw effects) are the differences between the means for all pairs of groups. Half of the possible pairwise comparisons are redundant and do not need to be calculated (though the mean differences will have the opposite signs because of subtraction order if they were calculated).
-
-> $$ M_1 - M_2 = 2.000 − 6.000 =  −4.000 $$
+> For the 1 vs. 2 comparison, HSD = -2.309 and *p* = .106. This would not be considered a statistically significant diffeence.
 >
-> $$ M_1 - M_3 = 2.000 − 7.000 = −5.000 $$
+> For the 1 vs. 3 comparison, HSD = -2.887 and *p* = .043. This would be considered a statistically significant difference.
 >
-> $$ M_2 - M_3 = 6.000 − 7.000 = −1.000 $$
+> For the 2 vs. 3 comparison, HSD = -0.577 and *p* = .835. This would not be considered a statistically significant difference.
 
-Standard Error of the Difference: The standard errors are for the difference between the two group means in each comparison. The values are a function of the MS<sub>WITHIN</sub> (from the ANOVA) and the sample sizes. \[In this case, because all groups are of the same size, the standard error for each comparison is the same.\]
-
-> $$ SE_{DIFF} = \sqrt{ \left( \frac{MS_{WITHIN}}{n_{GROUP}} \right) + \left( \frac{MS_{WITHIN}}{n_{GROUP}} \right) } = \sqrt{ \left( \frac{6.000}{4} \right) + \left( \frac{6.000}{4} \right) } = 1.732 $$
-
-Statistical Significance: The *HSD* statistic is a ratio of the mean difference to the standard error of the difference. There is one statistic for each of the comparisons.
-
-> Because the ANOVA has *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9, *HSD<sub>CRITICAL</sub>* = 2.792
-
-> $$ HSD_{1vs2} = \frac{( M_1 - M_2 )}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.309 $$
+> For each comparison, the researcher estimates the true population mean difference adjusted for multiple comparisons (knowing that the estimates could be incorrect).
 >
-> Because *HSD* < *HSD<sub>CRITICAL</sub>*, *p* > .05  
-> This would not be considered a statistically significant finding.
+> For the 1 vs. 2 comparison, the 95% CI is [−8.836, 0.836].
+>
+> For the 1 vs. 3 comparison, the 95% CI is [−9.836, −0.164].
+>
+> For the 2 vs. 3 comparison, the 95% CI is [−5.836, 3.836].
 
-> $$ HSD_{1vs3} = \frac{( M_1 - M_3 )}{SE_{DIFF}} = \frac{-5.000}{1.732} = -2.887 $$
->
-> Because *HSD* > *HSD<sub>CRITICAL</sub>*, *p* < .05  
-> This would be considered a statistically significant finding.
-
-> $$ HSD_{2vs3} = \frac{( M_2 - M_3 )}{SE_{DIFF}} = \frac{-1.000}{1.732} = -0.577 $$
->
-> Because *HSD* < *HSD<sub>CRITICAL</sub>*, *p* > .05  
-> This would not be considered a statistically significant finding.
-
-Confidence Intervals: For *HSD*, calculate the confidence intervals around (centered on) each mean difference separately.
-
-> $$ CI_{1vs2} = ( M_1 - M_2 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -4.000 \pm (2.792) (1.732) = [ −8.836, 0.836 ] $$
->
-> $$ CI_{1vs3} = ( M_1 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -5.000 \pm (2.792) (1.732) = [ −9.836, −0.164 ] $$
->
-> $$ CI_{2vs3} = ( M_2 - M_3 ) \pm (HSD_{CRITICAL}) ( SE_{DIFF}) = -1.000 \pm (2.792) (1.732) = [ −5.836, 3.836 ] $$
->
-> For each comparison, the researcher estimates the true population mean difference (knowing that the estimates could be incorrect).
+> Cohen's d for each comparison can be calculated but is not shown here.
 
 ### APA Style
 
-Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups and usually follows a presentation of the ANOVA (which already includes the descriptive information). 
+Post hoc tests build on the ANOVA results and provide a more focused comparison among the groups and usually follows a presentation of the ANOVA (which already includes the descriptive information).
 
 > A series of Tukey's HSD comparisons revealed that the first group (*n* = 3, *M* = 2.00, *SD* = 2.45) scored substantially and significantly lower Outcome scores than the third group (*n* = 3, *M* = 7.00, *SD* = 2.45), 95% CI [-9.84, -.16], *t*(9) = -2.89, p = 043. However, the other comparisons revealed effectively little and not significant differences between the other groups (*p*s > .05).
 

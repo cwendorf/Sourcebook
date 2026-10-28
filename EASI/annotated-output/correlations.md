@@ -4,6 +4,8 @@ headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
+  - title: Worked Examples | Correlations
+    url: ../../Intro/worked-examples/correlations
   - title: APA Style | Summary of Statistics Reporting
     url: ../../Intro/apa-style/summary
 headertwo: EASI Articles
@@ -30,7 +32,7 @@ relatedthree:
 
 ### Computer Output
 
-The tables of descriptive statistics can be used to assist in calculating the correlation.
+The table of descriptive statistics provides the baseline information.
 
 ```{r}
 Summary Statistics for the Data
@@ -38,7 +40,13 @@ Summary Statistics for the Data
                N       M      SD    Skew    Kurt
 Outcome1   4.000   2.000   2.449   0.544  -2.944
 Outcome2   4.000   6.000   2.449   0.544  -2.944
+```
 
+> The descriptive statistics are calculated separately for each variable.
+
+The tables of correlations and inferential statistics show the key elements to be interpreted.
+
+```{r}
 Covariances for the Data
 
          Outcome1 Outcome2
@@ -50,39 +58,27 @@ Correlations for the Data
          Outcome1 Outcome2
 Outcome1    1.000    0.500
 Outcome2    0.500    1.000
-```
 
-The table of inferential statistics shows the key elements to be calculated.
-
-```{r}
 Hypothesis Tests for the Correlations
 
                           R      SE      df       t       p
 Outcome1 & Outcome2   0.500   0.612   2.000   0.816   0.500
 ```
 
-### Calculations
+> In the upper left and lower right quadrants of the Covariances table, the Sum of Cross Products (really the Sum of Squares) and Covariance (really the Variance) are useful as intermediary calculations. THe SCP and COV in the lower left quadrant describe the relationship between the two variables.
 
-Descriptive Statistics: The descriptive statistics are calculated separately for each variable.
+> The upper left and lower right quadrants of the Correlations table represent the relationship between each variable and itself. Because variables are perfectly correlated with themselves (*r* = 1.0), these quadrants would provide no useful information.
 
-Sum of Cross Products: The Sum of Cross Products ("SCP") is not easily determined solely from the summary statistics of the output, but rather from the data.
+> The lower left quadrant of the Correlations table represents the relationship between the two variables. Here, *r* = .500 indicates a positive relationship.
 
-> $$ SCP = \sum ( X - M_X ) ( Y - M_Y ) = ( 0 - 2.000 ) ( 4 - 6.000 ) + ( 0 - 2.000 )( 7 - 6.000 ) + ( 3 - 2.000 )( 4 - 6.000 ) + (5 - 2.000)(9 - 6.000) = 9.000 $$
+> The upper right quadrant of the Correlations table would be completely redudant with the lwoer left quadrant. Therefore, nothing is presented.
 
-Covariance: The Covariance ("COV") is a function of the Sum of Cross Products and the sample size:
+> In the Hypothesis Tests table, *t* provides the standardized statistic for testing whether the correlation differs from zero. This t value has a two-tailed probability (*p*) of .500, which would mean that this is not a statistically significant correlation.
 
-> $$ COV = \frac{SCP}{(N - 1)} = \frac{9.000}{(4 - 1)} = 3.000 $$
-
-Pearson Correlation Coefficient: The Pearson Correlation Coefficient ("r") is a function of the Covariance and the Standard Deviations of both variables:
-
-> $$ r = \frac{COV}{(SD_X) (SD_Y)} = \frac{3.000}{(2.449) (2.449)} = .500 $$
+> A confidence interval for the correlation is not presented in the output.
 
 ### APA Style
 
-Correlations provide a measure of statistical relationship between two variables. 
-
-> For the participants (*N* = 4), the scores on Outcome 1 (*M* = 2.00, *SD* = 2.45) and Outcome 2 (*M* = 6.00, *SD* = 2.45) were moderately correlated, *r*(2) = .50.
-
-Note that correlations can also have inferential information associated with them (and that this information should be summarized if it is available and of interest).
+Correlations provide a measure of statistical relationship between two variables. Note that correlations can also have inferential information associated with them (and that this information should be summarized if it is available and of interest).
 
 > For the participants (*N* = 4), the scores on Outcome 1 (*M* = 2.00, *SD* = 2.45) and Outcome 2 (*M* = 6.00, *SD* = 2.45) were moderately but not statistically significantly correlated, *r*(2) = .50, 95% CI [-0.89, 0.99], *p* = .500.

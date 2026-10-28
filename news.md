@@ -1,3 +1,8 @@
+## Sourcebook 2.261031
+
+- Reinstated worked examples as a separate section
+- Reworked annotated output to focus on interpretation
+
 ## Sourcebook 2.260603
 
 - Updated all R instructions and analyses

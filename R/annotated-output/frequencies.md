@@ -2,6 +2,8 @@
 title: Sourcebook
 headerone: Intro Articles
 relatedone:
+  - title: Worked Examples | Frequencies
+    url: ../../Intro/worked-examples/frequencies
   - title: APA Style | Summary of Statistics Reporting
     url: ../../Intro/apa-style/summary
 headertwo: R Articles
@@ -28,7 +30,7 @@ relatedthree:
 
 ### Computer Output
 
-The frequency distribution can be used to determine the percentiles and other statistics.
+The frequency distribution provides the baseline information.
 
 ```{r}
 > FrequencyTable <- table(Outcome)
@@ -42,7 +44,13 @@ Outcome
 0.250 0.125 0.250 0.125 0.125 0.125 
 ```
 
-The table of descriptive statistics shows the key elements to be calculated.
+> In each case, the table header row lists all the actual scores in the entire data set.
+
+> “FrequencyTable” indicates the number of times that score exists. For example, the score of 4 was listed 2 times.
+
+> "PropTable" provides the proportion of cases for each possible score. For example, of the 8 scores in the entire data set, the score of 4 was listed 2 times and 2/8 is .250.  
+
+The table of percentiles shows the key elements to be interpreted.
 
 ```{r}
 > length(Outcome)
@@ -52,29 +60,10 @@ The table of descriptive statistics shows the key elements to be calculated.
    0.00    2.25    4.00    4.00    5.50    9.00 
 ```
 
-### Calculations
-
-Frequency and Proportion Tables: The tables provide information about the scores in the data set and the numbers of times (and proportion of times) those scores occurred.
-
-> The table header row lists all the actual scores in the entire data set.  
->
-> “Frequency” indicates the number of times that score exists. For example, the score of 4 was listed 2 times. 
-> 
-> "Proportion" provides the proportion of cases for each possible score. For example, of the 8 scores in the entire data set, the score of 4 was listed 2 times and 2/8 is .250.  
-
-Percentiles: Percentiles provide the scores associated with particular percentile ranks. The "50<sup>th</sup> percentile" (the Median) and the "25<sup>th</sup> percentile" and 75<sup>th</sup> percentile" (collectively known as the Interquartile Range) are the most commonly calculated.
-
-> For example, the 50<sup>th</sup> percentile is the score in the following position:
->
-> $$ \text{Position} = PR ( N - 1 ) + 1 = .50 ( 8 - 1 ) + 1 = 4.5 $$
->
-> Thus, the score at the 50<sup>th</sup> percentile is the 4.5<sup>th</sup> score in the frequency distribution – a score of 4.
-> Similarly, a score of 2.25 is at the 25<sup>th</sup> percentile and a score of 5.50 is at the 75<sup>th</sup> percentile. Notice that, in some cases, the score values are non-integer interpolated values.
+> The score at the 50<sup>th</sup> percentile is 4. Similarly, a score of 2.25 is at the 25<sup>th</sup> percentile and a score of 5.50 is at the 75<sup>th</sup> percentile.
 
 ### APA Style
 
-Though often not reported, simple summary statistics like the median and quartiles provide the reader with basic frequency information about the variable under investigation. Both of the following versions present the required information, though the second focuses more on the interpretation of the statistic.
-
-> For the eight participants, Outcome scores of 2.25, 4.00, and 5.50 represented the 25th, 50th, and 75th percentiles, respectively.
+Though often not reported, simple summary statistics like the median and quartiles provide the reader with basic frequency information about the variable under investigation.
 
 > The participants (*N* = 8) had a low *Mdn* Outcome score of 4.00 (*IQR* = 2.25 – 5.50).

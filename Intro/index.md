@@ -21,7 +21,7 @@ This chapter provides an overview of the types of statistical analyses. This sta
 
 ### Statistical Tables
 
-This chapter provides statistical tables. They are used both as part of the calculation with formulas and part of the interpretations of calculated statistics. 
+This chapter provides statistical tables. They are used both as part of the calculation with formulas and part of the interpretations of calculated statistics.
 
 - [Statistical Tables \| Standard Normal Distribution](./statistical-tables/normal.md)
 - [Statistical Tables \| Student's *t* Distribution](./statistical-tables/t.md)
@@ -29,6 +29,24 @@ This chapter provides statistical tables. They are used both as part of the calc
 - [Statistical Tables \| Snedecor's *F* Distribution](./statistical-tables/F.md)
 - [Statistical Tables \| Power for Eta-Squared](./statistical-tables/powereta.md)
 - [Statistical Tables \| Tukey's *HSD* Distribution](./statistical-tables/hsd.md)
+
+### Worked Examples
+
+This chapter provides a set of worked examples. The raw data, typical computer output, and complete calculations are provided for each type of research design.
+
+- [Worked Examples \| Frequencies](./worked-examples/frequencies.md)
+- [Worked Examples \| Descriptives](./worked-examples/descriptives.md)
+- [Worked Examples \| Standardized Scores](./worked-examples/standardized.md)
+- [Worked Examples \| Correlations](./worked-examples/correlations.md)
+- [Worked Examples \| Regression](./worked-examples/regression.md)
+- [Worked Examples \| Confidence Interval for a Mean](./worked-examples/intervals.md)
+- [Worked Examples \| One Sample t Test](./worked-examples/onesample.md)
+- [Worked Examples \| Paired Samples t Test](./worked-examples/paired.md)
+- [Worked Examples \| Independent Samples t Test](./worked-examples/independent.md)
+- [Worked Examples \| One Way ANOVA](./worked-examples/oneway.md)
+- [Worked Examples \| Post Hoc Comparisons](./worked-examples/posthocs.md)
+- [Worked Examples \| Repeated Measures ANOVA](./worked-examples/repeated.md)
+- [Worked Examples \| Factorial ANOVA](./worked-examples/factorial.md)
 
 ### APA Style
 
