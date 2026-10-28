@@ -22,7 +22,7 @@ relatedthree:
 
 # [JASP Articles](../index.md)
 
-## Data Analysis | Repeated Measures ANOVA 
+## Data Analysis | Repeated Measures ANOVA
 
 ### Selecting the Analysis
 

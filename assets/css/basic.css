@@ -130,12 +130,11 @@ body {
 }
 
 .table {
-  margin-left: 2em;
+  margin-left: 20px;
 }
 
 .screenshot {
-  text-align: center;
-  margin: 10px 0px;
+  margin: 10px 0px 10px 20px;
 }
 .screenshot img {
   display: inline-block;
@@ -149,7 +148,7 @@ body {
 }
 
 .output {
-  margin: 10px 0px 10px 2em;
+  margin: 10px 0px 10px 20px;
 }
 .output img {
   max-width: 95%;

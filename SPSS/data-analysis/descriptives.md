@@ -46,7 +46,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for obtaining frequencies](descriptives2.png)
 
-### Obtaining Descriptive Statistics 
+### Obtaining Descriptive Statistics
  
 6. To obtain summary statistics, select "Statistics." Another dialogue box will appear.
 

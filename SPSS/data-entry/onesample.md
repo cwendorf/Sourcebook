@@ -16,7 +16,7 @@ relatedtwo:
 
 # [SPSS Articles](../index.md)
 
-## Data Entry | One Sample Data 
+## Data Entry | One Sample Data
 
 ### Defining Variables
 

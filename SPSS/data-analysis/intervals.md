@@ -26,7 +26,7 @@ relatedthree:
 
 ## Data Analysis | Confidence Interval for a Mean
 
-### Selecting the Analysis 
+### Selecting the Analysis
 
  1. First, enter the data (described elsewhere). 
 

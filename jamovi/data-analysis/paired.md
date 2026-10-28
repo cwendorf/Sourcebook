@@ -44,7 +44,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for obtaining inferentials](paired2.png)
 
-### Obtaining Additional Statistics 
+### Obtaining Additional Statistics
 
 6. If you wish to view (and alter) the width of the confidence interval, check the "Confidence Interval" box. 
 

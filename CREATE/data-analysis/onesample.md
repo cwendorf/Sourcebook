@@ -22,7 +22,7 @@ relatedthree:
 
 ## Data Analysis | One Sample t Test
 
-### Entering the Data 
+### Entering the Data
 
 1. From the available tabs, select "OneSample".
 

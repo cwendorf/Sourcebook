@@ -30,20 +30,22 @@ relatedtwo:
 
 In more complex examples – such as those with multiple outcome variables or multiple statistical tests – it is often preferable to place statistical information in tables rather than in the text.
 
-### Descriptive Statistics with Correlations 
+### Descriptive Statistics with Correlations
 
 This table provides the reader with both the univariate descriptive statistics (the means and standard deviations) and the bivariate descriptive statistics (the correlations).
+
+{: .table}
 
 | Variable | *n* | *M* | *SD* | 1 | 2 |
 |:--|:-:|:-:|:-:|:-:|:-:|
 | Outcome 1 | 4 | 2.00 | 2.45 | - | |
 | Outcome 2 | 4 | 6.00 | 2.45 | .50 | - |
 
-### Descriptive Statistics with Confidence Intervals 
+### Descriptive Statistics with Confidence Intervals
 
 This table is useful for removing the basic descriptive statistics (the means and standard deviations) and the confidence intervals for the group means from the text.
 
-<table style="text-align: center;">
+<table class="table" style="text-align: center;">
   <thead>
     <tr>
       <th style="text-align: left;"></th>
@@ -82,11 +84,11 @@ This table is useful for removing the basic descriptive statistics (the means an
   </tbody>
 </table>
 
-### Independent and Dependent Samples t Tests 
+### Independent and Dependent Samples t Tests
 
 This table is useful removing the basic descriptive statistics and all inferential statistics about group differences (the statistical significance tests, confidence intervals, and effect sizes) from the text.
 
-<table style="text-align: center;">
+<table class="table" style="text-align: center;">
   <thead>
     <tr>
       <th style="text-align: left;"></th>
@@ -126,11 +128,11 @@ This table is useful removing the basic descriptive statistics and all inferenti
   </tbody>
 </table>
 
-### One Way and Repeated Measures ANOVAs with Post Hoc Tests 
+### One Way and Repeated Measures ANOVAs with Post Hoc Tests
 
 This table is useful for removing the descriptive and inferential statistics about group differences from the text, while also summarizing the post hoc tests.
 
-<table style="text-align: center;">
+<table class="table" style="text-align: center;">
   <thead>
     <tr>
       <th style="text-align: left;"></th>

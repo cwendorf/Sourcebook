@@ -48,7 +48,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for obtaining frequencies](descriptives2.png)
 
-### Obtaining a Histogram 
+### Obtaining a Histogram
 
 7. To obtain a histogram, click on the "Charts" button. Another dialogue box will appear.
 
@@ -59,7 +59,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for obtaining histogram](descriptives3.png)
 
-### Obtaining Descriptive Statistics 
+### Obtaining Descriptive Statistics
  
 10. To obtain summary statistics, select "Statistics." Another dialogue box will appear.
 

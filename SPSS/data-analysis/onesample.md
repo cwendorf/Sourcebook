@@ -35,7 +35,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for selecting analysis](onesample1.png)
 
-### Obtaining Inferential Statistics 
+### Obtaining Inferential Statistics
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 

@@ -22,7 +22,7 @@ relatedthree:
 
 # [jamovi Articles](../index.md)
 
-## Data Analysis | Independent Samples t Test 
+## Data Analysis | Independent Samples t Test
 
 ### Selecting the Analysis
 

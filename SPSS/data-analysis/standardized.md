@@ -20,9 +20,9 @@ relatedthree:
 
 # [SPSS Articles](../index.md)
 
-## Data Analysis | Standardized Scores 
+## Data Analysis | Standardized Scores
 
-### Selecting the Analysis 
+### Selecting the Analysis
 
 1. First, enter the data (described elsewhere). 
 
@@ -31,7 +31,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for selecting analysis](standardized1.png)
 
-### Computing Transformations 
+### Computing Transformations
 
 3. A dialogue box will then appear for you to choose the variables of interest to transform.
 
@@ -44,7 +44,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for computing transformations](standardized2.png)
 
-### Viewing Transformed Scores  
+### Viewing Transformed Scores
 
 7. Note that transformed variables are not included in the output. Rather, they are saved as new variables in the data view window. 
 
@@ -62,7 +62,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for obtaining standardized scores](standardized4.png)
 
-### Computing Standardized Scores 
+### Computing Standardized Scores
 
 11. A dialogue box will then appear for you to choose the variables of interest. 
 
@@ -75,7 +75,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for computing scores](standardized5.png)
 
-### Viewing Standardized Scores  
+### Viewing Standardized Scores
 
 10. After clicking on "OK" in the original dialogue box, a separate window with the output will appear.
 

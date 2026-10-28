@@ -12,7 +12,7 @@ relatedtwo:
 
 # [JASP Articles](../index.md)
 
-## Data Entry | Factorial Data 
+## Data Entry | Factorial Data
 
 ### Defining Variables
 

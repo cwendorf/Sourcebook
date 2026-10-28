@@ -22,7 +22,7 @@ relatedthree:
 
 ## Data Analysis | Post Hoc Comparisons
 
-### Entering the Data 
+### Entering the Data
 
 1. From the available tabs, select "OneWay".
 

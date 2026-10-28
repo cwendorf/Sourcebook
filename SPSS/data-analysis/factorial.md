@@ -35,7 +35,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for selecting analysis](factorial1.png)
 
-### Obtaining the Significance Test 
+### Obtaining the Significance Test
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 

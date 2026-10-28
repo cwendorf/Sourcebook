@@ -24,7 +24,7 @@ relatedthree:
 
 ## Data Analysis | Regression
 
-### Selecting the Analysis 
+### Selecting the Analysis
 
 1.	First, enter data involving multiple variables (described elsewhere). 
 

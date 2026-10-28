@@ -18,9 +18,9 @@ relatedtwo:
 
 # [SPSS Articles](../index.md)
 
-## Data Entry | Paired and Repeated Measures Data 
+## Data Entry | Paired and Repeated Measures Data
 
-### Defining Variables 
+### Defining Variables
 
 1. First, click on the "Variable View" tab on the bottom left-hand corner of the screen. Generally speaking, this is where you will define all of the variables in the data set. 
 

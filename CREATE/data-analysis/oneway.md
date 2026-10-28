@@ -22,7 +22,7 @@ relatedthree:
 
 ## Data Analysis | OneWay ANOVA
 
-### Entering the Data 
+### Entering the Data
 
 1. From the available tabs, select "OneWay".
 

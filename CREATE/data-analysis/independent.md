@@ -20,9 +20,9 @@ relatedthree:
 
 # [CREATE Articles](../index.md)
 
-## Data Analysis | Independent Samples t Test 
+## Data Analysis | Independent Samples t Test
 
-### Entering the Data 
+### Entering the Data
 
 1. From the available tabs, select "Independent".
 

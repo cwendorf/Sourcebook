@@ -35,7 +35,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for selecting analysis](paired1.png)
 
-### Obtaining Inferential Statistics 
+### Obtaining Inferential Statistics
 
 3. A dialogue box will then appear for you to choose the variables of interest. 
 
@@ -48,7 +48,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for obtaining inferentials](paired2.png)
 
-### Altering the Confidence Interval 
+### Altering the Confidence Interval
  
 7. If you wish to alter the width of the confidence interval, select the "Options" button.
 

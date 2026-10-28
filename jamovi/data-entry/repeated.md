@@ -20,7 +20,7 @@ relatedtwo:
 
 ## Data Entry | Paired and Repeated Measures Data
 
-### Defining Variables 
+### Defining Variables
 
 1. First, click on the "Data" tab on the top of the window. Generally speaking, this is where you will enter the data for all of the variables in the data set. 
 

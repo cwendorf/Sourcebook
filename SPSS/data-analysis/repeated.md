@@ -35,7 +35,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for selecting analysis](repeated1.png)
 
-### Labeling the Within-Subjects Variable/Factor 
+### Labeling the Within-Subjects Variable/Factor
 
 3. A dialogue box will then appear for you to create the repeated measures factor. This box is necessary because SPSS does not yet know which columns you wish to identify as repeated measurements of the same underlying factor. 
 

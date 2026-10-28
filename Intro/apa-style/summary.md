@@ -32,12 +32,16 @@ In simple examples - such as those with single outcomes or single statistical te
 
 ### Descriptive Statistics
 
+{: .table}
+
 | **Statistic** | **Purpose** | **APA Example** |
 | --- | --- | --- |
 | Mean | To provide an estimate of the mean of the population from which the sample was selected. | *M* = 4.00 |
 | Standard Deviation | To provide an estimate of the amount of variability/dispersion in the distribution of population scores. | *SD* = 3.12 |
 
 ### Measures of Effect Size
+
+{: .table}
 
 | **Statistic** | **Purpose** | **APA Example** |
 | --- | --- | --- |
@@ -47,12 +51,16 @@ In simple examples - such as those with single outcomes or single statistical te
 
 ### Confidence Intervals
 
+{: .table}
+
 | **Statistic** | **Purpose** | **APA Example** |
 | --- | --- | --- |
 | CI for a Mean | To provide an interval estimate of the population mean. | 95% CI [-5.61, -0.39] |
 | CI for a Mean Difference | To provide an interval estimate of the population mean difference. | 95% CI [-8.24, 0.24] |
 
 ### Statistical Significance Tests
+
+{: .table}
 
 | **Statistic** | **Purpose** | **APA Example** |
 | --- | --- | --- |

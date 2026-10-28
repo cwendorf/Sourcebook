@@ -12,7 +12,7 @@ relatedtwo:
 
 # [jamovi Articles](../index.md)
 
-## Data Entry | Factorial Data 
+## Data Entry | Factorial Data
 
 ### Defining Variables
 

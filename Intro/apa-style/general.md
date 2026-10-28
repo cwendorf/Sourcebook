@@ -45,7 +45,7 @@ Significance testing "is but a starting point and that additional reporting elem
 3. When possible, confidence intervals should be emphasized. "It can be extremely effective to include confidence intervals (for estimates of parameters; functions of parameters such as differences in means; and effect sizes) when reporting results." (p. 88).
 4. "For the reader to appreciate the magnitude or importance of a study's findings, it is almost always necessary to include some measure of effect size" (p. 89). These can be in the original (raw) units or in a standardized metric.
 
-### Information in Text versus Data Displays 
+### Information in Text versus Data Displays
 
 In complex studies, information can be presented in the text, in tables, or in figures. Generally speaking, present the information in the manner that efficiently conveys the information and maximizes understanding.
 

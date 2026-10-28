@@ -12,7 +12,7 @@ relatedtwo:
 
 # [JASP Articles](../index.md)
 
-## Data Entry | Mixed Data 
+## Data Entry | Mixed Data
 
 ### Defining Variables
 

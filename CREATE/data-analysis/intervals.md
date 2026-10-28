@@ -21,7 +21,7 @@ relatedthree:
 # [CREATE Articles](../index.md)
 ## Data Analysis | Confidence Interval for a Mean
 
-### Entering the Data 
+### Entering the Data
 
 1. From the available tabs, select "OneSample".
 

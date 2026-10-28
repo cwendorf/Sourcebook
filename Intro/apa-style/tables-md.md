@@ -34,6 +34,8 @@ In more complex examples – such as those with multiple outcome variables or mu
 
 This table provides the reader with both the univariate descriptive statistics (the means and standard deviations) and the bivariate descriptive statistics (the correlations).
 
+{: .table}
+
 | Variable | *n* | *M* | *SD* | 1 | 2 |
 |:--|:-:|:-:|:-:|:-:|:-:|
 | Outcome 1 | 4 | 2.00 | 2.45 | - | |
@@ -43,6 +45,8 @@ This table provides the reader with both the univariate descriptive statistics (
 
 This table is useful for removing the basic descriptive statistics (the means and
 standard deviations) and the confidence intervals for the group means from the text.
+
+{: .table}
 
 | | Group 1 ||| Group 2 |||
 |:--|:--:|:--:|:--:|:-:|:--:|:--:|
@@ -54,6 +58,8 @@ standard deviations) and the confidence intervals for the group means from the t
 
 This table is useful removing the basic descriptive statistics and all inferential statistics about group differences (the statistical significance tests, confidence intervals, and effect sizes) from the text.
 
+{: .table}
+
 | | Group 1 | Group 2 | Difference | | | |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
 | **Variable** | ***M* (*SD*)** | ***M* (*SD*)** | ***t*(6)** | ***p*** | **95% CI** | **Cohen’s *d*** |
@@ -63,6 +69,8 @@ This table is useful removing the basic descriptive statistics and all inferenti
 ### One Way and Repeated Measures ANOVAs with Post Hoc Tests
 
 This table is useful for removing the descriptive and inferential statistics about group differences from the text, while also summarizing the post hoc tests.
+
+{: .table}
 
 | | Group 1 | Group 2 | Group 3 | Differences | | |  |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|

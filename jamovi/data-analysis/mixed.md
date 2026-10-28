@@ -33,7 +33,7 @@ relatedthree:
 {: .screenshot}
 ![Screenshot for selecting analysis](mixed1.png)
 
-### Labeling the Within-Subjects Variable/Factor 
+### Labeling the Within-Subjects Variable/Factor
 
 3.	A set of options will then appear for you to choose the variables and statistics of interest.
 
