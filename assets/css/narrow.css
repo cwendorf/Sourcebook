@@ -21,7 +21,8 @@
 
 #Main {margin-right: 0; margin-bottom: 20px; clear: both;}
 #Sidebar {width: 100%;}
+.screenshot {margin: 10px 20px; text-align: center;}
+.screenshot img {display: inline-block; max-width: 100%;}
 
 /* Footer Section Changes */
-
 

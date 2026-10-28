@@ -135,12 +135,14 @@ body {
 
 .screenshot {
   margin: 10px 0px 10px 20px;
+  text-align: left;
 }
 .screenshot img {
-  display: inline-block;
+  display: block;
   width: auto;
   max-width: 95%;
   height: auto;
+  margin: 0;
   border: 1px solid #ddd;
   border-radius: 6px;
   padding: 2px;
