@@ -21,6 +21,8 @@ relatedtwo:
     url: ../../R/
   - title: EASI Articles
     url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 # [Intro Articles](../index.md)
@@ -31,7 +33,7 @@ relatedtwo:
 
 The following data set reflects a within-subjects (repeated measures) design with two levels of the factor. The data are presented in a format suitable for entry into statistical software.
 
-{: table}
+{: .table}
 
 |     | Outcome1 | Outcome2 |
 |-----|---------:|---------:|
@@ -46,7 +48,7 @@ The following tables represent typical output from statistical software. Options
 
 The table of descriptive statistics can be used to determine the inferential statistics.
 
-{: table}
+{: .table}
 
 |          | Mean  | Std. Deviation | N   |
 |:---------|------:|---------------:|----:|
@@ -55,14 +57,14 @@ The table of descriptive statistics can be used to determine the inferential sta
 
 The tables of inferential statistics show the key elements to be calculated.
 
-{: table}
+{: .table}
 
 | Between-Subjects |
 | Source   | SS       |	df	  | MS       | F        |  p     | Partial Eta<sup>2</sup> | 
 |:---------|---------:|------:|---------:|---------:|-------:|--------------:|
 | Subjects |   27.000 |     3 |    9.000 | 
 
-{: table}
+{: .table}
 
 | Within-Subjects |
 | Source  | SS       |	df	 | MS       | F        |  p     | Partial Eta<sup>2</sup> | 

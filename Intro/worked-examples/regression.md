@@ -21,6 +21,8 @@ relatedtwo:
     url: ../../R/
   - title: EASI Articles
     url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 # [Intro Articles](../index.md)
@@ -31,7 +33,7 @@ relatedtwo:
 
 The following data set reflects a within-subjects design with two outcome variables. The data are presented in a format suitable for entry into statistical software.
 
-{: table}
+{: .table}
 
 |     | Outcome1 | Outcome2 |
 |-----|---------:|---------:|
@@ -46,7 +48,7 @@ The following tables represent typical output from statistical software. Options
 
 The table of descriptive statistics can be used to assist in calculating the correlation.
 
-{: table}
+{: .table}
 
 |          | Mean  | Std. Deviation | N   |
 |:---------|------:|---------------:|----:|
@@ -55,13 +57,13 @@ The table of descriptive statistics can be used to assist in calculating the cor
 
 The table of inferential statistics shows the key elements to be calculated.
 
-{: table}
+{: .table}
 
 | Model    | R     | R^2   |
 |:---------|------:|------:|
 | 1        | 0.500 | 0.250 |
 
-{: table}
+{: .table}
 
 | Predictor  | Estimate | SE     | t      | p      | Std. Estimate |
 |:-----------|---------:|-------:|-------:|-------:|--------------:|

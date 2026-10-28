@@ -5,7 +5,7 @@ headerone: Intro Articles
 relatedone:
   - title: Worked Examples | Descriptives
     url: ../worked-examples/descriptives
-- title: APA Style | Summary of Statistics Reporting
+  - title: APA Style | Summary of Statistics Reporting
     url: ../apa-style/summary
 headertwo: Software Articles
 relatedtwo:
@@ -19,6 +19,8 @@ relatedtwo:
     url: ../../R/
   - title: EASI Articles
     url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 # [Intro Articles](../index.md)
@@ -29,7 +31,7 @@ relatedtwo:
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in a format suitable for entry into statistical software.
 
-{: table}
+{: .table}
 
 |     | Outcome |
 |-----|--------:|
@@ -48,7 +50,7 @@ The following tables represent typical output from statistical software. Options
 
 The frequency distribution can be used to determine the descriptive statistics.
 
-{: table}
+{: .table}
 
 |     |   | Frequency | Percent | Valid Percent | Cumulative Percent |
 |:------|----------:|--------:|--------------:|-------------------:|------:|
@@ -62,7 +64,7 @@ The frequency distribution can be used to determine the descriptive statistics.
 
 The table of descriptive statistics shows the key elements to be calculated.
 
-{: table}
+{: .table}
 
 |         | N   | Mean  | Std. Deviation |
 |:--------|----:|------:|---------------:|

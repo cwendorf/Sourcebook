@@ -47,6 +47,7 @@ This chapter provides a set of worked examples. The raw data, typical computer o
 - [Worked Examples \| Post Hoc Comparisons](./worked-examples/posthocs.md)
 - [Worked Examples \| Repeated Measures ANOVA](./worked-examples/repeated.md)
 - [Worked Examples \| Factorial ANOVA](./worked-examples/factorial.md)
+- [Worked Examples \| Mixed ANOVA](./worked-examples/mixed.md)
 
 ### APA Style
 

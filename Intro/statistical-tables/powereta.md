@@ -16,6 +16,8 @@ relatedtwo:
     url: ../../R/
   - title: EASI Articles
     url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 

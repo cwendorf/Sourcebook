@@ -7,7 +7,7 @@ relatedone:
     url: ../statistical-tables/F
   - title: Worked Examples | Mixed ANOVA
     url: ../worked-examples/mixed
-- title: APA Style | Summary of Statistics Reporting
+  - title: APA Style | Summary of Statistics Reporting
     url: ../apa-style/summary
 headertwo: Software Articles
 relatedtwo:
@@ -21,6 +21,8 @@ relatedtwo:
     url: ../../R/
   - title: EASI Articles
     url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 # [Intro Articles](../index.md)
@@ -31,7 +33,7 @@ relatedtwo:
 
 The following data set reflects a mixed design with two factors (with two levels for each factor). One Factor is between-subjects, the second is within-subjects. The data are presented in a format suitable for entry into statistical software.
 
-{: table}
+{: .table}
 
 |     | Factor  | Outcome1 | Outcome2 |
 |-----|--------:|---------:|---------:|
@@ -50,7 +52,7 @@ The following tables represent typical output from statistical software. Options
 
 The table of descriptive statistics can be used to determine the inferential statistics.
 
-{: table}
+{: .table}
 
 | FactorA | Outcome  |  N  | Mean  | Std. Deviation | Std. Error Mean |
 |:--------|----------|----:|------:|---------------:|----------------:|
@@ -61,7 +63,7 @@ The table of descriptive statistics can be used to determine the inferential sta
 
 The tables of inferential statistics show the key elements to be calculated.
 
-{: table}
+{: .table}
 
 | Between-Subjects |
 | Source   | SS       |	df	  | MS       | F        |  p     | Partial Eta<sup>2</sup> | 
@@ -69,7 +71,7 @@ The tables of inferential statistics show the key elements to be calculated.
 | Factor   |   25.000 |     1 |   25.000 |    2.885 |  0.140 |         0.325 | 
 | Error    |   52.000 |     6 |    8.667 | 
 
-{: table}
+{: .table}
 
 | Within-Subjects |
 | Source   | SS       |	df	 | MS       | F        |  p     | Partial Eta<sup>2</sup> | 

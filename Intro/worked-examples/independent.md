@@ -7,7 +7,7 @@ relatedone:
     url: ../statistical-tables/t
   - title: Worked Examples | Independent Samples t Test
     url: ../worked-examples/independent
-- title: APA Style | Summary of Statistics Reporting
+  - title: APA Style | Summary of Statistics Reporting
     url: ../apa-style/summary
 headertwo: Software Articles
 relatedtwo:
@@ -21,6 +21,8 @@ relatedtwo:
     url: ../../R/
   - title: EASI Articles
     url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 # [Intro Articles](../index.md)
@@ -31,7 +33,7 @@ relatedtwo:
 
 The following data set reflects a between-subjects design with one factor (that has two levels). The data are presented in a format suitable for entry into statistical software.
 
-{: table}
+{: .table}
 
 |     | Factor | Outcome |
 |-----|-------:|--------:|
@@ -50,7 +52,7 @@ The following tables represent typical output from statistical software. Options
 
 The table of descriptive statistics can be used to determine the inferential statistics.
 
-{: table}
+{: .table}
 
 |         | Group   | N   | Mean  | Std. Deviation | Std. Error Mean |
 |:--------|---------|----:|------:|---------------:|----------------:|
@@ -59,7 +61,7 @@ The table of descriptive statistics can be used to determine the inferential sta
 
 The table of inferential statistics shows the key elements to be calculated.
 
-{: table}
+{: .table}
 
 |         | t         |	df	  | p     | Mean Difference | SE Difference | Lower CI | Upper CI | Cohen's d | 
 |:--------|----------:|------:|------:|----------------:|--------------:|---------:|---------:|----------:|

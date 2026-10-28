@@ -19,6 +19,8 @@ relatedtwo:
     url: ../../R/
   - title: EASI Articles
     url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 # [Intro Articles](../index.md)
@@ -29,7 +31,7 @@ relatedtwo:
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in a format suitable for entry into statistical software.
 
-{: table}
+{: .table}
 
 |     | Outcome |
 |-----|--------:|
@@ -48,7 +50,7 @@ The following tables represent typical output from statistical software. Options
 
 The frequency distribution can be used to determine the descriptive statistics.
 
-{: table}
+{: .table}
 
 |  |      | Frequency | Percent | Valid Percent | Cumulative Percent |
 |:------|----------:|--------:|--------------:|-------------------:|------:|
@@ -62,7 +64,7 @@ The frequency distribution can be used to determine the descriptive statistics.
 
 The table of descriptive statistics can be used to assist in calculating the standardized scores.
 
-{: table}
+{: .table}
 
 |         | N   | Mean  | Std. Deviation |
 |:--------|----:|------:|---------------:|
@@ -76,7 +78,7 @@ Standardized (z) Score: A standardized score is a deviation score divided by the
 >
 > This is repeated for each score in the distribution. In software programs, these would be calculated and presented back in the data set:
 
-{: table}
+{: .table}
 
 |     | Outcome | zOutcome |
 |-----|--------:|---------:|

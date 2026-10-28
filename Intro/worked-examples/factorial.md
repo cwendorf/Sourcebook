@@ -7,7 +7,7 @@ relatedone:
     url: ../statistical-tables/F
   - title: Worked Examples | Factorial ANOVA
     url: ../worked-examples/factorial
-- title: APA Style | Summary of Statistics Reporting
+  - title: APA Style | Summary of Statistics Reporting
     url: ../apa-style/summary
 headertwo: Software Articles
 relatedtwo:
@@ -21,6 +21,8 @@ relatedtwo:
     url: ../../R/
   - title: EASI Articles
     url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 # [Intro Articles](../index.md)
@@ -31,7 +33,7 @@ relatedtwo:
 
 The following data set reflects a between-subjects Factorial design with two factors (with two levels for each factor). The data are presented in a format suitable for entry into statistical software.
 
-{: table}
+{: .table}
 
 |     | FactorA | FactorB | Outcome |
 |-----|--------:|--------:|--------:|
@@ -58,7 +60,7 @@ The following tables represent typical output from statistical software. Options
 
 The table of descriptive statistics can be used to determine the inferential statistics.
 
-{: table}
+{: .table}
 
 | FactorA | FactorB |  N  | Mean  | Std. Deviation | Std. Error Mean |
 |:--------|---------|----:|------:|---------------:|----------------:|
@@ -69,7 +71,7 @@ The table of descriptive statistics can be used to determine the inferential sta
 
 The table of inferential statistics shows the key elements to be calculated.
 
-{: table}
+{: .table}
 
 | Source      | SS       |	df	 | MS       | F        |  p     | Partial Eta<sup>2</sup> | 
 |:------------|---------:|------:|---------:|---------:|-------:|--------------:|

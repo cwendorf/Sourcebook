@@ -7,7 +7,7 @@ relatedone:
     url: ../statistical-tables/t
   - title: Worked Examples | Confidence Interval for a Mean
     url: ../worked-examples/intervals
-- title: APA Style | Summary of Statistics Reporting
+  - title: APA Style | Summary of Statistics Reporting
     url: ../apa-style/summary
 headertwo: Software Articles
 relatedtwo:
@@ -21,6 +21,8 @@ relatedtwo:
     url: ../../R/
   - title: EASI Articles
     url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 # [Intro Articles](../index.md)
@@ -31,7 +33,7 @@ relatedtwo:
 
 The following data set reflects one sample of eight individuals measured on one variable. The data are presented in a format suitable for entry into statistical software.
 
-{: table}
+{: .table}
 
 |     | Outcome |
 |-----|--------:|
@@ -50,7 +52,7 @@ The following tables represent typical output from statistical software. Options
 
 The table of descriptive statistics can be used to determine the inferential statistics.
 
-{: table}
+{: .table}
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
 |:--------|----:|------:|---------------:|----------------:|
@@ -58,7 +60,7 @@ The table of descriptive statistics can be used to determine the inferential sta
 
 The table of inferential statistics shows the key elements to be calculated.
 
-{: table}
+{: .table}
 
 |         |  Mean | Lower CI | Upper CI |
 |:--------|------:|---------:|---------:|

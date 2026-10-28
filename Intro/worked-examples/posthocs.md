@@ -21,6 +21,8 @@ relatedtwo:
     url: ../../R/
   - title: EASI Articles
     url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 # [Intro Articles](../index.md)
@@ -31,7 +33,7 @@ relatedtwo:
 
 The following data set reflects a between-subjects design with one factor (with three levels). The data are presented in a format suitable for entry into statistical software.
 
-{: table}
+{: .table}
 
 |     | Factor | Outcome |
 |-----|-------:|--------:|
@@ -54,7 +56,7 @@ The following tables represent typical output from statistical software. Options
 
 The tables of statistics can be used to determine the inferential statistics.
 
-{: table}
+{: .table}
 
 |         | N   | Mean  | Std. Deviation | Std. Error Mean |
 |:--------|----:|------:|---------------:|----------------:|
@@ -62,7 +64,7 @@ The tables of statistics can be used to determine the inferential statistics.
 | Level 2 | 4   | 6.000 | 2.449          | 1.225           |
 | Level 3 | 4   | 7.000 | 2.449          | 1.225           |
 
-{: table}
+{: .table}
 
 | Source  | SS       |	df	 | MS       | F        |  p     |    Eta<sup>2</sup> | 
 |:--------|---------:|------:|---------:|---------:|-------:|---------:|
@@ -72,7 +74,7 @@ The tables of statistics can be used to determine the inferential statistics.
 
 The table of inferential statistics shows the key elements to be calculated.
 
-{: table}
+{: .table}
 
 | Factor  | Factor  | Mean Difference |SE Difference | HSD      | p     | Lower CI | Upper CI |
 |:--------|---------|----------------:|-------------:|---------:|------:|---------:|---------:|
