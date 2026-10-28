@@ -133,7 +133,7 @@ body {
   margin-left: 20px;
 }
 
-.screenshot {
+#MainContent .screenshot {
   margin: 10px 0px 10px 20px;
 }
 .screenshot img {
@@ -141,7 +141,7 @@ body {
   padding: 2px;
 }
 
-.output {
+#MainContent .output {
   margin: 10px 0px 10px 20px;
 }
 .output img {
