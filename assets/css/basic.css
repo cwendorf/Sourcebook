@@ -133,11 +133,11 @@ body {
   margin-left: 20px;
 }
 
-.screenshot {
+.screenshot, .output {
   margin: 10px 0px;
   text-align: left;
 }
-.screenshot img {
+.screenshot img, img.screenshot, .output img, img.output {
   display: block;
   width: auto;
   max-width: 95%;
@@ -145,15 +145,10 @@ body {
   margin: 0 0 0 20px;
   padding: 2px;
   box-sizing: border-box;
+}
+.screenshot img, img.screenshot {
   border: 1px solid #ddd;
   border-radius: 6px;
-}
-.output {
-  margin: 10px 0px 10px 20px;
-}
-.output img {
-  max-width: 95%;
-  padding: 2px;
 }
 
 /* Main Section Column Styles */
