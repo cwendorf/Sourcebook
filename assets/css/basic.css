@@ -133,22 +133,22 @@ body {
   margin-left: 20px;
 }
 
-.screenshot, .output {
-  margin: 10px 0px;
-  text-align: left;
+.screenshot {
+  margin: 10px 0px 10px 20px;
 }
-.screenshot img, img.screenshot, .output img, img.output {
-  display: block;
-  width: auto;
+.screenshot img {
   max-width: 95%;
-  height: auto;
-  margin: 0 0 0 20px;
   padding: 2px;
-  box-sizing: border-box;
-}
-.screenshot img, img.screenshot {
   border: 1px solid #ddd;
   border-radius: 6px;
+}
+
+.output {
+  margin: 10px 0px 10px 20px;
+}
+.output img {
+  max-width: 95%;
+  padding: 2px;
 }
 
 /* Main Section Column Styles */
