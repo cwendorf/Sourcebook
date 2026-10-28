@@ -135,24 +135,18 @@ body {
 
 .screenshot {
   margin: 10px 0px 10px 20px;
-  text-align: left;
 }
 .screenshot img {
   max-width: 95%;
   padding: 2px;
-  border: 1px solid #ddd;
-  border-radius: 6px;
 }
 
 .output {
   margin: 10px 0px 10px 20px;
-  text-align: left;
 }
 .output img {
   max-width: 95%;
   padding: 2px;
-  border: 1px solid #ddd;
-  border-radius: 6px;
 }
 
 /* Main Section Column Styles */
