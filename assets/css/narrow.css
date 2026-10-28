@@ -21,11 +21,8 @@
 
 #Main {margin-right: 0; margin-bottom: 20px; clear: both;}
 #Sidebar {width: 100%;}
-.screenshot {margin: 10px 20px; text-align: center;}
-.screenshot img {display: inline-block; max-width: 100%; margin: 0;}
-img.screenshot {display: block; max-width: calc(100% - 40px); margin: 10px auto;}
-.output {margin: 10px 20px; text-align: center;}
-.output img {display: inline-block; max-width: 100%; margin: 0;}
-img.output {display: block; max-width: calc(100% - 40px); margin: 10px auto;}
+.screenshot, .output {margin: 10px 20px; text-align: center;}
+.screenshot img, .output img {display: inline-block; max-width: 100%; margin: 0;}
+img.screenshot, img.output {display: block; max-width: calc(100% - 40px); margin: 10px auto;}
 
 /* Footer Section Changes */

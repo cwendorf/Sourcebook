@@ -133,33 +133,22 @@ body {
   margin-left: 20px;
 }
 
-.screenshot {
+.screenshot, .output {
   margin: 10px 0px;
   text-align: left;
 }
-.screenshot img, img.screenshot {
+.screenshot img, img.screenshot, .output img, img.output {
   display: block;
   width: auto;
   max-width: 95%;
   height: auto;
+  padding: 2px;
   margin: 0 0 0 20px;
+  box-sizing: border-box;
+}
+.screenshot img, img.screenshot {
   border: 1px solid #ddd;
   border-radius: 6px;
-  padding: 2px;
-  box-sizing: border-box;
-}
-
-.output {
-  margin: 10px 0px;
-}
-.output img, img.output {
-  display: block;
-  width: auto;
-  max-width: 95%;
-  height: auto;
-  padding: 2px;
-  margin: 0 0 0 20px;
-  box-sizing: border-box;
 }
 
 /* Main Section Column Styles */
