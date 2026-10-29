@@ -1,4 +1,4 @@
-## Sourcebook 2.261031
+## Sourcebook 2.261029
 
 - Reinstated worked examples as a separate section
 - Reworked annotated output to focus on interpretation
