@@ -71,6 +71,6 @@ Factor   0.509   0.016   0.665
 
 The ANOVA provides an omnibus test of the differences across multiple groups. Because the ANOVA tests the overall differences among the groups, the text discusses the differences in general.
 
-> A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 3, *M* = 2.00, *SD* = 2.45), the second group (*n* = 3, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 3, *M* = 7.00, *SD* = 2.45) were large and statistically significant, *F*(2,9) = 4.67, *p* = .041, *η<sup>2</sup>* = .51.
+> A one way ANOVA showed that the differences in Outcome scores between the first group (*n* = 4, *M* = 2.00, *SD* = 2.45), the second group (*n* = 4, *M* = 6.00, *SD* = 2.45), and the third group (*n* = 4, *M* = 7.00, *SD* = 2.45) were large and statistically significant, *F*(2,9) = 4.67, *p* = .041, *η<sup>2</sup>* = .51.
 
 Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.

@@ -69,6 +69,6 @@ Comparison   1.633   0.943  -0.215   3.481
 
 For this analysis, the emphasis is on comparing the means from two groups. Here again the summary and the inferential statistics focus on the difference.  
 
-> An independent samples *t* test showed that the difference in Outcome scores between the first group (*n* = 4, *M* = 4.00, *SD* = 2.45) and the second group (*n* = 3, *M* = 6.00, *SD* = 2.45) was very large but not statistically significant, *t*(6) = 2.31, *p* = .060, 95% CI [-0.24, 8.24], *d* = 1.63.
+> An independent samples *t* test showed that the difference in Outcome scores between the first group (*n* = 4, *M* = 4.00, *SD* = 2.45) and the second group (*n* = 4, *M* = 6.00, *SD* = 2.45) was very large but not statistically significant, *t*(6) = 2.31, *p* = .060, 95% CI [-0.24, 8.24], *d* = 1.63.
 
 Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
