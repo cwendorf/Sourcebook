@@ -67,4 +67,4 @@ Outcome   0.000   2.250   4.000   5.500   9.000
 
 Though often not reported, simple summary statistics like the median and quartiles provide the reader with basic frequency information about the variable under investigation.
 
-> The participants (*N* = 8) had a low *Mdn* Outcome score of 4.00 (*IQR* = 2.25 – 5.50).
+> The participants (*N* = 8) had a low median Outcome score (*Mdn* = 4.00, *IQR* = 2.25 – 5.50).

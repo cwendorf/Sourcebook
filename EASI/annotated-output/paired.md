@@ -69,6 +69,6 @@ Comparison   1.633   0.782   0.101   3.165
 
 For this analysis, the differences between two measurements on one set of people are being compared. Thus, the summary and the inferential statistics focus on that difference.
 
-> A paired samples *t* test showed that the difference in Outcome scores (*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was very large and statistically significant, *t*(3) = 3.27, *p* = .047, 95% CI [0.10, 7.90], *d* = 1.63.
+> A paired samples *t* test showed that, among participants (*N* = 4), the difference in Outcome scores between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was very large and statistically significant, *t*(3) = 3.27, *p* = .047, 95% CI [0.10, 7.90], *d* = 1.63.
 
-Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
+Alternatively, the sample sizes, means, standard deviations, and confidence intervals could be presented in a table or figure.

@@ -117,4 +117,4 @@ The Factorial ANOVA provides statistics for the main effects and interactions in
 
 > A 2 (Factor A) x 2 (Factor B) ANOVA indicated a small and non-statistically significant main effect for Factor A, *F*(1,12) = 0.67, *p* = .430, partial *η<sup>2</sup>* = .05, and for Factor B, *F*(1,12) = 2.67, *p* = .128, partial *η<sup>2</sup>* = .18. In contrast, the interaction was large in magnitude and statistically significant, *F*(1,12) = 6.00, *p* = .031, partial *η<sup>2</sup>* = .33.
 
-Typically, the means, standard deviations, and confidence intervals would be presented in a table or figure associated with this text.
+Typically, the sample sizes, means, standard deviations, and confidence intervals would be presented in a table or figure.

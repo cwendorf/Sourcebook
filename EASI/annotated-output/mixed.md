@@ -147,4 +147,4 @@ The mixed ANOVA provides statistics for the main effects and interaction in a mi
 
 > A 2 (Factor) × 2 (Time) mixed ANOVA showed that the small main effect of Factor was not statistically significant, *F*(1,6) = 2.89, *p* = .140, partial *η*<sup>2</sup> = .33, nor was the moderately sized interaction, *F*(1,6) = 2.70, *p* = .152, partial *η*<sup>2</sup> = .31. However, the large main effect of Time was statistically significant, *F*(1,6) = 7.50, *p* = .034, partial *η*<sup>2</sup> = .56.
 
-Typically, the means, standard deviations, and confidence intervals would be presented in a table or figure associated with this text.
+Typically, the sample sizes, means, standard deviations, and confidence intervals would be presented in a table or figure.

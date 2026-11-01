@@ -52,6 +52,6 @@ The tables of inferential statistics show the key elements to be interpreted.
 
 The RMD ANOVA tests for overall differences across the repeated measures. As such, its summary parallels that of the One Way ANOVA.
 
-> A repeated measures ANOVA showed that the difference in Outcome scores (*N* = 4) between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was very large and statistically significant, *F*(1,3) = 10.67, *p* = .047, partial *η<sup>2</sup>* = .78.
+> A repeated measures ANOVA showed that, among participants (*N* = 4), the difference in Outcome scores between the first time point (*M* = 2.00, *SD* = 2.45) and second time point (*M* = 6.00, *SD* = 2.45) was very large and statistically significant, *F*(1,3) = 10.67, *p* = .047, partial *η<sup>2</sup>* = .78.
 
-Alternatively, the means, standard deviations, and confidence intervals could be presented in a table or figure associated with this text.
+Alternatively, the sample sizes, means, standard deviations, and confidence intervals could be presented in a table or figure.
