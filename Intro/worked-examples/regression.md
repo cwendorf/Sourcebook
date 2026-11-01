@@ -96,4 +96,4 @@ Multiple Correlation: In bivariate regression, the Multiple Correlation is the s
 
 Proportion of Variance Accounted For: The Proportion of Variance Accounted For is a function of the Correlation:
 
-> $$ R^2 = .0500^2 = 0.250 $$
+> $$ R^2 = .500^2 = 0.250 $$

@@ -87,7 +87,7 @@ Within Groups Statistics: When multiple groups are used, it is necessary to get 
 >
 > $$ SD_{WITHIN} = \sqrt{MS_{WITHIN}} = \sqrt{6.000} = 2.449 $$
 
-Standard Error of the Difference: The standard error of the difference is a function of the two groups’ individual standard errors. 
+Standard Error of the Difference: The standard error of the difference is a function of the two groups’ individual standard errors.
 
 > When the two sample sizes are equal:
 >
@@ -103,8 +103,8 @@ Statistical Significance: The *t* statistic is the ratio of the mean difference 
 >
 > $$ df = ( n_1 - 1 ) + ( n_2 - 1) = N - 2 = 8 - 2 = 6  $$
 >
-> With *df* = 6, *t<sub>CRITICAL</sub>* = 2.447  
-> Because *t* < *t<sub>CRITICAL</sub>*, *p* > .05  
+> With *df* = 6, *t<sub>CRITICAL</sub>* = ±2.447  
+> Because *t* is less extreme than *t<sub>CRITICAL</sub>*, *p* > .05  
 
 Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 

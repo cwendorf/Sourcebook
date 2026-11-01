@@ -98,19 +98,19 @@ Standard Error of the Difference: These standard errors are for the difference b
 
 Statistical Significance: The *HSD* statistic is a ratio of the mean difference to the standard error of the difference. There is one statistic for each of the comparisons.
 
-> Because the ANOVA has *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9, *HSD<sub>CRITICAL</sub>* = 2.792
+> Because the ANOVA has *df<sub>BETWEEN</sub>* = 2 and *df<sub>WITHIN</sub>* = 9, *HSD<sub>CRITICAL</sub>* = ±2.792
 
-> $$ HSD_{1vs2} = \frac{( M_1 - M_2 )}{SE_{DIFF}} = \frac{-4.000}{1.732} = 2.309 $$
+> $$ HSD_{1vs2} = \frac{( M_1 - M_2 )}{SE_{DIFF}} = \frac{-4.000}{1.732} = -2.309 $$
 >
-> Because *HSD* < *HSD<sub>CRITICAL</sub>*, *p* > .05  
+> Because *HSD* is less extreme than *HSD<sub>CRITICAL</sub>*, *p* > .05  
 
-> $$ HSD_{1vs3} = \frac{( M_1 - M_3 )}{SE_{DIFF}} = \frac{-5.000}{1.732} = 2.887 $$
+> $$ HSD_{1vs3} = \frac{( M_1 - M_3 )}{SE_{DIFF}} = \frac{-5.000}{1.732} = -2.887 $$
 >
-> Because *HSD* > *HSD<sub>CRITICAL</sub>*, *p* < .05  
+> Because *HSD* is more extreme than *HSD<sub>CRITICAL</sub>*, *p* < .05  
 
-> $$ HSD_{2vs3} = \frac{( M_2 - M_3 )}{SE_{DIFF}} = \frac{-1.000}{1.732} = 0.577 $$
+> $$ HSD_{2vs3} = \frac{( M_2 - M_3 )}{SE_{DIFF}} = \frac{-1.000}{1.732} = -0.577 $$
 >
-> Because *HSD* < *HSD<sub>CRITICAL</sub>*, *p* > .05  
+> Because *HSD* is less extreme than *HSD<sub>CRITICAL</sub>*, *p* > .05  
 
 Confidence Intervals: For *HSD*, calculate the confidence intervals around (centered on) each mean difference separately.
 

@@ -155,7 +155,7 @@ Within-Subjects Effect Statistics: The within-subjects effects include the main 
 
 > Interaction:  
 >
-> $$ SS_{INTERACTION} = \sum n_{GROUP} (M_{GROUP} - M_{FACTOR} - M_{TIME} + M_{TOTAL})^2 = 4(2.000 - 4.000 - 4.000 + 5.250)^2 + 4(6.000 - 4.000 - 4.000 + 5.250)^2 + 4(6.000 - 6.500 - 4.000 + 5.250)^2 + 4(7.000 - 6.500 - 6.500 + 5.250)^2 = 9.000 $$
+> $$ SS_{INTERACTION} = \sum n_{GROUP} (M_{GROUP} - M_{FACTOR} - M_{TIME} + M_{TOTAL})^2 = 4(2.000 - 4.000 - 4.000 + 5.250)^2 + 4(6.000 - 4.000 - 6.500 + 5.250)^2 + 4(6.000 - 6.500 - 4.000 + 5.250)^2 + 4(7.000 - 6.500 - 6.500 + 5.250)^2 = 9.000 $$
 >
 > $$ df_{INTERACTION} = (\text{# levels of Factor} - 1)(\text{# levels of Time} - 1) = (2 - 1)(2 - 1) = 1 $$
 >
@@ -183,14 +183,14 @@ Statistical Significance: Each *F* statistic is the ratio of an effect mean squa
 > $$ F_{TIME} = \frac{MS_{TIME}}{MS_{ERROR(WITHIN)}} = \frac{25.000}{3.333} = 7.500 $$
 >
 > With *df<sub>TIME</sub>* = 1 and *df<sub>ERROR(WITHIN)</sub>* = 6, *F<sub>CRITICAL</sub>* = 5.987  
-> Because *F<sub>FACTOR</sub>* > *F<sub>CRITICAL</sub>*, *p* < .05  
+> Because *F<sub>TIME</sub>* > *F<sub>CRITICAL</sub>*, *p* < .05  
 
 > Interaction:
 >
 > $$ F_{INTERACTION} = \frac{MS_{INTERACTION}}{MS_{ERROR(WITHIN)}} = \frac{9.000}{3.333} = 2.700 $$
 >
 > With *df<sub>INTERACTION</sub>* = 1 and *df<sub>ERROR(WITHIN)</sub>* = 6, *F<sub>CRITICAL</sub>* = 5.987  
-> Because *F<sub>FACTOR</sub>* < *F<sub>CRITICAL</sub>*, *p* > .05  
+> Because *F<sub>INTERACTION</sub>* < *F<sub>CRITICAL</sub>*, *p* > .05  
 
 Confidence Intervals: For Mixed ANOVA, calculate the confidence intervals around (centered on) each mean separately.
 
@@ -204,7 +204,7 @@ Confidence Intervals: For Mixed ANOVA, calculate the confidence intervals around
 >
 > $$ CI_{FACTOR_1TIME_2} = M_{FACTOR_1TIME_2} \pm (t_{CRITICAL}) (SE_{FACTOR_1TIME_2}) = 6.000 \pm (2.447) (1.225) = [ 3.003, 8.997 ] $$
 >
-> $$ CI_{FACTOR_2TIME_1} = M_{FACTOR_2TIME_1} \pm (t_{CRITICAL}) (SE_{FACTOR_2TIME_1}) = 6.000 \pm (2.447) (1.225) = [ 3.3003, 8.997 ] $$
+> $$ CI_{FACTOR_2TIME_1} = M_{FACTOR_2TIME_1} \pm (t_{CRITICAL}) (SE_{FACTOR_2TIME_1}) = 6.000 \pm (2.447) (1.225) = [ 3.003, 8.997 ] $$
 >
 > $$ CI_{FACTOR_2TIME_2} = M_{FACTOR_2TIME_2} \pm (t_{CRITICAL}) (SE_{FACTOR_2TIME_2}) = 7.000 \pm (2.447) (1.225) = [ 4.003, 9.997 ] $$
 

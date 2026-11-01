@@ -99,9 +99,9 @@ Percentile Rank: The 50th percentile (the Median) and the 25th and 75th percenti
 
 Percentile Point: Percentiles provide the scores associated with particular percentile ranks. These can be estimated using the z score formula and the descriptive information from the original variable:
 
-> For PR = .250: -.680 = (Y - 4.000) / 3.117; Y = 1.880  
+> For PR = .250: -0.680 = (Y - 4.000) / 3.117; Y = 1.880  
 > For PR = .500: 0.000 = (Y - 4.000) / 3.117; Y = 4.000  
-> For PR = .750: 0.000 = (Y - 4.000) / 3.117; Y = 6.120  
+> For PR = .750: 0.680 = (Y - 4.000) / 3.117; Y = 6.120  
 
 Mean (of the z Scores): The mean (or arithmetic average) is calculated as an unbiased estimate of the population mean. Here, the mean is determined as the average of the scores weighted by their frequencies:
 

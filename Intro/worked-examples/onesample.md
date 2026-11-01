@@ -80,8 +80,8 @@ Statistical Significance: The *t* statistic is the ratio of the mean difference 
 
 > $$ t = \frac{M_{DIFF}}{SE_M} = \frac{-3.000}{1.102} = -2.722 $$
 >
-> With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365  
-> Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05  
+> With *df* = 7, *t<sub>CRITICAL</sub>* = ±2.365  
+> Because *t* is more extreme than *t<sub>CRITICAL</sub>*, *p* < .05  
 
 Confidence Interval: For this design, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 
@@ -89,4 +89,4 @@ Confidence Interval: For this design, the appropriate confidence interval is aro
 
 Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
 
-> $$ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = 0.963 $$
+> $$ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = -0.963 $$

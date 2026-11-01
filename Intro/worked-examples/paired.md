@@ -78,8 +78,8 @@ Statistical Significance: The *t* statistic is the ratio of the mean difference 
 
 > $$ t = \frac{M_{DIFF}}{SE_M} = \frac{-4.000}{1.225} = -3.266 $$
 >
-> With *df* = 3, *t<sub>CRITICAL</sub>* = 3.182  
-> Because *t* > *t<sub>CRITICAL</sub>*, *p* < .05  
+> With *df* = 3, *t<sub>CRITICAL</sub>* = ±3.182  
+> Because *t* is more extreme than *t<sub>CRITICAL</sub>*, *p* < .05  
 
 Confidence Interval: For this test, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
 

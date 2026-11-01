@@ -83,3 +83,10 @@ Covariance: The Covariance is a function of the Sum of Cross Products and the sa
 Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a function of the Covariance and the Standard Deviations of both variables:
 
 > $$ r = \frac{COV}{(SD_X) (SD_Y)} = \frac{3.000}{(2.449) (2.449)} = .500 $$
+
+Statistical Significance: The *t* statistic is a function of the Pearson correlation coefficient and the sample size.
+
+> $$ t = \frac{r}{\sqrt{\frac{1-r^2}{N-2}}} = \frac{.500}{\sqrt{\frac{1-(.500)^2}{4-2}}} = .816 $$
+>
+> With *df* = *N* − 2 = 2, *t<sub>CRITICAL</sub>* = ±4.303  
+> Because *t* is less extreme than *t<sub>CRITICAL</sub>*, *p* > .05.

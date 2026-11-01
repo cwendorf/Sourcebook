@@ -74,6 +74,6 @@ Standard Error of the Mean: The standard error of the mean provides an estimate 
 
 Confidence Interval for the Mean: For this analysis, the appropriate confidence interval is around (centered on) the mean.
 
-> With *df* = 7, *t<sub>CRITICAL</sub>* = 2.365
+> With *df* = 7, *t<sub>CRITICAL</sub>* = ±2.365
 >
 > $$ CI_M = M \pm (t_{CRITICAL}) (SE_M) = 4.000 \pm (2.365) (1.102) = [ 1.394, 6.606 ] $$
