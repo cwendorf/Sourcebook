@@ -27,6 +27,7 @@ relatedthree:
   - title: CREATE Articles
     url: ../../CREATE/
 ---
+
 # [Examples Articles](../index.md)
 
 ## Learning Activities | Factorial ANOVA
@@ -51,8 +52,3 @@ relatedthree:
 - What additional comparisons or a plot would help explain the interaction's pattern in a study with more than two levels per factor?
 - How might unequal cell sizes affect marginal means and the interpretation of main effects?
 - What assumptions and design details would you examine before generalizing these results or planning a replication?
-
-### References
-
-- [Factorial ANOVA worked example](../worked-examples/factorial)
-- Annotated output: [EASI](../../EASI/annotated-output/factorial), [JASP](../../JASP/annotated-output/factorial), [R](../../R/annotated-output/factorial), [SPSS](../../SPSS/annotated-output/factorial), [jamovi](../../jamovi/annotated-output/factorial), [CREATE](../../CREATE/annotated-output/factorial)

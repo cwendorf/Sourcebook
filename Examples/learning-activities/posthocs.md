@@ -27,6 +27,7 @@ relatedthree:
   - title: CREATE Articles
     url: ../../CREATE/
 ---
+
 # [Examples Articles](../index.md)
 
 ## Learning Activities | Post Hoc Comparisons
@@ -50,8 +51,3 @@ relatedthree:
 - How would your choice of follow-up comparisons change if the hypotheses were planned before data collection?
 - What would you consider when choosing between a familywise procedure and a method designed for a different comparison family?
 - How might a future study increase the precision of estimated differences without treating statistical significance as practical importance?
-
-### References
-
-- [Post hoc comparisons worked example](../worked-examples/posthocs)
-- Annotated output: [EASI](../../EASI/annotated-output/posthocs), [JASP](../../JASP/annotated-output/posthocs), [R](../../R/annotated-output/posthocs), [SPSS](../../SPSS/annotated-output/posthocs), [jamovi](../../jamovi/annotated-output/posthocs), [CREATE](../../CREATE/annotated-output/posthocs)

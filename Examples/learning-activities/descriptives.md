@@ -25,6 +25,7 @@ relatedthree:
   - title: CREATE Articles
     url: ../../CREATE/
 ---
+
 # [Examples Articles](../index.md)
 
 ## Learning Activities | Descriptives

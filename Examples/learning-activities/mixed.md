@@ -27,6 +27,7 @@ relatedthree:
   - title: CREATE Articles
     url: ../../CREATE/
 ---
+
 # [Examples Articles](../index.md)
 
 ## Learning Activities | Mixed ANOVA
@@ -50,8 +51,3 @@ relatedthree:
 - What changes to the design, such as adding measurement occasions or groups, would help characterize when and for whom an outcome changes?
 - How could missing repeated observations or differences in baseline scores affect the analysis and its interpretation?
 - What additional contrasts or visualizations would you plan if a future study found evidence that change differs by group?
-
-### References
-
-- [Mixed ANOVA worked example](../worked-examples/mixed)
-- Annotated output: [EASI](../../EASI/annotated-output/mixed), [JASP](../../JASP/annotated-output/mixed), [R](../../R/annotated-output/mixed), [SPSS](../../SPSS/annotated-output/mixed), [jamovi](../../jamovi/annotated-output/mixed)

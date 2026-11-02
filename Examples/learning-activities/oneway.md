@@ -27,6 +27,7 @@ relatedthree:
   - title: CREATE Articles
     url: ../../CREATE/
 ---
+
 # [Examples Articles](../index.md)
 
 ## Learning Activities | One-Way ANOVA
@@ -50,8 +51,3 @@ relatedthree:
 - How would you choose and justify a follow-up method for a future study with planned comparisons or unequal variances?
 - What additional evidence would help determine whether the observed group-mean differences are practically important?
 - How might larger samples, unequal group sizes, or violations of ANOVA assumptions change the study's conclusions?
-
-### References
-
-- [One-way ANOVA worked example](../worked-examples/oneway)
-- Annotated output: [EASI](../../EASI/annotated-output/oneway), [JASP](../../JASP/annotated-output/oneway), [R](../../R/annotated-output/oneway), [SPSS](../../SPSS/annotated-output/oneway), [jamovi](../../jamovi/annotated-output/oneway), [CREATE](../../CREATE/annotated-output/oneway)
