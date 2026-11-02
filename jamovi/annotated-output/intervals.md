@@ -4,6 +4,8 @@ headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
     url: ../../Intro/statistical-tables/t
+  - title: Worked Examples | Confidence Interval for a Mean
+    url: ../../Intro/worked-examples/intervals
   - title: APA Style | Summary of Statistics Reporting
     url: ../../Intro/apa-style/summary
 headertwo: jamovi Articles
