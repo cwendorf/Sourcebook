@@ -1,13 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
-  - title: Statistical Tables | Student's t
-    url: ../../Intro/statistical-tables/t
+  - title: Learning Activities | Paired Samples t Test
+    url: ../../Examples/learning-activities/paired
   - title: Worked Examples | Paired Samples t Test
-    url: ../../Intro/worked-examples/paired
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/paired
 headertwo: R Articles
 relatedtwo:
   - title: Data Entry | Paired and Repeated Measures Data

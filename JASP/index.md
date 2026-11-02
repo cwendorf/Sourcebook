@@ -16,6 +16,8 @@ relatedtwo:
 
 ## [JASP Articles](./index.md)
 
+JASP is statistical software for analyzing data through a graphical interface. Use this index when you have a procedure in mind and want to connect it with the analysis and results in JASP.
+
 ### Frequencies
 
 These pages show how to obtain and calculate frequency distributions and percentiles.

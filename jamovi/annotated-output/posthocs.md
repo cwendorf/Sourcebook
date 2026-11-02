@@ -1,13 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
-  - title: Statistical Tables | Student's t
-    url: ../../Intro/statistical-tables/t
+  - title: Learning Activities | Post Hoc Comparisons
+    url: ../../Examples/learning-activities/posthocs
   - title: Worked Examples | Post Hoc Comparisons
-    url: ../../Intro/worked-examples/posthocs
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/posthocs
 headertwo: jamovi Articles
 relatedtwo:
   - title: Data Entry | Two and Multiple Sample Data

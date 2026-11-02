@@ -4,13 +4,17 @@ has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Snedecor's F
-    url: ../statistical-tables/F
-  - title: Worked Examples | OneWay ANOVA
-    url: ../worked-examples/oneway
+    url: ../../Intro/statistical-tables/F
   - title: APA Style | Summary of Statistics Reporting
-    url: ../apa-style/summary
-headertwo: Software Articles
+    url: ../../Intro/apa-style/summary
+headertwo: Examples Articles
 relatedtwo:
+  - title: Learning Activities | OneWay ANOVA
+    url: ../../Examples/learning-activities/oneway
+  - title: Worked Examples | OneWay ANOVA
+    url: ../../Examples/worked-examples/oneway
+headerthree: Software Articles
+relatedthree:
   - title: SPSS Articles
     url: ../../SPSS/
   - title: jamovi Articles
@@ -25,7 +29,7 @@ relatedtwo:
     url: ../../CREATE/
 ---
 
-# [Intro Articles](../index.md)
+# [Examples Articles](../index.md)
 
 ## Worked Examples | One-Way ANOVA
 

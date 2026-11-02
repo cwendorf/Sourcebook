@@ -16,6 +16,8 @@ relatedtwo:
 
 ## [SPSS Articles](./index.md)
 
+IBM SPSS Statistics is software for analyzing data. Use this index when you have a procedure in mind and want to connect it with the steps and results in SPSS.
+
 ### Frequencies
 
 These pages show how to obtain and calculate frequency distributions and percentiles.

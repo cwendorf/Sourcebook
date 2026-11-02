@@ -10,9 +10,11 @@ relatedone:
 
 ## [Intro Articles](./index.md)
 
+This section provides practical references for working with quantitative research, from selecting an analysis to consulting statistical tables and reporting results.
+
 ### Statistical Analyses
 
-This chapter provides an overview of the types of statistical analyses. This starts with the basic terminology of statistics. It also includes a decision tree for highlighting the typical tests of statistical significance, confidence intervals, and effects sizes used for common univariate research designs.
+These articles introduce common statistical analyses, beginning with basic terminology and including a decision tree to help identify appropriate significance tests, confidence intervals, and effect sizes for common univariate research designs.
 
 - [Statistical Analyses \| Choosing Inferential Statistics](./statistical-analyses/choosing.md)
 - [Statistical Analyses \| Statistical Significance Tests](./statistical-analyses/significance.md)
@@ -21,7 +23,7 @@ This chapter provides an overview of the types of statistical analyses. This sta
 
 ### Statistical Tables
 
-This chapter provides statistical tables. They are used both as part of the calculation with formulas and part of the interpretations of calculated statistics.
+These articles provide statistical tables for use in formula-based calculations and interpretation of statistical results.
 
 - [Statistical Tables \| Standard Normal Distribution](./statistical-tables/normal.md)
 - [Statistical Tables \| Student's *t* Distribution](./statistical-tables/t.md)
@@ -30,28 +32,9 @@ This chapter provides statistical tables. They are used both as part of the calc
 - [Statistical Tables \| Power for Eta-Squared](./statistical-tables/powereta.md)
 - [Statistical Tables \| Tukey's *HSD* Distribution](./statistical-tables/hsd.md)
 
-### Worked Examples
-
-This chapter provides a set of worked examples. The raw data, typical computer output, and complete calculations are provided for each type of research design.
-
-- [Worked Examples \| Frequencies](./worked-examples/frequencies.md)
-- [Worked Examples \| Descriptives](./worked-examples/descriptives.md)
-- [Worked Examples \| Standardized Scores](./worked-examples/standardized.md)
-- [Worked Examples \| Correlations](./worked-examples/correlations.md)
-- [Worked Examples \| Regression](./worked-examples/regression.md)
-- [Worked Examples \| Confidence Interval for a Mean](./worked-examples/intervals.md)
-- [Worked Examples \| One Sample t Test](./worked-examples/onesample.md)
-- [Worked Examples \| Paired Samples t Test](./worked-examples/paired.md)
-- [Worked Examples \| Independent Samples t Test](./worked-examples/independent.md)
-- [Worked Examples \| One Way ANOVA](./worked-examples/oneway.md)
-- [Worked Examples \| Post Hoc Comparisons](./worked-examples/posthocs.md)
-- [Worked Examples \| Repeated Measures ANOVA](./worked-examples/repeated.md)
-- [Worked Examples \| Factorial ANOVA](./worked-examples/factorial.md)
-- [Worked Examples \| Mixed ANOVA](./worked-examples/mixed.md)
-
 ### APA Style
 
-This chapter describes rules for presenting statistical results in APA style. All rules come from the newest APA style manual. Text summaries are provided for all examples. Sample data tables are provided for more complex examples.
+These articles summarize guidance from the current APA style manual for reporting results, with written examples and sample data tables for more complex cases.
 
 - [APA Style \| General Rules for Results Sections](./apa-style/general.md)
 - [APA Style \| Summary of Statistics Reporting](./apa-style/summary.md)

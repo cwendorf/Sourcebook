@@ -16,6 +16,8 @@ relatedtwo:
 
 ## [EASI Articles](./index.md)
 
+EASI is an R package for carrying out common statistical procedures. Use this index when you have a procedure in mind and want to connect it with its implementation and interpretation in EASI.
+
 ### Frequencies
 
 These pages show how to obtain and calculate frequency distributions and percentiles.

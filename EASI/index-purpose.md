@@ -16,9 +16,11 @@ relatedtwo:
 
 ## [EASI Articles](./index-purpose.md)
 
+EASI is an R package for carrying out common statistical procedures. Use this index when you want guidance based on a task: preparing data, conducting an analysis, or interpreting its output.
+
 ### Data Entry
 
-This chapter provides step-by-step written instructions showing how to enter the data using the software. Sample data files are available.
+These articles provide step-by-step instructions for entering data in EASI. Sample data files are available.
 
 - [Data Entry \| One Sample Data](./data-entry/onesample.md)  
 - [Data Entry \| Paired and Repeated Measures Data](./data-entry/repeated.md)
@@ -28,7 +30,7 @@ This chapter provides step-by-step written instructions showing how to enter the
 
 ### Data Analysis
 
-This chapter provides step-by-step written instructions for obtaining basic statistical output using the software. Sample syntax files are available.
+These articles provide step-by-step instructions for obtaining basic statistical output with EASI. Sample syntax files are available.
 
 - [Data Analysis \| Frequencies](./data-analysis/frequencies.md)
 - [Data Analysis \| Descriptives](./data-analysis/descriptives.md)
@@ -47,7 +49,7 @@ This chapter provides step-by-step written instructions for obtaining basic stat
 
 ### Annotated Output
 
-This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. Sample output files are available.
+These articles present output from different analyses, explain how to interpret it, and connect it with hand-calculation formulas. Sample output files are available.
 
 - [Annotated Output \| Frequencies](./annotated-output/frequencies.md)
 - [Annotated Output \| Descriptives](./annotated-output/descriptives.md)

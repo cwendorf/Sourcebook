@@ -3,12 +3,16 @@ title: Sourcebook
 has_pdf: true
 headerone: Intro Articles
 relatedone:
-  - title: Worked Examples | Descriptives
-    url: ../worked-examples/descriptives
   - title: APA Style | Summary of Statistics Reporting
-    url: ../apa-style/summary
-headertwo: Software Articles
+    url: ../../Intro/apa-style/summary
+headertwo: Examples Articles
 relatedtwo:
+  - title: Learning Activities | Descriptives
+    url: ../../Examples/learning-activities/descriptives
+  - title: Worked Examples | Descriptives
+    url: ../../Examples/worked-examples/descriptives
+headerthree: Software Articles
+relatedthree:
   - title: SPSS Articles
     url: ../../SPSS/
   - title: jamovi Articles
@@ -23,7 +27,7 @@ relatedtwo:
     url: ../../CREATE/
 ---
 
-# [Intro Articles](../index.md)
+# [Examples Articles](../index.md)
 
 ## Worked Examples | Descriptives
 

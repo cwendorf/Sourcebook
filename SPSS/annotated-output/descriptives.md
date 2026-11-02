@@ -1,11 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
+  - title: Learning Activities | Descriptives
+    url: ../../Examples/learning-activities/descriptives
   - title: Worked Examples | Descriptives
-    url: ../../Intro/worked-examples/descriptives
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/descriptives
 headertwo: SPSS Articles
 relatedtwo:
   - title: Data Entry | One Sample Data

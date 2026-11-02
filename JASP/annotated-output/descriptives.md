@@ -1,9 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+  - title: Learning Activities | Descriptives
+    url: ../../Examples/learning-activities/descriptives
+  - title: Worked Examples | Descriptives
+    url: ../../Examples/worked-examples/descriptives
 headertwo: JASP Articles
 relatedtwo:
   - title: Data Entry | One Sample Data

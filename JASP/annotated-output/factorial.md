@@ -1,13 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
-  - title: Statistical Tables | Snedecor's F
-    url: ../../Intro/statistical-tables/F
+  - title: Learning Activities | Factorial ANOVA
+    url: ../../Examples/learning-activities/factorial
   - title: Worked Examples | Factorial ANOVA
-    url: ../../Intro/worked-examples/factorial
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/factorial
 headertwo: JASP Articles
 relatedtwo:
   - title: Data Entry | Factorial Data

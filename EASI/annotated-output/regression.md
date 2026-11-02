@@ -1,13 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
-  - title: Statistical Tables | Student's t
-    url: ../../Intro/statistical-tables/t
+  - title: Learning Activities | Regression
+    url: ../../Examples/learning-activities/regression
   - title: Worked Examples | Regression
-    url: ../../Intro/worked-examples/regression
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/regression
 headertwo: EASI Articles
 relatedtwo:
   - title: Data Entry | Paired and Repeated Measures Data

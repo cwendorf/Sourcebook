@@ -4,13 +4,17 @@ has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
-    url: ../statistical-tables/t
-  - title: Worked Examples | Paired Samples t Test
-    url: ../worked-examples/paired
+    url: ../../Intro/statistical-tables/t
   - title: APA Style | Summary of Statistics Reporting
-    url: ../apa-style/summary
-headertwo: Software Articles
+    url: ../../Intro/apa-style/summary
+headertwo: Examples Articles
 relatedtwo:
+  - title: Learning Activities | Paired Samples t Test
+    url: ../../Examples/learning-activities/paired
+  - title: Worked Examples | Paired Samples t Test
+    url: ../../Examples/worked-examples/paired
+headerthree: Software Articles
+relatedthree:
   - title: SPSS Articles
     url: ../../SPSS/
   - title: jamovi Articles
@@ -25,7 +29,7 @@ relatedtwo:
     url: ../../CREATE/
 ---
 
-# [Intro Articles](../index.md)
+# [Examples Articles](../index.md)
 
 ## Worked Examples | Paired Samples t Test
 

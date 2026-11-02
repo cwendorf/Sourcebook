@@ -18,6 +18,8 @@ relatedtwo:
 
 ## [jamovi Articles](./index.md)
 
+jamovi is statistical software for analyzing data through a graphical interface. Use this index when you have a procedure in mind and want to connect it with the analysis and results in jamovi.
+
 ### Frequencies
 
 These pages show how to obtain and calculate frequency distributions and percentiles.

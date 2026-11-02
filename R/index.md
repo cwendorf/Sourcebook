@@ -16,6 +16,8 @@ relatedtwo:
 
 ## [R Articles](./index.md)
 
+R is a programming language and environment for statistical computing; these materials focus on base R functions. Use this index when you have a procedure in mind and want to connect it with the relevant code and results.
+
 ### Frequencies
 
 These pages show how to obtain and calculate frequency distributions and percentiles.

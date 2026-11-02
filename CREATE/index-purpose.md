@@ -14,9 +14,11 @@ relatedtwo:
 
 ## [CREATE Articles](./index-purpose.md)
 
+CREATE is a collection of Excel spreadsheets for carrying out common statistical procedures. Use this index when you want guidance on conducting an analysis or understanding its output in CREATE.
+
 ### Data Analysis
 
-This chapter provides step-by-step written instructions and screenshots for entering the data and obtaining basic statistical output using the software. Sample spreadsheets are available.
+These articles provide step-by-step instructions and screenshots for entering data and obtaining basic statistical output with CREATE. Sample spreadsheets are available.
 
 - [Data Analysis \| Frequencies](./data-analysis/frequencies.md)
 - [Data Analysis \| Descriptives](./data-analysis/descriptives.md)
@@ -33,7 +35,7 @@ This chapter provides step-by-step written instructions and screenshots for ente
 
 ### Annotated Output
 
-This chapter shows the output from various types of analyses, describes how to interpret the output, and shows the link between hand calculation formulas and the output. Sample output files are available.
+These articles present output from different analyses, explain how to interpret it, and connect it with hand-calculation formulas. Sample output files are available.
 
 - [Annotated Output \| Frequencies](./annotated-output/frequencies.md)
 - [Annotated Output \| Descriptives](./annotated-output/descriptives.md)

@@ -4,13 +4,17 @@ has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Tukey's HSD
-    url: ../statistical-tables/hsd
-  - title: Worked Examples | Post Hoc Comparisons
-    url: ../worked-examples/posthocs
+    url: ../../Intro/statistical-tables/hsd
   - title: APA Style | Summary of Statistics Reporting
-    url: ../apa-style/summary
-headertwo: Software Articles
+    url: ../../Intro/apa-style/summary
+headertwo: Examples Articles
 relatedtwo:
+  - title: Learning Activities | Post Hoc Comparisons
+    url: ../../Examples/learning-activities/posthocs
+  - title: Worked Examples | Post Hoc Comparisons
+    url: ../../Examples/worked-examples/posthocs
+headerthree: Software Articles
+relatedthree:
   - title: SPSS Articles
     url: ../../SPSS/
   - title: jamovi Articles
@@ -25,7 +29,7 @@ relatedtwo:
     url: ../../CREATE/
 ---
 
-# [Intro Articles](../index.md)
+# [Examples Articles](../index.md)
 
 ## Worked Examples | Post Hoc Comparisons
 

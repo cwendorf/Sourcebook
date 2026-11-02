@@ -1,13 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
-  - title: Statistical Tables | Student's t
-    url: ../../Intro/statistical-tables/t
+  - title: Learning Activities | Confidence Interval for a Mean
+    url: ../../Examples/learning-activities/intervals
   - title: Worked Examples | Confidence Interval for a Mean
-    url: ../../Intro/worked-examples/intervals
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/intervals
 headertwo: EASI Articles
 relatedtwo:
   - title: Data Entry | One Sample Data

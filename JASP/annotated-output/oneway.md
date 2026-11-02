@@ -1,13 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
-  - title: Statistical Tables | Snedecor's F
-    url: ../../Intro/statistical-tables/F
-  - title: Worked Examples | OneWay ANOVA
-    url: ../../Intro/worked-examples/oneway
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+  - title: Learning Activities | One-Way ANOVA
+    url: ../../Examples/learning-activities/oneway
+  - title: Worked Examples | One-Way ANOVA
+    url: ../../Examples/worked-examples/oneway
 headertwo: JASP Articles
 relatedtwo:
   - title: Data Entry | Two and Multiple Sample Data

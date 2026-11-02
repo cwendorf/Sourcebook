@@ -1,13 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
-  - title: Statistical Tables | Student's t
-    url: ../../Intro/statistical-tables/t
+  - title: Learning Activities | Correlations
+    url: ../../Examples/learning-activities/correlations
   - title: Worked Examples | Correlations
-    url: ../../Intro/worked-examples/correlations
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/correlations
 headertwo: EASI Articles
 relatedtwo:
   - title: Data Entry | Paired and Repeated Measures Data

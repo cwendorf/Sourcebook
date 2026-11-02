@@ -14,6 +14,8 @@ relatedtwo:
 
 ## [CREATE Articles](./index.md)
 
+CREATE is a collection of Excel spreadsheets for carrying out common statistical procedures. Use this index when you have a procedure in mind and want to connect it with the spreadsheet calculations and results.
+
 ### Frequencies
 
 These pages show how to obtain and calculate frequency distributions and percentiles.

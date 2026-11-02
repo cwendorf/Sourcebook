@@ -4,13 +4,17 @@ has_pdf: true
 headerone: Intro Articles
 relatedone:
   - title: Statistical Tables | Student's t
-    url: ../statistical-tables/t
-  - title: Worked Examples | Correlations
-    url: ../worked-examples/correlations
+    url: ../../Intro/statistical-tables/t
   - title: APA Style | Summary of Statistics Reporting
-    url: ../apa-style/summary
-headertwo: Software Articles
+    url: ../../Intro/apa-style/summary
+headertwo: Examples Articles
 relatedtwo:
+  - title: Learning Activities | Regression
+    url: ../../Examples/learning-activities/regression
+  - title: Worked Examples | Regression
+    url: ../../Examples/worked-examples/regression
+headerthree: Software Articles
+relatedthree:
   - title: SPSS Articles
     url: ../../SPSS/
   - title: jamovi Articles
@@ -25,9 +29,9 @@ relatedtwo:
     url: ../../CREATE/
 ---
 
-# [Intro Articles](../index.md)
+# [Examples Articles](../index.md)
 
-## Worked Examples | Correlations
+## Worked Examples | Regression
 
 ### Data
 
@@ -59,16 +63,16 @@ The table of inferential statistics shows the key elements to be calculated.
 
 {: .table}
 
-|          |             | Outcome1 | Outcome2 |
-|:---------|:------------|---------:|---------:|
-| Outcome1 | Pearson's r |    1.000 |     .500 |
-|          | p-value     |          |     .500 |
-|          | SS and SCP  |   18.000 |    9.000 |
-|          | COV         |    6.000 |    3.000 |
-| Outcome2 | Pearson's r |     .500 |    1.000 |
-|          | p-value     |     .500 |          |
-|          | SS and SCP  |    9.000 |   18.000 |
-|          | COV         |    3.000 |    6.000 |
+| Model    | R     | R^2   |
+|:---------|------:|------:|
+| 1        | 0.500 | 0.250 |
+
+{: .table}
+
+| Predictor  | Estimate | SE     | t      | p      | Std. Estimate |
+|:-----------|---------:|-------:|-------:|-------:|--------------:|
+| Intercept  | 5.000    | 1.785  | 2.801  | 0.107  |               |
+| Outcome1   | 0.500    | 0.612  | 0.816  | 0.500  | 0.500         |
 
 ### Calculations
 
@@ -80,13 +84,20 @@ Covariance: The Covariance is a function of the Sum of Cross Products and the sa
 
 > $$ COV = \frac{SCP}{(N - 1)} = \frac{9.000}{(4 - 1)} = 3.000 $$
 
-Pearson Correlation Coefficient: The Pearson Correlation Coefficient is a function of the Covariance and the Standard Deviations of both variables:
+Unstandardized Regression Coefficients: The Unstandardized Regression Coefficients involve Covariance, the Standard Deviations of the variables, and the Means of the variables:
+
+> $$ B_1 = \frac{COV}{(SD)^2} = \frac{3.000}{(2.449)^2} = 0.500 $$
+
+> $$ B_0 = M_Y - (B_1)(M_X) = 6.000 - (0.500)(2.000) = 5.000 $$
+
+Standardized Regression Coefficients: The Standard Regression Coefficients involve the Regression Coefficient (for the predictor) and the Standard Deviations of the variables:
+
+> $$ \beta_1 = (B_1)\frac{SD_X}{SD_Y} = (0.500)\frac{2.449}{2.449} = 0.500 $$
+
+Multiple Correlation: In bivariate regression, the Multiple Correlation is the same as the bivariate Correlation:
 
 > $$ r = \frac{COV}{(SD_X) (SD_Y)} = \frac{3.000}{(2.449) (2.449)} = .500 $$
 
-Statistical Significance: The *t* statistic is a function of the Pearson correlation coefficient and the sample size.
+Proportion of Variance Accounted For: The Proportion of Variance Accounted For is a function of the Correlation:
 
-> $$ t = \frac{r}{\sqrt{\frac{1-r^2}{N-2}}} = \frac{.500}{\sqrt{\frac{1-(.500)^2}{4-2}}} = .816 $$
->
-> With *df* = *N* − 2 = 2, *t<sub>CRITICAL</sub>* = ±4.303  
-> Because *t* is less extreme than *t<sub>CRITICAL</sub>*, *p* > .05.
+> $$ R^2 = .500^2 = 0.250 $$

@@ -1,13 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
-  - title: Statistical Tables | Student's t
-    url: ../../Intro/statistical-tables/t
+  - title: Learning Activities | Independent Samples t Test
+    url: ../../Examples/learning-activities/independent
   - title: Worked Examples | Independent Samples t Test
-    url: ../../Intro/worked-examples/independent
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/independent
 headertwo: SPSS Articles
 relatedtwo:
   - title: Data Entry | Two and Multiple Sample Data

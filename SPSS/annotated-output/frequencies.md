@@ -1,11 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
+  - title: Learning Activities | Frequencies
+    url: ../../Examples/learning-activities/frequencies
   - title: Worked Examples | Frequencies
-    url: ../../Intro/worked-examples/frequencies
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/frequencies
 headertwo: SPSS Articles
 relatedtwo:
   - title: Data Entry | One Sample Data

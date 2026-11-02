@@ -1,11 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
+  - title: Learning Activities | Standardized Scores
+    url: ../../Examples/learning-activities/standardized
   - title: Worked Examples | Standardized Scores
-    url: ../../Intro/worked-examples/standardized
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/standardized
 headertwo: CREATE Articles
 relatedtwo:
   - title: Data Entry | One Sample Data

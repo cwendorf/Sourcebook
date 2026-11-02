@@ -3,12 +3,16 @@ title: Sourcebook
 has_pdf: true
 headerone: Intro Articles
 relatedone:
-  - title: Worked Examples | Standardized Scores
-    url: ../worked-examples/standardized
   - title: Statistical Tables | Standard Normal
-    url: ../statistical-tables/normal
-headertwo: Software Articles
+    url: ../../Intro/statistical-tables/normal
+headertwo: Examples Articles
 relatedtwo:
+  - title: Learning Activities | Standardized Scores
+    url: ../../Examples/learning-activities/standardized
+  - title: Worked Examples | Standardized Scores
+    url: ../../Examples/worked-examples/standardized
+headerthree: Software Articles
+relatedthree:
   - title: SPSS Articles
     url: ../../SPSS/
   - title: jamovi Articles
@@ -23,7 +27,7 @@ relatedtwo:
     url: ../../CREATE/
 ---
 
-# [Intro Articles](../index.md)
+# [Examples Articles](../index.md)
 
 ## Worked Examples | Standardized Scores
 

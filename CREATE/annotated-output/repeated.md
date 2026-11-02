@@ -1,13 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
-  - title: Statistical Tables | Snedecor's F
-    url: ../../Intro/statistical-tables/F
+  - title: Learning Activities | Repeated Measures ANOVA
+    url: ../../Examples/learning-activities/repeated
   - title: Worked Examples | Repeated Measures ANOVA
-    url: ../../Intro/worked-examples/repeated
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/repeated
 headertwo: CREATE Articles
 relatedtwo:
   - title: Data Entry | Paired and Repeated Measures Data

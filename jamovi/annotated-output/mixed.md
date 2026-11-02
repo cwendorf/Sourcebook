@@ -1,13 +1,11 @@
 ---
 title: Sourcebook
-headerone: Intro Articles
+headerone: Examples Articles
 relatedone:
-  - title: Statistical Tables | Snedecor's F
-    url: ../../Intro/statistical-tables/F
+  - title: Learning Activities | Mixed ANOVA
+    url: ../../Examples/learning-activities/mixed
   - title: Worked Examples | Mixed ANOVA
-    url: ../../Intro/worked-examples/mixed
-  - title: APA Style | Summary of Statistics Reporting
-    url: ../../Intro/apa-style/summary
+    url: ../../Examples/worked-examples/mixed
 headertwo: jamovi Articles
 relatedtwo:
   - title: Data Entry | Mixed Data

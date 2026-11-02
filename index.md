@@ -10,6 +10,8 @@ headertwo: Sourcebook Sections
 relatedtwo:
   - title: Intro Articles
     url: ./Intro/
+  - title: Examples Articles
+    url: ./Examples/
   - title: SPSS Articles
     url: ./SPSS/
   - title: jamovi Articles

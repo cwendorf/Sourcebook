@@ -64,6 +64,7 @@
   
     <ul id=AreaMenu>
       <li class=""><a href="{{ "/Intro/" | prepend: site.baseurl }}" alt="Intro" class="">Intro</a></li>
+      <li class=""><a href="{{ "/Examples/" | prepend: site.baseurl }}" alt="Examples" class="">Examples</a></li>
       <li class=""><a href="{{ "/SPSS/" | prepend: site.baseurl }}" alt="SPSS" class="">SPSS</a></li>  
       <li class=""><a href="{{ "/jamovi/" | prepend: site.baseurl }}" alt="jamovi" class="">jamovi</a></li>
       <li class=""><a href="{{ "/JASP/" | prepend: site.baseurl }}" alt="JASP" class="">JASP</a></li>
@@ -99,7 +100,16 @@
         {% endfor %}
       </ul>
 
-      <h3>{{ page.headertwo }}</h3>
+        {% if page.headerexamples %}
+        <h3>{{ page.headerexamples }}</h3>
+        <ul>
+          {% for relatedexample in page.relatedexamples %}
+          <li><a href="{{ relatedexample.url }}">{{ relatedexample.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+
+        <h3>{{ page.headertwo }}</h3>
       <ul>
         {% for relatedtwo in page.relatedtwo %}
         <li><a href="{{ relatedtwo.url }}">{{ relatedtwo.title }}</a></li>
