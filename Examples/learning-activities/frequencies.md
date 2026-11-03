@@ -10,12 +10,20 @@ relatedtwo:
     url: ../../Examples/learning-activities/frequencies
   - title: Worked Examples | Frequencies
     url: ../../Examples/worked-examples/frequencies
-headerthree: Intro Indexes
+headerthree: Software Articles
 relatedthree:
-  - title: Intro | Topic Index
-    url: ../../Intro/index
-  - title: Intro | Purpose Index
-    url: ../../Intro/index-purpose
+  - title: SPSS Articles
+    url: ../../SPSS/
+  - title: jamovi Articles
+    url: ../../jamovi/
+  - title: JASP Articles
+    url: ../../JASP/
+  - title: R Articles
+    url: ../../R/
+  - title: EASI Articles
+    url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 # [Examples Articles](../index.md)

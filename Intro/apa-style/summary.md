@@ -8,12 +8,21 @@ relatedone:
     url: ./summary
   - title: APA Style | Examples of Results in Tables
     url: ./tables
-headertwo: Examples Indexes
+headertwo: Software Articles
 relatedtwo:
-  - title: Examples | Topic Index
-    url: ../../Examples/index
-  - title: Examples | Purpose Index
-    url: ../../Examples/index-purpose
+  - title: SPSS Articles
+    url: ../../SPSS/
+  - title: jamovi Articles
+    url: ../../jamovi/
+  - title: JASP Articles
+    url: ../../JASP/
+  - title: R Articles
+    url: ../../R/
+  - title: EASI Articles
+    url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
+
 ---
 
 # [Intro Articles](../index.md)

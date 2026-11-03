@@ -12,12 +12,20 @@ relatedtwo:
     url: ../../Examples/learning-activities/posthocs
   - title: Worked Examples | Post Hoc Comparisons
     url: ../../Examples/worked-examples/posthocs
-headerthree: Intro Indexes
+headerthree: Software Articles
 relatedthree:
-  - title: Intro | Topic Index
-    url: ../../Intro/index
-  - title: Intro | Purpose Index
-    url: ../../Intro/index-purpose
+  - title: SPSS Articles
+    url: ../../SPSS/
+  - title: jamovi Articles
+    url: ../../jamovi/
+  - title: JASP Articles
+    url: ../../JASP/
+  - title: R Articles
+    url: ../../R/
+  - title: EASI Articles
+    url: ../../EASI/
+  - title: CREATE Articles
+    url: ../../CREATE/
 ---
 
 # [Examples Articles](../index.md)

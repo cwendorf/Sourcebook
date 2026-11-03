@@ -1,17 +1,25 @@
 ---
 title: Sourcebook
-headerone: Examples Collections
+headerone: Examples Articles
 relatedone:
-  - title: Learning Activities
-    url: ./learning-activities/
-  - title: Worked Examples
-    url: ./worked-examples/
-headertwo: Examples Articles
-relatedtwo:
   - title: Examples | Topic Index
     url: ./index
   - title: Examples | Purpose Index
     url: ./index-purpose
+headertwo: Software Articles
+relatedtwo:
+  - title: SPSS Articles
+    url: ../SPSS/
+  - title: jamovi Articles
+    url: ../jamovi/
+  - title: JASP Articles
+    url: ../JASP/
+  - title: R Articles
+    url: ../R/
+  - title: EASI Articles
+    url: ../EASI/
+  - title: CREATE Articles
+    url: ../CREATE/
 ---
 
 ## [Examples Articles](./index-purpose.md)
