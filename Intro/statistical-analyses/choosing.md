@@ -10,20 +10,12 @@ relatedone:
     url: ./confidence
   - title: Statistical Analyses | Effect Size Measures
     url: ./effects
-headertwo: Software Articles
+headertwo: Examples Indexes
 relatedtwo:
-  - title: SPSS Articles
-    url: ../../SPSS/
-  - title: jamovi Articles
-    url: ../../jamovi/
-  - title: JASP Articles
-    url: ../../JASP/
-  - title: R Articles
-    url: ../../R/
-  - title: EASI Articles
-    url: ../../EASI/
-  - title: CREATE Articles
-    url: ../../CREATE/
+  - title: Examples | Topic Index
+    url: ../../Examples/index
+  - title: Examples | Purpose Index
+    url: ../../Examples/index-purpose
 ---
 
 # [Intro Articles](../index.md)

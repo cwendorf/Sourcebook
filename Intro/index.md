@@ -6,6 +6,20 @@ relatedone:
     url: "https://apastyle.apa.org/jars"
   - title: Tables and Figures
     url: "https://apastyle.apa.org/style-grammar-guidelines/tables-figures"
+headertwo: Software Articles
+relatedtwo:
+  - title: SPSS Articles
+    url: ../SPSS/
+  - title: jamovi Articles
+    url: ../jamovi/
+  - title: JASP Articles
+    url: ../JASP/
+  - title: R Articles
+    url: ../R/
+  - title: EASI Articles
+    url: ../EASI/
+  - title: CREATE Articles
+    url: ../CREATE/
 ---
 
 ## [Intro Articles](./index.md)

@@ -12,20 +12,12 @@ relatedtwo:
     url: ../../Examples/learning-activities/oneway
   - title: Worked Examples | OneWay ANOVA
     url: ../../Examples/worked-examples/oneway
-headerthree: Software Articles
+headerthree: Intro Indexes
 relatedthree:
-  - title: SPSS Articles
-    url: ../../SPSS/
-  - title: jamovi Articles
-    url: ../../jamovi/
-  - title: JASP Articles
-    url: ../../JASP/
-  - title: R Articles
-    url: ../../R/
-  - title: EASI Articles
-    url: ../../EASI/
-  - title: CREATE Articles
-    url: ../../CREATE/
+  - title: Intro | Topic Index
+    url: ../../Intro/index
+  - title: Intro | Purpose Index
+    url: ../../Intro/index-purpose
 ---
 
 # [Examples Articles](../index.md)

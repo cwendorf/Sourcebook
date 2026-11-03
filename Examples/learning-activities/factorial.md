@@ -12,20 +12,12 @@ relatedtwo:
     url: ../../Examples/learning-activities/factorial
   - title: Worked Examples | Factorial ANOVA
     url: ../../Examples/worked-examples/factorial
-headerthree: Software Articles
+headerthree: Intro Indexes
 relatedthree:
-  - title: SPSS Articles
-    url: ../../SPSS/
-  - title: jamovi Articles
-    url: ../../jamovi/
-  - title: JASP Articles
-    url: ../../JASP/
-  - title: R Articles
-    url: ../../R/
-  - title: EASI Articles
-    url: ../../EASI/
-  - title: CREATE Articles
-    url: ../../CREATE/
+  - title: Intro | Topic Index
+    url: ../../Intro/index
+  - title: Intro | Purpose Index
+    url: ../../Intro/index-purpose
 ---
 
 # [Examples Articles](../index.md)

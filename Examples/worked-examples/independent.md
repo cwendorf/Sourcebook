@@ -13,20 +13,12 @@ relatedtwo:
     url: ../../Examples/learning-activities/independent
   - title: Worked Examples | Independent Samples t Test
     url: ../../Examples/worked-examples/independent
-headerthree: Software Articles
+headerthree: Intro Indexes
 relatedthree:
-  - title: SPSS Articles
-    url: ../../SPSS/
-  - title: jamovi Articles
-    url: ../../jamovi/
-  - title: JASP Articles
-    url: ../../JASP/
-  - title: R Articles
-    url: ../../R/
-  - title: EASI Articles
-    url: ../../EASI/
-  - title: CREATE Articles
-    url: ../../CREATE/
+  - title: Intro | Topic Index
+    url: ../../Intro/index
+  - title: Intro | Purpose Index
+    url: ../../Intro/index-purpose
 ---
 
 # [Examples Articles](../index.md)
