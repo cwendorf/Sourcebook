@@ -28,9 +28,11 @@ relatedtwo:
 
 ## [Basic Statistical Methods for Social Science](./index.md)
 
-### Purpose
+`Sourcebook` is an online textbook that is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software.
 
-This online Sourcebook is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. With these materials, users should be able to:
+### Learning Goals
+
+The Sourcebook materials are organized to facilitate both applied data analysis and teaching, making it suitable for classroom instruction, self-study, and research support. With these materials, users should be able to:
 
 - Choose and implement the appropriate analyses given the research design
 - Demonstrate the connections between formulas, calculations, and computer output of analyses
@@ -39,7 +41,7 @@ This online Sourcebook is intended to facilitate the connection between standard
 {: .screenshot}
 ![A statistical methods decision tree](./assets/images/DecisionTree.jpg)
 
-### Scope
+### Included Materials
 
 This Sourcebook contains a wide range of materials designed to assist with the use of statistical software such as IBM SPSS, jamovi, JASP, R (base functions), EASI (an R package), and CREATE (a collection of Excel spreadsheets). To that end, it contains:
 
