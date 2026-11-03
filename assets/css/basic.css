@@ -139,6 +139,7 @@ body {
 .screenshot img {
   max-width: 95%;
   padding: 2px;
+  border: 1px solid #111111;
 }
 
 #MainContent .output {
@@ -147,7 +148,6 @@ body {
 .output img {
   max-width: 95%;
   padding: 2px;
-  border: 1px solid #111111;
 }
 
 /* Main Section Column Styles */
