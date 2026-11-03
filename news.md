@@ -1,5 +1,6 @@
-## Sourcebook 2.261029
+## Sourcebook 2.261103
 
+- Added learning activities to structure the scope of the project
 - Reinstated worked examples as a separate section
 - Reworked annotated output to focus on interpretation
 
