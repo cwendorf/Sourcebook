@@ -138,7 +138,7 @@ body {
 }
 .screenshot img {
   max-width: 95%;
-  border: 1px solid #222222;
+  padding: 2px;
 }
 
 #MainContent .output {
