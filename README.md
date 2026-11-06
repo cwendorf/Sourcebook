@@ -8,10 +8,7 @@
 
 ### Usage
 
-The `Sourcebook`can be accessed in two different ways:
-
-- [Website](https://cwendorf.github.io/Sourcebook/): The most friendly viewing platform and is recommended for students and researchers.
-- [Repository](https://github.com/cwendorf/Sourcebook): Useful for programmers and anyone wanting access to the raw files.
+Instead of viewing the raw files in the repository, you can read the fully formatted textbook directly in your browser: [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
 
 ### Contact
 
