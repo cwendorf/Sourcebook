@@ -12,10 +12,10 @@ Instead of viewing the raw files in the repository, you can read the fully forma
 
 ### Contact
 
-- GitHub Issues: [https://github.com/cwendorf/Sourcebook/issues](https://github.com/cwendorf/Sourcebook/issues) 
+- GitHub Issues: [https://github.com/cwendorf/Sourcebook/issues](https://github.com/cwendorf/Sourcebook/issues)
 - Author Email: [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu)
 - Author Homepage: [https://github.com/cwendorf](https://github.com/cwendorf)
 
 ### Citation
 
-Wendorf, C. A. (2022). *Sourcebook: Basic statistical methods for social science.* [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
+Wendorf, C. A. (2026). *Sourcebook: Basic statistical methods for social science.* [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
