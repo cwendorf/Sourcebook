@@ -18,4 +18,4 @@ Instead of viewing the raw files in the repository, you can read the fully forma
 
 ### Citation
 
-Wendorf, C. A. (2026). *Sourcebook: Basic statistical methods for social science.* [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
+Wendorf, C. A. (2026). *Sourcebook: Basic statistical methods for social science* [Online Textbook]. [https://cwendorf.github.io/Sourcebook/](https://cwendorf.github.io/Sourcebook/)
