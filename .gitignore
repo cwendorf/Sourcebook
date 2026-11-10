@@ -46,4 +46,4 @@ po/*~
 rsconnect/
 
 # development files
-_dev/
+dev/
