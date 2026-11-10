@@ -1,5 +1,3 @@
-# [`SOURCEBOOK`](https://cwendorf.github.io/Sourcebook/)
-
 ## Contributing to the Package
 
 The main way to contribute is to [submit an issue](../../issues/). This repository does **not** accept pull requests.
