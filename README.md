@@ -2,6 +2,9 @@
 
 ## Basic Statistical Methods for Social Science
 
+[![GitHub Release](https://img.shields.io/github/v/release/cwendorf/Sourcebook?style=for-the-badge)](https://github.com/cwendorf/Sourcebook/releases/latest)
+[![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://www.repostatus.org/#active)
+
 ### Overview
 
 `Sourcebook` is an online textbook that is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. It contains a wide range of materials designed to assist with the use of statistical software such as IBM SPSS, jamovi, JASP, R (base functions), EASI (an R package), and CREATE (a set of Excel spreadsheets). The materials are organized to facilitate both applied data analysis and teaching, making it suitable for classroom instruction, self-study, and research support.
