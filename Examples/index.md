@@ -24,7 +24,7 @@ relatedtwo:
 
 ## [Examples Articles](./index.md)
 
-This topic index pairs learning activities with worked examples for each statistical procedure. Use the activities to support instruction and the worked examples to follow the data, output, and calculations.
+This secion offers learning activities and worked examples for each statistical procedure. Use this index when you want to use the activities for support as you go through the worked examples.
 
 ### Frequencies
 

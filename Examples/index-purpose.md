@@ -24,11 +24,11 @@ relatedtwo:
 
 ## [Examples Articles](./index-purpose.md)
 
-Use this index to find resources by purpose: teaching procedures with learning activities or studying analyses through worked examples.
+This secion offers learning activities and worked examples for each statistical procedure. Use this index to find resources by purpose: studying procedures with learning activities or understanding analyses through worked examples.
 
 ### Learning Activities
 
-These instructor-facing activities support teaching by organizing each procedure around learning outcomes, a guided learning sequence, and discussion prompts.
+These activities organize each procedure around learning outcomes, a guided learning sequence, and discussion prompts.
 
 - [Learning Activities \| Frequencies](./learning-activities/frequencies.md)
 - [Learning Activities \| Descriptives](./learning-activities/descriptives.md)
@@ -47,7 +47,7 @@ These instructor-facing activities support teaching by organizing each procedure
 
 ### Worked Examples
 
-These articles support step-by-step study by pairing raw data with typical computer output and complete calculations for each research design.
+These articles provide step-by-step walkthroughs with raw data, typical computer output, and complete calculations for each research design.
 
 - [Worked Examples \| Frequencies](./worked-examples/frequencies.md)
 - [Worked Examples \| Descriptives](./worked-examples/descriptives.md)
