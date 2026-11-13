@@ -39,7 +39,7 @@ The Sourcebook materials are organized to facilitate both applied data analysis 
 - Summarize and interpret statistical analyses in correct APA style
 
 {: .screenshot}
-![A statistical methods decision tree](./assets/images/DecisionTree.jpg)
+![A statistical methods decision tree](./Intro/statistical-analyses/decisiontree.png)
 
 ### Included Materials
 
@@ -49,5 +49,23 @@ This Sourcebook contains a wide range of materials designed to assist with the u
 - Instructions and screenshots that show how to navigate and analyze the data in the software packages
 - Screenshots that show the software packages' output and annotations with interpretation
 
-{: .screenshot}
-![Annotated output for a one sample t test](./assets/images/AnnotatedOutput.png)
+{: .output}
+![Screenshot of inferential table](./jamovi/annotated-output/onesample3.png)
+
+> Statistical Significance: The *t* statistic is the ratio of the mean difference (raw effect) to the standard error of the mean.
+>
+> $$ t = \frac{M_{DIFF}}{SE_M} = \frac{-3.000}{1.102} = -2.722 $$
+>
+> With *df* = 7, *p* = .030. This would be considered a statistically significant finding.
+
+> Confidence Interval: For this design, the appropriate confidence interval is around (centered on) the mean difference (raw effect).
+>
+> $$ CI_{DIFF} = M_{DIFF} \pm (t_{CRITICAL} ) (SE_M) = -3.000 \pm (2.365) (1.102) = [ -5.606, -0.394 ] $$
+>
+> Thus, the researcher concludes that the true population mean difference is somewhere between -5.606 and -0.394 (knowing that the estimate could be wrong).
+
+> Effect Size: Cohen’s *d* Statistic provides a standardized effect size for the mean difference (raw effect).
+>
+> $$ d = \frac{M_{DIFF}}{SD} = \frac{-3.000}{3.117} = -0.963 $$
+>
+> Given Cohen's heuristics for interpreting effect sizes, this would be considered a large effect.
