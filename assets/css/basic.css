@@ -172,8 +172,9 @@ body {
 }
 #Main blockquote, #Main pre {
     padding: 5px 10px;
-    border-left: 4px solid #276dc3;
-    color: #1e293b;
+    background-color: #f8f9fa;
+    border-left: 4px solid #64748b;
+    color: #212529;
     margin-left: 20px;
     margin-right: 20px;
 }
