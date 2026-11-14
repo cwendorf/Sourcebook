@@ -40,12 +40,20 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the predictor, quantitative outcome, and model direction; the example predicts Outcome 2 from Outcome 1.
-- Locate the sample descriptives and relate the variables' covariance and correlation to the fitted model.
-- Interpret the intercept and unstandardized slope in the outcome's units, and the standardized coefficient when reported, to describe the fitted relationship.
-- Locate *R*² and calculate or verify the test of the predictor's coefficient; use the *t* statistic and *p* value to evaluate evidence that the slope differs from zero.
-- Compare predicted and observed outcomes through residuals when available; the R output includes residuals, while other outputs emphasize model and coefficient tables.
-- Summarize the model direction, *R*², slope, and inferential results in APA style, without treating prediction or association as proof of causation.
+
+1. Use statistical software to obtain the means, standard deviations, sum of cross-products, covariance, and correlation for the variables.
+2. On your own, calculate the covariance, correlation, and the squared correlation among the variables using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
+
+
+1. Use statistical software to convert the two variables into standardized (z) scores. Then, Use statistical software to obtain the means, standard deviations, sum of cross-products, covariance, and correlation for the standardized variables.
+2. On your own, calculate the covariance, correlation, and the squared correlation among the standardized variables. [You do not need to recalculate the standardized scores, the means and standard deviations, and the sum of cross-products by hand.] Use appropriate marks (e.g., arrows, circles, highlighting, etc.) to show that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
+
+
+- Use statistical software to fit the regression model, including the model summary and coefficient table.
+- Use the predictor and outcome descriptives and their association to calculate or verify the unstandardized slope and intercept. Note the model direction and compare your calculations with the reported coefficients and *R*².
+- Using appropriate APA Style, report the model direction, *R*², slope, and inferential results; describe prediction or association without implying causation.
 
 ### Discussion
 

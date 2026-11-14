@@ -40,11 +40,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the paired measurements, the quantitative outcome, and which measurement is subtracted from which.
-- Locate the descriptives for each measurement and for the pairwise differences; use the mean difference to describe the direction of change.
-- Calculate or verify the hypothesis test from the difference scores, including the test statistic, degrees of freedom, and *p* value.
-- Calculate or locate the confidence interval for the mean difference and Cohen's *d*. The signs of the mean difference, *t*, and interval depend on subtraction order; check the effect-size convention separately, since the R annotation reports *d* with a different sign.
-- Summarize the paired descriptives, difference, test, confidence interval, and effect size in APA style.
+1. Use statistical software to obtain the mean, standard deviation, and the one-sample t test.
+2. On your own, calculate the one-sample t test, the confidence interval for the difference, and the standardized effect size using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

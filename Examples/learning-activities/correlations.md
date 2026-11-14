@@ -40,11 +40,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the two quantitative outcomes and confirm that each pair of scores belongs to the same participant or unit.
-- Locate descriptive statistics for each outcome and use them to characterize the paired data.
-- Calculate or verify the sum of cross products, covariance, and Pearson's *r*; interpret the sign and magnitude of *r* as a description of the relationship.
-- Locate the between-variable correlation in the output, recognize that correlation is symmetric, and interpret the test of whether it differs from zero using the *t* statistic and *p* value; include a confidence interval when reported.
-- Summarize the relationship and its inferential results in APA style, distinguishing evidence of association from a causal conclusion.
+1. Use statistical software to obtain the means, standard deviations, sum of cross-products, covariance, and correlation for the variables.
+2. On your own, calculate the covariance, correlation, and the squared correlation among the variables using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

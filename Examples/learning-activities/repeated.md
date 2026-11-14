@@ -40,11 +40,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the repeated conditions, quantitative outcome, and which measurements belong to the same participant.
-- Locate the condition means and standard deviations; describe the sample pattern and use grand or marginal means where reported.
-- Calculate or verify the hypothesis test by tracing the participant, condition, and error variability; locate the *F* statistic, degrees of freedom, and *p* value.
-- Calculate or locate partial eta-squared to describe effect size. It is reported in several outputs but must be calculated from sums of squares in R. Calculate or locate confidence intervals for condition means as needed; only CREATE's annotated output provides them.
-- Summarize the condition descriptives, test, effect size, and any reported confidence intervals in APA style.
+1. Use statistical software to obtain the descriptive statistics, the ANOVA source table, and partial eta-squared.
+2. On your own, calculate the relevant elements of the within-subjects source table and partial eta-squared using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

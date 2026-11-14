@@ -38,10 +38,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the variable, the observed values, and the question the frequency distribution should answer.
-- Locate each value's count and relate it to the total number of observations to interpret proportions or percentages; use cumulative counts or percentages to describe how much of the distribution falls at or below a value when provided.
-- Use the ordered distribution to interpret the median and quartiles, noting that percentile values may be interpolated rather than observed.
-- Summarize the distribution with relevant counts, percentages, and measures of position, identifying the percentile convention when it affects interpretation.
+1. Use statistical software to obtain a frequency distribution, median, and quartiles for the variable.
+2. On your own, calculate the median and the quartiles using the frequency distribution given by the software. Verify that your calculations match those provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

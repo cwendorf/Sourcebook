@@ -40,11 +40,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Start with the sample's descriptive statistics. In the worked example, *N* = 8, *M* = 4.000, and *SD* = 3.117.
-- Calculate the standard error, *SD* / √*N* = 1.102, and identify *df* = 7.
-- Use the 95% critical value *t* = 2.365 to calculate the interval around the mean: 4.000 ± (2.365 × 1.102), giving endpoints of 1.394 and 6.606.
-- Locate the confidence interval in the software output and interpret its endpoints in the outcome's units. Labels and accompanying statistics differ: EASI shows *SE*, *df*, and lower and upper limits; R returns the endpoints and confidence level; JASP and jamovi also show a test statistic and *p* value; and SPSS and CREATE present the interval in their own output layouts.
-- Report the sample mean and interval together when appropriate, keeping the confidence interval distinct from a range of individual observations.
+1. Use statistical software to obtain the means, standard deviations, and the 95% confidence intervals for the variables. Also obtain a graph of the confidence intervals.
+2. On your own, calculate the 95% confidence intervals for the variables using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

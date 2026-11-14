@@ -40,12 +40,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the quantitative outcome, the two factors and their levels, and the main-effect and interaction hypotheses.
-- Locate the sample size and descriptive statistics for each factor-level combination; compare cell and marginal means to describe the pattern of main effects and interaction.
-- Calculate or verify each hypothesis test by tracing the sums of squares and degrees of freedom for both factors, their interaction, and within-cell error; use the mean squares to obtain the separate *F* tests and interpret their *p* values.
-- Calculate or locate partial eta-squared for each effect. It is printed in EASI, JASP, SPSS, jamovi, and CREATE, but must be calculated from sums of squares in R. Calculate or locate confidence intervals for cell or marginal means as needed; CREATE provides them, while the other annotated outputs do not.
-- Verify that each main-effect statistic is associated with the correct factor. Here, the R output reverses the Factor A and Factor B labels used in the worked example and other annotations.
-- Summarize the cell descriptives, each main-effect and interaction test, effect sizes, and any reported confidence intervals in APA style; use the cell-mean pattern to qualify main-effect conclusions.
+1. Use statistical software to obtain the descriptive statistics, the source table, and the effect size associated with a Factorial ANOVA.
+2. On your own, calculate the elements of the source table and eta-squared using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

@@ -40,11 +40,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the independent groups, quantitative outcome, and null hypothesis that all population means are equal.
-- Locate each group's sample size, mean, and standard deviation; use the means to describe the sample pattern without treating it as proof of population differences.
-- Calculate or verify the omnibus hypothesis test from the between-group and within-group sums of squares and degrees of freedom; compare the mean squares to obtain *F* and interpret its *p* value. The omnibus test does not identify which pairs differ.
-- Calculate or locate eta-squared for the overall effect and confidence intervals for group means; these intervals describe the means, not the omnibus test. SPSS and CREATE provide mean intervals, while the other annotated outputs do not. The R annotation gives eta-squared although its summary table does not display it.
-- Summarize the group descriptives and omnibus test in APA style, including the effect size and any reported confidence intervals; identify follow-up comparisons as a separate step when warranted.
+1. Use statistical software to obtain the descriptive statistics, the confidence intervals for the groups means, and the ANOVA source table.
+2. On your own, calculate the elements of the source table and eta-squared using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

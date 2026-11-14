@@ -40,11 +40,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Begin with the one-way ANOVA's group means and omnibus test. The worked example uses three groups with means of 2, 6, and 7; the omnibus test indicates a difference somewhere among them but does not identify the pair.
-- Enumerate the unique pairs, then calculate each estimated mean difference and its standard error. Keep the subtraction order explicit: reversing the order reverses the sign but not the substantive comparison.
-- Read Tukey-adjusted inferential results for every pair. In the example, only the Level 1–Level 3 comparison is statistically significant; its adjusted confidence interval excludes zero, while the other two intervals include zero.
-- Compare the estimate, adjusted *p* value, and confidence interval rather than relying on a single statistic. EASI labels its first comparison Level 1 versus Level 2 but reports the positive Level 2-minus-Level 1 difference; R likewise reports its first pair as 2-minus-1. JASP, SPSS, jamovi, and CREATE report Level 1-minus-Level 2, which is negative. The worked example uses that same negative order. Thus, signs and interval endpoints reverse with the printed order, but the conclusions agree.
-- Note software-specific output conventions: R's TukeyHSD table reports raw mean differences, familywise confidence limits, and adjusted *p* values, whereas the other annotations also describe an HSD test statistic. Cohen's *d* can be calculated, but the annotated outputs do not present it.
+1. Use statistical software to obtain the descriptive statistics, the ANOVA source table, and the multiple comparisons using Tukey’s HSD procedure.
+2. On your own, calculate the mean difference and the standard error elements of the table of multiple comparisons using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

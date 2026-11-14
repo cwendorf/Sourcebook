@@ -38,11 +38,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the quantitative outcome and the sample whose scores are being described.
-- Locate the frequency distribution and check that its counts sum to the reported sample size; use the distribution to see which values occur more or less often.
-- Calculate or verify the mean as the frequency-weighted average, then calculate the sum of squared deviations, sample variance, and standard deviation. In the example, *N* = 8, *M* = 4.000, variance = 9.714, and *SD* = 3.117.
-- Interpret the mean and standard deviation in the outcome's original units and in light of the observed distribution. Note additional summaries, such as skewness, kurtosis, missing cases, or range, only when the software reports them.
-- Summarize the sample with *N*, *M*, and *SD* when appropriate, adding other descriptive statistics when they help characterize the data.
+1. Use statistical software to obtain a frequency distribution and estimates of the population mean, variance, and standard deviation for the variable.
+2. On your own, calculate the mean, variance, and standard deviation using the information given to you in the frequency distribution. Verify that your calculations match the those provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

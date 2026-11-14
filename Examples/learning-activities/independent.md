@@ -40,11 +40,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the two independent groups, quantitative outcome, and order of the comparison.
-- Locate the sample size, mean, and standard deviation for each group; describe the observed difference between group means.
-- Calculate or verify the hypothesis test for the mean difference, including the test statistic, degrees of freedom, and *p* value.
-- Calculate or locate the confidence interval for the mean difference and Cohen's *d*. Reversing the group order reverses their signs; software may use different comparison labels and may not report the effect size.
-- Summarize the group descriptives, mean difference, test, confidence interval, and effect size in APA style.
+1. Use statistical software to obtain the means, standard deviations, and the independent-samples t test.
+2. On your own, calculate the independent samples t test, the confidence interval for the differences, and the standardized effect size using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

@@ -40,11 +40,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the quantitative outcome, reference value, and comparison being tested.
-- Locate the sample size, mean, and standard deviation; calculate the sample-minus-reference difference and note its direction.
-- Calculate or verify the hypothesis test, including the test statistic, degrees of freedom, and *p* value, and interpret the result relative to the null hypothesis.
-- Calculate or locate the confidence interval and Cohen's *d*. Some outputs give an interval for the mean difference, while R gives an interval for the sample mean that can be compared with the reference value; calculate the effect size when it is not reported.
-- Summarize the descriptives, difference, test, confidence interval, and effect size in APA style.
+1. Use statistical software to obtain the mean, standard deviation, and the one-sample t test.
+2. On your own, calculate the one-sample t test, the confidence interval for the difference, and the standardized effect size using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

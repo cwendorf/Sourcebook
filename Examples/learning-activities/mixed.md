@@ -40,11 +40,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the between-subjects group factor, the repeated factor, the quantitative outcome, and the hypotheses for each main effect and their interaction.
-- Locate descriptive statistics for each group-by-occasion combination; compare cell and marginal means to describe the pattern of change between groups.
-- Calculate or verify the separate hypothesis tests, tracing the between-subjects error for the group effect and within-subjects error for the occasion effect and interaction; interpret each *F* statistic, degrees of freedom, and *p* value.
-- Calculate or locate partial eta-squared for each effect. It is printed in EASI, JASP, SPSS, and jamovi but must be calculated from sums of squares in R. Calculate confidence intervals for relevant means or contrasts as needed; the annotated outputs do not report them, and no matching CREATE annotation is available.
-- Summarize the descriptives, three tests, effect sizes, and any available confidence intervals in APA style; use the interaction test to assess whether change differs between groups.
+1. Use statistical software to obtain the descriptive statistics, the source table, and the effect size associated with a Mixed ANOVA.
+2. On your own, calculate the relevant elements of the source tables and eta-squared using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.Verify that your calculations match the statistics provided by the software.
+3. Using appropriate APA Style, report your results from this set of analyses.
 
 ### Discussion
 

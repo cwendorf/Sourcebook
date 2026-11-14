@@ -38,11 +38,9 @@ relatedthree:
 
 ### Learning Sequence
 
-- Identify the score to transform and locate the distribution's mean and standard deviation. In the example, *M* = 4.000 and *SD* = 3.117.
-- Calculate *z* = (*Y* − *M*) / *SD* for each observation; for the score 0, *z* = −1.283, or 1.283 standard deviations below the mean.
-- Interpret the sign and magnitude of each *z* score relative to the mean, then check that the transformed scores have mean 0 and sample standard deviation 1.
-- Locate the transformed scores in the software output where they are displayed. JASP and jamovi show them in the data, SPSS notes their later use, and the EASI, R, and CREATE annotations show only the descriptive statistics used in the calculation.
-- Summarize relative standing in standard-deviation units, keeping percentile estimates separate: converting *z* scores to percentiles uses the standard-normal distribution and assumes normality.
+1. Use statistical software to obtain the quartiles, mean, and standard deviations for the variable.
+2. On your own, use the z-score formula, a normal distribution table, and the descriptive statistics given to you by the software to calculate estimates of the scores that would be at the 25th, 50th, and 75th percentiles.
+3. Describe how the estimates derived from using z scores differ from the quartiles provided by the software.
 
 ### Discussion
 
