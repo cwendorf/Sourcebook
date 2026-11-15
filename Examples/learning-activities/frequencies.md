@@ -36,7 +36,11 @@ relatedthree:
 - Interpret measures of relative position as ways to describe where observations fall within an ordered distribution.
 - Evaluate how differences in percentile conventions can affect comparisons and interpretations across software or studies.
 
-### Learning Sequence
+### Learning Task
+
+> Study: A researcher measured eight participants on an Outcome.
+>
+> Outcome: 0, 0, 3, 5, 4, 7, 4, 9
 
 1. Use statistical software to obtain a frequency distribution, median, and quartiles for the variable.
 2. On your own, calculate the median and the quartiles using the frequency distribution given by the software. Verify that your calculations match those provided by the software.

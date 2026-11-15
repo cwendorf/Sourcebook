@@ -38,7 +38,11 @@ relatedthree:
 - Interpret the direction and size of the difference from the reference in the context of the outcome.
 - Evaluate the strength and limits of evidence about the population mean and the practical meaning of any difference.
 
-### Learning Sequence
+### Learning Task
+
+> Study: A researcher measured eight participants on an Outcome.
+>
+> Outcome: 0, 0, 3, 5, 4, 7, 4, 9
 
 1. Use statistical software to obtain the mean, standard deviation, and the one-sample t test.
 2. On your own, calculate the one-sample t test, the confidence interval for the difference, and the standardized effect size using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.

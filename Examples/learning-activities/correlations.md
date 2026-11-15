@@ -38,7 +38,12 @@ relatedthree:
 - Interpret the sign and magnitude of Pearson's *r* in context, and recognize that the correlation is the same whichever variable is listed first.
 - Interpret the test of whether a correlation differs from zero, including the *p* value and a confidence interval when one is available.
 
-### Learning Sequence
+### Learning Task
+
+> Study: A researcher measured four participants on two Outcomes.
+>
+> Outcome 1: 0, 0, 3, 5
+> Outcome 2: 4, 7, 4, 9
 
 1. Use statistical software to obtain the means, standard deviations, sum of cross-products, covariance, and correlation for the variables.
 2. On your own, calculate the covariance, correlation, and the squared correlation among the variables using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.

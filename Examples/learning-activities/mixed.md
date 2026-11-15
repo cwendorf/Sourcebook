@@ -38,7 +38,14 @@ relatedthree:
 - Interpret between-subjects effects, within-subjects effects, and their interaction in the context of a study.
 - Evaluate the strength and limits of mixed ANOVA findings, considering how the design and pattern of results shape conclusions.
 
-### Learning Sequence
+### Learning Task
+
+> Study: A researcher measured eight participants twice on an Outcome. Participants were divided into two groups of four based on Factor A.
+>
+> Group A1 Time 1: 0, 0, 3, 5
+> Group A2 Time 1: 4, 7, 4, 9
+> Group A1 Time 2: 9, 6, 4, 9
+> Group A2 Time 2: 3, 6, 8, 3
 
 1. Use statistical software to obtain the descriptive statistics, the source table, and the effect size associated with a Mixed ANOVA.
 2. On your own, calculate the relevant elements of the source tables and eta-squared using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.Verify that your calculations match the statistics provided by the software.

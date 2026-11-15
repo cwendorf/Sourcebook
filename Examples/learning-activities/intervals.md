@@ -38,7 +38,11 @@ relatedthree:
 - Interpret the interval in the context of the outcome and distinguish uncertainty about a population mean from variation among individual scores.
 - Evaluate confidence intervals as estimates, including how their confidence level relates to the long-run behavior of the interval procedure.
 
-### Learning Sequence
+### Learning Task
+
+> Study: A researcher measured eight participants on an Outcome.
+>
+> Outcome: 0, 0, 3, 5, 4, 7, 4, 9
 
 1. Use statistical software to obtain the means, standard deviations, and the 95% confidence intervals for the variables. Also obtain a graph of the confidence intervals.
 2. On your own, calculate the 95% confidence intervals for the variables using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.

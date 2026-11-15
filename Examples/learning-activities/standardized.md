@@ -36,7 +36,11 @@ relatedthree:
 - Interpret relative standing across a distribution while recognizing that standardized values do not retain the original measurement units.
 - Distinguish standardization from percentile interpretation and evaluate what additional assumptions are needed to connect the two.
 
-### Learning Sequence
+### Learning Task
+
+> Study: A researcher measured eight participants on an Outcome.
+>
+> Outcome: 0, 0, 3, 5, 4, 7, 4, 9
 
 1. Use statistical software to obtain the quartiles, mean, and standard deviations for the variable.
 2. On your own, use the z-score formula, a normal distribution table, and the descriptive statistics given to you by the software to calculate estimates of the scores that would be at the 25th, 50th, and 75th percentiles.

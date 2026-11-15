@@ -36,7 +36,11 @@ relatedthree:
 - Interpret descriptive summaries in the context of the outcome and the distribution, recognizing what each can and cannot convey.
 - Evaluate whether a summary gives a representative account of the data or whether additional descriptions are needed.
 
-### Learning Sequence
+### Learning Task
+
+> Study: A researcher measured eight participants on an Outcome.
+>
+> Outcome: 0, 0, 3, 5, 4, 7, 4, 9
 
 1. Use statistical software to obtain a frequency distribution and estimates of the population mean, variance, and standard deviation for the variable.
 2. On your own, calculate the mean, variance, and standard deviation using the information given to you in the frequency distribution. Verify that your calculations match the those provided by the software.
