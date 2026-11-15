@@ -42,8 +42,8 @@ relatedthree:
 
 > Study: A researcher measured three groups of four participants each on an Outcome.
 >
-> Group 1 Outcome: 0, 0, 3, 5
-> Group 2 Outcome: 4, 7, 4, 9
+> Group 1 Outcome: 0, 0, 3, 5 
+> Group 2 Outcome: 4, 7, 4, 9 
 > Group 3 Outcome: 9, 6, 4, 9
 
 1. Use statistical software to obtain the descriptive statistics, the ANOVA source table, and the multiple comparisons using Tukey’s HSD procedure.

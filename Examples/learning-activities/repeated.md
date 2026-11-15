@@ -42,7 +42,7 @@ relatedthree:
 
 > Study: A researcher measured four participants twice on an Outcome.
 >
-> Outcome Time 1: 0, 0, 3, 5
+> Outcome Time 1: 0, 0, 3, 5 
 > Outcome Time 2: 4, 7, 4, 9
 
 1. Use statistical software to obtain the descriptive statistics, the ANOVA source table, and partial eta-squared.

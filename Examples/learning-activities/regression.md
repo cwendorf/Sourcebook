@@ -42,7 +42,7 @@ relatedthree:
 
 > Study: A researcher measured four participants on two Outcomes.
 >
-> Outcome 1: 0, 0, 3, 5
+> Outcome 1: 0, 0, 3, 5 
 > Outcome 2: 4, 7, 4, 9
 
 1. Use statistical software to obtain the means, standard deviations, and regression model and coefficients for the variables.

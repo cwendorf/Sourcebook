@@ -42,9 +42,9 @@ relatedthree:
 
 > Study: A researcher measured eight participants twice on an Outcome. Participants were divided into two groups of four based on Factor A.
 >
-> Group A1 Time 1: 0, 0, 3, 5
-> Group A2 Time 1: 4, 7, 4, 9
-> Group A1 Time 2: 9, 6, 4, 9
+> Group A1 Time 1: 0, 0, 3, 5 
+> Group A2 Time 1: 4, 7, 4, 9 
+> Group A1 Time 2: 9, 6, 4, 9 
 > Group A2 Time 2: 3, 6, 8, 3
 
 1. Use statistical software to obtain the descriptive statistics, the source table, and the effect size associated with a Mixed ANOVA.

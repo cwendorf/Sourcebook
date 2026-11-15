@@ -42,7 +42,7 @@ relatedthree:
 
 > Study: A researcher measured two groups of four participants each on an Outcome.
 >
-> Group 1 Outcome: 0, 0, 3, 5
+> Group 1 Outcome: 0, 0, 3, 5 
 > Group 2 Outcome: 4, 7, 4, 9
 
 1. Use statistical software to obtain the means, standard deviations, and the independent-samples t test.
