@@ -41,10 +41,9 @@ relatedthree:
 ### Learning Task
 
 > Study: A researcher measured three groups of four participants each on an Outcome.
->
-> Group 1 Outcome: 0, 0, 3, 5 
-> Group 2 Outcome: 4, 7, 4, 9 
-> Group 3 Outcome: 9, 6, 4, 9
+> - Group 1 Outcome: 0, 0, 3, 5
+> - Group 2 Outcome: 4, 7, 4, 9
+> - Group 3 Outcome: 9, 6, 4, 9
 
 1. Use statistical software to obtain the descriptive statistics, the confidence intervals for the groups means, and the ANOVA source table.
 2. On your own, calculate the elements of the source table and eta-squared using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.

@@ -41,9 +41,8 @@ relatedthree:
 ### Learning Task
 
 > Study: A researcher measured four participants twice on an Outcome.
->
-> Outcome Time 1: 0, 0, 3, 5 
-> Outcome Time 2: 4, 7, 4, 9
+> - Outcome Time 1: 0, 0, 3, 5
+> - Outcome Time 2: 4, 7, 4, 9
 
 1. Use statistical software to obtain the descriptive statistics, the ANOVA source table, and partial eta-squared.
 2. On your own, calculate the relevant elements of the within-subjects source table and partial eta-squared using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.

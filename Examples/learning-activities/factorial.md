@@ -41,11 +41,10 @@ relatedthree:
 ### Learning Task
 
 > Study: A researcher measured sixteen participants on an Outcome. Participants were divided into four groups of four based on two factors (Factor A and Factor B), each with two levels.
->
-> Group A1 B1 Outcome: 0, 0, 3, 5 
-> Group A2 B1 Outcome: 4, 7, 4, 9 
-> Group A1 B2 Outcome: 9, 6, 4, 9 
-> Group A2 B2 Outcome: 3, 6, 8, 3
+> - Group A1B1 Outcome: 0, 0, 3, 5
+> - Group A2B1 Outcome: 4, 7, 4, 9
+> - Group A1B2 Outcome: 9, 6, 4, 9
+> - Group A2B2 Outcome: 3, 6, 8, 3
 
 1. Use statistical software to obtain the descriptive statistics, the source table, and the effect size associated with a Factorial ANOVA.
 2. On your own, calculate the elements of the source table and eta-squared using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.

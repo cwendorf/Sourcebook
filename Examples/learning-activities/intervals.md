@@ -41,8 +41,7 @@ relatedthree:
 ### Learning Task
 
 > Study: A researcher measured eight participants on an Outcome.
->
-> Outcome: 0, 0, 3, 5, 4, 7, 4, 9
+> - Outcome: 0, 0, 3, 5, 4, 7, 4, 9
 
 1. Use statistical software to obtain the means, standard deviations, and the 95% confidence intervals for the variables. Also obtain a graph of the confidence intervals.
 2. On your own, calculate the 95% confidence intervals for the variables using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.

@@ -41,9 +41,8 @@ relatedthree:
 ### Learning Task
 
 > Study: A researcher measured two groups of four participants each on an Outcome.
->
-> Group 1 Outcome: 0, 0, 3, 5 
-> Group 2 Outcome: 4, 7, 4, 9
+> - Group 1 Outcome: 0, 0, 3, 5
+> - Group 2 Outcome: 4, 7, 4, 9
 
 1. Use statistical software to obtain the means, standard deviations, and the independent-samples t test.
 2. On your own, calculate the independent samples t test, the confidence interval for the differences, and the standardized effect size using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.

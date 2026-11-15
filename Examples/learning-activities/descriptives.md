@@ -39,8 +39,7 @@ relatedthree:
 ### Learning Task
 
 > Study: A researcher measured eight participants on an Outcome.
->
-> Outcome: 0, 0, 3, 5, 4, 7, 4, 9
+> - Outcome: 0, 0, 3, 5, 4, 7, 4, 9
 
 1. Use statistical software to obtain a frequency distribution and estimates of the population mean, variance, and standard deviation for the variable.
 2. On your own, calculate the mean, variance, and standard deviation using the information given to you in the frequency distribution. Verify that your calculations match the those provided by the software.

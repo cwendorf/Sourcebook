@@ -41,9 +41,8 @@ relatedthree:
 ### Learning Task
 
 > Study: A researcher measured four participants on two Outcomes.
->
-> Outcome 1: 0, 0, 3, 5 
-> Outcome 2: 4, 7, 4, 9
+> - Outcome 1: 0, 0, 3, 5
+> - Outcome 2: 4, 7, 4, 9
 
 1. Use statistical software to obtain the means, standard deviations, and regression model and coefficients for the variables.
 2. On your own, calculate the correlation, squared correlation, and regression coefficients for the variables using the descriptive statistics given by the software. Verify that your calculations match the statistics provided by the software.
