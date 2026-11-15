@@ -49,6 +49,6 @@ relatedthree:
 
 ### Discussion
 
-- How would a different confidence level change the interval's width, and what trade-off would that represent?
-- What would repeated samples and intervals show about the long-run behavior of a 95% confidence-interval procedure?
-- What additional information about a sample or study would you need before using this interval to make a decision about a population mean?
+- What does the 95% confidence interval communicate about uncertainty in the population mean, and why is it not a range expected to contain 95% of individual scores?
+- What does the 95% confidence level mean over repeated samples, and how would using a higher confidence level affect interval width?
+- How would you use the interval's location and width to judge plausible population means, while accounting for the study's context and limitations?

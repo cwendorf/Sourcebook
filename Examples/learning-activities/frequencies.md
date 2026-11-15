@@ -47,6 +47,6 @@ relatedthree:
 
 ### Discussion
 
-- How would the interpretation of the 25th-to-75th-percentile spread change depending on which software convention is used?
-- What details about a percentile method would you include when comparing results across studies or programs?
-- What does a frequency table reveal about observed scores, and what questions about the underlying measure remain unanswered?
+- How do the frequency and cumulative distributions show how the observed scores are distributed and where particular scores fall in the ordered data?
+- What do the median and quartiles tell you about relative position and spread, and why can different percentile conventions produce different quartiles?
+- What features of the score distribution are visible in a frequency table but not captured by the median and quartiles alone?

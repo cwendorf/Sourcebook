@@ -50,6 +50,6 @@ relatedthree:
 
 ### Discussion
 
-- How would choosing and reporting a different comparison order change the description of the result without changing its substantive conclusion?
-- What additional participants or a more representative sample would help make the estimate more precise or applicable to a broader population?
-- What features of the study would you examine before interpreting a group difference as an effect of group membership?
+- What does the independent-samples *t* test compare, and why must the observations in the two groups be independent?
+- How do the confidence interval and standardized effect size help interpret the direction, magnitude, and uncertainty of the group difference?
+- Why does evidence of a group difference in this sample not by itself show that group membership caused the difference or that it applies to a broader population?

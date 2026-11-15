@@ -51,6 +51,6 @@ relatedthree:
 
 ### Discussion
 
-- How would your choice of follow-up comparisons change if the hypotheses were planned before data collection?
-- What would you consider when choosing between a familywise procedure and a method designed for a different comparison family?
-- How might a future study increase the precision of estimated differences without treating statistical significance as practical importance?
+- Why does a significant omnibus ANOVA not identify which group means differ, and how do pairwise comparisons address that question?
+- How does Tukey's HSD account for the risk of false positives across several comparisons, and what does that adjustment mean for interpreting the results?
+- How do the direction and size of a pairwise difference, along with its uncertainty, help distinguish a statistically detectable difference from a meaningful one?

@@ -50,6 +50,6 @@ relatedthree:
 
 ### Discussion
 
-- What evidence from a study design would be needed to support a causal claim rather than an association or prediction?
-- How would reversing the roles of predictor and outcome change the fitted model and its use for prediction?
-- What additional observations or predictors could improve the model or show where its predictions are less accurate?
+- What does the regression slope mean for the expected value of the outcome as the predictor changes, and how does its interpretation depend on which variable is the predictor?
+- How do the correlation and squared correlation describe the direction and strength of the linear relationship and the variation accounted for by the model?
+- Why does a regression model based on these few observations provide limited evidence for accurate prediction or a causal relationship?

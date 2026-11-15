@@ -52,6 +52,6 @@ relatedthree:
 
 ### Discussion
 
-- What changes to the design, such as adding measurement occasions or groups, would help characterize when and for whom an outcome changes?
-- How could missing repeated observations or differences in baseline scores affect the analysis and its interpretation?
-- What additional contrasts or visualizations would you plan if a future study found evidence that change differs by group?
+- What distinct questions do the group effect, time effect, and group-by-time interaction answer in this mixed design?
+- If the interaction is present, how does it change the interpretation of the overall group and time effects, and how can the group means clarify the pattern?
+- What can a study with two groups and two occasions establish about differences in change, and what limits remain for explaining or generalizing that pattern?

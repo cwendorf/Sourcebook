@@ -49,6 +49,6 @@ relatedthree:
 
 ### Discussion
 
-- How would a different reference value change the estimated difference and the question the test answers?
-- If a confidence interval includes both values below and above zero, what range of population differences remains plausible?
-- What additional evidence would help determine whether a difference from the reference value matters in the setting where the outcome is measured?
+- What question does a one-sample *t* test answer about the population mean, and why must the reference value be meaningful for the outcome?
+- How do the confidence interval and standardized effect size complement the test when interpreting the direction, size, and uncertainty of the difference?
+- How could a result provide evidence that the mean differs from the reference yet still represent a difference of little practical importance?

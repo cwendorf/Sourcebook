@@ -47,6 +47,6 @@ relatedthree:
 
 ### Discussion
 
-- What features of a distribution would make the mean and standard deviation incomplete or misleading summaries?
-- How could two samples with the same mean and standard deviation have different frequency patterns?
-- Which additional summaries or visual displays would help evaluate whether a mean is representative of a future sample?
+- How do the frequency distribution and the mean, variance, and standard deviation provide complementary descriptions of these scores?
+- What does the standard deviation tell you about spread around the mean, and what important features of the score pattern can it fail to reveal?
+- How would the shape of the frequency distribution affect your judgment about whether the mean and standard deviation represent the data well?

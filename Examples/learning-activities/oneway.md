@@ -51,6 +51,6 @@ relatedthree:
 
 ### Discussion
 
-- How would you choose and justify a follow-up method for a future study with planned comparisons or unequal variances?
-- What additional evidence would help determine whether the observed group-mean differences are practically important?
-- How might larger samples, unequal group sizes, or violations of ANOVA assumptions change the study's conclusions?
+- What does the omnibus *F* test compare, and why does its result not tell you which specific group means differ?
+- How does eta-squared describe the strength of the group effect, and how might that differ from judging its practical importance?
+- What do the group confidence intervals and the study's assumptions contribute to interpreting how reliably the observed differences apply beyond this sample?

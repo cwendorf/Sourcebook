@@ -47,6 +47,6 @@ relatedthree:
 
 ### Discussion
 
-- When might standardized scores help compare relative standing across variables, and what information about the original scales would still be needed?
-- Why does converting a *z* score to a percentile require a distributional assumption that the standardization formula itself does not?
-- How could standardized scores be used as an intermediate step in a later analysis, and what would remain important to report about the original measure?
+- What does a *z* score tell you about a score's location relative to the mean, and what information about the original measurement units does it leave out?
+- Why do the percentile estimates based on a normal distribution not necessarily match the observed quartiles, especially in a small sample with tied scores?
+- How are standardized scores and percentiles different descriptions of relative standing, and what assumptions are needed to move from one to the other?

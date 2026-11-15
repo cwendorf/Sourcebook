@@ -50,6 +50,6 @@ relatedthree:
 
 ### Discussion
 
-- What information about within-pair change would be lost if the two measurements were analyzed as independent groups?
-- How would the interpretation of improvement or decline change if the subtraction order were reversed?
-- What additional measurement occasions or a comparison group could help explain whether the observed change is sustained or specific to the study conditions?
+- Why does a paired-samples *t* test analyze within-participant differences rather than treat the two sets of scores as independent?
+- What does the mean difference say about the direction of change, and how do the confidence interval and standardized effect size add to its interpretation?
+- What can this test establish about change in these participants, and why does an observed change alone not establish its cause or persistence?

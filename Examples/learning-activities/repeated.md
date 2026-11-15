@@ -50,6 +50,6 @@ relatedthree:
 
 ### Discussion
 
-- How might collecting measurements at more occasions reveal a pattern that a two-condition comparison cannot show?
-- What other outcomes or follow-up measurements would help establish whether the observed difference is meaningful or lasts over time?
-- How does accounting for participant-level differences affect the interpretation of a repeated-measures result compared with treating each score as independent?
+- Why is it important that the two measurements come from the same participants, and how does repeated-measures ANOVA account for this pairing?
+- What does the test of the time effect tell you about average change, and what does partial eta-squared add about the strength of that effect?
+- What can two measurement occasions establish about change, and what can they not show about individual patterns, lasting effects, or the cause of the change?

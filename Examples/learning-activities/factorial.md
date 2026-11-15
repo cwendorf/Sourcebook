@@ -52,6 +52,6 @@ relatedthree:
 
 ### Discussion
 
-- What additional comparisons or a plot would help explain the interaction's pattern in a study with more than two levels per factor?
-- How might unequal cell sizes affect marginal means and the interpretation of main effects?
-- What assumptions and design details would you examine before generalizing these results or planning a replication?
+- What does each main effect describe, and how is an interaction different from the separate effects of Factor A and Factor B?
+- How can the cell means reveal whether the effect of one factor depends on the level of the other, and why can that pattern change the interpretation of main effects?
+- What does eta-squared add to interpreting the effects, and what design or analysis limitations should temper conclusions about their strength and generality?

@@ -50,6 +50,6 @@ relatedthree:
 
 ### Discussion
 
-- How might a larger sample change the precision of the estimated correlation and the conclusions from its significance test?
-- What additional variables or a different study design would help explain why these outcomes are related?
-- What would you want to know before using this result to plan a future study or make a claim about one outcome causing the other?
+- What do the sign and magnitude of Pearson's *r* say about the direction and strength of the linear relationship between the paired outcomes, and why does reversing their order not change *r*?
+- What does the squared correlation tell you about shared variability, and why does it not show that one outcome causes the other?
+- What does a test of whether the correlation differs from zero tell you, and how should its *p* value or confidence interval be interpreted given the very small sample?
